@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1964204711340618009",
+    "created_at": "2025-09-06T05:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964204711340618009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HydrogenNeko/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/HydrogenNeko/status/1963814789056004547",
+          "start": 43,
+          "url": "https://t.co/qUhBwJbACT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964204711340618009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963814789056004547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "水合氯醛，千万不要用\n这东西清华大学的动物实验都禁止使用了，何况是未成年\n太不人道了 https://t.co/qUhBwJbACT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1964204711340618009",
+        "created_at": "2025-09-06T05:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964204711340618009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1963814789056004547",
+              "start": 43,
+              "url": "https://t.co/qUhBwJbACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964204711340618009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963814789056004547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "水合氯醛，千万不要用\n这东西清华大学的动物实验都禁止使用了，何况是未成年\n太不人道了 https://t.co/qUhBwJbACT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1963814789056004547",
+        "created_at": "2025-09-05T04:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T05:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963814789056004547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497406985007939584",
+              "start": 6,
+              "username": "ElihusoQ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1963812016667378083",
+              "start": 149,
+              "url": "https://t.co/HcNLbMceus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963814789056004547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1032,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963812016667378083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "轉發信息：\n@ElihusoQ 并非自杀，而是因为长期使用初代安眠药水合氯醛作为助眠药物，经劝阻、劝导就医、尝试调整方案等无效。在2025-07-15加药到危险剂量而心肺骤停。\n经过院前心肺复苏、电除颤，以及机器心肺复苏，较长时间后后恢复自主心律。\n经治疗，其他生命征良好，但仍患缺血缺氧性脑病。 https://t.co/HcNLbMceus"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 634,
+          "like_count": 10790,
+          "listed_count": 4,
+          "media_count": 1054,
+          "tweet_count": 7568
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・座右銘「給我一個機会，譲我再一次登上塔尖！」#數位遊民的自我修養",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "數位遊民的自我修養"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 158,
+          "like_count": 596,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 277
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

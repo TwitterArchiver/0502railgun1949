@@ -1,0 +1,189 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1801115157327991058",
+    "created_at": "2024-06-13T04:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T05:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801115157327991058"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "twitter",
+          "probability": 0.916,
+          "start": 22,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "29997297",
+          "start": 3,
+          "username": "Fucktwitter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801115157327991058",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145698
+    },
+    "referenced_tweets": [
+      {
+        "id": "1483853477",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fucktwitter: Fuck twitter"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1801115157327991058",
+        "created_at": "2024-06-13T04:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T05:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801115157327991058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "twitter",
+              "probability": 0.916,
+              "start": 22,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "29997297",
+              "start": 3,
+              "username": "Fucktwitter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801115157327991058",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145698
+        },
+        "referenced_tweets": [
+          {
+            "id": "1483853477",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fucktwitter: Fuck twitter"
+      },
+      {
+        "attachments": {},
+        "author_id": "29997297",
+        "conversation_id": "1483853477",
+        "created_at": "2009-04-09T14:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2009-04-09T15:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1483853477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "twitter",
+              "probability": 0.9696,
+              "start": 5,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1483853477",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9407,
+          "impression_count": 0,
+          "like_count": 208621,
+          "quote_count": 3693,
+          "reply_count": 2461,
+          "retweet_count": 145698
+        },
+        "reply_settings": "everyone",
+        "text": "Fuck twitter"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 740,
+          "like_count": 2835,
+          "listed_count": 1,
+          "tweet_count": 3042
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-09T14:47:12.000Z",
+        "description": "",
+        "id": "29997297",
+        "name": "Fuck twitter",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14499,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 26,
+          "tweet_count": 1
+        },
+        "username": "Fucktwitter",
+        "verified": false
+      }
+    ]
+  }
+}

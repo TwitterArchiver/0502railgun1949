@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1822976870293577979",
+    "created_at": "2024-08-14T19:20:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T20:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823801972346294683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823801972346294683",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822976870293577979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano 错误归因，先验性的带入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1822976870293577979",
+        "created_at": "2024-08-14T19:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T20:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823801972346294683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823801972346294683",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822976870293577979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano 错误归因，先验性的带入"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "1822976870293577979",
+        "created_at": "2024-08-12T12:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T13:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1822976870293577979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1822976870293577979",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我妈说我肚子不舒服\n“你是不是吃药吃的？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 760,
+          "like_count": 3900,
+          "listed_count": 2,
+          "tweet_count": 3618
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF 🍥24.3.12 | 炸柜 可能是家长不管党 | 坐标山东济宁 欢迎来贴贴 | 日常碎碎念 不键政 | 对咱最好的姐姐 @Kisaragi_Momoe | 可以来这里提问！https://t.co/FSnEA3zUZm",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "Kisaragi_Momoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano",
+                "end": 118,
+                "expanded_url": "https://ngl.link/minaseayano",
+                "start": 95,
+                "url": "https://t.co/FSnEA3zUZm"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "距你 300 米",
+        "name": "綾乃Ayano🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763609097147183104/Awu7gGXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 793,
+          "like_count": 1806,
+          "listed_count": 0,
+          "tweet_count": 1724
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067593747924496384"
+      ],
+      "media_source_tweet_id": [
+        "2067593865385959550"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2067668777345704104",
+    "created_at": "2026-06-18T18:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T19:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067668777345704104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2064236987213905920",
+          "start": 3,
+          "username": "SaionjiYukie"
+        }
+      ],
+      "urls": [
+        {
+          "description": "一个适合大家的用药用药追踪器（包含pk）. Contribute to Risaly-Noroki-Dev-Club/Elixir-Research development by creating an account on GitHub.",
+          "display_url": "github.com/Risaly-Noroki-…",
+          "end": 56,
+          "expanded_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 33,
+          "status": 200,
+          "title": "GitHub - Risaly-Noroki-Dev-Club/Elixir-Research: 一个适合大家的用药用药追踪器（包含pk）",
+          "unwound_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+          "url": "https://t.co/2dUKGLrd3T"
+        },
+        {
+          "display_url": "pic.x.com/gLaaz4Nedj",
+          "end": 80,
+          "expanded_url": "https://x.com/SaionjiYukie/status/2067593865385959550/photo/1",
+          "media_key": "3_2067593747924496384",
+          "start": 57,
+          "url": "https://t.co/gLaaz4Nedj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067668777345704104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067593865385959550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaionjiYukie: 一个新的用药管理器demo\n\nhttps://t.co/2dUKGLrd3T https://t.co/gLaaz4Nedj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_2067593747924496384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGRjyTbsAA0T2B.jpg",
+        "width": 2552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593747924496384"
+          ],
+          "media_source_tweet_id": [
+            "2067593865385959550"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2067668777345704104",
+        "created_at": "2026-06-18T18:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T19:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067668777345704104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2064236987213905920",
+              "start": 3,
+              "username": "SaionjiYukie"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一个适合大家的用药用药追踪器（包含pk）. Contribute to Risaly-Noroki-Dev-Club/Elixir-Research development by creating an account on GitHub.",
+              "display_url": "github.com/Risaly-Noroki-…",
+              "end": 56,
+              "expanded_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 33,
+              "status": 200,
+              "title": "GitHub - Risaly-Noroki-Dev-Club/Elixir-Research: 一个适合大家的用药用药追踪器（包含pk）",
+              "unwound_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+              "url": "https://t.co/2dUKGLrd3T"
+            },
+            {
+              "display_url": "pic.x.com/gLaaz4Nedj",
+              "end": 80,
+              "expanded_url": "https://x.com/SaionjiYukie/status/2067593865385959550/photo/1",
+              "media_key": "3_2067593747924496384",
+              "start": 57,
+              "url": "https://t.co/gLaaz4Nedj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067668777345704104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067593865385959550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaionjiYukie: 一个新的用药管理器demo\n\nhttps://t.co/2dUKGLrd3T https://t.co/gLaaz4Nedj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067593747924496384"
+          ]
+        },
+        "author_id": "2064236987213905920",
+        "conversation_id": "2067593865385959550",
+        "created_at": "2026-06-18T13:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067593865385959550"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一个适合大家的用药用药追踪器（包含pk）. Contribute to Risaly-Noroki-Dev-Club/Elixir-Research development by creating an account on GitHub.",
+              "display_url": "github.com/Risaly-Noroki-…",
+              "end": 38,
+              "expanded_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2067593908935397376/C1pcNqWe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "GitHub - Risaly-Noroki-Dev-Club/Elixir-Research: 一个适合大家的用药用药追踪器（包含pk）",
+              "unwound_url": "https://github.com/Risaly-Noroki-Dev-Club/Elixir-Research",
+              "url": "https://t.co/2dUKGLrd3T"
+            },
+            {
+              "display_url": "pic.x.com/gLaaz4Nedj",
+              "end": 62,
+              "expanded_url": "https://x.com/SaionjiYukie/status/2067593865385959550/photo/1",
+              "media_key": "3_2067593747924496384",
+              "start": 39,
+              "url": "https://t.co/gLaaz4Nedj"
+            },
+            {
+              "display_url": "x.com/SaionjiYukie/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/SaionjiYukie/status/2067590040109379763",
+              "start": 63,
+              "url": "https://t.co/OLlPg0k3Rk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067593865385959550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067590040109379763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个新的用药管理器demo\n\nhttps://t.co/2dUKGLrd3T https://t.co/gLaaz4Nedj https://t.co/OLlPg0k3Rk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 690,
+          "like_count": 15454,
+          "listed_count": 6,
+          "media_count": 1385,
+          "tweet_count": 12139
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "可能是一個，嗯...🍥🏳️‍⚧️＆技術宅!?\n\n14休學(復學準備中)•計算機科學初學者•含糖•關心社會議題•想要給予弱者無償的關愛和保護•保持純真•要是有什麽需要幫助的請DM\n\n“永遠善良、永遠勤奮、盡量卓越”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SaionjiYukie_A…",
+                "end": 23,
+                "expanded_url": "http://t.me/SaionjiYukie_About",
+                "start": 0,
+                "url": "https://t.co/D5RPJWDBv0"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "location": "nekospace.cloud",
+        "name": "西園寺雪絵Saionji Yukie",
+        "pinned_tweet_id": "2065273606222037328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064999596531867648/tApkHNCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 71,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/D5RPJWDBv0",
+        "username": "SaionjiYukie",
+        "verified": false
+      }
+    ]
+  }
+}

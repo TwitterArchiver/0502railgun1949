@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1963572445807255888",
+    "created_at": "2025-09-04T11:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T12:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963572445807255888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ceobrus/status…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/ceobrus/status/1963031510816325664",
+          "start": 28,
+          "url": "https://t.co/vJPccUbCEe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963572445807255888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963031510816325664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女装穿一下真的能兴奋好久，\n好喜欢 羞耻感和兴奋感并存 https://t.co/vJPccUbCEe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1963572445807255888",
+        "created_at": "2025-09-04T11:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T12:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963572445807255888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ceobrus/status…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/ceobrus/status/1963031510816325664",
+              "start": 28,
+              "url": "https://t.co/vJPccUbCEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963572445807255888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963031510816325664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女装穿一下真的能兴奋好久，\n好喜欢 羞耻感和兴奋感并存 https://t.co/vJPccUbCEe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903701047589343232",
+        "conversation_id": "1963031510816325664",
+        "created_at": "2025-09-03T00:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T01:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963031510816325664"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963031510816325664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 22606,
+          "like_count": 176,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你穿过裙子吗？或者你知道穿裙子是一种什么体验？\n我们大班毕业舞会女生舞蹈缺个人，老师决定让我上去，几个老师让我穿上赶紧上，所有人所有人包括我妈妈都在看一个赶鸭子上架的男生。\n我带着奇怪的心情上台并且装得很卖力，如果我崩溃哭或者站着不动会很毁气氛，回家前老师给我发了一大袋零食饮料。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 630,
+          "like_count": 10788,
+          "listed_count": 4,
+          "media_count": 1053,
+          "tweet_count": 7556
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "武汉丨Femboy丨可线下丨m丨180cm/56kg丨长得不好看，也没有优点丨🚪15/50/用于交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nzikWB"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "武汉",
+        "name": "小方拌饭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2889,
+          "following_count": 1666,
+          "like_count": 7234,
+          "listed_count": 5,
+          "media_count": 132,
+          "tweet_count": 1817
+        },
+        "url": "https://t.co/jjy2nzikWB",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

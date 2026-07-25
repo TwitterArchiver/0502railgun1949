@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047685463218245632"
+      ],
+      "media_source_tweet_id": [
+        "2047812834227028384"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2048002360207614130",
+    "created_at": "2026-04-25T11:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048002360207614130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901499166737727488",
+          "start": 3,
+          "username": "mando_genai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IvaKUeeZts",
+          "end": 45,
+          "expanded_url": "https://x.com/mando_genai/status/2047812834227028384/photo/1",
+          "media_key": "3_2047685463218245632",
+          "start": 22,
+          "url": "https://t.co/IvaKUeeZts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048002360207614130",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047812834227028384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mando_genai: 表面張力 https://t.co/IvaKUeeZts"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2047685463218245632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrXFGba0AAw070.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047685463218245632"
+          ],
+          "media_source_tweet_id": [
+            "2047812834227028384"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2048002360207614130",
+        "created_at": "2026-04-25T11:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048002360207614130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901499166737727488",
+              "start": 3,
+              "username": "mando_genai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvaKUeeZts",
+              "end": 45,
+              "expanded_url": "https://x.com/mando_genai/status/2047812834227028384/photo/1",
+              "media_key": "3_2047685463218245632",
+              "start": 22,
+              "url": "https://t.co/IvaKUeeZts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048002360207614130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047812834227028384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mando_genai: 表面張力 https://t.co/IvaKUeeZts"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047685463218245632"
+          ]
+        },
+        "author_id": "1901499166737727488",
+        "conversation_id": "2047812834227028384",
+        "created_at": "2026-04-24T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047812834227028384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IvaKUeeZts",
+              "end": 28,
+              "expanded_url": "https://x.com/mando_genai/status/2047812834227028384/photo/1",
+              "media_key": "3_2047685463218245632",
+              "start": 5,
+              "url": "https://t.co/IvaKUeeZts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047812834227028384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 5978,
+          "like_count": 727,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "表面張力 https://t.co/IvaKUeeZts"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 689,
+          "like_count": 13596,
+          "listed_count": 3,
+          "media_count": 1348,
+          "tweet_count": 10749
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T05:01:54.000Z",
+        "description": "AIart AIで生成したイラストを自由に投稿中。I post AI-generated illustrations in various styles.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mad0genai",
+                "end": 23,
+                "expanded_url": "https://lit.link/mad0genai",
+                "start": 0,
+                "url": "https://t.co/XTEDIVogxn"
+              }
+            ]
+          }
+        },
+        "id": "1901499166737727488",
+        "name": "mando",
+        "pinned_tweet_id": "2034521357997019501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931317925849579520/-PEtoye3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 307,
+          "like_count": 47299,
+          "listed_count": 37,
+          "media_count": 1122,
+          "tweet_count": 8768
+        },
+        "url": "https://t.co/XTEDIVogxn",
+        "username": "mando_genai",
+        "verified": true
+      }
+    ]
+  }
+}

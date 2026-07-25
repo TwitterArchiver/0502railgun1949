@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1805815393476391186",
+    "created_at": "2024-06-26T04:38:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T05:38:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805822956758499341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786397664722268160",
+          "start": 0,
+          "username": "proxynova712sec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805822956758499341",
+    "in_reply_to_user_id": "1786397664722268160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805815393476391186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@proxynova712sec 加油"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1805815393476391186",
+        "created_at": "2024-06-26T04:38:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T05:38:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805822956758499341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786397664722268160",
+              "start": 0,
+              "username": "proxynova712sec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805822956758499341",
+        "in_reply_to_user_id": "1786397664722268160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805815393476391186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@proxynova712sec 加油"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786397664722268160",
+        "conversation_id": "1805815393476391186",
+        "created_at": "2024-06-26T04:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T05:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805815393476391186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1805815393476391186",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语文考完了，还挺简单的\n准备考理化了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 748,
+          "like_count": 3093,
+          "listed_count": 1,
+          "tweet_count": 3182
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "she/her/2009.3.22出厂/9月变女高/mtf/2023.7.12hrt/一号机 @proxynova712/男友@kbhkbh1913832/互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 47,
+                "username": "proxynova712"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "kbhkbh1913832"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "proxynova 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1802368209653243997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791491839201259520/ZOeNF2W3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 340,
+          "like_count": 6643,
+          "listed_count": 0,
+          "tweet_count": 312
+        },
+        "username": "proxynova712sec",
+        "verified": false
+      }
+    ]
+  }
+}

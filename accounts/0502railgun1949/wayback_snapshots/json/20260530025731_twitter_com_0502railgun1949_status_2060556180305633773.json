@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2060556180305633773",
+    "created_at": "2026-05-30T02:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060556180305633773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1513587420197015553",
+          "start": 3,
+          "username": "isa_goffmann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060556180305633773",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 763
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060155395285377110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @isa_goffmann: descobri que sou extremamente ingênua em relação ao mundo acadêmico. meus amores, ali é cobra comendo cobra. me desiludi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2060556180305633773",
+        "created_at": "2026-05-30T02:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060556180305633773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1513587420197015553",
+              "start": 3,
+              "username": "isa_goffmann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060556180305633773",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 763
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060155395285377110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @isa_goffmann: descobri que sou extremamente ingênua em relação ao mundo acadêmico. meus amores, ali é cobra comendo cobra. me desiludi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513587420197015553",
+        "conversation_id": "2060155395285377110",
+        "created_at": "2026-05-29T00:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T01:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060155395285377110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060155395285377110",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 810,
+          "impression_count": 560811,
+          "like_count": 13710,
+          "quote_count": 326,
+          "reply_count": 100,
+          "retweet_count": 763
+        },
+        "reply_settings": "everyone",
+        "text": "descobri que sou extremamente ingênua em relação ao mundo acadêmico. meus amores, ali é cobra comendo cobra. me desiludi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 684,
+          "like_count": 14916,
+          "listed_count": 5,
+          "media_count": 1385,
+          "tweet_count": 11784
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T18:39:13.000Z",
+        "description": "contraditória e real | psi - unb",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/isadora.goffma…",
+                "end": 23,
+                "expanded_url": "http://instagram.com/isadora.goffmann",
+                "start": 0,
+                "url": "https://t.co/RxNiZZp7CM"
+              }
+            ]
+          }
+        },
+        "id": "1513587420197015553",
+        "location": "Distrito Federal, Brasil",
+        "name": "Isadora Goffmann",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726928714175279104/xEk-ewsx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 125,
+          "like_count": 45569,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/RxNiZZp7CM",
+        "username": "isa_goffmann",
+        "verified": false
+      }
+    ]
+  }
+}

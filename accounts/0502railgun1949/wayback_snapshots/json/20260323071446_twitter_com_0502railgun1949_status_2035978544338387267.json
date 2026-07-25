@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035978544338387267",
+    "created_at": "2026-03-23T07:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035978544338387267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1851166889655091202",
+          "start": 3,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035978544338387267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035634379695988981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DEERJU2024: 但凡把社会分配中，学历高低与收入高低之间具有紧密的正相关关系革除掉，中国人对于自己子女的压迫与迫害会立刻消亡大半。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035978544338387267",
+        "created_at": "2026-03-23T07:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035978544338387267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1851166889655091202",
+              "start": 3,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035978544338387267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035634379695988981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DEERJU2024: 但凡把社会分配中，学历高低与收入高低之间具有紧密的正相关关系革除掉，中国人对于自己子女的压迫与迫害会立刻消亡大半。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851166889655091202",
+        "conversation_id": "2035634379695988981",
+        "created_at": "2026-03-22T08:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T09:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035634379695988981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CHNwallbreaker…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/CHNwallbreaker/status/2035313610742702562",
+              "start": 58,
+              "url": "https://t.co/WDozvwuH0D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035634379695988981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1098,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035313610742702562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但凡把社会分配中，学历高低与收入高低之间具有紧密的正相关关系革除掉，中国人对于自己子女的压迫与迫害会立刻消亡大半。 https://t.co/WDozvwuH0D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 631,
+          "like_count": 11246,
+          "listed_count": 3,
+          "media_count": 1255,
+          "tweet_count": 8919
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey德耳击（桃花源中人）",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 57,
+          "like_count": 632,
+          "listed_count": 13,
+          "media_count": 570,
+          "tweet_count": 8564
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988966909333893130"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1988966912689377567",
+    "created_at": "2025-11-13T13:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988966912689377567"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jylme6xga6",
+          "end": 28,
+          "expanded_url": "https://x.com/0502railgun1949/status/1988966912689377567/photo/1",
+          "media_key": "3_1988966909333893130",
+          "start": 5,
+          "url": "https://t.co/jylme6xga6"
+        },
+        {
+          "display_url": "x.com/ErroR_eroi/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/ErroR_eroi/status/1988908764083130844",
+          "start": 29,
+          "url": "https://t.co/x7AmbW5aXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988966912689377567",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988908764083130844",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "苹果抠过 https://t.co/jylme6xga6 https://t.co/x7AmbW5aXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1988966909333893130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5o63bTacAoq3l-.jpg",
+        "width": 930
+      },
+      {
+        "duration_ms": 34466,
+        "height": 1280,
+        "media_key": "13_1988908591626219521",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1988908591626219521/img/NxOpjk4ny05waAkx.jpg",
+        "public_metrics": {
+          "view_count": 9430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988908591626219521/vid/avc1/320x568/mWI7rCSSHcAajlVP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988908591626219521/vid/avc1/480x852/AZhMa6goVNmGx8bD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1988908591626219521/vid/avc1/720x1280/FuE18Q1QPC3g1MIw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1988908591626219521/pl/M3jaZag8HpjYI_wt.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988966909333893130"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1988966912689377567",
+        "created_at": "2025-11-13T13:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988966912689377567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jylme6xga6",
+              "end": 28,
+              "expanded_url": "https://x.com/0502railgun1949/status/1988966912689377567/photo/1",
+              "media_key": "3_1988966909333893130",
+              "start": 5,
+              "url": "https://t.co/jylme6xga6"
+            },
+            {
+              "display_url": "x.com/ErroR_eroi/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/ErroR_eroi/status/1988908764083130844",
+              "start": 29,
+              "url": "https://t.co/x7AmbW5aXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988966912689377567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988908764083130844",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "苹果抠过 https://t.co/jylme6xga6 https://t.co/x7AmbW5aXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1988908591626219521"
+          ]
+        },
+        "author_id": "1835695498419937280",
+        "conversation_id": "1988908764083130844",
+        "created_at": "2025-11-13T09:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T10:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988908764083130844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "まのさば二次創作"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zACqf0KGOF",
+              "end": 46,
+              "expanded_url": "https://x.com/ErroR_eroi/status/1988908764083130844/video/1",
+              "media_key": "13_1988908591626219521",
+              "start": 23,
+              "url": "https://t.co/zACqf0KGOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988908764083130844",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 20612,
+          "like_count": 1244,
+          "quote_count": 15,
+          "reply_count": 30,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "cos橘雪莉徒手捏爆苹果\n#まのさば二次創作 https://t.co/zACqf0KGOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 628,
+          "like_count": 10953,
+          "listed_count": 3,
+          "media_count": 1087,
+          "tweet_count": 7826
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T15:01:35.000Z",
+        "description": "コスプレやイラストを投稿しています❤️アマチュア絵師で、美少女を描くのが大好きです☺️🥺",
+        "id": "1835695498419937280",
+        "name": "ErroR🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981841040442032128/TjdrYGoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 335,
+          "like_count": 1442,
+          "listed_count": 29,
+          "media_count": 70,
+          "tweet_count": 170
+        },
+        "username": "ErroR_eroi",
+        "verified": false
+      }
+    ]
+  }
+}

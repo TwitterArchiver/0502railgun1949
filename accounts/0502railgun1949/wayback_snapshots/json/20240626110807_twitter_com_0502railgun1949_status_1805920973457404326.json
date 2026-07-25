@@ -1,0 +1,227 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1805780586188956155",
+    "created_at": "2024-06-26T11:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T12:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805920973457404326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770064599028568064",
+          "start": 0,
+          "username": "linbiao888"
+        },
+        {
+          "end": 22,
+          "id": "1525847205080616962",
+          "start": 12,
+          "username": "linbiao66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805920973457404326",
+    "in_reply_to_user_id": "1770064599028568064",
+    "lang": "und",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805920501178732840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linbiao888 @linbiao66 14"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1805780586188956155",
+        "created_at": "2024-06-26T11:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805920973457404326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770064599028568064",
+              "start": 0,
+              "username": "linbiao888"
+            },
+            {
+              "end": 22,
+              "id": "1525847205080616962",
+              "start": 12,
+              "username": "linbiao66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805920973457404326",
+        "in_reply_to_user_id": "1770064599028568064",
+        "lang": "und",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805920501178732840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linbiao888 @linbiao66 14"
+      },
+      {
+        "attachments": {},
+        "author_id": "1770064599028568064",
+        "conversation_id": "1805780586188956155",
+        "created_at": "2024-06-26T11:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T12:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805920501178732840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            },
+            {
+              "end": 27,
+              "id": "1525847205080616962",
+              "start": 17,
+              "username": "linbiao66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805920501178732840",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805919341973479897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 @linbiao66 不知道您多大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 747,
+          "like_count": 3101,
+          "listed_count": 1,
+          "tweet_count": 3186
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T12:27:52.000Z",
+        "description": "",
+        "id": "1770064599028568064",
+        "name": "李进同志",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799501610579881984/r4Fr_g8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 3,
+          "like_count": 52,
+          "listed_count": 0,
+          "tweet_count": 39
+        },
+        "username": "linbiao888",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T14:35:07.000Z",
+        "description": "也许是个新黑格尔主义者https://t.co/Hui1AVjUqX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "twitter.com/linbiao66/stat…",
+                "end": 34,
+                "expanded_url": "https://twitter.com/linbiao66/status/1788562916267933882?s=19",
+                "start": 11,
+                "url": "https://t.co/Hui1AVjUqX"
+              }
+            ]
+          }
+        },
+        "id": "1525847205080616962",
+        "name": "神圣嘉然再次归来，我需要一个席梦思床垫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800891357877133312/Oc-dhPAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 362,
+          "like_count": 5712,
+          "listed_count": 7,
+          "tweet_count": 5107
+        },
+        "username": "linbiao66",
+        "verified": false
+      }
+    ]
+  }
+}

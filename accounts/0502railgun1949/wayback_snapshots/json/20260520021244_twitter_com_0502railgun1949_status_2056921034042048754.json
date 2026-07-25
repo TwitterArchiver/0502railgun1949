@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2052265032193581443",
+    "created_at": "2026-05-20T02:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056921034042048754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1764195010986274816",
+          "start": 0,
+          "username": "CCA8798"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056921034042048754",
+    "in_reply_to_user_id": "1764195010986274816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052265032193581443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798 你好小一只哦🥺xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2052264935603007488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHscFeebcAA0uVc.jpg",
+        "width": 3000
+      },
+      {
+        "height": 1370,
+        "media_key": "3_2052264974681288704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHscHwDasAArc2b.jpg",
+        "width": 770
+      },
+      {
+        "height": 691,
+        "media_key": "3_2052264989961101313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHscIo-aIAEmSCg.png",
+        "width": 691
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2052265032193581443",
+        "created_at": "2026-05-20T02:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056921034042048754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1764195010986274816",
+              "start": 0,
+              "username": "CCA8798"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056921034042048754",
+        "in_reply_to_user_id": "1764195010986274816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052265032193581443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798 你好小一只哦🥺xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052264935603007488",
+            "3_2052264974681288704",
+            "3_2052264989961101313"
+          ]
+        },
+        "author_id": "1764195010986274816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1242909627395665920",
+              "name": "Blogging"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278000653416099840",
+              "name": "Writing"
+            }
+          }
+        ],
+        "conversation_id": "2052265032193581443",
+        "created_at": "2026-05-07T05:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052265032193581443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "CCA8798 - 捌拐玖捌的家",
+              "display_url": "cca8798.com",
+              "end": 72,
+              "expanded_url": "https://cca8798.com",
+              "start": 49,
+              "status": 200,
+              "title": "CCA8798 - 捌拐玖捌的家",
+              "unwound_url": "https://www.cca8798.com/",
+              "url": "https://t.co/0BpWNNx05H"
+            },
+            {
+              "display_url": "pic.x.com/fFp5cLjZow",
+              "end": 136,
+              "expanded_url": "https://x.com/CCA8798/status/2052265032193581443/photo/1",
+              "media_key": "3_2052264935603007488",
+              "start": 113,
+              "url": "https://t.co/fFp5cLjZow"
+            },
+            {
+              "display_url": "pic.x.com/fFp5cLjZow",
+              "end": 136,
+              "expanded_url": "https://x.com/CCA8798/status/2052265032193581443/photo/1",
+              "media_key": "3_2052264974681288704",
+              "start": 113,
+              "url": "https://t.co/fFp5cLjZow"
+            },
+            {
+              "display_url": "pic.x.com/fFp5cLjZow",
+              "end": 136,
+              "expanded_url": "https://x.com/CCA8798/status/2052265032193581443/photo/1",
+              "media_key": "3_2052264989961101313",
+              "start": 113,
+              "url": "https://t.co/fFp5cLjZow"
+            },
+            {
+              "display_url": "x.com/CCA8798/status…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/CCA8798/status/2051600396750401572",
+              "start": 137,
+              "url": "https://t.co/lT1lHxlVuq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052265032193581443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9521,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051600396750401572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "置顶更新：\nP1：自介图\nP2：小窝群\nP3：赞赏码(何意味)\n个人Blog post及一些记录在https://t.co/0BpWNNx05H\n窝是年龄党，同时也是家长党喵🫥\n相信多年以后，我仍然不会忘记成为家长党的那一天 https://t.co/fFp5cLjZow https://t.co/lT1lHxlVuq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 677,
+          "like_count": 14523,
+          "listed_count": 5,
+          "media_count": 1374,
+          "tweet_count": 11508
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T07:45:22.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党(家长党！) 出柜26.05.05 | 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 | 玻璃心 心境障碍 ED GD (OD🧐)双相中焦 | 交通 科学 医学 杂圈迷 | 战争雷霆 | Cpp Coder\n可寄拍/扩列\n二代目(逃生舱): @CCA8798suki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 145,
+                "username": "CCA8798suki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "https://www.cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/7pvlNCbO8x"
+              }
+            ]
+          }
+        },
+        "id": "1764195010986274816",
+        "location": "安东星蜗牛第一票常交易有限公司",
+        "name": "不会起名の捌拐玖捌(疲乏版)🍥",
+        "pinned_tweet_id": "2052265032193581443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051736077615136768/q8UF6A0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 1236,
+          "like_count": 16051,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 2270
+        },
+        "url": "https://t.co/7pvlNCbO8x",
+        "username": "CCA8798",
+        "verified": false
+      }
+    ]
+  }
+}

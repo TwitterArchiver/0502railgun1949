@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2019063826931757208",
+    "created_at": "2026-02-05T02:41:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T03:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019240043270008974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698001955422175232",
+          "start": 0,
+          "username": "d07207333210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019240043270008974",
+    "in_reply_to_user_id": "1698001955422175232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019065993385873645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d07207333210 那帮人你不要跟他争，我的评价是，虽然学历不代表一切，但是这不影响，有些人的智慧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 343,
+        "media_key": "3_2019065094811033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUpAZqaIAAwAt_.png",
+        "width": 608
+      },
+      {
+        "height": 352,
+        "media_key": "3_2019065155968274432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUpD9fbkAAcHUN.png",
+        "width": 592
+      },
+      {
+        "height": 559,
+        "media_key": "3_2019065500270235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUpYAHakAALQoz.png",
+        "width": 837
+      },
+      {
+        "height": 380,
+        "media_key": "3_2019065709888995328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAUpkNAbAAAIvjH.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2019063826931757208",
+        "created_at": "2026-02-05T02:41:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T03:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019240043270008974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698001955422175232",
+              "start": 0,
+              "username": "d07207333210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019240043270008974",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019065993385873645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d07207333210 那帮人你不要跟他争，我的评价是，虽然学历不代表一切，但是这不影响，有些人的智慧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019065094811033600",
+            "3_2019065155968274432",
+            "3_2019065500270235648",
+            "3_2019065709888995328"
+          ]
+        },
+        "author_id": "1698001955422175232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019063826931757208",
+        "created_at": "2026-02-04T15:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019065993385873645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJMr9cuq55",
+              "end": 48,
+              "expanded_url": "https://x.com/d07207333210/status/2019065993385873645/photo/1",
+              "media_key": "3_2019065094811033600",
+              "start": 25,
+              "url": "https://t.co/JJMr9cuq55"
+            },
+            {
+              "display_url": "pic.x.com/JJMr9cuq55",
+              "end": 48,
+              "expanded_url": "https://x.com/d07207333210/status/2019065993385873645/photo/1",
+              "media_key": "3_2019065155968274432",
+              "start": 25,
+              "url": "https://t.co/JJMr9cuq55"
+            },
+            {
+              "display_url": "pic.x.com/JJMr9cuq55",
+              "end": 48,
+              "expanded_url": "https://x.com/d07207333210/status/2019065993385873645/photo/1",
+              "media_key": "3_2019065500270235648",
+              "start": 25,
+              "url": "https://t.co/JJMr9cuq55"
+            },
+            {
+              "display_url": "pic.x.com/JJMr9cuq55",
+              "end": 48,
+              "expanded_url": "https://x.com/d07207333210/status/2019065993385873645/photo/1",
+              "media_key": "3_2019065709888995328",
+              "start": 25,
+              "url": "https://t.co/JJMr9cuq55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019065993385873645",
+        "in_reply_to_user_id": "1698001955422175232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019063826931757208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们暂且蒙古“死者已宣传过相关知识”有几个看到过 https://t.co/JJMr9cuq55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 606,
+          "like_count": 10747,
+          "listed_count": 3,
+          "media_count": 1132,
+          "tweet_count": 8131
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T15:56:46.000Z",
+        "description": "非二元/键政/哲学/日常话题",
+        "id": "1698001955422175232",
+        "name": "邓曦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002166994934902785/uqB2YuLd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 870,
+          "like_count": 24996,
+          "listed_count": 4,
+          "media_count": 425,
+          "tweet_count": 4764
+        },
+        "username": "d07207333210",
+        "verified": false
+      }
+    ]
+  }
+}

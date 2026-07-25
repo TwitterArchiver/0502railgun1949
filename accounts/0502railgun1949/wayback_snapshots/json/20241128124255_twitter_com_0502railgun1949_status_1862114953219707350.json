@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1862100538072215897",
+    "created_at": "2024-11-28T12:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T13:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862114953219707350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1410425452276051974",
+          "start": 0,
+          "username": "NX_01_"
+        },
+        {
+          "end": 22,
+          "id": "1429829081684537345",
+          "start": 8,
+          "username": "Rabbubble550W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862114953219707350",
+    "in_reply_to_user_id": "1410425452276051974",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862114559345262770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NX_01_ @Rabbubble550W 裤脚（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1862100538072215897",
+        "created_at": "2024-11-28T12:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862114953219707350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1410425452276051974",
+              "start": 0,
+              "username": "NX_01_"
+            },
+            {
+              "end": 22,
+              "id": "1429829081684537345",
+              "start": 8,
+              "username": "Rabbubble550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862114953219707350",
+        "in_reply_to_user_id": "1410425452276051974",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862114559345262770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NX_01_ @Rabbubble550W 裤脚（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410425452276051974",
+        "conversation_id": "1862100538072215897",
+        "created_at": "2024-11-28T12:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862114559345262770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429829081684537345",
+              "start": 0,
+              "username": "Rabbubble550W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862114559345262770",
+        "in_reply_to_user_id": "1429829081684537345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862100538072215897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbubble550W 还好我穿的是防水鞋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 749,
+          "like_count": 5925,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4683
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T02:30:19.000Z",
+        "description": "Chemistry,Philosophy and Philosophy of Chemistry\n\n#LongLiveandProsper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 50,
+                "tag": "LongLiveandProsper"
+              }
+            ]
+          }
+        },
+        "id": "1410425452276051974",
+        "location": "N/A",
+        "name": "𝐍𝐗-𝟎𝟏 𝐔.𝐒.𝐒 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞",
+        "pinned_tweet_id": "1861433031602642987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755810868636618752/eTgQsXhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 528,
+          "like_count": 8486,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 10747
+        },
+        "username": "NX_01_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T15:33:28.000Z",
+        "description": "常驻深圳，喜欢面基，欢迎私信互fo。喜欢分享日常，段子梗图大多来源于QQ空间与微信群聊，点赞转推梗图梗文不代表本人的意见 ，如有侵权请私信删除。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/xUAoJzmKgp"
+              }
+            ]
+          }
+        },
+        "id": "1429829081684537345",
+        "location": "Hong Kong",
+        "name": "笨笨兔早露",
+        "pinned_tweet_id": "1849349107871330725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860973917902659584/TP6U9fsY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15380,
+          "following_count": 11035,
+          "like_count": 90185,
+          "listed_count": 45,
+          "media_count": 13270,
+          "tweet_count": 87239
+        },
+        "url": "https://t.co/xUAoJzmKgp",
+        "username": "Rabbubble550W",
+        "verified": true
+      }
+    ]
+  }
+}

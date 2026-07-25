@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040109630043627930",
+    "created_at": "2026-04-03T16:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040109630043627930"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 20,
+          "tag": "水"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "性别平等"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040109630043627930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040025873709957451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: #水 与 #性别平等 的关系，你了解吗？\n\n如果半数人口被忽视，水资源的可持续管理就无从谈起。\n世界水评估计划和联合国水机制已经在采取行动，如改进按性别分列的水资源数据，加强从地方到国家各级的能力建设，支持实地项目，并通过不断壮大的多方利…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96804,
+        "height": 1920,
+        "media_key": "13_2040020566707777536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2040020566707777536/img/97_AHVX0vMK6xJYj.jpg",
+        "public_metrics": {
+          "view_count": 34
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040020566707777536/vid/avc1/720x1280/muQqjHlQO1xC2pj3.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040020566707777536/vid/avc1/320x568/Xy1C4js79B2FOgDw.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040020566707777536/vid/avc1/480x852/k4sIGrpNgt-gSEri.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2040020566707777536/pl/Zay0BW37abkIXsIu.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2040020566707777536/vid/avc1/1080x1920/NX_hJfC89FrWwaCj.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040109630043627930",
+        "created_at": "2026-04-03T16:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040109630043627930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 20,
+              "tag": "水"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "性别平等"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040109630043627930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040025873709957451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: #水 与 #性别平等 的关系，你了解吗？\n\n如果半数人口被忽视，水资源的可持续管理就无从谈起。\n世界水评估计划和联合国水机制已经在采取行动，如改进按性别分列的水资源数据，加强从地方到国家各级的能力建设，支持实地项目，并通过不断壮大的多方利…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2040020566707777536"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "2040025873709957451",
+        "created_at": "2026-04-03T11:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040025873709957451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 2,
+              "start": 0,
+              "tag": "水"
+            },
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "性别平等"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SM8bpUBYl8",
+              "end": 167,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2040025873709957451/video/1",
+              "media_key": "13_2040020566707777536",
+              "start": 144,
+              "url": "https://t.co/SM8bpUBYl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040025873709957451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#水 与 #性别平等 的关系，你了解吗？\n\n如果半数人口被忽视，水资源的可持续管理就无从谈起。\n世界水评估计划和联合国水机制已经在采取行动，如改进按性别分列的水资源数据，加强从地方到国家各级的能力建设，支持实地项目，并通过不断壮大的多方利益攸关方联盟，推动全球倡导水资源领域的性别平等。 https://t.co/SM8bpUBYl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 654,
+          "like_count": 11957,
+          "listed_count": 3,
+          "media_count": 1290,
+          "tweet_count": 9475
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37037,
+          "following_count": 41,
+          "like_count": 487,
+          "listed_count": 119,
+          "media_count": 10705,
+          "tweet_count": 11242
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

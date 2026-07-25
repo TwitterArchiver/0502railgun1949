@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1869340286759141806",
+    "created_at": "2024-12-18T11:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T12:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869340286759141806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869340286759141806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868893966856601733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 美国一个地方当局要求市民停止在城市雕塑上随意粘贴塑料大眼睛，称清除它们需要花费很多钱。\n\n近期，俄勒冈州本德市的多座艺术品上出现了这种塑料大眼睛，其中包括两只鹿的雕像和一个金属球。\n\n本德市政府在社交媒体上发文，呼吁民众停止这种行为。… http…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1869340286759141806",
+        "created_at": "2024-12-18T11:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869340286759141806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869340286759141806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868893966856601733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 美国一个地方当局要求市民停止在城市雕塑上随意粘贴塑料大眼睛，称清除它们需要花费很多钱。\n\n近期，俄勒冈州本德市的多座艺术品上出现了这种塑料大眼睛，其中包括两只鹿的雕像和一个金属球。\n\n本德市政府在社交媒体上发文，呼吁民众停止这种行为。… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868893799600328704"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "1868893966856601733",
+        "created_at": "2024-12-17T05:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T06:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868893966856601733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4iLFXpDqPA",
+              "end": 142,
+              "expanded_url": "https://x.com/bbcchinese/status/1868893966856601733/photo/1",
+              "media_key": "3_1868893799600328704",
+              "start": 119,
+              "url": "https://t.co/4iLFXpDqPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868893966856601733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 496,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 473,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          },
+          "text": "美国一个地方当局要求市民停止在城市雕塑上随意粘贴塑料大眼睛，称清除它们需要花费很多钱。\n\n近期，俄勒冈州本德市的多座艺术品上出现了这种塑料大眼睛，其中包括两只鹿的雕像和一个金属球。\n\n本德市政府在社交媒体上发文，呼吁民众停止这种行为。\n\n“虽然贴在城中各种艺术品上的大眼睛可能会让你捧腹大笑，但我们需要花费资金来小心移除这些眼睛，以免损坏艺术品。”声明写道。\n\n但是，许多人在评论中表示支持贴塑料大眼睛。一位社交媒体用户说：“但它们太搞笑了。”另一位用户说：“大眼睛一定要留下。”\n\n还有人表示，市政府应该集中精力解决更重要的问题，比如无家可归者问题，而不是花时间和金钱去除掉这些塑料大眼睛。\n\n市政府则表示，以前也有人在艺术品上添加过装饰，比如圣诞帽和花环，但这种情况有所不同。\n\n“让我们远离粘合剂、涂鸦和所有可能破坏艺术的东西。”声明补充道。\n\n当地官员解释说，虽然他们希望民众都能参与到艺术活动中来，并从中获得乐趣，但他们亦不希望有东西被损坏。\n\n到目前为止，市政府表示已经花费了1500美元，清除了七座雕塑上的塑料大眼睛。\n\n更多新闻：https://t.co/xPNsBSpeEC"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 94982,
+          "like_count": 340,
+          "quote_count": 9,
+          "reply_count": 62,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "美国一个地方当局要求市民停止在城市雕塑上随意粘贴塑料大眼睛，称清除它们需要花费很多钱。\n\n近期，俄勒冈州本德市的多座艺术品上出现了这种塑料大眼睛，其中包括两只鹿的雕像和一个金属球。\n\n本德市政府在社交媒体上发文，呼吁民众停止这种行为。… https://t.co/4iLFXpDqPA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 758,
+          "like_count": 6093,
+          "listed_count": 1,
+          "media_count": 780,
+          "tweet_count": 4955
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4581289,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11566,
+          "media_count": 22792,
+          "tweet_count": 151639
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

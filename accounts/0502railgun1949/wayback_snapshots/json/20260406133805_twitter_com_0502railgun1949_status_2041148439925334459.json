@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2041148439925334459",
+    "created_at": "2026-04-06T13:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041148439925334459"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reedpascal/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/reedpascal/status/2040940173014557082",
+          "start": 5,
+          "url": "https://t.co/9WL7uGKGgL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041148439925334459",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040940173014557082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "火车硬座 https://t.co/9WL7uGKGgL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2041148439925334459",
+        "created_at": "2026-04-06T13:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041148439925334459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reedpascal/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/reedpascal/status/2040940173014557082",
+              "start": 5,
+              "url": "https://t.co/9WL7uGKGgL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041148439925334459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040940173014557082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "火车硬座 https://t.co/9WL7uGKGgL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2040940171911413760"
+          ]
+        },
+        "author_id": "1723047974677479424",
+        "conversation_id": "2040940173014557082",
+        "created_at": "2026-04-05T23:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040940173014557082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040940173014557082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1679,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好奇各位推u遇到中远途（700-1200km）、不是很赶时间的情况下会选择开车/高铁/廉航还是全航？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 659,
+          "like_count": 12289,
+          "listed_count": 3,
+          "media_count": 1295,
+          "tweet_count": 9730
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T18:40:48.000Z",
+        "description": "和平，自由，勇气与爱，以及摇曳露营.",
+        "id": "1723047974677479424",
+        "location": "Yamanashi-ken, Japan",
+        "name": "Pascal Reed",
+        "pinned_tweet_id": "2006756660673720629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040084660173373440/xLhFXi05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1979,
+          "following_count": 99,
+          "like_count": 95099,
+          "listed_count": 4,
+          "media_count": 2780,
+          "tweet_count": 8956
+        },
+        "username": "ReedPascal",
+        "verified": false
+      }
+    ]
+  }
+}

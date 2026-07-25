@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2022760167238951338",
+    "created_at": "2026-02-15T14:53:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T15:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023048123006976312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1779556990500630528",
+          "start": 0,
+          "username": "Anatdx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023048123006976312",
+    "in_reply_to_user_id": "1779556990500630528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022760167238951338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anatdx 不是有缓释的碳酸锂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2022760167238951338",
+        "created_at": "2026-02-15T14:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T15:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023048123006976312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1779556990500630528",
+              "start": 0,
+              "username": "Anatdx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023048123006976312",
+        "in_reply_to_user_id": "1779556990500630528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022760167238951338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anatdx 不是有缓释的碳酸锂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779556990500630528",
+        "conversation_id": "2022760167238951338",
+        "created_at": "2026-02-14T19:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T20:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022760167238951338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022760167238951338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1891,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碳酸锂真难吃谁家有卖包衣碳酸锂\n有包衣愈美片怎么没见包衣碳酸锂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 611,
+          "like_count": 10781,
+          "listed_count": 3,
+          "media_count": 1155,
+          "tweet_count": 8230
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-14T17:07:16.000Z",
+        "description": "わがはいは具合が悪い。大声を出されるとわがはいの具合がもっと悪くなる。だから一──【出て行け】。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "anatdx.com",
+                "end": 23,
+                "expanded_url": "https://anatdx.com",
+                "start": 0,
+                "url": "https://t.co/CabvTQy1Su"
+              }
+            ]
+          }
+        },
+        "id": "1779556990500630528",
+        "location": "絶海の孤島",
+        "name": "Anan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020383339073662982/-xeXvSm5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 590,
+          "like_count": 22928,
+          "listed_count": 3,
+          "media_count": 74,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/CabvTQy1Su",
+        "username": "Anatdx",
+        "verified": false
+      }
+    ]
+  }
+}

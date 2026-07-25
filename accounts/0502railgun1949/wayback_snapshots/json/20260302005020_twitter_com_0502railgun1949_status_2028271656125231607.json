@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2028271656125231607",
+    "created_at": "2026-03-02T00:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T01:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028271656125231607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "hey, you. yeah, you. you know you don't have to be a girl if you hate it, right? you don't need to be a boy if you hate it either. hell, you don't need to be either a girl or a boy. it's okay to not...",
+          "display_url": "genderkoolaid.tumblr.com/post/808457366…",
+          "end": 115,
+          "expanded_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+          "images": [
+            {
+              "height": 1605,
+              "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=orig",
+              "width": 1179
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 92,
+          "status": 200,
+          "title": "oh yeah",
+          "unwound_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+          "url": "https://t.co/TfSzDCDGzq"
+        },
+        {
+          "display_url": "t.co/LLYhyR",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/LLYhyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028271656125231607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028269065446547461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 你知道吗\n\n如果你不想当一个女生\n你可以不当女生\n\n如果你不想当一个男生\n你可以不当男生\n\n如果你既不想当女生也不想当男生\n你可以都不当\n\n原文： https://t.co/TfSzDCDGzq\n翻译： https://t.co/LLYhyR…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2028269058546921472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXb9mea8AA_6zR.jpg",
+        "width": 1543
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2028269061373841408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXb9xAaUAAkgMZ.jpg",
+        "width": 1537
+      },
+      {
+        "height": 595,
+        "media_key": "3_2028269063718469632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXb95vagAAuDZO.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2028271656125231607",
+        "created_at": "2026-03-02T00:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028271656125231607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "hey, you. yeah, you. you know you don't have to be a girl if you hate it, right? you don't need to be a boy if you hate it either. hell, you don't need to be either a girl or a boy. it's okay to not...",
+              "display_url": "genderkoolaid.tumblr.com/post/808457366…",
+              "end": 115,
+              "expanded_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+              "images": [
+                {
+                  "height": 1605,
+                  "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=orig",
+                  "width": 1179
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 92,
+              "status": 200,
+              "title": "oh yeah",
+              "unwound_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+              "url": "https://t.co/TfSzDCDGzq"
+            },
+            {
+              "display_url": "t.co/LLYhyR",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/LLYhyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028271656125231607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028269065446547461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 你知道吗\n\n如果你不想当一个女生\n你可以不当女生\n\n如果你不想当一个男生\n你可以不当男生\n\n如果你既不想当女生也不想当男生\n你可以都不当\n\n原文： https://t.co/TfSzDCDGzq\n翻译： https://t.co/LLYhyR…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028269058546921472",
+            "3_2028269061373841408",
+            "3_2028269063718469632"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "2028269065446547461",
+        "created_at": "2026-03-02T00:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T01:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028269065446547461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "hey, you. yeah, you. you know you don't have to be a girl if you hate it, right? you don't need to be a boy if you hate it either. hell, you don't need to be either a girl or a boy. it's okay to not...",
+              "display_url": "genderkoolaid.tumblr.com/post/808457366…",
+              "end": 97,
+              "expanded_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+              "images": [
+                {
+                  "height": 1605,
+                  "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=orig",
+                  "width": 1179
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028269071792582656/pbgrkfSc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "oh yeah",
+              "unwound_url": "https://genderkoolaid.tumblr.com/post/808457366252175360",
+              "url": "https://t.co/TfSzDCDGzq"
+            },
+            {
+              "description": "你知道吗 如果你不想当一个女生 你可以不当女生 如果你不想当一个男生 你可以不当男生 如果你既不想当女生也不想当男生 你可以都不当 如果你不想当那个你出生时被安排的性别 你也可以不当 你作为跨性别出现 会给世界带来光彩 如果做男生/女生/兼为两者/另有其它让你快乐 请去做那个让你快乐的人 如果只有线上给你这样的机会 去线上做那个你喜欢的自己 你像星星那样 有着属于你的璀璨 很多人都爱着你 当然也包括我 source",
+              "display_url": "t.me/twitter_transl…",
+              "end": 125,
+              "expanded_url": "https://t.me/twitter_translate/31087",
+              "images": [
+                {
+                  "height": 149,
+                  "url": "https://pbs.twimg.com/news_img/2028269072488796160/-PkmQOWY?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 149,
+                  "url": "https://pbs.twimg.com/news_img/2028269072488796160/-PkmQOWY?format=jpg&name=150x150",
+                  "width": 149
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "推特翻译",
+              "unwound_url": "https://t.me/twitter_translate/31087",
+              "url": "https://t.co/LLYhyRAdsY"
+            },
+            {
+              "display_url": "pic.x.com/nW7ntXisZX",
+              "end": 149,
+              "expanded_url": "https://x.com/translate_cn/status/2028269065446547461/photo/1",
+              "media_key": "3_2028269058546921472",
+              "start": 126,
+              "url": "https://t.co/nW7ntXisZX"
+            },
+            {
+              "display_url": "pic.x.com/nW7ntXisZX",
+              "end": 149,
+              "expanded_url": "https://x.com/translate_cn/status/2028269065446547461/photo/1",
+              "media_key": "3_2028269061373841408",
+              "start": 126,
+              "url": "https://t.co/nW7ntXisZX"
+            },
+            {
+              "display_url": "pic.x.com/nW7ntXisZX",
+              "end": 149,
+              "expanded_url": "https://x.com/translate_cn/status/2028269065446547461/photo/1",
+              "media_key": "3_2028269063718469632",
+              "start": 126,
+              "url": "https://t.co/nW7ntXisZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028269065446547461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗\n\n如果你不想当一个女生\n你可以不当女生\n\n如果你不想当一个男生\n你可以不当男生\n\n如果你既不想当女生也不想当男生\n你可以都不当\n\n原文： https://t.co/TfSzDCDGzq\n翻译： https://t.co/LLYhyRAdsY https://t.co/nW7ntXisZX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 614,
+          "like_count": 10881,
+          "listed_count": 3,
+          "media_count": 1207,
+          "tweet_count": 8513
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16408,
+          "following_count": 887,
+          "like_count": 985,
+          "listed_count": 95,
+          "media_count": 9794,
+          "tweet_count": 10386
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

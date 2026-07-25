@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1928426294804693064",
+    "created_at": "2025-05-30T12:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T13:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928426294804693064"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HowThingsWork_…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/HowThingsWork_/status/1927835147849597192",
+          "start": 10,
+          "url": "https://t.co/JxHLnbjx8a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928426294804693064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927835147849597192",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "逆天沈阳\n人才辈出 https://t.co/JxHLnbjx8a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20500,
+        "height": 926,
+        "media_key": "13_1927834905209102336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927834905209102336/img/82yWmMGoNTPHevTM.jpg",
+        "public_metrics": {
+          "view_count": 6833689
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927834905209102336/vid/avc1/320x410/dqXGv2jlTJdfwj9n.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927834905209102336/vid/avc1/480x616/yWb1PkquREhLMFYK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927834905209102336/vid/avc1/720x926/H6MVZorzTmzhbH6a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927834905209102336/pl/Yi5Tp4Ya7uwAD9L3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1928426294804693064",
+        "created_at": "2025-05-30T12:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T13:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928426294804693064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HowThingsWork_…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/HowThingsWork_/status/1927835147849597192",
+              "start": 10,
+              "url": "https://t.co/JxHLnbjx8a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928426294804693064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927835147849597192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "逆天沈阳\n人才辈出 https://t.co/JxHLnbjx8a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1927834905209102336"
+          ]
+        },
+        "author_id": "1444760227576881156",
+        "conversation_id": "1927835147849597192",
+        "created_at": "2025-05-28T21:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T22:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927835147849597192"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Shenyang",
+              "probability": 0.7976,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 29,
+              "normalized_text": "China",
+              "probability": 0.9818,
+              "start": 25,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgQaHfjcTJ",
+              "end": 271,
+              "expanded_url": "https://x.com/HowThingsWork_/status/1927835147849597192/video/1",
+              "media_key": "13_1927834905209102336",
+              "start": 248,
+              "url": "https://t.co/SgQaHfjcTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927835147849597192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10126,
+          "impression_count": 10948881,
+          "like_count": 24830,
+          "quote_count": 2077,
+          "reply_count": 2361,
+          "retweet_count": 2411
+        },
+        "reply_settings": "everyone",
+        "text": "In the city of Shenyang, China, a very unusual method is being used to treat insomnia: people are hanging from their necks with a belt and gently swinging for a few minutes.\n\nThose who try it claim their sleep problems have significantly improved. https://t.co/SgQaHfjcTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 643,
+          "like_count": 7777,
+          "listed_count": 2,
+          "media_count": 984,
+          "tweet_count": 6478
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T20:24:36.000Z",
+        "description": "The Official How Things Work page including Tech, AI & loads more. Also all the best News & Viral content from around the globe.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlysearch.com",
+                "end": 23,
+                "expanded_url": "http://onlysearch.com",
+                "start": 0,
+                "url": "https://t.co/gGc0nkirbj"
+              }
+            ]
+          }
+        },
+        "id": "1444760227576881156",
+        "location": "contact@seedsocials.com",
+        "name": "HOW THINGS WORK",
+        "pinned_tweet_id": "1927835147849597192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592626494546796545/YxyPborr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397554,
+          "following_count": 7510,
+          "like_count": 22848,
+          "listed_count": 7033,
+          "media_count": 7124,
+          "tweet_count": 12563
+        },
+        "url": "https://t.co/gGc0nkirbj",
+        "username": "HowThingsWork_",
+        "verified": true
+      }
+    ]
+  }
+}

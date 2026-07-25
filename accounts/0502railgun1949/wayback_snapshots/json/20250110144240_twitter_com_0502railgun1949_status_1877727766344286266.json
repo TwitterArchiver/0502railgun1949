@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877552827314421760",
+        "3_1877552827314352130",
+        "3_1877552827318546432",
+        "3_1877552827314352131"
+      ],
+      "media_source_tweet_id": [
+        "1877552841415602401",
+        "1877552841415602401",
+        "1877552841415602401",
+        "1877552841415602401"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1877727766344286266",
+    "created_at": "2025-01-10T14:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T15:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877727766344286266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1535959265391038466",
+          "start": 3,
+          "username": "Rorochan__2001"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lSokuLKtCO",
+          "end": 117,
+          "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+          "media_key": "3_1877552827314421760",
+          "start": 94,
+          "url": "https://t.co/lSokuLKtCO"
+        },
+        {
+          "display_url": "pic.x.com/lSokuLKtCO",
+          "end": 117,
+          "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+          "media_key": "3_1877552827314352130",
+          "start": 94,
+          "url": "https://t.co/lSokuLKtCO"
+        },
+        {
+          "display_url": "pic.x.com/lSokuLKtCO",
+          "end": 117,
+          "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+          "media_key": "3_1877552827318546432",
+          "start": 94,
+          "url": "https://t.co/lSokuLKtCO"
+        },
+        {
+          "display_url": "pic.x.com/lSokuLKtCO",
+          "end": 117,
+          "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+          "media_key": "3_1877552827314352131",
+          "start": 94,
+          "url": "https://t.co/lSokuLKtCO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877727766344286266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877552841415602401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rorochan__2001: 《本溪湖工业遗产群掠影-回顾与思考》第二期：\n“热血筑高炉，铁血铸精钢。本钢一铁厂百年一号高炉的故事。”\n\n壹、历史回顾 ———————————… https://t.co/lSokuLKtCO"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "本钢一铁工厂一号高炉主体，左侧为焦炉部分烟囱，右侧是高炉喷煤罐，可以清晰看到错综复杂的高炉支撑结构和行走平台。",
+        "height": 4000,
+        "media_key": "3_1877552827314421760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg5oWUcbQAAezFS.jpg",
+        "width": 3000
+      },
+      {
+        "alt_text": "站在巨大的高炉喷煤罐下的入口附近向上窥探，可以看到层层叠叠的钢梁和行走平台。当年这里到处吹拂着炽风，工人们伴着汗水在这里奉献着辛勤。",
+        "height": 4000,
+        "media_key": "3_1877552827314352130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg5oWUcaMAInM7k.jpg",
+        "width": 3000
+      },
+      {
+        "alt_text": "通往厂房高层的钢制螺旋楼梯。现在为了保护文物和游客自身安全，已经设立警示牌并封闭入口，禁止游客私自进入。由于长期风吹日晒缺少日常保养，钢铁已经生锈斑驳。",
+        "height": 4000,
+        "media_key": "3_1877552827318546432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg5oWUdaMAAO-IN.jpg",
+        "width": 3000
+      },
+      {
+        "alt_text": "在高炉上料车下方，向上窥探，可以看到钢梁是如何有效支撑着一整套机械系统并保护其稳定运转的。以及后期紧急保护措施进行时为钢梁额外焊接的加强筋。",
+        "height": 4000,
+        "media_key": "3_1877552827314352131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg5oWUcaMAMpl25.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877552827314421760",
+            "3_1877552827314352130",
+            "3_1877552827318546432",
+            "3_1877552827314352131"
+          ],
+          "media_source_tweet_id": [
+            "1877552841415602401",
+            "1877552841415602401",
+            "1877552841415602401",
+            "1877552841415602401"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1877727766344286266",
+        "created_at": "2025-01-10T14:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T15:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877727766344286266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1535959265391038466",
+              "start": 3,
+              "username": "Rorochan__2001"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 117,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314421760",
+              "start": 94,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 117,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314352130",
+              "start": 94,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 117,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827318546432",
+              "start": 94,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 117,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314352131",
+              "start": 94,
+              "url": "https://t.co/lSokuLKtCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877727766344286266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877552841415602401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rorochan__2001: 《本溪湖工业遗产群掠影-回顾与思考》第二期：\n“热血筑高炉，铁血铸精钢。本钢一铁厂百年一号高炉的故事。”\n\n壹、历史回顾 ———————————… https://t.co/lSokuLKtCO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877552827314421760",
+            "3_1877552827314352130",
+            "3_1877552827318546432",
+            "3_1877552827314352131"
+          ]
+        },
+        "author_id": "1535959265391038466",
+        "conversation_id": "1877552841415602401",
+        "created_at": "2025-01-10T03:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T04:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877552841415602401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 97,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314421760",
+              "start": 74,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 97,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314352130",
+              "start": 74,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 97,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827318546432",
+              "start": 74,
+              "url": "https://t.co/lSokuLKtCO"
+            },
+            {
+              "display_url": "pic.x.com/lSokuLKtCO",
+              "end": 97,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1877552841415602401/photo/1",
+              "media_key": "3_1877552827314352131",
+              "start": 74,
+              "url": "https://t.co/lSokuLKtCO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877552841415602401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《本溪湖工业遗产群掠影-回顾与思考》第二期：\n“热血筑高炉，铁血铸精钢。本钢一铁厂百年一号高炉的故事。”\n\n壹、历史回顾 ———————————\n    1911年始建的1号高炉，为本溪湖工业遗产群中的核心遗址，炉龄已经超过百年。英国设计，英德承建。这座高炉曾是亚洲第一高炉，采用当时亚洲最先进的设备工艺，是中国东北地区新式炼铁的第一座高炉。自1958年至1988年，连续30年保持中国大中型高炉利用系数冠军，本钢因此被誉为“共和国功勋企业”，被称为“中国第一铁”。\n    1931年“九·一八”事变，本溪湖煤铁公司彻底落入了日本人的手中。\n    1945年日本投降，对高炉进行了破坏，故意把最后一炉铁水凝固在了炉膛里。\n    1948年本溪解放，在中国共产党的领导下，本溪煤铁工人用铁锤和钳子，一锤一钎地把炉膛里的铁刨了出来。\n    1949年7月恢复生产，第一炉铁水向新中国成立献礼。中共中央、中央军委发来贺电，并为高炉开炉生产赠送“为工业中国而斗争”的旗帐，祝贺本溪成为新中国的军工重地。\n    2008年为响应国家节能减排号召，本钢一铁厂对一号高炉进行了关停。2013年被国家确定为全国重点文物保护单位。\n    2017年10月，国家文物局启动了本钢一铁厂旧址1号高炉抢险加固及修缮工程，该项目是东北地区首例工业遗产保护修复工程，由沈阳故宫古建园林工程有限公司负责施工。\n    2018年，被全国文物协会和建筑协会列入“中国20世纪建筑遗产名录”。\n贰、设计特点 ———————————\n    本溪钢铁公司第一炼铁厂一号高炉的设计独特，炉体高于地面83.3米，炉底至炉顶高66.7米。炉顶设有瓦斯放散筒2个，高炉设有双层风口，上、下排风口各9个，两排间距1米。此外，还有放渣口2个，出铁口1个。这些设计特点使得该高炉能够高效地进行炼铁生产。\n叁、生产能力 ———————————\n    本溪钢铁公司第一炼铁厂一号高炉的炉容为291立方米，设计能力日产生铁130吨。同时安装的2台德国AEG工厂制造的588.4千瓦鼓风机开始供热风炉冷风，并由3座热风炉向高炉供热风。这使得该高炉成为当时东亚地区最大的炼铁高炉，也是中国东北地区钢铁工业使用现代化高炉炼铁的开端。\n肆、历次改造 ———————————\n    本溪钢铁公司第一炼铁厂一号高炉在1983年进行了第12次改造大修，炉容扩大到380立方米，上料方式由料罐式改为料车式。同年12月13日竣工投产，高炉装备达到国内一级水平。这次改造使得该高炉的生产能力得到了进一步提升，成为当时国内优秀的炼铁设备之一。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 541,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "《本溪湖工业遗产群掠影-回顾与思考》第二期：\n“热血筑高炉，铁血铸精钢。本钢一铁厂百年一号高炉的故事。”\n\n壹、历史回顾 ———————————… https://t.co/lSokuLKtCO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 752,
+          "like_count": 6256,
+          "listed_count": 1,
+          "media_count": 813,
+          "tweet_count": 5116
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T12:16:58.000Z",
+        "description": "小镇上唯一的🏳️‍⚧️🍥｜双相💊｜点赞小恶魔😈｜摄影爱好📷｜同类同好互fo✨｜手帐爱好✂️｜ Apple fans ｜❤️‍🔥MIKU一生推❤️‍🔥｜Reol Fans✨｜想扩列，请私信加企鹅🌟｜🚫政治反感｜另一个自己：@rorochan___2001｜喜欢摄影的宝宝请加咱的摄影频道❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "rorochan___2001"
+              }
+            ]
+          }
+        },
+        "id": "1535959265391038466",
+        "location": "℧ 𝕸𝖆𝖈𝖗𝖆𝖌𝖌𝖊 ℧",
+        "name": "Rorochan_2001 辰辰酱✨Official. （摄影学习ver.）",
+        "pinned_tweet_id": "1869092066573357449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872188628358905856/BfMhwu9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1106,
+          "following_count": 1027,
+          "like_count": 17360,
+          "listed_count": 6,
+          "media_count": 385,
+          "tweet_count": 5027
+        },
+        "username": "Rorochan__2001",
+        "verified": true
+      }
+    ]
+  }
+}

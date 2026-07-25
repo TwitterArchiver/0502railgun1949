@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1825779170670260277",
+    "created_at": "2024-08-20T07:10:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-20T08:10:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825792517247569986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1632483798251343872",
+          "start": 0,
+          "username": "xngs9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825792517247569986",
+    "in_reply_to_user_id": "1632483798251343872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825779170670260277",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xngs9 这么好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1825779170670260277",
+        "created_at": "2024-08-20T07:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T08:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825792517247569986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1632483798251343872",
+              "start": 0,
+              "username": "xngs9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825792517247569986",
+        "in_reply_to_user_id": "1632483798251343872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825779170670260277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xngs9 这么好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825779154157187072"
+          ]
+        },
+        "author_id": "1632483798251343872",
+        "conversation_id": "1825779170670260277",
+        "created_at": "2024-08-20T06:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-20T07:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825779170670260277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emkpyq3k9x",
+              "end": 33,
+              "expanded_url": "https://twitter.com/xngs9/status/1825779170670260277/photo/1",
+              "media_key": "3_1825779154157187072",
+              "start": 10,
+              "url": "https://t.co/emKpYQ3K9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825779170670260277",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深圳开证出奇的顺利 https://t.co/emKpYQ3K9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 763,
+          "like_count": 4252,
+          "listed_count": 2,
+          "tweet_count": 3782
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T20:50:48.000Z",
+        "description": "mtf/含糖/不涉政/家暴党/很缺爱/05/165/54kg/目前座标广州/亲爱的老婆@jianglin257",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "jianglin257"
+              }
+            ]
+          }
+        },
+        "id": "1632483798251343872",
+        "name": "🍥星宿迁移🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1753793493645082685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811261043739611136/7MKLIOBj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 388,
+          "like_count": 2266,
+          "listed_count": 1,
+          "tweet_count": 371
+        },
+        "username": "xngs9",
+        "verified": false
+      }
+    ]
+  }
+}

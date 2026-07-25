@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1900537930344783892",
+    "created_at": "2025-03-14T13:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T14:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900537930344783892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cano_3118/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Cano_3118/status/1900418370291589235",
+          "start": 9,
+          "url": "https://t.co/xoZi7jW7M7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900537930344783892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900418370291589235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "财经合格大把相机 https://t.co/xoZi7jW7M7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1900537930344783892",
+        "created_at": "2025-03-14T13:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T14:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900537930344783892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cano_3118/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Cano_3118/status/1900418370291589235",
+              "start": 9,
+              "url": "https://t.co/xoZi7jW7M7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900537930344783892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900418370291589235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "财经合格大把相机 https://t.co/xoZi7jW7M7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1900418370291589235",
+        "created_at": "2025-03-14T05:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T06:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900418370291589235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/revive_meink/s…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/revive_meink/status/1900245906701902005",
+              "start": 47,
+              "url": "https://t.co/RLmmVOrWEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900418370291589235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1809,
+          "like_count": 8,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900245906701902005",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "分别打出cj，hg，db，xj，可以看出自己的属性是二次元还是三次元\n触及 活该 代表 选举 https://t.co/RLmmVOrWEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 743,
+          "like_count": 6849,
+          "listed_count": 1,
+          "media_count": 950,
+          "tweet_count": 5914
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "谁用乌云换日星 谁用匕首换光明/小猫@abaablon /enby/不正常人类/潮酷骚孩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "abaablon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "almswt.top",
+                "end": 23,
+                "expanded_url": "http://almswt.top",
+                "start": 0,
+                "url": "https://t.co/tHoF3q7r6k"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "精液与诗句的十字路口",
+        "name": "卡诺酱",
+        "pinned_tweet_id": "1899718286788657354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896178424710139904/As9mJeZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 589,
+          "like_count": 16341,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3118
+        },
+        "url": "https://t.co/tHoF3q7r6k",
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

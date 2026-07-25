@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1909972396217671881",
+    "created_at": "2025-04-09T14:11:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T15:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909972396217671881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngeloMcna6787…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/AngeloMcna6787/status/1909851620994855100",
+          "start": 19,
+          "url": "https://t.co/7z2SciGfk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909972396217671881",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909851620994855100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有Gemini 对这个的解释还不错 https://t.co/7z2SciGfk3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1909972396217671881",
+        "created_at": "2025-04-09T14:11:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T15:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909972396217671881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngeloMcna6787…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AngeloMcna6787/status/1909851620994855100",
+              "start": 19,
+              "url": "https://t.co/7z2SciGfk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909972396217671881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909851620994855100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有Gemini 对这个的解释还不错 https://t.co/7z2SciGfk3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "1909851620994855100",
+        "created_at": "2025-04-09T06:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T07:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909851620994855100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909851620994855100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本质的反映逻辑所遇到的最后一个矛盾，是条件和根据的矛盾。在根据吸纳了运动的整个过程后，运动的条件就显现为定在，显现为单纯的、完全客观的材料，但存在论已然指出定在无非是通向本质的过程，定在本身就把自身规定为被设定的，从而完全客观的材料也是本质的自我设定。自我设定的全体就是实存。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 739,
+          "like_count": 6812,
+          "listed_count": 2,
+          "media_count": 953,
+          "tweet_count": 5978
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1889948565918863379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2144,
+          "following_count": 164,
+          "like_count": 11226,
+          "listed_count": 15,
+          "media_count": 1205,
+          "tweet_count": 18125
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

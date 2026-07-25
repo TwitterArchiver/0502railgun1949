@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1847172424682688954",
+    "created_at": "2024-11-20T09:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-20T10:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859160450329395272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1116667530574057472",
+          "start": 0,
+          "username": "Ranbo030608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859160450329395272",
+    "in_reply_to_user_id": "1116667530574057472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847172424682688954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ranbo030608 七一讲话开始，就允许资本家入党\n我记得赫鲁晓夫有一段论述，但是我不记得原文了\n就是大意是你在那个氛围下，你情不自禁的会想加入这些组织，是不知道原因的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1847172424682688954",
+        "created_at": "2024-11-20T09:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T10:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859160450329395272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1116667530574057472",
+              "start": 0,
+              "username": "Ranbo030608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859160450329395272",
+        "in_reply_to_user_id": "1116667530574057472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847172424682688954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ranbo030608 七一讲话开始，就允许资本家入党\n我记得赫鲁晓夫有一段论述，但是我不记得原文了\n就是大意是你在那个氛围下，你情不自禁的会想加入这些组织，是不知道原因的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1847172390025105408",
+            "3_1847172398350827520",
+            "3_1847172406584168448",
+            "3_1847172416046575616"
+          ]
+        },
+        "author_id": "1116667530574057472",
+        "conversation_id": "1847172424682688954",
+        "created_at": "2024-10-18T07:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-18T08:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847172424682688954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2KcHxzuqO",
+              "end": 134,
+              "expanded_url": "https://x.com/Ranbo030608/status/1847172424682688954/photo/1",
+              "media_key": "3_1847172390025105408",
+              "start": 111,
+              "url": "https://t.co/r2KcHxzuqO"
+            },
+            {
+              "display_url": "pic.x.com/r2KcHxzuqO",
+              "end": 134,
+              "expanded_url": "https://x.com/Ranbo030608/status/1847172424682688954/photo/1",
+              "media_key": "3_1847172398350827520",
+              "start": 111,
+              "url": "https://t.co/r2KcHxzuqO"
+            },
+            {
+              "display_url": "pic.x.com/r2KcHxzuqO",
+              "end": 134,
+              "expanded_url": "https://x.com/Ranbo030608/status/1847172424682688954/photo/1",
+              "media_key": "3_1847172406584168448",
+              "start": 111,
+              "url": "https://t.co/r2KcHxzuqO"
+            },
+            {
+              "display_url": "pic.x.com/r2KcHxzuqO",
+              "end": 134,
+              "expanded_url": "https://x.com/Ranbo030608/status/1847172424682688954/photo/1",
+              "media_key": "3_1847172416046575616",
+              "start": 111,
+              "url": "https://t.co/r2KcHxzuqO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847172424682688954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 460,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每年的几个特殊的时间段，都会有一股入团入党潮，然后就会有铺天盖地的懵懂无知的小朋友在小红书这个平台围绕着入团入党这个话题问东问西又或是哭天喊地，全是一群投机分子，此乃一国教育之耻，家长和老师也脱不开干系，是非改造不可的🤧 https://t.co/r2KcHxzuqO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 753,
+          "like_count": 5778,
+          "listed_count": 1,
+          "tweet_count": 4569
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-12T11:41:00.000Z",
+        "description": "Humanities\nArt\nPhilosophy\nReligion\nCommunism\nMarxism\nDemocratic\nFreedom\nScience",
+        "id": "1116667530574057472",
+        "name": "John·S·Ranbo",
+        "pinned_tweet_id": "1118460560549371904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641066516178403328/_HxK6M9Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 465,
+          "like_count": 34355,
+          "listed_count": 1,
+          "tweet_count": 1056
+        },
+        "username": "Ranbo030608",
+        "verified": false
+      }
+    ]
+  }
+}

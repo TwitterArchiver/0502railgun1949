@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1882262180130951520",
+    "created_at": "2025-01-23T03:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T04:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882272952135405762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1410425452276051974",
+          "start": 0,
+          "username": "NX_01_"
+        },
+        {
+          "end": 23,
+          "id": "1511185667274907652",
+          "start": 8,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882272952135405762",
+    "in_reply_to_user_id": "1410425452276051974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882265148020412684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NX_01_ @RevolutionTide 是的，他的哲学水平确实不高，但是那个时候黑格尔的著作估计即使翻译出来也是特别晦涩难懂的。版本之前看过郭沫若翻译的神圣家族真的特别。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1882262180130951520",
+        "created_at": "2025-01-23T03:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882272952135405762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1410425452276051974",
+              "start": 0,
+              "username": "NX_01_"
+            },
+            {
+              "end": 23,
+              "id": "1511185667274907652",
+              "start": 8,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882272952135405762",
+        "in_reply_to_user_id": "1410425452276051974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882265148020412684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NX_01_ @RevolutionTide 是的，他的哲学水平确实不高，但是那个时候黑格尔的著作估计即使翻译出来也是特别晦涩难懂的。版本之前看过郭沫若翻译的神圣家族真的特别。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410425452276051974",
+        "conversation_id": "1882262180130951520",
+        "created_at": "2025-01-23T03:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T04:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882265148020412684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511185667274907652",
+              "start": 0,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882265148020412684",
+        "in_reply_to_user_id": "1511185667274907652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882264269359898856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RevolutionTide 彼时黑格尔的著作不知道有没有中译本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 747,
+          "like_count": 6325,
+          "listed_count": 1,
+          "media_count": 829,
+          "tweet_count": 5248
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T02:30:19.000Z",
+        "description": "The Great Chain of Beings——观念全合成的科学",
+        "id": "1410425452276051974",
+        "location": "N/A",
+        "name": "𝐍𝐗-𝟎𝟏 𝐔.𝐒.𝐒 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞",
+        "pinned_tweet_id": "1861433031602642987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755810868636618752/eTgQsXhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 558,
+          "like_count": 9120,
+          "listed_count": 4,
+          "media_count": 431,
+          "tweet_count": 11686
+        },
+        "username": "NX_01_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "没有主人，没有神。神，就是我。/后结构无政府主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/",
+                "start": 0,
+                "url": "https://t.co/T8Rq4vYSHW"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "萨帕塔民族解放军",
+        "name": "Revolutionary Tide",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847070382706102272/mBWOLfpQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4603,
+          "following_count": 2600,
+          "like_count": 74643,
+          "listed_count": 21,
+          "media_count": 280,
+          "tweet_count": 3121
+        },
+        "url": "https://t.co/T8Rq4vYSHW",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

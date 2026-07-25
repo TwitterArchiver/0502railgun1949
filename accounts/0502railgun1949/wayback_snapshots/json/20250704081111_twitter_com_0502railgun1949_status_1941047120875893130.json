@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1940826267353592223",
+    "created_at": "2025-07-04T08:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941047120875893130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1522945124346601474",
+          "start": 0,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941047120875893130",
+    "in_reply_to_user_id": "1522945124346601474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940826267353592223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KunaAkem1 精神现象学是我蝶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1940826267353592223",
+        "created_at": "2025-07-04T08:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941047120875893130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941047120875893130",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940826267353592223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 精神现象学是我蝶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522945124346601474",
+        "conversation_id": "1940826267353592223",
+        "created_at": "2025-07-03T17:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T18:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940826267353592223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KunaAkem1/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/KunaAkem1/status/1940819157974647099",
+              "start": 14,
+              "url": "https://t.co/L0iumXhatv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940826267353592223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940819157974647099",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哎我草今天精神现象学还没看 https://t.co/L0iumXhatv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 645,
+          "like_count": 8405,
+          "listed_count": 3,
+          "media_count": 1002,
+          "tweet_count": 6741
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "老婆@M600_spitfire  @horizon_tem\n河豚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 30,
+                "start": 18,
+                "username": "horizon_tem"
+              }
+            ]
+          }
+        },
+        "id": "1522945124346601474",
+        "location": "Jena, Germany",
+        "name": "Kuna",
+        "pinned_tweet_id": "1932164326330413250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939603166615793664/JbDo7xh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 454,
+          "like_count": 6804,
+          "listed_count": 3,
+          "media_count": 510,
+          "tweet_count": 3317
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042635738039357650",
+    "created_at": "2026-04-10T18:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042670675798954103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1757630242288541696",
+          "start": 0,
+          "username": "Zhixiang_312145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042670675798954103",
+    "in_reply_to_user_id": "1757630242288541696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042635738039357650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhixiang_312145 去年其实已经约谈过一次了（\n但是好像效果不是很显著啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2042635734881017857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjmYOcaIAEQ_V9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042635738039357650",
+        "created_at": "2026-04-10T18:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042670675798954103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1757630242288541696",
+              "start": 0,
+              "username": "Zhixiang_312145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042670675798954103",
+        "in_reply_to_user_id": "1757630242288541696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042635738039357650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhixiang_312145 去年其实已经约谈过一次了（\n但是好像效果不是很显著啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042635734881017857"
+          ]
+        },
+        "author_id": "1757630242288541696",
+        "conversation_id": "2042635738039357650",
+        "created_at": "2026-04-10T16:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T17:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042635738039357650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gsjBq8EM7X",
+              "end": 37,
+              "expanded_url": "https://x.com/Zhixiang_312145/status/2042635738039357650/photo/1",
+              "media_key": "3_2042635734881017857",
+              "start": 14,
+              "url": "https://t.co/gsjBq8EM7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042635738039357650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个问题早就应该重视了…… https://t.co/gsjBq8EM7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 659,
+          "like_count": 12723,
+          "listed_count": 3,
+          "media_count": 1316,
+          "tweet_count": 10093
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:58:13.000Z",
+        "description": "Chinese 🇨🇳 / Male / Student / 17 years old / See you in every world, if possible. / No NSFW or political content / EN or ZH-CN / @Phoeversum312",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 129,
+                "username": "Phoeversum312"
+              }
+            ]
+          }
+        },
+        "id": "1757630242288541696",
+        "location": "huangzhixiang2915@outlook.com",
+        "name": "Zhixiang Huang",
+        "pinned_tweet_id": "2022209412203749618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757630635047280640/bkSrQETY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 1975,
+          "like_count": 113691,
+          "listed_count": 4,
+          "media_count": 1780,
+          "tweet_count": 16491
+        },
+        "username": "Zhixiang_312145",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1863903128112009471",
+    "created_at": "2024-12-03T11:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863903128112009471"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaobaosg/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/zaobaosg/status/1863402708440355142",
+          "start": 15,
+          "url": "https://t.co/NYnceCSRLt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863903128112009471",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863402708440355142",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪个字最符合你对今年的印象？ https://t.co/NYnceCSRLt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1863903128112009471",
+        "created_at": "2024-12-03T11:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863903128112009471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1863402708440355142",
+              "start": 15,
+              "url": "https://t.co/NYnceCSRLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863903128112009471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863402708440355142",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪个字最符合你对今年的印象？ https://t.co/NYnceCSRLt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1862388663264382976"
+          ]
+        },
+        "author_id": "39941478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1863402708440355142",
+        "created_at": "2024-12-02T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863402708440355142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "字述一年2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Qv8BYsZz8",
+              "end": 145,
+              "expanded_url": "https://x.com/zaobaosg/status/1863402708440355142/video/1",
+              "media_key": "7_1862388663264382976",
+              "start": 122,
+              "url": "https://t.co/5Qv8BYsZz8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863402708440355142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "字述一年2024"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "zb.sg/coty2024-tw",
+                "end": 166,
+                "expanded_url": "https://zb.sg/coty2024-tw",
+                "start": 143,
+                "url": "https://t.co/vDSGHBjajk"
+              }
+            ]
+          },
+          "text": "#字述一年2024 活动开跑！\n\n岁末将至，《联合早报》诚邀读者参与年度活动“字述一年”，投选出最具代表意义的汉字，总结对这一年的感悟。\n\n今年的入围汉字是：选、通、财、交、灾、追、法、仇、人、市——哪一个最符合你对2024年的印象？\n\n📌 2024年度汉字由你决定，丰富奖品等你赢取：https://t.co/vDSGHBjajk"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 85326,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "#字述一年2024 活动开跑！\n\n岁末将至，《联合早报》诚邀读者参与年度活动“字述一年”，投选出最具代表意义的汉字，总结对这一年的感悟。\n\n今年的入围汉字是：选、通、财、交、灾、追、法、仇、人、市——哪一个最符合你对2024年的印象？\n\n📌… https://t.co/5Qv8BYsZz8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 752,
+          "like_count": 6021,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 4780
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "1863402708440355142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531014,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 5596,
+          "media_count": 5443,
+          "tweet_count": 139883
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053341218034384897"
+      ],
+      "media_source_tweet_id": [
+        "2053341224548159950"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2053540516546097595",
+    "created_at": "2026-05-10T18:19:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T19:19:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053540516546097595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "982460989005287424",
+          "start": 3,
+          "username": "entangled_pair"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity and impulsivity. A dearth of studies have investigated psychosexuality in this population, often with few (predominantly ...",
+          "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC99…",
+          "end": 111,
+          "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+          "images": [
+            {
+              "height": 836,
+              "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 88,
+          "status": 200,
+          "title": "Let’s Talk about Sex… and ADHD: Findings from an Anonymous Online Survey",
+          "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+          "url": "https://t.co/xljVNxfcFM"
+        },
+        {
+          "display_url": "pic.x.com/BwruvFdL05",
+          "end": 135,
+          "expanded_url": "https://x.com/entangled_pair/status/2053341224548159950/photo/1",
+          "media_key": "3_2053341218034384897",
+          "start": 112,
+          "url": "https://t.co/BwruvFdL05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053540516546097595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053341224548159950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @entangled_pair: “ADHD组在性兴趣和性行为方面更具冒险精神，但是对伴侣的性满意度和整体满意度都显著更低，对角色扮演捆绑表现出更浓厚的兴趣”\n🤔🤔🤔\n\nhttps://t.co/xljVNxfcFM https://t.co/BwruvFdL05"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1122,
+        "media_key": "3_2053341218034384897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH7u9W-bgAEwMNn.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053341218034384897"
+          ],
+          "media_source_tweet_id": [
+            "2053341224548159950"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2053540516546097595",
+        "created_at": "2026-05-10T18:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T19:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053540516546097595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "982460989005287424",
+              "start": 3,
+              "username": "entangled_pair"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity and impulsivity. A dearth of studies have investigated psychosexuality in this population, often with few (predominantly ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC99…",
+              "end": 111,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "Let’s Talk about Sex… and ADHD: Findings from an Anonymous Online Survey",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+              "url": "https://t.co/xljVNxfcFM"
+            },
+            {
+              "display_url": "pic.x.com/BwruvFdL05",
+              "end": 135,
+              "expanded_url": "https://x.com/entangled_pair/status/2053341224548159950/photo/1",
+              "media_key": "3_2053341218034384897",
+              "start": 112,
+              "url": "https://t.co/BwruvFdL05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053540516546097595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053341224548159950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @entangled_pair: “ADHD组在性兴趣和性行为方面更具冒险精神，但是对伴侣的性满意度和整体满意度都显著更低，对角色扮演捆绑表现出更浓厚的兴趣”\n🤔🤔🤔\n\nhttps://t.co/xljVNxfcFM https://t.co/BwruvFdL05"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053341218034384897"
+          ]
+        },
+        "author_id": "982460989005287424",
+        "conversation_id": "2053341224548159950",
+        "created_at": "2026-05-10T05:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T06:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053341224548159950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder characterized by inattention, hyperactivity and impulsivity. A dearth of studies have investigated psychosexuality in this population, often with few (predominantly ...",
+              "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC99…",
+              "end": 91,
+              "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+              "images": [
+                {
+                  "height": 836,
+                  "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2053341225550594048/dPDUmYVD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "Let’s Talk about Sex… and ADHD: Findings from an Anonymous Online Survey",
+              "unwound_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9915044/",
+              "url": "https://t.co/xljVNxfcFM"
+            },
+            {
+              "display_url": "pic.x.com/BwruvFdL05",
+              "end": 115,
+              "expanded_url": "https://x.com/entangled_pair/status/2053341224548159950/photo/1",
+              "media_key": "3_2053341218034384897",
+              "start": 92,
+              "url": "https://t.co/BwruvFdL05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053341224548159950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1975,
+          "like_count": 43,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "“ADHD组在性兴趣和性行为方面更具冒险精神，但是对伴侣的性满意度和整体满意度都显著更低，对角色扮演捆绑表现出更浓厚的兴趣”\n🤔🤔🤔\n\nhttps://t.co/xljVNxfcFM https://t.co/BwruvFdL05"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 684,
+          "like_count": 14144,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11221
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T03:32:07.000Z",
+        "description": "即时退出当代生活 ✉️: entangledpair(AT)pm(DOT)me",
+        "id": "982460989005287424",
+        "location": "Shenzhen",
+        "name": "𝙅𝙆.",
+        "pinned_tweet_id": "2052893687898841153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924644713724051458/jCG1pD7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 313,
+          "like_count": 6765,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 943
+        },
+        "username": "entangled_pair",
+        "verified": false
+      }
+    ]
+  }
+}

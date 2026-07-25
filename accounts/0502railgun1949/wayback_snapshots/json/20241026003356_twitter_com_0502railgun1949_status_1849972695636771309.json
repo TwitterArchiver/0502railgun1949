@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1849972695636771309",
+    "created_at": "2024-10-26T00:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T01:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1849972695636771309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaosanjiu520/…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/xiaosanjiu520/status/1849665285495919061",
+          "start": 89,
+          "url": "https://t.co/HNBCGR9wv5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1849972695636771309",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849665285495919061",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯嗯，我也是小学的时候开始上的，那个时候很容易被思想带歪，最好到大学再上 ，不是每个人都有那么强的政治思辨能力去承受那些信息，很容易就变成极端分子，尤其是青春期\n而且小心被骗钱 https://t.co/HNBCGR9wv5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1849972695636771309",
+        "created_at": "2024-10-26T00:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T01:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849972695636771309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaosanjiu520/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/xiaosanjiu520/status/1849665285495919061",
+              "start": 89,
+              "url": "https://t.co/HNBCGR9wv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849972695636771309",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849665285495919061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯嗯，我也是小学的时候开始上的，那个时候很容易被思想带歪，最好到大学再上 ，不是每个人都有那么强的政治思辨能力去承受那些信息，很容易就变成极端分子，尤其是青春期\n而且小心被骗钱 https://t.co/HNBCGR9wv5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1849665284375969793"
+          ]
+        },
+        "author_id": "1776506115112718336",
+        "conversation_id": "1849665285495919061",
+        "created_at": "2024-10-25T04:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T05:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1849665285495919061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1849665285495919061",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2169,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快手上一堆傻子为了流量教小学生翻墙看x\n我不敢想象x上会涌入多少无脑粉红小学生\n唉....你们觉得这样好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 768,
+          "like_count": 5349,
+          "listed_count": 1,
+          "tweet_count": 4349
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "爱人先爱己，择人先问心.\n                                           中推第一普拉娜！\n后輩号：@jiangchun8357\n              碧蓝档案 /原神/崩坏星穹铁道                 \n            不键政， 互fo，不回键政，不回h",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 69,
+                "username": "jiangchun8357"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nanazi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nanazi520.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nJZsCmvKmd"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "    什亭之匣",
+        "name": "ナナコ先輩.（中推第一プラナ）.",
+        "pinned_tweet_id": "1848400617032778024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848698118092820484/dTd-aPqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 303,
+          "like_count": 1809,
+          "listed_count": 0,
+          "tweet_count": 1475
+        },
+        "url": "https://t.co/nJZsCmvKmd",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

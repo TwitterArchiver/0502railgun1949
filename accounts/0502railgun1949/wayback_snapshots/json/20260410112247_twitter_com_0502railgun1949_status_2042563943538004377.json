@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042562359139668188",
+    "created_at": "2026-04-10T11:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042563943538004377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1522542545598705664",
+          "start": 0,
+          "username": "Alexius_Jashin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042563943538004377",
+    "in_reply_to_user_id": "1522542545598705664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042563732992405966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexius_Jashin 你觉得我是哪种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042562359139668188",
+        "created_at": "2026-04-10T11:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042563943538004377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1522542545598705664",
+              "start": 0,
+              "username": "Alexius_Jashin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042563943538004377",
+        "in_reply_to_user_id": "1522542545598705664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042563732992405966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexius_Jashin 你觉得我是哪种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522542545598705664",
+        "conversation_id": "2042562359139668188",
+        "created_at": "2026-04-10T11:21:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:21:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042563732992405966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042563732992405966",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042562359139668188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 那得看是魏晋的还是隋唐的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 658,
+          "like_count": 12656,
+          "listed_count": 3,
+          "media_count": 1314,
+          "tweet_count": 10046
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T11:43:34.000Z",
+        "description": "ENBY，意面皇帝，半吊子-(Quanter，Coder，Coser，Chef，MUGer，PoCoer，Rankeaner，Queer)，没谱-(Synthesizer，Trader，假哲批(Lacanian？))随缘发推生活推吃吃喝喝玩玩，喜欢面面从而研究不同的人类，应该是😺，绝赞掉fo中(随缘回fo",
+        "id": "1522542545598705664",
+        "location": "Sasebo-shi, Nagasaki",
+        "name": "松PI-ne果CO-ne💛ᩚ🤍ᩚ💜ᩚ🖤ᩚAlexius",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010733193021009920/R8lNwN8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 1828,
+          "like_count": 9339,
+          "listed_count": 7,
+          "media_count": 759,
+          "tweet_count": 5228
+        },
+        "username": "Alexius_Jashin",
+        "verified": false
+      }
+    ]
+  }
+}

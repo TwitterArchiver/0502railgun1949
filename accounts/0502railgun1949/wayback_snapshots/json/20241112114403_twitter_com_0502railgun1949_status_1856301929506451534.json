@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027187398",
+          "name": "LG Electronics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "LG",
+          "id": "10053298768",
+          "name": "LG"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027187398",
+          "name": "LG Electronics"
+        }
+      }
+    ],
+    "conversation_id": "1856301929506451534",
+    "created_at": "2024-11-12T11:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T12:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856301929506451534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Snowcomics9452…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Snowcomics9452/status/1856293663875473707",
+          "start": 16,
+          "url": "https://t.co/H3IwCJLr9S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856301929506451534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856293663875473707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没啥用科技的，现实版本要出现了 https://t.co/H3IwCJLr9S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027187398",
+              "name": "LG Electronics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LG",
+              "id": "10053298768",
+              "name": "LG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027187398",
+              "name": "LG Electronics"
+            }
+          }
+        ],
+        "conversation_id": "1856301929506451534",
+        "created_at": "2024-11-12T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856301929506451534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Snowcomics9452…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Snowcomics9452/status/1856293663875473707",
+              "start": 16,
+              "url": "https://t.co/H3IwCJLr9S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856301929506451534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856293663875473707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没啥用科技的，现实版本要出现了 https://t.co/H3IwCJLr9S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856293661392441344"
+          ]
+        },
+        "author_id": "1664948430920359936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027187398",
+              "name": "LG Electronics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "LG",
+              "id": "10053298768",
+              "name": "LG"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027187398",
+              "name": "LG Electronics"
+            }
+          }
+        ],
+        "conversation_id": "1856293663875473707",
+        "created_at": "2024-11-12T11:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T12:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856293663875473707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj9q9M08PS",
+              "end": 180,
+              "expanded_url": "https://x.com/Snowcomics9452/status/1856293663875473707/photo/1",
+              "media_key": "3_1856293661392441344",
+              "start": 157,
+              "url": "https://t.co/uj9q9M08PS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856293663875473707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "LG於本月11日發布全球首款可伸縮Micro LED顯示屏。它能夠從12 英寸伸展至 18 英寸，且可重複拉伸超過 10,000 次，這是相當誇張的耐用性。\n\n據了解，LG 採用了類似於隱形眼鏡的硅材料，提升了顯示屏的柔韌性和拉伸性，新的布線設計結構也增強了面板的性能，使其超過了原本的技術目標。\n來自HKEPC https://t.co/uj9q9M08PS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 758,
+          "like_count": 5647,
+          "listed_count": 1,
+          "tweet_count": 4504
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "@Snowcomics 手機新聞的中文版\n歡迎來到雪花新聞中心，這裡是您追蹤各大品牌最新手機、平板等移動裝置的資訊與爆料平台。致力於為您第一時間帶來消息、掌握科技圈的最新動態。\n日常區: @SchneeSchmitt\nDiscord: snowflake9452\nEnglish version: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "e-z.bio/snoocomics9452",
+                "end": 23,
+                "expanded_url": "https://e-z.bio/snoocomics9452",
+                "start": 0,
+                "url": "https://t.co/DHeHwyTwoQ"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文)",
+        "pinned_tweet_id": "1842141591286530410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829925532521431040/iOjFpb8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 1552,
+          "like_count": 19139,
+          "listed_count": 1,
+          "tweet_count": 2573
+        },
+        "url": "https://t.co/DHeHwyTwoQ",
+        "username": "Snowcomics9452",
+        "verified": true
+      }
+    ]
+  }
+}

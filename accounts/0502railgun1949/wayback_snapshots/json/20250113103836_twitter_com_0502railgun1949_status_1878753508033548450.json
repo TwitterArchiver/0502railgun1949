@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1878723940971130927",
+    "created_at": "2025-01-13T10:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T11:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878753508033548450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506361117391478785",
+          "start": 0,
+          "username": "xuexiamai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878753508033548450",
+    "in_reply_to_user_id": "1506361117391478785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878735716605390978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuexiamai 其实主要是，好多都是料理包，炸鸡不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1878723940971130927",
+        "created_at": "2025-01-13T10:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T11:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878753508033548450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506361117391478785",
+              "start": 0,
+              "username": "xuexiamai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878753508033548450",
+        "in_reply_to_user_id": "1506361117391478785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878735716605390978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuexiamai 其实主要是，好多都是料理包，炸鸡不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506361117391478785",
+        "conversation_id": "1878723940971130927",
+        "created_at": "2025-01-13T09:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T10:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878735716605390978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878735716605390978",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878723940971130927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 外卖可不只有炸鸡噢，可以换着吃嘛，但我脑袋总是说出门吃对自己的胃和商家都好，只是身体先一步和外卖妥协了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 754,
+          "like_count": 6266,
+          "listed_count": 1,
+          "media_count": 819,
+          "tweet_count": 5139
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T20:04:51.000Z",
+        "description": "……这里呈放着埋藏于吾辈内心至深之处的幽暗阴影，它的真实并不亚于一切可能显现于眼前的耀眼光辉，同样身为人格中最真切的一部分亲近于吾身，自始至终的待在那里……如其所是的静谧、沉眠…………",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.bilibili.com/22209052",
+                "end": 23,
+                "expanded_url": "http://live.bilibili.com/22209052",
+                "start": 0,
+                "url": "https://t.co/NJ1PyNxOcQ"
+              }
+            ]
+          }
+        },
+        "id": "1506361117391478785",
+        "location": "上海",
+        "name": "雪藏幽梦",
+        "pinned_tweet_id": "1874946322882834515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844152038701268997/bYG1qjFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 81,
+          "like_count": 2937,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/NJ1PyNxOcQ",
+        "username": "xuexiamai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1884290408764825969",
+    "created_at": "2025-01-28T17:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T18:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884290408764825969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AngeloMcna6787…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/AngeloMcna6787/status/1884250885494301039",
+          "start": 19,
+          "url": "https://t.co/c7i15aPdkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884290408764825969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884250885494301039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我14岁是学生\n现在的我怎么这么抽象 https://t.co/c7i15aPdkv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1884290408764825969",
+        "created_at": "2025-01-28T17:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884290408764825969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngeloMcna6787…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/AngeloMcna6787/status/1884250885494301039",
+              "start": 19,
+              "url": "https://t.co/c7i15aPdkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884290408764825969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884250885494301039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我14岁是学生\n现在的我怎么这么抽象 https://t.co/c7i15aPdkv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "1884250627632754871",
+        "created_at": "2025-01-28T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884250885494301039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884250885494301039",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884250627632754871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉，我十四岁的时候还在看动画片呢，怎么现在的小孩这么抽象。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 748,
+          "like_count": 6427,
+          "listed_count": 1,
+          "media_count": 860,
+          "tweet_count": 5369
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1708764792754929967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2068,
+          "following_count": 156,
+          "like_count": 10946,
+          "listed_count": 16,
+          "media_count": 1118,
+          "tweet_count": 16620
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      }
+    ]
+  }
+}

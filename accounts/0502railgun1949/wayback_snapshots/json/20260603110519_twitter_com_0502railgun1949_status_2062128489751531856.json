@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2062119583679644070",
+    "created_at": "2026-06-03T11:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062128489751531856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "lianda_edu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062128489751531856",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062119583679644070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianda_edu I agree.Using artificial intelligence for these tasks is undoubtedly reasonable, and even AI-generated articles should be adopted if they are truly fruitful and valuable."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2062119583679644070",
+        "created_at": "2026-06-03T11:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062128489751531856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "lianda_edu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062128489751531856",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062119583679644070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianda_edu I agree.Using artificial intelligence for these tasks is undoubtedly reasonable, and even AI-generated articles should be adopted if they are truly fruitful and valuable."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447598669843156992",
+              "name": "Translation"
+            }
+          }
+        ],
+        "conversation_id": "2062119583679644070",
+        "created_at": "2026-06-03T10:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062119583679644070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShuheiKuritaJa…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/ShuheiKuritaJa/status/2062068041765007838",
+              "start": 95,
+              "url": "https://t.co/Alz4Lyee5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062119583679644070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062068041765007838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AIを用いて論文の推敲と翻訳を行いました。しかし編集者は、これをAIが生成した低品質な内容と同一視しているようです。これは英語を母語としない研究者にとって、非常に不公平な扱いだと思います。 https://t.co/Alz4Lyee5u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 688,
+          "like_count": 15141,
+          "listed_count": 5,
+          "media_count": 1391,
+          "tweet_count": 11948
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer- Übermensch\nDefi ,Fintech , Game Theory\nThe University of Hong Kong  @HKUniversity @nberpubs\nAdrasteia Labs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 99,
+                "start": 90,
+                "username": "nberpubs"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "Adrasteia Labs",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2062091824865607851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2075,
+          "following_count": 1085,
+          "like_count": 20166,
+          "listed_count": 10,
+          "media_count": 970,
+          "tweet_count": 23546
+        },
+        "username": "lianda_edu",
+        "verified": true
+      }
+    ]
+  }
+}

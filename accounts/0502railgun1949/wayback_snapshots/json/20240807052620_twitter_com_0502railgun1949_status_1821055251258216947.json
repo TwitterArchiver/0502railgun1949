@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1820990440835051522"
+      ],
+      "media_source_tweet_id": [
+        "1820990483579203797"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1821055251258216947",
+    "created_at": "2024-08-07T05:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-07T06:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821055251258216947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1321124184689233920",
+          "start": 3,
+          "username": "jiamibtc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/KeTnIxZ8Ls",
+          "end": 91,
+          "expanded_url": "https://twitter.com/jiamibtc/status/1820990483579203797/video/1",
+          "media_key": "7_1820990440835051522",
+          "start": 68,
+          "url": "https://t.co/KeTnIxZ8Ls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821055251258216947",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820990483579203797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiamibtc: 客人：怎么这菜周末才好吃？\n\n老板：不好意思，厨师长上学去了。\n\n孩子：爸，你当年颠的锅不够快，更不够狠！ https://t.co/KeTnIxZ8Ls"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30185,
+        "height": 720,
+        "media_key": "7_1820990440835051522",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1820990440835051522/pu/img/NyLycgJI_8Kji3fa.jpg",
+        "public_metrics": {
+          "view_count": 18351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820990440835051522/pu/vid/avc1/320x320/mQ1CAOb7qyVeN70d.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820990440835051522/pu/vid/avc1/540x540/ZgoM2dL8VqyM-MLz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1820990440835051522/pu/vid/avc1/720x720/bgrddDrGT5PbtLb7.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1820990440835051522/pu/pl/VT0elAvPvQ05rqSG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820990440835051522"
+          ],
+          "media_source_tweet_id": [
+            "1820990483579203797"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1821055251258216947",
+        "created_at": "2024-08-07T05:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T06:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821055251258216947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1321124184689233920",
+              "start": 3,
+              "username": "jiamibtc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KeTnIxZ8Ls",
+              "end": 91,
+              "expanded_url": "https://twitter.com/jiamibtc/status/1820990483579203797/video/1",
+              "media_key": "7_1820990440835051522",
+              "start": 68,
+              "url": "https://t.co/KeTnIxZ8Ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821055251258216947",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820990483579203797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiamibtc: 客人：怎么这菜周末才好吃？\n\n老板：不好意思，厨师长上学去了。\n\n孩子：爸，你当年颠的锅不够快，更不够狠！ https://t.co/KeTnIxZ8Ls"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1820990440835051522"
+          ]
+        },
+        "author_id": "1321124184689233920",
+        "conversation_id": "1820990483579203797",
+        "created_at": "2024-08-07T01:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T02:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820990483579203797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/KeTnIxZ8Ls",
+              "end": 77,
+              "expanded_url": "https://twitter.com/jiamibtc/status/1820990483579203797/video/1",
+              "media_key": "7_1820990440835051522",
+              "start": 54,
+              "url": "https://t.co/KeTnIxZ8Ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820990483579203797",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 56511,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 76,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "客人：怎么这菜周末才好吃？\n\n老板：不好意思，厨师长上学去了。\n\n孩子：爸，你当年颠的锅不够快，更不够狠！ https://t.co/KeTnIxZ8Ls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 755,
+          "like_count": 3584,
+          "listed_count": 1,
+          "tweet_count": 3455
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-27T16:18:56.000Z",
+        "description": "蛙神 | #OKX 是一家数字资产交易平台，支持多种数字资产的币币和合约、理财等衍生品交易服务，方便、安全的帮您管理投资数字资产，Web3入口一个就够：https://t.co/ghs3YMWjcv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "OKX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/1987583",
+                "end": 99,
+                "expanded_url": "https://okx.com/join/1987583",
+                "start": 76,
+                "url": "https://t.co/ghs3YMWjcv"
+              }
+            ]
+          }
+        },
+        "id": "1321124184689233920",
+        "location": "OKB To The Moon",
+        "name": "Brc蛙蛙",
+        "pinned_tweet_id": "1771092440528949436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668975982449926149/zpS6Kfkk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87932,
+          "following_count": 942,
+          "like_count": 1706,
+          "listed_count": 10,
+          "tweet_count": 2185
+        },
+        "username": "jiamibtc",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2049758456157290753",
+    "created_at": "2026-04-30T07:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049758456157290753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39941478",
+          "start": 3,
+          "username": "zaobaosg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "小学入学适龄人口减少，61所小学今年削减小一收生名额，占全国179所小学近三分之一，当中包括热门学校如南洋小学与道南学校。",
+          "display_url": "zaobao.com.sg/news/singapore…",
+          "end": 92,
+          "expanded_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+          "start": 69,
+          "status": 200,
+          "title": "小一适龄人口减少 61所小学削减收生名额",
+          "unwound_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+          "url": "https://t.co/OyCaNwuP8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049758456157290753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049640193162912240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaobaosg: 2027年起，本地学龄人口大幅减少，教育部将从今年的小一报名活动开始，未来几年逐步下调大多数小学的招生名额。 https://t.co/OyCaNwuP8v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2049758456157290753",
+        "created_at": "2026-04-30T07:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049758456157290753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39941478",
+              "start": 3,
+              "username": "zaobaosg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "小学入学适龄人口减少，61所小学今年削减小一收生名额，占全国179所小学近三分之一，当中包括热门学校如南洋小学与道南学校。",
+              "display_url": "zaobao.com.sg/news/singapore…",
+              "end": 92,
+              "expanded_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+              "start": 69,
+              "status": 200,
+              "title": "小一适龄人口减少 61所小学削减收生名额",
+              "unwound_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+              "url": "https://t.co/OyCaNwuP8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049758456157290753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049640193162912240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaobaosg: 2027年起，本地学龄人口大幅减少，教育部将从今年的小一报名活动开始，未来几年逐步下调大多数小学的招生名额。 https://t.co/OyCaNwuP8v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "conversation_id": "2049640193162912240",
+        "created_at": "2026-04-30T00:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T01:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049640193162912240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "小学入学适龄人口减少，61所小学今年削减小一收生名额，占全国179所小学近三分之一，当中包括热门学校如南洋小学与道南学校。",
+              "display_url": "zaobao.com.sg/news/singapore…",
+              "end": 78,
+              "expanded_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+              "start": 55,
+              "status": 200,
+              "title": "小一适龄人口减少 61所小学削减收生名额",
+              "unwound_url": "https://www.zaobao.com.sg/news/singapore/story20260429-8969562?utm_medium=Social&utm_source=Twitter#Echobox=1777450694",
+              "url": "https://t.co/OyCaNwuP8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049640193162912240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9255,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "2027年起，本地学龄人口大幅减少，教育部将从今年的小一报名活动开始，未来几年逐步下调大多数小学的招生名额。 https://t.co/OyCaNwuP8v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 690,
+          "like_count": 13829,
+          "listed_count": 3,
+          "media_count": 1351,
+          "tweet_count": 10902
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "2041003385239806399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1757489,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 6204,
+          "media_count": 7215,
+          "tweet_count": 176232
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

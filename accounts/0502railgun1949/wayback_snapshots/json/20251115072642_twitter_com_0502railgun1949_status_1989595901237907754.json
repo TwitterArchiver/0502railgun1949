@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1989518629767893418",
+    "created_at": "2025-11-15T07:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T08:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989595901237907754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629688098505510912",
+          "start": 0,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989595901237907754",
+    "in_reply_to_user_id": "1629688098505510912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989518629767893418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknow_CVC 去本地大点医院\n实在没有问题，看中医"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_1989518597123657728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5wwn4eW0AAKP-Y.jpg",
+        "width": 441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1989518629767893418",
+        "created_at": "2025-11-15T07:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989595901237907754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629688098505510912",
+              "start": 0,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989595901237907754",
+        "in_reply_to_user_id": "1629688098505510912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989518629767893418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknow_CVC 去本地大点医院\n实在没有问题，看中医"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989518597123657728"
+          ]
+        },
+        "author_id": "1629688098505510912",
+        "conversation_id": "1989518629767893418",
+        "created_at": "2025-11-15T02:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989518629767893418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FnoDPxfZk5",
+              "end": 58,
+              "expanded_url": "https://x.com/Unknow_CVC/status/1989518629767893418/photo/1",
+              "media_key": "3_1989518597123657728",
+              "start": 35,
+              "url": "https://t.co/FnoDPxfZk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989518629767893418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "社区让我去南方医院看消化内科，我这种查不出原因的疑难杂症这边没啥办法 https://t.co/FnoDPxfZk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 626,
+          "like_count": 10981,
+          "listed_count": 3,
+          "media_count": 1088,
+          "tweet_count": 7855
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤（Cantonese /Teochew/ Hakka ）|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|\n私帐：@CenKawaru21120|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 135,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9dLjU"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級のCenVCee🍤",
+        "pinned_tweet_id": "1947612288292114903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 1481,
+          "like_count": 22486,
+          "listed_count": 2,
+          "media_count": 1970,
+          "tweet_count": 14946
+        },
+        "url": "https://t.co/3dxIv9dLjU",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

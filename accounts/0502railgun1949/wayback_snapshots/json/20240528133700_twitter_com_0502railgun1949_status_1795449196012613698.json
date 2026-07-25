@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1795425583821943005",
+    "created_at": "2024-05-28T13:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T14:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795449196012613698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728276310534086657",
+          "start": 0,
+          "username": "Citric_sour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795449196012613698",
+    "in_reply_to_user_id": "1728276310534086657",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795428218528514117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citric_sour 是的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1795425583821943005",
+        "created_at": "2024-05-28T13:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T14:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795449196012613698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728276310534086657",
+              "start": 0,
+              "username": "Citric_sour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795449196012613698",
+        "in_reply_to_user_id": "1728276310534086657",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795428218528514117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citric_sour 是的呀"
+      },
+      {
+        "attachments": {},
+        "author_id": "1728276310534086657",
+        "conversation_id": "1795425583821943005",
+        "created_at": "2024-05-28T12:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T13:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795428218528514117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795428218528514117",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795425583821943005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 北大附\nemm你不是在深圳吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 742,
+          "like_count": 2737,
+          "listed_count": 1,
+          "tweet_count": 2948
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T04:56:06.000Z",
+        "description": "一名幻想可以教书育人和科学研究的废柴 | HVAC",
+        "id": "1728276310534086657",
+        "name": "柠萌酸🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790584659308625921/5mgoh2gS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 436,
+          "like_count": 19584,
+          "listed_count": 1,
+          "tweet_count": 1090
+        },
+        "username": "Citric_sour",
+        "verified": false
+      }
+    ]
+  }
+}

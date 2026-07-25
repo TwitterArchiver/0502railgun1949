@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2034719818835009931",
+    "created_at": "2026-03-20T04:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034849808914292778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1884871796522176512",
+          "start": 0,
+          "username": "Siyi114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034849808914292778",
+    "in_reply_to_user_id": "1884871796522176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034719818835009931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siyi114 我也是这样认为\n主要还是环境对人影响最大，他能成为那样子，一定有他的家庭，社会原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2034719818835009931",
+        "created_at": "2026-03-20T04:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034849808914292778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1884871796522176512",
+              "start": 0,
+              "username": "Siyi114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034849808914292778",
+        "in_reply_to_user_id": "1884871796522176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034719818835009931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siyi114 我也是这样认为\n主要还是环境对人影响最大，他能成为那样子，一定有他的家庭，社会原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884871796522176512",
+        "conversation_id": "2034719818835009931",
+        "created_at": "2026-03-19T19:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034719818835009931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034719818835009931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从来不会人身攻击我不认同的群体，即使对于支黑、极端女权、教徒、极端民族主义等等人群的言论我是极不认同甚至厌恶的。但是同情的情感更甚于厌恶。我受过小地方和大城市的教育，知道教育资源的差距是多么巨大，人与人之间受教育程度是不平等的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 623,
+          "like_count": 11127,
+          "listed_count": 3,
+          "media_count": 1248,
+          "tweet_count": 8791
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:50:46.000Z",
+        "description": "对方设置了权限，你可以在申请通过后查看",
+        "id": "1884871796522176512",
+        "name": "Siyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884880544628105216/tl6rdHsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 272,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 406
+        },
+        "username": "Siyi114",
+        "verified": false
+      }
+    ]
+  }
+}

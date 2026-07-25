@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1998659431421165568",
+          "name": "The Stringer: The Man Who Took the Photo"
+        }
+      }
+    ],
+    "conversation_id": "2051339925669486984",
+    "created_at": "2026-05-04T16:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T17:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051339925669486984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696093120255930368",
+          "start": 3,
+          "username": "the_gpc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051339925669486984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051281736353362137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_gpc_: A list of iconic photographs and the cameras they were taken with. A thread 🧵📸\n\n1. ''The Terror Of War/Napalm Girl\" By Nick U…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2051280751698542593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHec-buWgAERgso.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1998659431421165568",
+              "name": "The Stringer: The Man Who Took the Photo"
+            }
+          }
+        ],
+        "conversation_id": "2051339925669486984",
+        "created_at": "2026-05-04T16:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051339925669486984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696093120255930368",
+              "start": 3,
+              "username": "the_gpc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051339925669486984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051281736353362137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_gpc_: A list of iconic photographs and the cameras they were taken with. A thread 🧵📸\n\n1. ''The Terror Of War/Napalm Girl\" By Nick U…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051280751698542593"
+          ]
+        },
+        "author_id": "1696093120255930368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1998659431421165568",
+              "name": "The Stringer: The Man Who Took the Photo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106256748146688",
+              "name": "Kodak"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106964167884800",
+              "name": "Leica"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2051281736353362137",
+        "created_at": "2026-05-04T12:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051281736353362137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eY0e3Gipqd",
+              "end": 185,
+              "expanded_url": "https://x.com/the_gpc_/status/2051281736353362137/photo/1",
+              "media_key": "3_2051280751698542593",
+              "start": 162,
+              "url": "https://t.co/eY0e3Gipqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051281736353362137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3073,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "A list of iconic photographs and the cameras they were taken with. A thread 🧵📸\n\n1. ''The Terror Of War/Napalm Girl\" By Nick Ut, 1972 / Leica M3 — Kodak Tri-X 400 https://t.co/eY0e3Gipqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 681,
+          "like_count": 14043,
+          "listed_count": 4,
+          "media_count": 1362,
+          "tweet_count": 11089
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T09:31:38.000Z",
+        "description": "The world’s best photography page 📸 | Become a member & get access to amazing resources for photographers - presets, photo location map & much more (link) ⤵️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theglobalphotographycommunity.com/premium-member…",
+                "end": 23,
+                "expanded_url": "https://www.theglobalphotographycommunity.com/premium-membership",
+                "start": 0,
+                "url": "https://t.co/N0NzL2gfrw"
+              }
+            ]
+          }
+        },
+        "id": "1696093120255930368",
+        "location": "Worldwide",
+        "name": "theglobalphotocommunity",
+        "pinned_tweet_id": "1721513218969903549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696093280952360960/sEbhh_X7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36010,
+          "following_count": 3129,
+          "like_count": 44649,
+          "listed_count": 268,
+          "media_count": 2380,
+          "tweet_count": 4528
+        },
+        "url": "https://t.co/N0NzL2gfrw",
+        "username": "the_gpc_",
+        "verified": true
+      }
+    ]
+  }
+}

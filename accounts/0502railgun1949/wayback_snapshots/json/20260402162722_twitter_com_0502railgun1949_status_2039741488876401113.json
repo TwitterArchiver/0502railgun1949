@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2038976771295748126",
+    "created_at": "2026-04-02T16:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039741488876401113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039741488876401113",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038976771295748126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA0 不要哦，要愛惜自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2038976771295748126",
+        "created_at": "2026-04-02T16:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039741488876401113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039741488876401113",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038976771295748126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA0 不要哦，要愛惜自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "2038976771295748126",
+        "created_at": "2026-03-31T13:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038976771295748126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038976771295748126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我划拉手腕子磕小药片子是不是也可以获得流量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 642,
+          "like_count": 11676,
+          "listed_count": 3,
+          "media_count": 1288,
+          "tweet_count": 9338
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "我是小男女孩/坐标冀 任何地方的线下我都想接然后换钱穿好看的衣服/🥺皮下176cm63kg/互fo🥺和我做好朋友吧🥺如果你愿意给我爆点金币的话也太谢谢你了🥺",
+        "id": "1354545024046821376",
+        "location": "回血阵",
+        "name": "三原怜🍥",
+        "pinned_tweet_id": "2033772658744300023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006116554845671424/Ni1Sr3p3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 735,
+          "like_count": 7328,
+          "listed_count": 3,
+          "media_count": 1049,
+          "tweet_count": 8212
+        },
+        "username": "KURANAGA0",
+        "verified": false
+      }
+    ]
+  }
+}

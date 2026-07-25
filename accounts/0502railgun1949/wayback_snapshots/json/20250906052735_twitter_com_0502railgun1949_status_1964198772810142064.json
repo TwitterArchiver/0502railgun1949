@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1964010744690663457",
+    "created_at": "2025-09-06T05:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964198772810142064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "ptilopsis_xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964198772810142064",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964010744690663457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ptilopsis_xiao 你们还要学习一个\n媒体呀，应该多提高自己的知识水平\n不要一天到晚就想着弄个大新闻\n然后把我批判一番"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1664,
+        "media_key": "3_1964010735719342080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GRW72a4AAEYXw.jpg",
+        "width": 1256
+      },
+      {
+        "height": 2038,
+        "media_key": "3_1964010735719370752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GRW72bUAAiNtz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2038,
+        "media_key": "3_1964010735744536576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0GRW78bUAA_h_b.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1964010744690663457",
+        "created_at": "2025-09-06T05:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964198772810142064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "ptilopsis_xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964198772810142064",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964010744690663457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ptilopsis_xiao 你们还要学习一个\n媒体呀，应该多提高自己的知识水平\n不要一天到晚就想着弄个大新闻\n然后把我批判一番"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964010735719342080",
+            "3_1964010735719370752",
+            "3_1964010735744536576"
+          ]
+        },
+        "author_id": "1372184630753853444",
+        "conversation_id": "1964010744690663457",
+        "created_at": "2025-09-05T17:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964010744690663457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRTFqqirmk",
+              "end": 108,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/1964010744690663457/photo/1",
+              "media_key": "3_1964010735719342080",
+              "start": 85,
+              "url": "https://t.co/zRTFqqirmk"
+            },
+            {
+              "display_url": "pic.x.com/zRTFqqirmk",
+              "end": 108,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/1964010744690663457/photo/1",
+              "media_key": "3_1964010735719370752",
+              "start": 85,
+              "url": "https://t.co/zRTFqqirmk"
+            },
+            {
+              "display_url": "pic.x.com/zRTFqqirmk",
+              "end": 108,
+              "expanded_url": "https://x.com/ptilopsis_xiao/status/1964010744690663457/photo/1",
+              "media_key": "3_1964010735744536576",
+              "start": 85,
+              "url": "https://t.co/zRTFqqirmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964010744690663457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3820,
+          "like_count": 91,
+          "quote_count": 4,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "？个斑马的你这样写新闻，流量是有了，浮木怎么办？\n一开始还以为是标题党，一看正文逆天\n这已经不是新闻水平问题了，这要么是根本不会说话要么是故意诱导偏见，更或者是又蠢又坏 https://t.co/zRTFqqirmk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 634,
+          "like_count": 10790,
+          "listed_count": 4,
+          "media_count": 1054,
+          "tweet_count": 7566
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜一只黎博利｜HAM BH6RQG｜Wuhan｜Nikon｜Bioscience｜Aerospace",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "绿鸮西泮",
+        "pinned_tweet_id": "1954206496700649679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948030569415315456/Vp5WQ8_K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2886,
+          "following_count": 1692,
+          "like_count": 36129,
+          "listed_count": 4,
+          "media_count": 412,
+          "tweet_count": 3532
+        },
+        "username": "ptilopsis_xiao",
+        "verified": false
+      }
+    ]
+  }
+}

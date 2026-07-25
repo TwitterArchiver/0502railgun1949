@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1957402628574380540",
+    "created_at": "2025-08-18T11:22:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-18T12:22:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1957402628574380540"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UNESCO_chinese…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/UNESCO_chinese/status/1957383470553940438",
+          "start": 3,
+          "url": "https://t.co/BdM2UosNh9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1957402628574380540",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957383470553940438",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幽默 https://t.co/BdM2UosNh9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1957030975814164480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjFTb_W4AAurnZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1957402628574380540",
+        "created_at": "2025-08-18T11:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T12:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957402628574380540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UNESCO_chinese…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1957383470553940438",
+              "start": 3,
+              "url": "https://t.co/BdM2UosNh9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957402628574380540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957383470553940438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幽默 https://t.co/BdM2UosNh9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957030975814164480"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "1957383470553940438",
+        "created_at": "2025-08-18T10:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-18T11:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957383470553940438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 106,
+              "start": 97,
+              "tag": "全球教育监测报告"
+            },
+            {
+              "end": 147,
+              "start": 141,
+              "tag": "为学习领航"
+            },
+            {
+              "end": 153,
+              "start": 148,
+              "tag": "优质教育"
+            }
+          ],
+          "urls": [
+            {
+              "description": "引领教育技术发展",
+              "display_url": "bit.ly/2025eastasia-zh",
+              "end": 139,
+              "expanded_url": "https://bit.ly/2025eastasia-zh",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1957383520218718208/7IdJt0tb?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1957383520218718208/7IdJt0tb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "2025年东亚区域报告",
+              "unwound_url": "https://www.unesco.org/gem-report/zh/2025eastasia",
+              "url": "https://t.co/slc83mNZJg"
+            },
+            {
+              "display_url": "pic.x.com/CtXgAdi8ml",
+              "end": 177,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/1957383470553940438/photo/1",
+              "media_key": "3_1957030975814164480",
+              "start": 154,
+              "url": "https://t.co/CtXgAdi8ml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957383470553940438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人工智能正在重塑东亚教育。\n这场转型不仅关乎技术，更关乎教育治理。\n\n成效如何？这取决于各级教育领导层是否具备清晰的数字化战略愿景、有力的领导能力以及应对变革所需的新技能。\n点击阅读今天发布的 #全球教育监测报告 东亚区域报告➡️\nhttps://t.co/slc83mNZJg\n\n#为学习领航 #优质教育 https://t.co/CtXgAdi8ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 628,
+          "like_count": 10683,
+          "listed_count": 3,
+          "media_count": 1037,
+          "tweet_count": 7445
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "pinned_tweet_id": "1947667293791785044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37072,
+          "following_count": 41,
+          "like_count": 480,
+          "listed_count": 124,
+          "media_count": 10039,
+          "tweet_count": 10575
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "1880072270271676602",
+    "created_at": "2025-01-17T01:58:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T02:58:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880072270271676602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "974210608072597504",
+          "start": 3,
+          "username": "zcwzhy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880072270271676602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 150
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879846614442877157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zcwzhy: “针刺麻醉”是一场惨绝人寰闹剧，是上世纪60-70年代的全国性大规模违背伦理的人体试验\n\n有兴趣的朋友可以看看彼时的故事片《无影灯下颂银针》，我在YouTube上看过，尽管故事可能是杜撰的，但针刺麻醉下实施心脏手术是事实… https://t.co/gf…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1880072270271676602",
+        "created_at": "2025-01-17T01:58:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T02:58:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880072270271676602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "974210608072597504",
+              "start": 3,
+              "username": "zcwzhy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880072270271676602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879846614442877157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zcwzhy: “针刺麻醉”是一场惨绝人寰闹剧，是上世纪60-70年代的全国性大规模违背伦理的人体试验\n\n有兴趣的朋友可以看看彼时的故事片《无影灯下颂银针》，我在YouTube上看过，尽管故事可能是杜撰的，但针刺麻醉下实施心脏手术是事实… https://t.co/gf…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879846605114728448"
+          ]
+        },
+        "author_id": "974210608072597504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1879846614442877157",
+        "created_at": "2025-01-16T11:02:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:02:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879846614442877157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfv8tRulIv",
+              "end": 135,
+              "expanded_url": "https://x.com/zcwzhy/status/1879846614442877157/photo/1",
+              "media_key": "3_1879846605114728448",
+              "start": 112,
+              "url": "https://t.co/gfv8tRulIv"
+            },
+            {
+              "display_url": "x.com/zcwzhy/status/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/zcwzhy/status/1879841375707070634",
+              "start": 136,
+              "url": "https://t.co/WjTaPgZeEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879846614442877157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“针刺麻醉”是一场惨绝人寰闹剧，是上世纪60-70年代的全国性大规模违背伦理的人体试验\n\n有兴趣的朋友可以看看彼时的故事片《无影灯下颂银针》，我在YouTube上看过，尽管故事可能是杜撰的，但针刺麻醉下实施心脏手术是事实\n\n彼时医生们并不傻逼，他们预知手术中患者要经历残忍的肉体折磨，但迫于政治任务（当然部分医生也可能在政治投机），所以他们会选择“政治可靠、革命意志坚定的”人进行“针刺麻醉”，术前还要学习毛主席著作，说白了就是要让傻逼更加傻逼\n\n即使如此，考虑到傻逼再傻也知道什么是疼痛，医生们术前需要测定患者的“痛阈”，以筛选出对疼痛耐受力最强的患者进行试验\n\n实际上，手术中使用的并非传统的中医针刺手法，因为传统手法的刺激强度远远达不到转移患者的手术区域疼痛的目的\n\n为了增强留针后对“穴位”的刺激强度，“科研人员”使用极其简陋的（很多都是自制的）直流脉冲电刺激仪，对“穴位”进行高强度脉冲电刺激\n\n术中患者疼痛越强烈则哭喊声越大，医生给予的脉冲刺激强度也就越大，目的就是让痛苦的脉冲刺激带来痛苦盖过手术疼痛，以达到转移手术区域疼痛的目的\n\n由于皮肤的感觉神经末梢最为丰富，患者无法忍受切皮的痛苦，当时医生们又自我规定：在皮内或皮下注射一定量的局麻药物属于针麻的范畴\n\n即使如此，手术中难免病人狂叫躁动，还会给病人注射镇静剂，因为有些病人甚至挣脱了手术台上捆绑束袋\n\n为了减轻迷走神经牵张反射带来的恶心呕吐，也会给患者注射阿托品\n\n我不想否认针刺的“有效性”，其机理被推测为与针刺疼痛刺激后大脑中产生的内啡肽有关，这方面也有很多基础研究，但这种镇痛作用是有限的，甚至远不如现代医学解热镇痛药（如布洛芬）的镇痛效果\n\n“针刺麻醉”就是不是麻醉，先不谈麻醉期间的患者的管理问题，针刺后患者意识依然清醒，肌肉依然紧张，针刺更无法阻断痛觉传导通路，痛觉无法消失\n\n而麻醉需要患者的痛觉缺失和/或意识丧失，同时还需一定程度的肌松以便为术者创造良好的操作条件，这些更是针刺所望尘莫及的\n\n因此针刺麻醉下手术就是违背现代医学伦理的暴力行为\n\n目前没有任何证据证明经络和穴位有其结构基础\n\n也没有证据支持刺激人为臆造的通路上的特定位点会明确改善远处组织器官的功能\n\n阿是穴也跟经络没有一分钱的关系，其本质是慢性疼痛者疼痛最敏感的部位，即所谓扳机点，无论是针灸还是按摩都是对扳机点的机械刺激\n\n现代医学永远不会为了迎合古人的臆想而牵强附会地伪造出一条条信息传导通路，以满足“解释”古人臆想的民族梦想\n\n现代医学只会尽可能地在实证和逻辑的基础上逐步构建、颠覆和完善自己的理论体系"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 209413,
+          "like_count": 614,
+          "quote_count": 18,
+          "reply_count": 46,
+          "retweet_count": 150
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879841375707070634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“针刺麻醉”是一场惨绝人寰闹剧，是上世纪60-70年代的全国性大规模违背伦理的人体试验\n\n有兴趣的朋友可以看看彼时的故事片《无影灯下颂银针》，我在YouTube上看过，尽管故事可能是杜撰的，但针刺麻醉下实施心脏手术是事实… https://t.co/gfv8tRulIv https://t.co/WjTaPgZeEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 749,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 5187
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-15T09:08:03.000Z",
+        "description": "男～美女领路员～扯现代医学的闲蛋～侃男女肉体的闲篇～涉低级趣味的闲黄～俺虽友善但俺上推不是为了讨好谁～杠精来俺这里最好只用眼睛～俺点赞不代表赞同或反对～对俺发的图片视频惧怕或敏感者请莫点开～有病看医生～网上问诊没谱～害你害我～",
+        "id": "974210608072597504",
+        "location": "South East, England",
+        "name": "🦥小泳",
+        "pinned_tweet_id": "1710895503926333479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1322714737604517890/aMYBy_EH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65938,
+          "following_count": 398,
+          "like_count": 83219,
+          "listed_count": 267,
+          "media_count": 4998,
+          "tweet_count": 77068
+        },
+        "username": "zcwzhy",
+        "verified": true
+      }
+    ]
+  }
+}

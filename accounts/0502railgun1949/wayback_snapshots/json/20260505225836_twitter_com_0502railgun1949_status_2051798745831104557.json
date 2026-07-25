@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2033344444083359744"
+      ],
+      "media_source_tweet_id": [
+        "2033344679773626758"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051798745831104557",
+    "created_at": "2026-05-05T22:58:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T23:58:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051798745831104557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1980470627539800064",
+          "start": 3,
+          "username": "aparasr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IRFCrFMrgF",
+          "end": 42,
+          "expanded_url": "https://x.com/XRParas/status/2033344679773626758/video/1",
+          "media_key": "13_2033344444083359744",
+          "start": 19,
+          "url": "https://t.co/IRFCrFMrgF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051798745831104557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033344679773626758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aparasr: 经典咏流传 https://t.co/IRFCrFMrgF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40466,
+        "height": 720,
+        "media_key": "13_2033344444083359744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033344444083359744/img/B0AYagqt6SLw66jh.jpg",
+        "public_metrics": {
+          "view_count": 57368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033344444083359744/vid/avc1/360x270/hvGYHrhBHNcCvQxL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033344444083359744/vid/avc1/480x360/xkS_XvVfXy9ifYio.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033344444083359744/vid/avc1/960x720/RwiQYszkXaMPhSBh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033344444083359744/pl/R7G2qEB-rOm_sReQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033344444083359744"
+          ],
+          "media_source_tweet_id": [
+            "2033344679773626758"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051798745831104557",
+        "created_at": "2026-05-05T22:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T23:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051798745831104557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1980470627539800064",
+              "start": 3,
+              "username": "aparasr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRFCrFMrgF",
+              "end": 42,
+              "expanded_url": "https://x.com/XRParas/status/2033344679773626758/video/1",
+              "media_key": "13_2033344444083359744",
+              "start": 19,
+              "url": "https://t.co/IRFCrFMrgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051798745831104557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033344679773626758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aparasr: 经典咏流传 https://t.co/IRFCrFMrgF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033344444083359744"
+          ]
+        },
+        "author_id": "1980470627539800064",
+        "conversation_id": "2033344679773626758",
+        "created_at": "2026-03-16T00:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T01:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033344679773626758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IRFCrFMrgF",
+              "end": 29,
+              "expanded_url": "https://x.com/XRParas/status/2033344679773626758/video/1",
+              "media_key": "13_2033344444083359744",
+              "start": 6,
+              "url": "https://t.co/IRFCrFMrgF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033344679773626758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 469,
+          "impression_count": 103816,
+          "like_count": 1639,
+          "quote_count": 10,
+          "reply_count": 29,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "经典咏流传 https://t.co/IRFCrFMrgF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 685,
+          "like_count": 14103,
+          "listed_count": 5,
+          "media_count": 1363,
+          "tweet_count": 11124
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T03:06:23.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aparas.top",
+                "end": 23,
+                "expanded_url": "http://aparas.top",
+                "start": 0,
+                "url": "https://t.co/3n8ZRrbcfM"
+              }
+            ]
+          }
+        },
+        "id": "1980470627539800064",
+        "location": "Soochow / Peking",
+        "name": "Parasomnia",
+        "pinned_tweet_id": "2038764893747200396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046013059832201216/a49oEe5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 120,
+          "like_count": 2855,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 513
+        },
+        "url": "https://t.co/3n8ZRrbcfM",
+        "username": "aparasr",
+        "verified": false
+      }
+    ]
+  }
+}

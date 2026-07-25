@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2060570791272481225",
+    "created_at": "2026-05-30T04:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T05:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060576834337812730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1945314547126185984",
+          "start": 0,
+          "username": "pysimpom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060576834337812730",
+    "in_reply_to_user_id": "1945314547126185984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060570791272481225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pysimpom 快点变快点变快点变"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 754,
+        "media_key": "3_2060570781000650753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJieNTwX0AEwUjL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2060570791272481225",
+        "created_at": "2026-05-30T04:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T05:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060576834337812730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1945314547126185984",
+              "start": 0,
+              "username": "pysimpom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060576834337812730",
+        "in_reply_to_user_id": "1945314547126185984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060570791272481225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pysimpom 快点变快点变快点变"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060570781000650753"
+          ]
+        },
+        "author_id": "1945314547126185984",
+        "conversation_id": "2060570791272481225",
+        "created_at": "2026-05-30T03:55:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:55:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060570791272481225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhPRqSjkse",
+              "end": 98,
+              "expanded_url": "https://x.com/pysimpom/status/2060570791272481225/photo/1",
+              "media_key": "3_2060570781000650753",
+              "start": 75,
+              "url": "https://t.co/BhPRqSjkse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060570791272481225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在万事达借记卡还是订阅不了AI，支付老是被拒绝，但能买蓝标\n500fo,三个月5M浏览量\n这他妈怎么达到，你知道一幅画要画多久吗？这是在逼我女装啊 https://t.co/BhPRqSjkse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 683,
+          "like_count": 14937,
+          "listed_count": 5,
+          "media_count": 1385,
+          "tweet_count": 11796
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-16T02:48:34.000Z",
+        "description": "特摄厨，BA厨，美漫厨 | blender和绘画在学 | 现在南京 | vibe，古法两手抓中\ngithub:https://t.co/GbsMIU43kQ|\nNGL:https://t.co/v8WRYGH0ZI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/evilmordy",
+                "end": 78,
+                "expanded_url": "http://github.com/evilmordy",
+                "start": 55,
+                "url": "https://t.co/GbsMIU43kQ"
+              },
+              {
+                "display_url": "ngl.link/yuchaosong791",
+                "end": 107,
+                "expanded_url": "https://ngl.link/yuchaosong791",
+                "start": 84,
+                "url": "https://t.co/v8WRYGH0ZI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "evilmordy.github.io",
+                "end": 23,
+                "expanded_url": "https://evilmordy.github.io/",
+                "start": 0,
+                "url": "https://t.co/FSqpXOQBRV"
+              }
+            ]
+          }
+        },
+        "id": "1945314547126185984",
+        "name": "fake sensei",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051128729565626368/v82xhxsN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 1251,
+          "like_count": 7608,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 1766
+        },
+        "url": "https://t.co/FSqpXOQBRV",
+        "username": "pysimpom",
+        "verified": true
+      }
+    ]
+  }
+}

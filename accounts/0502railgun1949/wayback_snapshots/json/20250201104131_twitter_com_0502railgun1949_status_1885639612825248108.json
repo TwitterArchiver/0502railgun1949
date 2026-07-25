@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1885616267320848416",
+    "created_at": "2025-02-01T10:41:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T11:41:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885639612825248108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3307859748",
+          "start": 0,
+          "username": "reimeikanata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885639612825248108",
+    "in_reply_to_user_id": "3307859748",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885617461967409325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reimeikanata 我现在就是我的开心最重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1885616267320848416",
+        "created_at": "2025-02-01T10:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T11:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885639612825248108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3307859748",
+              "start": 0,
+              "username": "reimeikanata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885639612825248108",
+        "in_reply_to_user_id": "3307859748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885617461967409325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reimeikanata 我现在就是我的开心最重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3307859748",
+        "conversation_id": "1885616267320848416",
+        "created_at": "2025-02-01T09:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T10:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885617461967409325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885617461967409325",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885616267320848416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 唉想好好活着最终还是要面对自己的情绪的...不过比较复杂的点在于，人需要同时接受自己的情绪对别人可能不重要，但对自己很重要;以及自己的技能可能对别人重要，但对自己没那么（在心理上）重要的现实，后者的反馈可能远多于前者，因为迟钝的人意识到自己的情绪的重要性时，可能已经有问题发生了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 749,
+          "like_count": 6489,
+          "listed_count": 1,
+          "media_count": 869,
+          "tweet_count": 5424
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-06T15:09:52.000Z",
+        "description": "intp，ACT爱好者，喜欢抹茶🍵，雨天🌧，和雨后蔚蓝的天穹🌈",
+        "id": "3307859748",
+        "location": "VA-11 Hall A",
+        "name": "晓彼方",
+        "pinned_tweet_id": "1845699459201540499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761845475270152192/tt7F8bbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 426,
+          "like_count": 31395,
+          "listed_count": 0,
+          "media_count": 344,
+          "tweet_count": 3251
+        },
+        "username": "reimeikanata",
+        "verified": true
+      }
+    ]
+  }
+}

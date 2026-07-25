@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2053193934961311769",
+    "created_at": "2026-05-09T19:52:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T20:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053201402479210598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430052755352166401",
+          "start": 0,
+          "username": "Wendy_Ai2005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053201402479210598",
+    "in_reply_to_user_id": "1430052755352166401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053193934961311769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendy_Ai2005 中国国内如果说是文化入侵，那其实这个帽子扣的也比较难受了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 448005,
+        "height": 1374,
+        "media_key": "13_2053108601762504704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053108601762504704/img/4gVYVnbolKq8dxtB.jpg",
+        "public_metrics": {
+          "view_count": 63390
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/320x610/R2NYSBFvmFD1WwxH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/480x916/KFEmpWLLSRR-WS3X.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/vid/avc1/720x1374/PJNekX7fPYHzsdAy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053108601762504704/pl/IFoErS3uYA0_Z8c5.m3u8?v=563"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2053193934961311769",
+        "created_at": "2026-05-09T19:52:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053201402479210598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430052755352166401",
+              "start": 0,
+              "username": "Wendy_Ai2005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053201402479210598",
+        "in_reply_to_user_id": "1430052755352166401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053193934961311769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendy_Ai2005 中国国内如果说是文化入侵，那其实这个帽子扣的也比较难受了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053108601762504704"
+          ],
+          "media_source_tweet_id": [
+            "2053135404426056002"
+          ]
+        },
+        "author_id": "1430052755352166401",
+        "conversation_id": "2053193934961311769",
+        "created_at": "2026-05-09T19:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053193934961311769"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SIHDOqcTeb",
+              "end": 48,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2053135404426056002/video/1",
+              "media_key": "13_2053108601762504704",
+              "start": 25,
+              "url": "https://t.co/SIHDOqcTeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053193934961311769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的不怕被老中家长举报么，感觉教资要融化了😱😱😱 https://t.co/SIHDOqcTeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 684,
+          "like_count": 14119,
+          "listed_count": 5,
+          "media_count": 1368,
+          "tweet_count": 11195
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-24T06:22:15.000Z",
+        "description": "🇨🇳FromChina/05年184天空树🎄65kg/🏫HIE/📡BI7AWY/🟪MTX间断含糖🍥/😝说话是狗屁不通文章生成器/🏥休学8年/ASD+ADHD💊/在读机械狗一枚/全科通识考试弱智，应试教育失败品/🆗机械⚙️电气⚡️天文🔭地理🗺️医学🩺生物🧫瑟瑟🥵/❎历史🏺政治📚脑残🤪",
+        "id": "1430052755352166401",
+        "location": "距离你2.8km",
+        "name": "安雯雨🌧️🌧️Wendy_Ai🍥～🟡⚪️🟣⚫️",
+        "pinned_tweet_id": "2053055248185597964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033212769781387264/ROqqnl7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 774,
+          "like_count": 3295,
+          "listed_count": 0,
+          "media_count": 215,
+          "tweet_count": 1336
+        },
+        "username": "Wendy_Ai2005",
+        "verified": true
+      }
+    ]
+  }
+}

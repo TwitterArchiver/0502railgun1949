@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042303955074761207",
+    "created_at": "2026-04-09T18:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042303959248052690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042303959248052690",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042303955074761207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "俄罗斯人看着他们，一脸困惑地问：“等一下，难道你们所谓的‘肉’，竟然不是靠麦克风生成的吗？”\n路人问：“那要是狗叫累了怎么办？”\n伊朗人回答：“那就把游戏里的音效开到最大，假装我们还在赢。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042303955074761207",
+        "created_at": "2026-04-09T18:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042303959248052690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042303959248052690",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042303955074761207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俄罗斯人看着他们，一脸困惑地问：“等一下，难道你们所谓的‘肉’，竟然不是靠麦克风生成的吗？”\n路人问：“那要是狗叫累了怎么办？”\n伊朗人回答：“那就把游戏里的音效开到最大，假装我们还在赢。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042303955074761207",
+        "created_at": "2026-04-09T18:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042303955074761207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/hsn8086/status/2042072156583105003",
+              "start": 140,
+              "url": "https://t.co/shpXVApH5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042303955074761207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042072156583105003",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美国人炫耀道：“我们国家推行‘犬道’管理，我的狗只要对着麦克风叫得足够大声，我就能给它争取到肉吃，这就是言论的力量。”\n\n伊朗人叹了口气说：“在我的家乡，情况也差不多。我的狗必须每天对着麦克风拼命咆哮，对着西方汪汪乱叫，如果不叫得足够洪亮且连续，不仅没有肉吃，连狗命都保不住。” https://t.co/shpXVApH5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 656,
+          "like_count": 12568,
+          "listed_count": 3,
+          "media_count": 1309,
+          "tweet_count": 9970
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

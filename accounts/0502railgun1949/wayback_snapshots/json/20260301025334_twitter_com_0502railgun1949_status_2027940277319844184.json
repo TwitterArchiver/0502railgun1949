@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2027285488844099584"
+      ],
+      "media_source_tweet_id": [
+        "2027285556821115245"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027940277319844184",
+    "created_at": "2026-03-01T02:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T03:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027940277319844184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "962077200",
+          "start": 3,
+          "username": "IgnoredBot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFXDSjYQbS",
+          "end": 98,
+          "expanded_url": "https://x.com/IgnoredBot/status/2027285556821115245/video/1",
+          "media_key": "13_2027285488844099584",
+          "start": 75,
+          "url": "https://t.co/zFXDSjYQbS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027940277319844184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027285556821115245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IgnoredBot: 《新闻联播》居然历史上唯一一次国际新闻放在头条,而且还播了6分多钟,后来911好像都没这个待遇.那时候新闻还挺开放的 https://t.co/zFXDSjYQbS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 430048,
+        "height": 960,
+        "media_key": "13_2027285488844099584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027285488844099584/img/QZdjddjkLnwLaF_W.jpg",
+        "public_metrics": {
+          "view_count": 276203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027285488844099584/vid/avc1/320x426/07z_Rd-94667UWEL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027285488844099584/vid/avc1/480x640/RASrw8JOpbcUAcq4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027285488844099584/vid/avc1/720x960/09lYaRvd4mF-miiC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027285488844099584/pl/pzAnCKI07KN6cN43.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027285488844099584"
+          ],
+          "media_source_tweet_id": [
+            "2027285556821115245"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027940277319844184",
+        "created_at": "2026-03-01T02:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T03:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027940277319844184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "962077200",
+              "start": 3,
+              "username": "IgnoredBot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFXDSjYQbS",
+              "end": 98,
+              "expanded_url": "https://x.com/IgnoredBot/status/2027285556821115245/video/1",
+              "media_key": "13_2027285488844099584",
+              "start": 75,
+              "url": "https://t.co/zFXDSjYQbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027940277319844184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027285556821115245",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IgnoredBot: 《新闻联播》居然历史上唯一一次国际新闻放在头条,而且还播了6分多钟,后来911好像都没这个待遇.那时候新闻还挺开放的 https://t.co/zFXDSjYQbS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027285488844099584"
+          ]
+        },
+        "author_id": "962077200",
+        "conversation_id": "2027285556821115245",
+        "created_at": "2026-02-27T07:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027285556821115245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFXDSjYQbS",
+              "end": 82,
+              "expanded_url": "https://x.com/IgnoredBot/status/2027285556821115245/video/1",
+              "media_key": "13_2027285488844099584",
+              "start": 59,
+              "url": "https://t.co/zFXDSjYQbS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027285556821115245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 36447,
+          "like_count": 850,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "《新闻联播》居然历史上唯一一次国际新闻放在头条,而且还播了6分多钟,后来911好像都没这个待遇.那时候新闻还挺开放的 https://t.co/zFXDSjYQbS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 612,
+          "like_count": 10867,
+          "listed_count": 3,
+          "media_count": 1199,
+          "tweet_count": 8482
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T09:32:51.000Z",
+        "description": "工作是996，新闻是404，生活是普通人被算法遗忘的副本。人生苦短，新闻更短。点个关注，一起emo。| Mainstream too busy? We post the stuff nobody asked for. Ordinary life, zero likes, still going.",
+        "id": "962077200",
+        "name": "被忽略bot",
+        "pinned_tweet_id": "2020490608616538302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021682786449707008/4NbW5dve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5710,
+          "following_count": 2467,
+          "like_count": 411,
+          "listed_count": 9,
+          "media_count": 519,
+          "tweet_count": 4988
+        },
+        "username": "IgnoredBot",
+        "verified": true
+      }
+    ]
+  }
+}

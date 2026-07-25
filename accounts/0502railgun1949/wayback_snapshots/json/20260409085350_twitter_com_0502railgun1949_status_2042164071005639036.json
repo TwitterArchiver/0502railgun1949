@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042163368547832129",
+    "created_at": "2026-04-09T08:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042164071005639036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925129997922263040",
+          "start": 0,
+          "username": "shiyousana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042164071005639036",
+    "in_reply_to_user_id": "1925129997922263040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042163368547832129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyousana 一般崩溃不会有什么好结果\n重新洗牌也没有那么理想\n一堆沙子搭成一个沙塔，可能需要24小时\n但是倒下只需要一秒钟不到的时间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042163368547832129",
+        "created_at": "2026-04-09T08:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042164071005639036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925129997922263040",
+              "start": 0,
+              "username": "shiyousana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042164071005639036",
+        "in_reply_to_user_id": "1925129997922263040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042163368547832129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyousana 一般崩溃不会有什么好结果\n重新洗牌也没有那么理想\n一堆沙子搭成一个沙塔，可能需要24小时\n但是倒下只需要一秒钟不到的时间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925129997922263040",
+        "conversation_id": "2042163368547832129",
+        "created_at": "2026-04-09T08:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042163368547832129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042163368547832129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最希望的是人类建立的共识全部消解\n可能只是我过的一般般吧\n只是感觉一切都建立在一个看起来似乎牢固实际上完全禁不起推敲的根基上，需要强暴的外力重塑，但问题是之后大概之后重蹈覆辙，愿意并且有能力去理解的总是少数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 657,
+          "like_count": 12509,
+          "listed_count": 3,
+          "media_count": 1307,
+          "tweet_count": 9939
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T10:02:26.000Z",
+        "description": "一个无名幽灵罢了",
+        "id": "1925129997922263040",
+        "location": "第？层梦境",
+        "name": "白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925130324675309568/Hv6FyNKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 129,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 266
+        },
+        "username": "shiyousana",
+        "verified": false
+      }
+    ]
+  }
+}

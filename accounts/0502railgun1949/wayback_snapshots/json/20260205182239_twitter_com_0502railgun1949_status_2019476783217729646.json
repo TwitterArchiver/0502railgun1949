@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2019476783217729646",
+    "created_at": "2026-02-05T18:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T19:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019476783217729646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "46574977",
+          "start": 3,
+          "username": "ChineseWSJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/4tJP2",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/4tJP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019476783217729646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018912444207304827",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChineseWSJ: 美国股市周二收低，软件和大型科技股表现不佳，标普500指数在纪录高位附近交投，易于出现回调。一位行业人士在一次采访中表示，尽管经济增长一直为美国股市提供支撑，但“我确实认为，我们都担心的是这一背景是多么脆弱”。https://t.co/4tJP2…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2019476783217729646",
+        "created_at": "2026-02-05T18:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T19:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019476783217729646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "46574977",
+              "start": 3,
+              "username": "ChineseWSJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/4tJP2",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/4tJP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019476783217729646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018912444207304827",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChineseWSJ: 美国股市周二收低，软件和大型科技股表现不佳，标普500指数在纪录高位附近交投，易于出现回调。一位行业人士在一次采访中表示，尽管经济增长一直为美国股市提供支撑，但“我确实认为，我们都担心的是这一背景是多么脆弱”。https://t.co/4tJP2…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46574977",
+        "conversation_id": "2018912444207304827",
+        "created_at": "2026-02-04T05:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T06:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018912444207304827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "联博股票主管Nelson Yu表示，尽管经济增长一直为美国股市提供支撑，但“我确实认为，我们都担心的是这一背景是多么脆弱”。",
+              "display_url": "on.wsj.com/4kggIJ2",
+              "end": 128,
+              "expanded_url": "https://on.wsj.com/4kggIJ2",
+              "start": 105,
+              "status": 200,
+              "title": "软件股大跌拖累美股，抛售结束了吗？",
+              "unwound_url": "https://cn.wsj.com/articles/%E8%BD%AF%E4%BB%B6%E8%82%A1%E5%A4%A7%E8%B7%8C%E6%8B%96%E7%B4%AF%E7%BE%8E%E8%82%A1-%E6%8A%9B%E5%94%AE%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97-1d11fc8c",
+              "url": "https://t.co/4tJP2Ik0oo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018912444207304827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14506,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "美国股市周二收低，软件和大型科技股表现不佳，标普500指数在纪录高位附近交投，易于出现回调。一位行业人士在一次采访中表示，尽管经济增长一直为美国股市提供支撑，但“我确实认为，我们都担心的是这一背景是多么脆弱”。https://t.co/4tJP2Ik0oo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 609,
+          "like_count": 10759,
+          "listed_count": 3,
+          "media_count": 1135,
+          "tweet_count": 8145
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T03:55:58.000Z",
+        "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cn.wsj.com",
+                "end": 142,
+                "expanded_url": "http://cn.wsj.com",
+                "start": 119,
+                "url": "https://t.co/Ay39I3A0HH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.wsj.com",
+                "end": 23,
+                "expanded_url": "https://cn.wsj.com/",
+                "start": 0,
+                "url": "https://t.co/YEMZVdznen"
+              }
+            ]
+          }
+        },
+        "id": "46574977",
+        "location": "China",
+        "name": "华尔街日报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3304102,
+          "following_count": 498,
+          "like_count": 8,
+          "listed_count": 9283,
+          "media_count": 6012,
+          "tweet_count": 91474
+        },
+        "url": "https://t.co/YEMZVdznen",
+        "username": "ChineseWSJ",
+        "verified": true
+      }
+    ]
+  }
+}

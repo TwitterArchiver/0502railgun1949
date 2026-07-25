@@ -1,0 +1,337 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1804142299842265088"
+      ],
+      "media_source_tweet_id": [
+        "1804142308415410513"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1804737863365586972",
+    "created_at": "2024-06-23T04:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-23T05:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804737863365586972"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "ツインテールちゃん",
+          "probability": 0.2769,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 16,
+          "tag": "これでフォロワーさん増えました"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1693933270755594240",
+          "start": 3,
+          "username": "shinoo0915"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/aN4kuwiCcg",
+          "end": 69,
+          "expanded_url": "https://twitter.com/shinoo0915/status/1804142308415410513/photo/1",
+          "media_key": "3_1804142299842265088",
+          "start": 46,
+          "url": "https://t.co/aN4kuwiCcg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804737863365586972",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1928
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804142308415410513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinoo0915: #これでフォロワーさん増えました\n ツインテールちゃん🎇👻 https://t.co/aN4kuwiCcg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1978,
+        "media_key": "3_1804142299842265088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQmZ3OpawAA-Ja9.jpg",
+        "width": 1526
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804142299842265088"
+          ],
+          "media_source_tweet_id": [
+            "1804142308415410513"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1804737863365586972",
+        "created_at": "2024-06-23T04:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-23T05:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804737863365586972"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "ツインテールちゃん",
+              "probability": 0.2769,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 16,
+              "tag": "これでフォロワーさん増えました"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1693933270755594240",
+              "start": 3,
+              "username": "shinoo0915"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aN4kuwiCcg",
+              "end": 69,
+              "expanded_url": "https://twitter.com/shinoo0915/status/1804142308415410513/photo/1",
+              "media_key": "3_1804142299842265088",
+              "start": 46,
+              "url": "https://t.co/aN4kuwiCcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804737863365586972",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1928
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804142308415410513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinoo0915: #これでフォロワーさん増えました\n ツインテールちゃん🎇👻 https://t.co/aN4kuwiCcg"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804142299842265088"
+          ]
+        },
+        "author_id": "1693933270755594240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1804142308415410513",
+        "created_at": "2024-06-21T13:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T14:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804142308415410513"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "ツインテールちゃん",
+              "probability": 0.3538,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 0,
+              "tag": "これでフォロワーさん増えました"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/aN4kuwiCcg",
+              "end": 53,
+              "expanded_url": "https://twitter.com/shinoo0915/status/1804142308415410513/photo/1",
+              "media_key": "3_1804142299842265088",
+              "start": 30,
+              "url": "https://t.co/aN4kuwiCcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804142308415410513",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1149,
+          "impression_count": 198087,
+          "like_count": 16950,
+          "quote_count": 24,
+          "reply_count": 9,
+          "retweet_count": 1928
+        },
+        "reply_settings": "everyone",
+        "text": "#これでフォロワーさん増えました\n ツインテールちゃん🎇👻 https://t.co/aN4kuwiCcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 747,
+          "like_count": 2995,
+          "listed_count": 1,
+          "tweet_count": 3140
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:29:04.000Z",
+        "description": "20↑/ お絵描き垢 《skeb》6月下旬再開→ https://t.co/4CC3SITTLZ アイコン等で使用される時はホーム画面にIDを記載してください！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@shinoo0915",
+                "end": 48,
+                "expanded_url": "https://skeb.jp/@shinoo0915",
+                "start": 25,
+                "url": "https://t.co/4CC3SITTLZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/shino0915",
+                "end": 23,
+                "expanded_url": "https://lit.link/shino0915",
+                "start": 0,
+                "url": "https://t.co/V1cp1lhd3I"
+              }
+            ]
+          }
+        },
+        "id": "1693933270755594240",
+        "location": "無断転載・AI学習禁止",
+        "name": "慕乃🌸",
+        "pinned_tweet_id": "1798692098113437750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790705924661010433/kVX2T005_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28324,
+          "following_count": 37,
+          "like_count": 1456,
+          "listed_count": 127,
+          "tweet_count": 1268
+        },
+        "url": "https://t.co/V1cp1lhd3I",
+        "username": "shinoo0915",
+        "verified": false
+      }
+    ]
+  }
+}

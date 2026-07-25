@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1823250691479269399",
+    "created_at": "2024-08-13T06:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T07:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823250691479269399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/OwOb_QAQ/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/OwOb_QAQ/status/1820738434308428202",
+          "start": 12,
+          "url": "https://t.co/SdZfOVs8Da"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823250691479269399",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820738434308428202",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对我来说，这是一种奢求 https://t.co/SdZfOVs8Da"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1823250691479269399",
+        "created_at": "2024-08-13T06:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T07:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823250691479269399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OwOb_QAQ/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/OwOb_QAQ/status/1820738434308428202",
+              "start": 12,
+              "url": "https://t.co/SdZfOVs8Da"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823250691479269399",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820738434308428202",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我来说，这是一种奢求 https://t.co/SdZfOVs8Da"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1026482173300236288",
+        "conversation_id": "1820733719617163646",
+        "created_at": "2024-08-06T08:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T09:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820738434308428202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1783438132668776448",
+              "start": 0,
+              "username": "zhonghiufufu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820738434308428202",
+        "in_reply_to_user_id": "1783438132668776448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 983,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820733719617163646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhonghiufufu 有能力感到開心就是幸福，不能感受再多物質也幸福不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 744,
+          "following_count": 746,
+          "like_count": 3715,
+          "listed_count": 2,
+          "tweet_count": 3540
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-06T14:56:36.000Z",
+        "description": "OwO",
+        "id": "1026482173300236288",
+        "name": "OwO!!!!",
+        "pinned_tweet_id": "1786003424435417526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810639286968184832/BmodBI8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 407,
+          "like_count": 12998,
+          "listed_count": 0,
+          "tweet_count": 2131
+        },
+        "username": "OwOb_QAQ",
+        "verified": true
+      }
+    ]
+  }
+}

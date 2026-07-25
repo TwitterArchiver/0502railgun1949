@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887768951280840704"
+      ],
+      "media_source_tweet_id": [
+        "1887768958184661062"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1887843088334557530",
+    "created_at": "2025-02-07T12:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T13:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887843088334557530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1814902427147227136",
+          "start": 3,
+          "username": "SyntaxMachine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKVl0Dsbby",
+          "end": 75,
+          "expanded_url": "https://x.com/SyntaxMachine/status/1887768958184661062/photo/1",
+          "media_key": "3_1887768951280840704",
+          "start": 52,
+          "url": "https://t.co/GKVl0Dsbby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887843088334557530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3013
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887768958184661062",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SyntaxMachine: 円周率見てたら81019194545114514出てきて終わった https://t.co/GKVl0Dsbby"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_1887768951280840704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjKz2_8bMAA2dDT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887768951280840704"
+          ],
+          "media_source_tweet_id": [
+            "1887768958184661062"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1887843088334557530",
+        "created_at": "2025-02-07T12:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T13:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887843088334557530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1814902427147227136",
+              "start": 3,
+              "username": "SyntaxMachine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKVl0Dsbby",
+              "end": 75,
+              "expanded_url": "https://x.com/SyntaxMachine/status/1887768958184661062/photo/1",
+              "media_key": "3_1887768951280840704",
+              "start": 52,
+              "url": "https://t.co/GKVl0Dsbby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887843088334557530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3013
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887768958184661062",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SyntaxMachine: 円周率見てたら81019194545114514出てきて終わった https://t.co/GKVl0Dsbby"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887768951280840704"
+          ]
+        },
+        "author_id": "1814902427147227136",
+        "conversation_id": "1887768958184661062",
+        "created_at": "2025-02-07T07:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T08:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887768958184661062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKVl0Dsbby",
+              "end": 56,
+              "expanded_url": "https://x.com/SyntaxMachine/status/1887768958184661062/photo/1",
+              "media_key": "3_1887768951280840704",
+              "start": 33,
+              "url": "https://t.co/GKVl0Dsbby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887768958184661062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1940,
+          "impression_count": 1970708,
+          "like_count": 32818,
+          "quote_count": 245,
+          "reply_count": 105,
+          "retweet_count": 3013
+        },
+        "reply_settings": "everyone",
+        "text": "円周率見てたら81019194545114514出てきて終わった https://t.co/GKVl0Dsbby"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 748,
+          "like_count": 6539,
+          "listed_count": 1,
+          "media_count": 882,
+          "tweet_count": 5493
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T05:57:34.000Z",
+        "description": "語彙力",
+        "id": "1814902427147227136",
+        "name": "神託機械",
+        "pinned_tweet_id": "1827329128011563196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827734751404265472/0lv1JCJ8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4796,
+          "following_count": 249,
+          "like_count": 5149,
+          "listed_count": 12,
+          "media_count": 223,
+          "tweet_count": 624
+        },
+        "username": "SyntaxMachine",
+        "verified": false
+      }
+    ]
+  }
+}

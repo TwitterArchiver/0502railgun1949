@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1913604074710450460",
+    "created_at": "2025-04-19T15:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T16:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913621444304732488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752257128088395776",
+          "start": 0,
+          "username": "AkashicEternal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913621444304732488",
+    "in_reply_to_user_id": "1752257128088395776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913618478680166488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkashicEternal - 自然教育：观念源于观察，确保正确应用；人为教育：提前灌输他人观念，易导致误判。\n- 批评教育常使年轻人进入世界时观点简单或扭曲，表现为焦虑或自负。\n观察优先\n- 强调观察应先于观念，避免偏见；反之如“脚先出生”或“韵律先于理智”，易导致错误\n- 建议16岁前避免哲学、宗教和一般性观点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1913604074710450460",
+        "created_at": "2025-04-19T15:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913621444304732488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752257128088395776",
+              "start": 0,
+              "username": "AkashicEternal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913621444304732488",
+        "in_reply_to_user_id": "1752257128088395776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913618478680166488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkashicEternal - 自然教育：观念源于观察，确保正确应用；人为教育：提前灌输他人观念，易导致误判。\n- 批评教育常使年轻人进入世界时观点简单或扭曲，表现为焦虑或自负。\n观察优先\n- 强调观察应先于观念，避免偏见；反之如“脚先出生”或“韵律先于理智”，易导致错误\n- 建议16岁前避免哲学、宗教和一般性观点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752257128088395776",
+        "conversation_id": "1913604074710450460",
+        "created_at": "2025-04-19T15:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913618478680166488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913618478680166488",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913604074710450460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 我滴个老天奶啊\n这难道就是传说中的\n“智慧到了极致反而会自伤”吗？\n\n我一直以为这只是个传说，没想到居然是真的\n\n我祝愿你一句话，希望对你有帮助\n————愿你历尽千帆，归来仍是少年"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 738,
+          "like_count": 6934,
+          "listed_count": 2,
+          "media_count": 957,
+          "tweet_count": 6029
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-30T09:07:53.000Z",
+        "description": "我是一名\n《永远的七日之都》的阳光型玩家\n头像是游戏海报\n我是ACGN圈子的\n我对西方的精神分析学\n和东方的阳明心学有些许的兴趣\n（连业余的也算不上 纯属好奇\n深思的主题是各种社会问题）\n\n我是个剧情党&网虫\n日常是各种故事、音乐、壁纸\n我的VX是“masterworkapocalypse”\n\n欢迎进行游戏剧情上的交流",
+        "id": "1752257128088395776",
+        "location": "交界都市·圣芙蕾雅学院·阿克夏图书馆·天一阁",
+        "name": "阿克夏·恒周环",
+        "pinned_tweet_id": "1882830910237848031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752259386939154432/0ctxO0tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 141,
+          "like_count": 6584,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1891
+        },
+        "username": "AkashicEternal",
+        "verified": false
+      }
+    ]
+  }
+}

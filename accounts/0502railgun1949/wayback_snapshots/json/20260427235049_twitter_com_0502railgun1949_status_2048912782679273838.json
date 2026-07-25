@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048835322515951616"
+      ],
+      "media_source_tweet_id": [
+        "2048835325120622818"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2048912782679273838",
+    "created_at": "2026-04-27T23:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T00:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048912782679273838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1263200873628471296",
+          "start": 3,
+          "username": "PicturesUssr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UdKIRufH97",
+          "end": 78,
+          "expanded_url": "https://x.com/PicturesUssr/status/2048835325120622818/photo/1",
+          "media_key": "3_2048835322515951616",
+          "start": 55,
+          "url": "https://t.co/UdKIRufH97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048912782679273838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048835325120622818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PicturesUssr: Moscow’s Sheremetyevo Airport, 1980s https://t.co/UdKIRufH97"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2048835322515951616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7s3uHWEAATIfh.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048835322515951616"
+          ],
+          "media_source_tweet_id": [
+            "2048835325120622818"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2048912782679273838",
+        "created_at": "2026-04-27T23:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048912782679273838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1263200873628471296",
+              "start": 3,
+              "username": "PicturesUssr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdKIRufH97",
+              "end": 78,
+              "expanded_url": "https://x.com/PicturesUssr/status/2048835325120622818/photo/1",
+              "media_key": "3_2048835322515951616",
+              "start": 55,
+              "url": "https://t.co/UdKIRufH97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048912782679273838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048835325120622818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PicturesUssr: Moscow’s Sheremetyevo Airport, 1980s https://t.co/UdKIRufH97"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048835322515951616"
+          ]
+        },
+        "author_id": "1263200873628471296",
+        "conversation_id": "2048835325120622818",
+        "created_at": "2026-04-27T18:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T19:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048835325120622818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UdKIRufH97",
+              "end": 60,
+              "expanded_url": "https://x.com/PicturesUssr/status/2048835325120622818/photo/1",
+              "media_key": "3_2048835322515951616",
+              "start": 37,
+              "url": "https://t.co/UdKIRufH97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048835325120622818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 11598,
+          "like_count": 843,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Moscow’s Sheremetyevo Airport, 1980s https://t.co/UdKIRufH97"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 692,
+          "like_count": 13741,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10834
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T20:13:49.000Z",
+        "description": "Pictures and photographs from Soviet Union 🚩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ussrpictures",
+                "end": 23,
+                "expanded_url": "https://instagram.com/ussrpictures",
+                "start": 0,
+                "url": "https://t.co/Qq7NDIihmq"
+              }
+            ]
+          }
+        },
+        "id": "1263200873628471296",
+        "location": "USSR",
+        "name": "USSR Pictures",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263201378337542146/arQpQpPY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174250,
+          "following_count": 326,
+          "like_count": 597,
+          "listed_count": 599,
+          "media_count": 7067,
+          "tweet_count": 7526
+        },
+        "url": "https://t.co/Qq7NDIihmq",
+        "username": "PicturesUssr",
+        "verified": true
+      }
+    ]
+  }
+}

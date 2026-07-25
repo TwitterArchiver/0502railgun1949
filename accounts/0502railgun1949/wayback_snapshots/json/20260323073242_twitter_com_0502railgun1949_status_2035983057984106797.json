@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Special Education",
+          "id": "852273994698956800",
+          "name": "Special Education"
+        }
+      }
+    ],
+    "conversation_id": "2035813778248306803",
+    "created_at": "2026-03-23T07:32:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:32:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035983057984106797"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 134,
+          "normalized_text": "ASD",
+          "probability": 0.9067,
+          "start": 132,
+          "type": "Other"
+        },
+        {
+          "end": 143,
+          "normalized_text": "ADHD",
+          "probability": 0.9704,
+          "start": 140,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "lianda_edu"
+        },
+        {
+          "end": 26,
+          "id": "1676687420077531140",
+          "start": 12,
+          "username": "selfattentive"
+        },
+        {
+          "end": 36,
+          "id": "1661136128",
+          "start": 27,
+          "username": "alz_zyd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035983057984106797",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035940626399985717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianda_edu @selfattentive @alz_zyd_ Chinese education needs to do a lot of topics repeatedly, which has troubled me, a person with ASD and ADHD, so I haven't done much homework since I was a child."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Special Education",
+              "id": "852273994698956800",
+              "name": "Special Education"
+            }
+          }
+        ],
+        "conversation_id": "2035813778248306803",
+        "created_at": "2026-03-23T07:32:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:32:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035983057984106797"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "ASD",
+              "probability": 0.9067,
+              "start": 132,
+              "type": "Other"
+            },
+            {
+              "end": 143,
+              "normalized_text": "ADHD",
+              "probability": 0.9704,
+              "start": 140,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "lianda_edu"
+            },
+            {
+              "end": 26,
+              "id": "1676687420077531140",
+              "start": 12,
+              "username": "selfattentive"
+            },
+            {
+              "end": 36,
+              "id": "1661136128",
+              "start": 27,
+              "username": "alz_zyd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035983057984106797",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035940626399985717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianda_edu @selfattentive @alz_zyd_ Chinese education needs to do a lot of topics repeatedly, which has troubled me, a person with ASD and ADHD, so I haven't done much homework since I was a child."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "conversation_id": "2035813778248306803",
+        "created_at": "2026-03-23T04:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035940626399985717"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 241,
+              "normalized_text": "ADHD",
+              "probability": 0.9581,
+              "start": 238,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1676687420077531140",
+              "start": 0,
+              "username": "selfattentive"
+            },
+            {
+              "end": 24,
+              "id": "1661136128",
+              "start": 15,
+              "username": "alz_zyd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035940626399985717",
+        "in_reply_to_user_id": "1676687420077531140",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035841472398811286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@selfattentive @alz_zyd_ \"It depends on how you define 'stuck.' When I’m doing problems, I often zone out or make calculation mistakes. I feel like linear algebra—with all its complicated computations—isn’t really suited for someone with ADHD."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 631,
+          "like_count": 11246,
+          "listed_count": 3,
+          "media_count": 1255,
+          "tweet_count": 8922
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer\nDefi ,Fintech ,Algorithmic Game Theory\nThe University of Hong Kong  @HKUniversity @nberpubs\nSenior Research Assistant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "nberpubs"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "NBER",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2035730255743484163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 830,
+          "like_count": 16650,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 21742
+        },
+        "username": "lianda_edu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T20:20:21.000Z",
+        "description": "deep learning stuff mostly",
+        "id": "1676687420077531140",
+        "location": "local minima (chicago)",
+        "name": "biased estimator",
+        "pinned_tweet_id": "1929650961124855965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836522331457421313/vDGJOZmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 1701,
+          "like_count": 105988,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 2764
+        },
+        "username": "selfattentive",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-10T22:58:48.000Z",
+        "description": "pfp by @ShizzyAizawa. Post-Newtonian heterodox economist. Inventor of the JvN hypothesis. World champion of econ/finance/food ragebait. Hermit savant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "ShizzyAizawa"
+              }
+            ]
+          }
+        },
+        "id": "1661136128",
+        "name": "alz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548663597668122627/-u985urp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33106,
+          "following_count": 17401,
+          "like_count": 105899,
+          "listed_count": 426,
+          "media_count": 2047,
+          "tweet_count": 40028
+        },
+        "username": "alz_zyd_",
+        "verified": true
+      }
+    ]
+  }
+}

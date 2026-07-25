@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1953337307831935338",
+    "created_at": "2025-08-07T12:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T13:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953436173109465362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1733491347431321600",
+          "start": 0,
+          "username": "AlphaOrionis09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953436173109465362",
+    "in_reply_to_user_id": "1733491347431321600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953337307831935338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlphaOrionis09 好耶是火车"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15100,
+        "height": 720,
+        "media_key": "13_1953337230585675778",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1953337230585675778/img/l2yE6uP2QZZPKsHk.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953337230585675778/vid/avc1/320x320/Vi1IgcErlyIGa1zW.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953337230585675778/vid/avc1/540x540/SsYfkrtXoFcuE6Go.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1953337230585675778/vid/avc1/720x720/EpXMc2W4keQdEz3J.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1953337230585675778/pl/AILp5XJ_mC2c6wX6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1953337307831935338",
+        "created_at": "2025-08-07T12:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T13:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953436173109465362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1733491347431321600",
+              "start": 0,
+              "username": "AlphaOrionis09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953436173109465362",
+        "in_reply_to_user_id": "1733491347431321600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953337307831935338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlphaOrionis09 好耶是火车"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1953337230585675778"
+          ]
+        },
+        "author_id": "1733491347431321600",
+        "conversation_id": "1953337307831935338",
+        "created_at": "2025-08-07T06:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T07:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953337307831935338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3tBXOAddUg",
+              "end": 23,
+              "expanded_url": "https://x.com/AlphaOrionis09/status/1953337307831935338/video/1",
+              "media_key": "13_1953337230585675778",
+              "start": 0,
+              "url": "https://t.co/3tBXOAddUg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953337307831935338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3tBXOAddUg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 629,
+          "like_count": 10221,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7294
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-09T14:18:47.000Z",
+        "description": "⚜️幽霊＆ﾃﾝｼ｜ＳＮＳノ詩人。（最近打工战士是）",
+        "id": "1733491347431321600",
+        "location": "无线电波",
+        "name": "Akari",
+        "pinned_tweet_id": "1850896106701595124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927578034183282688/kbxoqUWc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 684,
+          "like_count": 14389,
+          "listed_count": 5,
+          "media_count": 659,
+          "tweet_count": 8226
+        },
+        "username": "AlphaOrionis09",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2039181549883822096",
+    "created_at": "2026-04-03T02:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T03:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039891480937218430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039891480937218430",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039181549883822096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 第1个好，第2个已经被。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2039181549883822096",
+        "created_at": "2026-04-03T02:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T03:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039891480937218430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039891480937218430",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039181549883822096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 第1个好，第2个已经被。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006896037412352000",
+        "conversation_id": "2039181549883822096",
+        "created_at": "2026-04-01T03:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T04:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039181549883822096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039181549883822096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻墙用NekoBox好还是clash meta好，本人是臭安卓👿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 646,
+          "like_count": 11769,
+          "listed_count": 3,
+          "media_count": 1288,
+          "tweet_count": 9377
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "自杀未遂×2（都是氨基比林）\n有自杀倾向，重度抑郁症转双相情感障碍和精神分裂，目前在住院，后面会休学",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "闭眼就可以死了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006896258032836608/mOYRBMwx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 17,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 44
+        },
+        "username": "plh1649513",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1990219907385197011",
+    "created_at": "2025-11-17T00:46:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:46:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990219907385197011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pal_is_working…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/pal_is_working/status/1989693875745890450",
+          "start": 18,
+          "url": "https://t.co/d9WanKRtF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990219907385197011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989693875745890450",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "玩具冻坏了就更伤心了\n塑料最怕冻的 https://t.co/d9WanKRtF5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1289,
+        "media_key": "3_1989693869739708420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5zQCF2bkAQ5H65.jpg",
+        "width": 1085
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1990219907385197011",
+        "created_at": "2025-11-17T00:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990219907385197011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pal_is_working…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/pal_is_working/status/1989693875745890450",
+              "start": 18,
+              "url": "https://t.co/d9WanKRtF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990219907385197011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989693875745890450",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "玩具冻坏了就更伤心了\n塑料最怕冻的 https://t.co/d9WanKRtF5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989693869739708420"
+          ]
+        },
+        "author_id": "1920491118267150336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989693875745890450",
+        "created_at": "2025-11-15T13:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T14:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989693875745890450"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "帕魯帶崽"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGtv42fGZ7",
+              "end": 60,
+              "expanded_url": "https://x.com/pal_is_working/status/1989693875745890450/photo/1",
+              "media_key": "3_1989693869739708420",
+              "start": 37,
+              "url": "https://t.co/GGtv42fGZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989693875745890450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 134,
+          "impression_count": 75270,
+          "like_count": 1848,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "謝謝演算法讓我刷到這個\n經筍主播證實，這招的效果十分顯著🙌\n\n#帕魯帶崽 https://t.co/GGtv42fGZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 624,
+          "like_count": 10988,
+          "listed_count": 3,
+          "media_count": 1089,
+          "tweet_count": 7862
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T14:49:39.000Z",
+        "description": "晚縣長工  @wanwan_voice | 自主加班 |  你各位的大嫂 | 為什麼大家想曹的是我？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "wanwan_voice"
+              }
+            ]
+          }
+        },
+        "id": "1920491118267150336",
+        "location": "晚縣",
+        "name": "次帕加班中🦊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920491326296002560/DqiLwfBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 56,
+          "like_count": 564,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 273
+        },
+        "username": "pal_is_working",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2000862507028898031",
+    "created_at": "2025-12-16T09:36:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T10:36:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000862507028898031"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iPaulCanada/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/iPaulCanada/status/2000596068095197360",
+          "start": 51,
+          "url": "https://t.co/weQbfo8evz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000862507028898031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000596068095197360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真可怜，肯定看见无数的战友从身边倒下，带着兄弟的尸体回了家，庆幸孩子还有自己的爸爸\n战争就是这样残酷 https://t.co/weQbfo8evz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 87190,
+        "height": 720,
+        "media_key": "13_2000595985911652355",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2000595985911652355/img/s5Zbizid9i--diWR.jpg",
+        "public_metrics": {
+          "view_count": 198240
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000595985911652355/vid/avc1/480x270/wvoG67eCcLTVfXyi.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000595985911652355/vid/avc1/640x360/h-8k3VE7Hik6kS1e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2000595985911652355/vid/avc1/1280x720/ZaiujuXr4T5GHTzH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2000595985911652355/pl/UEaALadw96XkXrdu.m3u8?v=336"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2000862507028898031",
+        "created_at": "2025-12-16T09:36:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T10:36:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000862507028898031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iPaulCanada/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/iPaulCanada/status/2000596068095197360",
+              "start": 51,
+              "url": "https://t.co/weQbfo8evz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000862507028898031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000596068095197360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真可怜，肯定看见无数的战友从身边倒下，带着兄弟的尸体回了家，庆幸孩子还有自己的爸爸\n战争就是这样残酷 https://t.co/weQbfo8evz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2000595985911652355"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "2000596068095197360",
+        "created_at": "2025-12-15T15:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000596068095197360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xRq59Linx9",
+              "end": 45,
+              "expanded_url": "https://x.com/iPaulCanada/status/2000596068095197360/video/1",
+              "media_key": "13_2000595985911652355",
+              "start": 22,
+              "url": "https://t.co/xRq59Linx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000596068095197360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 151150,
+          "like_count": 424,
+          "quote_count": 11,
+          "reply_count": 101,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "朝鲜赴俄士兵归国宴现场：眼泪比饭菜先上桌。 https://t.co/xRq59Linx9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 603,
+          "like_count": 11185,
+          "listed_count": 3,
+          "media_count": 1115,
+          "tweet_count": 7996
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "the North Star",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158896,
+          "following_count": 499,
+          "like_count": 7557,
+          "listed_count": 642,
+          "media_count": 10955,
+          "tweet_count": 17455
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

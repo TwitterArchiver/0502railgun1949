@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1893092889405837350",
+    "created_at": "2025-02-22T00:18:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-22T01:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1893092889405837350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RevolutionTide…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/RevolutionTide/status/1892966341008662871",
+          "start": 89,
+          "url": "https://t.co/O82Z0pF2rW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893092889405837350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892966341008662871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "模型本质上就是为了应试才创造出来的东西\n是非常弱智的\n你这样的模型真的能用在生产实践中吗\n就是为了难度而难度\n这东西本质上就是只适合搞理论的人去弄\n对于实践基本没有什么指导意义 https://t.co/O82Z0pF2rW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892966307701706752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkUq09ZX0AA_jUf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1892966307701645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkUq09ZW4AAsWf1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1893092889405837350",
+        "created_at": "2025-02-22T00:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-22T01:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893092889405837350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RevolutionTide…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/RevolutionTide/status/1892966341008662871",
+              "start": 89,
+              "url": "https://t.co/O82Z0pF2rW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893092889405837350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892966341008662871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "模型本质上就是为了应试才创造出来的东西\n是非常弱智的\n你这样的模型真的能用在生产实践中吗\n就是为了难度而难度\n这东西本质上就是只适合搞理论的人去弄\n对于实践基本没有什么指导意义 https://t.co/O82Z0pF2rW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892966307701706752",
+            "3_1892966307701645312"
+          ]
+        },
+        "author_id": "1511185667274907652",
+        "conversation_id": "1892966341008662871",
+        "created_at": "2025-02-21T15:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T16:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892966341008662871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sJFv5Mv7I2",
+              "end": 55,
+              "expanded_url": "https://x.com/RevolutionTide/status/1892966341008662871/photo/1",
+              "media_key": "3_1892966307701706752",
+              "start": 32,
+              "url": "https://t.co/sJFv5Mv7I2"
+            },
+            {
+              "display_url": "pic.x.com/sJFv5Mv7I2",
+              "end": 55,
+              "expanded_url": "https://x.com/RevolutionTide/status/1892966341008662871/photo/1",
+              "media_key": "3_1892966307701645312",
+              "start": 32,
+              "url": "https://t.co/sJFv5Mv7I2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892966341008662871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5443,
+          "like_count": 112,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "看看某些知识分子的丑恶嘴脸，你就知道为啥当年毛要搞上山下乡了。 https://t.co/sJFv5Mv7I2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 746,
+          "like_count": 6731,
+          "listed_count": 1,
+          "media_count": 918,
+          "tweet_count": 5711
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "毁灭的激情就是创造的幸福 。/后结构无政府主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/",
+                "start": 0,
+                "url": "https://t.co/T8Rq4vYSHW"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "萨帕塔民族解放军",
+        "name": "Revolutionary Tide",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883090331144478720/o0ZnDZdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4719,
+          "following_count": 2660,
+          "like_count": 77817,
+          "listed_count": 22,
+          "media_count": 331,
+          "tweet_count": 3473
+        },
+        "url": "https://t.co/T8Rq4vYSHW",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990288020252319744"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1990288028598951938",
+    "created_at": "2025-11-17T05:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T06:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990288028598951938"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WRDDHPrUVW",
+          "end": 23,
+          "expanded_url": "https://x.com/0502railgun1949/status/1990288028598951938/photo/1",
+          "media_key": "3_1990288020252319744",
+          "start": 0,
+          "url": "https://t.co/WRDDHPrUVW"
+        },
+        {
+          "display_url": "x.com/BeetiIsDog/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/BeetiIsDog/status/1990121742329913800",
+          "start": 24,
+          "url": "https://t.co/vGWM41tOAc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990288028598951938",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990121742329913800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/WRDDHPrUVW https://t.co/vGWM41tOAc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_1990288020252319744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57saM_a4AAT9Su.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1456,
+        "media_key": "3_1990121739997896704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55VLaxbYAAZcVS.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990288020252319744"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1990288028598951938",
+        "created_at": "2025-11-17T05:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T06:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990288028598951938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WRDDHPrUVW",
+              "end": 23,
+              "expanded_url": "https://x.com/0502railgun1949/status/1990288028598951938/photo/1",
+              "media_key": "3_1990288020252319744",
+              "start": 0,
+              "url": "https://t.co/WRDDHPrUVW"
+            },
+            {
+              "display_url": "x.com/BeetiIsDog/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/BeetiIsDog/status/1990121742329913800",
+              "start": 24,
+              "url": "https://t.co/vGWM41tOAc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990288028598951938",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990121742329913800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/WRDDHPrUVW https://t.co/vGWM41tOAc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990121739997896704"
+          ]
+        },
+        "author_id": "1799795163843436544",
+        "conversation_id": "1990121742329913800",
+        "created_at": "2025-11-16T18:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990121742329913800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAWHl0od5s",
+              "end": 69,
+              "expanded_url": "https://x.com/BeetiIsDog/status/1990121742329913800/photo/1",
+              "media_key": "3_1990121739997896704",
+              "start": 46,
+              "url": "https://t.co/KAWHl0od5s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990121742329913800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 378,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看一眼就知道我这个能全勾上了。。。其实我现在感觉我走出伤痛了我是健全心理正常人你们知道吗。 https://t.co/KAWHl0od5s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 624,
+          "like_count": 10989,
+          "listed_count": 3,
+          "media_count": 1090,
+          "tweet_count": 7863
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T13:26:33.000Z",
+        "description": "病み垢/demigirl/不知道藤井風的歌有多好听的人可以永别了。/这是一个只会发布转发碎碎念画作内容的无脑仓鼠人的账号，互fo请留言。不参与争论和吵架，多点关心多点爱 || 这是另一个我：@5_HTIsUsagi   我老大：@sysjf0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "5_HTIsUsagi"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "sysjf0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vOQWVMQTr0Y2O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vOQWVMQTr0Y2OGI1",
+                "start": 0,
+                "url": "https://t.co/n7w34dGfVN"
+              }
+            ]
+          }
+        },
+        "id": "1799795163843436544",
+        "location": "≤ 1 km",
+        "name": "ビーチイ小犬 |๏ᆺ๏υ)",
+        "pinned_tweet_id": "1936770496970006587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987902676047425536/dZRoz_5P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 684,
+          "like_count": 23422,
+          "listed_count": 2,
+          "media_count": 331,
+          "tweet_count": 5390
+        },
+        "url": "https://t.co/n7w34dGfVN",
+        "username": "BeetiIsDog",
+        "verified": false
+      }
+    ]
+  }
+}

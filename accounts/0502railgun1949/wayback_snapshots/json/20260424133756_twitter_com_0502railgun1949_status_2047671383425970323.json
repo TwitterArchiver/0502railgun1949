@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2047671383425970323",
+    "created_at": "2026-04-24T13:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047671383425970323"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/satohou1/statu…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/satohou1/status/2047497155573932448",
+          "start": 64,
+          "url": "https://t.co/tZt732JB5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047671383425970323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047497155573932448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他首先是个人，才有他的社会身份\n不管哪个历史人物都是一样的\n去立体的理解一个历史人物\n他总会有他个人的一面\n人不是天生就是大官 https://t.co/tZt732JB5B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2047497147428536320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGorzrcagAAD1vK.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2047671383425970323",
+        "created_at": "2026-04-24T13:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047671383425970323"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/satohou1/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/satohou1/status/2047497155573932448",
+              "start": 64,
+              "url": "https://t.co/tZt732JB5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047671383425970323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047497155573932448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他首先是个人，才有他的社会身份\n不管哪个历史人物都是一样的\n去立体的理解一个历史人物\n他总会有他个人的一面\n人不是天生就是大官 https://t.co/tZt732JB5B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047497147428536320"
+          ]
+        },
+        "author_id": "1377591159451656195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2047497155573932448",
+        "created_at": "2026-04-24T02:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047497155573932448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YIn93mH1LC",
+              "end": 104,
+              "expanded_url": "https://x.com/satohou1/status/2047497155573932448/photo/1",
+              "media_key": "3_2047497147428536320",
+              "start": 81,
+              "url": "https://t.co/YIn93mH1LC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047497155573932448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 72205,
+          "like_count": 192,
+          "quote_count": 6,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "1996年1月习近平以福建三把手兼福州书记的身份到巴西进行考察学习，可以看到当时习受到港台明星的影响，烫了一头卷发，年轻时的习近平并不古板衣食住行都很追求时尚。 https://t.co/YIn93mH1LC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 682,
+          "like_count": 13477,
+          "listed_count": 3,
+          "media_count": 1346,
+          "tweet_count": 10671
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T11:58:39.000Z",
+        "description": "一个想要让中国变的民主自由、法治公正的人，YouTube频道反抗力量佐藤鹏https://t.co/a4mg7aCPVP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tv4164",
+                "end": 60,
+                "expanded_url": "https://www.youtube.com/@tv4164",
+                "start": 37,
+                "url": "https://t.co/a4mg7aCPVP"
+              }
+            ]
+          }
+        },
+        "id": "1377591159451656195",
+        "name": "佐藤鹏",
+        "pinned_tweet_id": "2046923503354704152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618043754090467330/bgoz8YCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24327,
+          "following_count": 617,
+          "like_count": 96,
+          "listed_count": 112,
+          "media_count": 2861,
+          "tweet_count": 2977
+        },
+        "username": "satohou1",
+        "verified": true
+      }
+    ]
+  }
+}

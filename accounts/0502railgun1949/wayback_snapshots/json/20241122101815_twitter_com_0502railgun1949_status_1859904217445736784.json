@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1859901970653552754",
+    "created_at": "2024-11-22T10:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T11:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859904217445736784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753596776253165568",
+          "start": 0,
+          "username": "Radio_Portales"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859904217445736784",
+    "in_reply_to_user_id": "1753596776253165568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859901970653552754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Radio_Portales 不会游泳的话就打119"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1859901970653552754",
+        "created_at": "2024-11-22T10:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859904217445736784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753596776253165568",
+              "start": 0,
+              "username": "Radio_Portales"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859904217445736784",
+        "in_reply_to_user_id": "1753596776253165568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859901970653552754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Radio_Portales 不会游泳的话就打119"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753596776253165568",
+        "conversation_id": "1859901970653552754",
+        "created_at": "2024-11-22T10:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T11:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859901970653552754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Radio_Portales…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Radio_Portales/status/1847900085863981409",
+              "start": 19,
+              "url": "https://t.co/MuIvLkoiXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859901970653552754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847900085863981409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请锐评一下，这种女生下海会有人要嘛🥺 https://t.co/MuIvLkoiXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 756,
+          "like_count": 5802,
+          "listed_count": 1,
+          "tweet_count": 4584
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T01:50:36.000Z",
+        "description": "Chinese student/＃Nafo /teacher👉:@Ave_Mujika /my pleasure🥳 @Roblox_1212 /darling❤️: @plq1985411/宝宝: @GodfatherMask",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "Nafo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "Ave_Mujika"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Roblox_1212"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "plq1985411"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "GodfatherMask"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nafo-ofan.org",
+                "end": 23,
+                "expanded_url": "Https://nafo-ofan.org",
+                "start": 0,
+                "url": "https://t.co/MsG4PjoYbw"
+              }
+            ]
+          }
+        },
+        "id": "1753596776253165568",
+        "location": "China",
+        "name": "为君扶病上高台",
+        "pinned_tweet_id": "1857388519238328519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855454596522758144/6b5PscrJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 472,
+          "like_count": 2569,
+          "listed_count": 1,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/MsG4PjoYbw",
+        "username": "Radio_Portales",
+        "verified": false
+      }
+    ]
+  }
+}

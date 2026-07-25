@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299362485133213696",
+          "name": "Chugoku & Shikoku region"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299369126809317376",
+          "name": "Okayama Prefecture"
+        }
+      },
+      {
+        "domain": {
+          "description": "For local-level news entities",
+          "id": "171",
+          "name": "Local News"
+        },
+        "entity": {
+          "id": "1299369126809317376",
+          "name": "Okayama Prefecture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2061377100825661669",
+    "created_at": "2026-06-01T09:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061377100825661669"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 131,
+          "start": 124,
+          "tag": "折襟制服図鑑"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1150272937443729408",
+          "start": 3,
+          "username": "cloak_cape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061377100825661669",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061032205623992521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cloak_cape: 岡山県備前市にある公立中学校の折襟制服。\n紺色で統一されたシンプルかつ落ち着いたデザイン。\nジャケットのダブルボタンはボタン同士の間隔が広めなのが特徴!!\n確証はありませんが襟元はスナップ留め仕様だった？ようです。\n#折襟制服図鑑 https:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1812,
+        "media_key": "3_2061032148157837312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpB0aWbsAArV3W.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299362485133213696",
+              "name": "Chugoku & Shikoku region"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299369126809317376",
+              "name": "Okayama Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1299369126809317376",
+              "name": "Okayama Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2061377100825661669",
+        "created_at": "2026-06-01T09:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061377100825661669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 131,
+              "start": 124,
+              "tag": "折襟制服図鑑"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1150272937443729408",
+              "start": 3,
+              "username": "cloak_cape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061377100825661669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061032205623992521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cloak_cape: 岡山県備前市にある公立中学校の折襟制服。\n紺色で統一されたシンプルかつ落ち着いたデザイン。\nジャケットのダブルボタンはボタン同士の間隔が広めなのが特徴!!\n確証はありませんが襟元はスナップ留め仕様だった？ようです。\n#折襟制服図鑑 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061032148157837312"
+          ]
+        },
+        "author_id": "1150272937443729408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "For local-level news entities",
+              "id": "171",
+              "name": "Local News"
+            },
+            "entity": {
+              "id": "1299369126809317376",
+              "name": "Okayama Prefecture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2061032205623992521",
+        "created_at": "2026-05-31T10:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061032205623992521"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 108,
+              "tag": "折襟制服図鑑"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6tGCOwSZRS",
+              "end": 139,
+              "expanded_url": "https://x.com/cloak_cape/status/2061032205623992521/photo/1",
+              "media_key": "3_2061032148157837312",
+              "start": 116,
+              "url": "https://t.co/6tGCOwSZRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061032205623992521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 5377,
+          "like_count": 307,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "岡山県備前市にある公立中学校の折襟制服。\n紺色で統一されたシンプルかつ落ち着いたデザイン。\nジャケットのダブルボタンはボタン同士の間隔が広めなのが特徴!!\n確証はありませんが襟元はスナップ留め仕様だった？ようです。\n#折襟制服図鑑 https://t.co/6tGCOwSZRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 684,
+          "like_count": 15051,
+          "listed_count": 5,
+          "media_count": 1387,
+          "tweet_count": 11886
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-14T05:16:54.000Z",
+        "description": "学校制服をメインに描きます✍\nリクエスト→skebからどうぞ。\nサークル名：くろけっと Plus\n【FANBOX】https://t.co/teOublpn0c\n【skeb】https://t.co/2BYHzSId7X\n※AI学習・加工・転載❌\n【#折襟制服図鑑】【#音海学院】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 132,
+                "start": 125,
+                "tag": "折襟制服図鑑"
+              },
+              {
+                "end": 139,
+                "start": 134,
+                "tag": "音海学院"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuroketo-16.fanbox.cc",
+                "end": 80,
+                "expanded_url": "https://kuroketo-16.fanbox.cc/",
+                "start": 57,
+                "url": "https://t.co/teOublpn0c"
+              },
+              {
+                "display_url": "skeb.jp/@cloak_cape",
+                "end": 110,
+                "expanded_url": "https://skeb.jp/@cloak_cape",
+                "start": 87,
+                "url": "https://t.co/2BYHzSId7X"
+              }
+            ]
+          }
+        },
+        "id": "1150272937443729408",
+        "name": "くろけと＠制服イラスト",
+        "pinned_tweet_id": "1863156247144632353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941734635009966080/ynknqmNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13394,
+          "following_count": 71,
+          "like_count": 3512,
+          "listed_count": 139,
+          "media_count": 332,
+          "tweet_count": 2993
+        },
+        "username": "cloak_cape",
+        "verified": true
+      }
+    ]
+  }
+}

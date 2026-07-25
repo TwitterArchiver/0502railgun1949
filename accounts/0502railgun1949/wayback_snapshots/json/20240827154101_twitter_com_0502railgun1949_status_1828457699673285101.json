@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1828457699673285101",
+    "created_at": "2024-08-27T15:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T16:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828457699673285101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rainmaker1973/…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/Rainmaker1973/status/1827931477482303542",
+          "start": 52,
+          "url": "https://t.co/DjtWAAT77D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828457699673285101",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827931477482303542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新疆这么多地方已经汉化了吗\n准确的说地方方言也是一种地方性官话\n他仍然属于汉语\n只不过是汉语里面的分支 https://t.co/DjtWAAT77D"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1828457699673285101",
+        "created_at": "2024-08-27T15:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828457699673285101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rainmaker1973/…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/Rainmaker1973/status/1827931477482303542",
+              "start": 52,
+              "url": "https://t.co/DjtWAAT77D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828457699673285101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827931477482303542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新疆这么多地方已经汉化了吗\n准确的说地方方言也是一种地方性官话\n他仍然属于汉语\n只不过是汉语里面的分支 https://t.co/DjtWAAT77D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827706427952988160"
+          ]
+        },
+        "author_id": "177101260",
+        "conversation_id": "1827931477482303542",
+        "created_at": "2024-08-26T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827931477482303542"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "China",
+              "probability": 0.9608,
+              "start": 20,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m99rwelbam",
+              "end": 49,
+              "expanded_url": "https://twitter.com/Rainmaker1973/status/1827931477482303542/photo/1",
+              "media_key": "3_1827706427952988160",
+              "start": 26,
+              "url": "https://t.co/M99RWeLbAm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827931477482303542",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1457,
+          "impression_count": 1241042,
+          "like_count": 5817,
+          "quote_count": 103,
+          "reply_count": 332,
+          "retweet_count": 921
+        },
+        "reply_settings": "everyone",
+        "text": "Languages spoken in China https://t.co/M99RWeLbAm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 767,
+          "like_count": 4505,
+          "listed_count": 2,
+          "tweet_count": 3900
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to add context, source and explanation to science, tech, art and weather topics",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/gbBU9j0GwP"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235522,
+          "following_count": 200,
+          "like_count": 7494,
+          "listed_count": 16018,
+          "tweet_count": 281089
+        },
+        "url": "https://t.co/gbBU9j0GwP",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

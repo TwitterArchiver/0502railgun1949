@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2021267827630477614",
+    "created_at": "2026-02-10T16:59:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T17:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021267827630477614"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CJing3_/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/CJing3_/status/2021206348621545775",
+          "start": 8,
+          "url": "https://t.co/SQWhIdmYm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021267827630477614",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021206348621545775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跟我相似的经历 https://t.co/SQWhIdmYm2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12266,
+        "height": 720,
+        "media_key": "13_2021206109584044033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2021206109584044033/img/kbWxOb5vWihFa3mz.jpg",
+        "public_metrics": {
+          "view_count": 6043
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/360x270/IXGHf8vck8X2H_pr.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/480x360/3W4gPMHdIeQer_eM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/960x720/7W6xPCkeOe352Q4I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2021206109584044033/pl/aIZ4JzWrh3Iaerq_.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021206109600743424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzEP3SaAAAbInA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021206109558800386",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzEP3IaAAIVCRa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2021267827630477614",
+        "created_at": "2026-02-10T16:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T17:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021267827630477614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CJing3_/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/CJing3_/status/2021206348621545775",
+              "start": 8,
+              "url": "https://t.co/SQWhIdmYm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021267827630477614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021206348621545775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我相似的经历 https://t.co/SQWhIdmYm2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2021206109584044033",
+            "3_2021206109600743424",
+            "3_2021206109558800386"
+          ]
+        },
+        "author_id": "1658881840349061120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021206348621545775",
+        "created_at": "2026-02-10T12:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T13:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021206348621545775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "13_2021206109584044033",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109600743424",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            },
+            {
+              "display_url": "pic.x.com/Lhwhg9jiiK",
+              "end": 68,
+              "expanded_url": "https://x.com/CJing3_/status/2021206348621545775/video/1",
+              "media_key": "3_2021206109558800386",
+              "start": 45,
+              "url": "https://t.co/Lhwhg9jiiK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021206348621545775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15507,
+          "like_count": 206,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "following",
+        "text": "威胁我退学的班主任🕯️🕯️\n造我黄谣的前任🕯️🕯️\n快过年了也不知道死了没，烧点纸催一下 https://t.co/Lhwhg9jiiK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 607,
+          "like_count": 10776,
+          "listed_count": 3,
+          "media_count": 1148,
+          "tweet_count": 8190
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-17T17:07:32.000Z",
+        "description": "",
+        "id": "1658881840349061120",
+        "location": "轉載Reprint🚫",
+        "name": "楚鯨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003866770214658049/ySQGbvN5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10401,
+          "following_count": 431,
+          "like_count": 9218,
+          "listed_count": 20,
+          "media_count": 130,
+          "tweet_count": 384
+        },
+        "username": "CJing3_",
+        "verified": false
+      }
+    ]
+  }
+}

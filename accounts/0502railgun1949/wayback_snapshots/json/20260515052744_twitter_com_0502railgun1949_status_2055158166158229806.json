@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2055158166158229806",
+    "created_at": "2026-05-15T05:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055158166158229806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fxtrader/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/fxtrader/status/2055141244863717627",
+          "start": 12,
+          "url": "https://t.co/S3rCC3vsg5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055158166158229806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055141244863717627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "珠颈斑鸠为G2倾情歌唱 https://t.co/S3rCC3vsg5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69969,
+        "height": 720,
+        "media_key": "13_2055139394839793664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055139394839793664/img/oDjJB2iwAtvwuT3T.jpg",
+        "public_metrics": {
+          "view_count": 213007
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055139394839793664/vid/avc1/480x270/XoOf6gjk7lcHGZ5Y.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055139394839793664/vid/avc1/640x360/1S9Zqk5KWPb6_STJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055139394839793664/vid/avc1/1280x720/TiqqoIV4FlsCC1RK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055139394839793664/pl/XEUwa_1lh7U6lhbU.m3u8?v=c2a"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2055158166158229806",
+        "created_at": "2026-05-15T05:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055158166158229806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fxtrader/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/fxtrader/status/2055141244863717627",
+              "start": 12,
+              "url": "https://t.co/S3rCC3vsg5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055158166158229806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055141244863717627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "珠颈斑鸠为G2倾情歌唱 https://t.co/S3rCC3vsg5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055139394839793664"
+          ],
+          "media_source_tweet_id": [
+            "2055139661345894532"
+          ]
+        },
+        "author_id": "1059638356609396736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2055141244863717627",
+        "created_at": "2026-05-15T04:20:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:20:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055141244863717627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9GojYMKphl",
+              "end": 76,
+              "expanded_url": "https://x.com/RapidResponse47/status/2055139661345894532/video/1",
+              "media_key": "13_2055139394839793664",
+              "start": 53,
+              "url": "https://t.co/9GojYMKphl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055141244863717627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 599,
+          "impression_count": 243657,
+          "like_count": 1748,
+          "quote_count": 31,
+          "reply_count": 161,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "习近平与特朗普在中南海游花园。\n\n特朗普：其他国家元首来访，也都会到这边来接待他们吗？\n\n习近平：很少。\nhttps://t.co/9GojYMKphl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 679,
+          "like_count": 14318,
+          "listed_count": 5,
+          "media_count": 1370,
+          "tweet_count": 11316
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-06T02:47:26.000Z",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "id": "1059638356609396736",
+        "location": "Hong Kong",
+        "name": "外汇交易员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1230373331724947458/8LlXOtfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395639,
+          "following_count": 499,
+          "like_count": 7727,
+          "listed_count": 3763,
+          "media_count": 15002,
+          "tweet_count": 47060
+        },
+        "username": "fxtrader",
+        "verified": true
+      }
+    ]
+  }
+}

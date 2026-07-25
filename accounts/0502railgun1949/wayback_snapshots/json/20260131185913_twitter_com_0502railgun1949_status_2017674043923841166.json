@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Minnesota",
+          "id": "1004448843033763840",
+          "name": "Minnesota"
+        }
+      }
+    ],
+    "conversation_id": "2017674043923841166",
+    "created_at": "2026-01-31T18:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017674043923841166"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 64,
+          "normalized_text": "Operation Metro Surge",
+          "probability": 0.761,
+          "start": 44,
+          "type": "Other"
+        },
+        {
+          "end": 77,
+          "normalized_text": "Minnesota",
+          "probability": 0.9889,
+          "start": 69,
+          "type": "Place"
+        },
+        {
+          "end": 117,
+          "normalized_text": "US",
+          "probability": 0.9595,
+          "start": 116,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "759251",
+          "start": 3,
+          "username": "CNN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017674043923841166",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017649494247018504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CNN: Judge declines to immediately halt Operation Metro Surge in Minnesota with more protests slated across the US today.\nhttps://t.co/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Minnesota",
+              "id": "1004448843033763840",
+              "name": "Minnesota"
+            }
+          }
+        ],
+        "conversation_id": "2017674043923841166",
+        "created_at": "2026-01-31T18:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017674043923841166"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 64,
+              "normalized_text": "Operation Metro Surge",
+              "probability": 0.761,
+              "start": 44,
+              "type": "Other"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Minnesota",
+              "probability": 0.9889,
+              "start": 69,
+              "type": "Place"
+            },
+            {
+              "end": 117,
+              "normalized_text": "US",
+              "probability": 0.9595,
+              "start": 116,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "759251",
+              "start": 3,
+              "username": "CNN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017674043923841166",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017649494247018504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CNN: Judge declines to immediately halt Operation Metro Surge in Minnesota with more protests slated across the US today.\nhttps://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "759251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Minnesota",
+              "id": "1004448843033763840",
+              "name": "Minnesota"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US National News",
+              "id": "1003932601839579136",
+              "name": "US national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Crowds have gathered in Brooklyn and Chicago to demonstrate their opposition to the verdict in the Kyle Rittenhouse case. Rittenhouse was found not-guilty on all counts of homicide and reckless endangerment charges for shooting three men, killing two of them, at a Black Lives Matter protest in Kenosha, Wisconsin.",
+              "id": "1461824099685048320",
+              "name": "Small-scale protests are held in response to Rittenhouse verdict"
+            }
+          }
+        ],
+        "conversation_id": "2017649494247018504",
+        "created_at": "2026-01-31T17:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T18:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017649494247018504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "Operation Metro Surge",
+              "probability": 0.8219,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Minnesota",
+              "probability": 0.9862,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 108,
+              "normalized_text": "US",
+              "probability": 0.9603,
+              "start": 107,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Restaurant tables sat empty, business windows went dark and students’ desks were abandoned in several cities across the country Friday amid a nationwide strike in protest of the federal immigration crackdown in Minnesota.",
+              "display_url": "cnn.it/45HIVTd",
+              "end": 140,
+              "expanded_url": "https://cnn.it/45HIVTd",
+              "start": 117,
+              "status": 200,
+              "title": "Judge declines to immediately halt Operation Metro Surge in Minnesota with more protests slated across the US Saturday | CNN",
+              "unwound_url": "https://www.cnn.com/2026/01/31/us/minnesota-protest-national-boycott?Date=20260131&Profile=CNN&utm_content=1769880093&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/2U4gI82N3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017649494247018504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 45084,
+          "like_count": 110,
+          "quote_count": 2,
+          "reply_count": 121,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Judge declines to immediately halt Operation Metro Surge in Minnesota with more protests slated across the US today.\nhttps://t.co/2U4gI82N3P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 606,
+          "like_count": 10727,
+          "listed_count": 3,
+          "media_count": 1127,
+          "tweet_count": 8079
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-09T00:35:02.000Z",
+        "description": "It’s our job to #GoThere and tell the most difficult stories. For breaking news, follow @CNNBRK and download the CNN app ➡️ https://t.co/7PQD7o6fLw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "GoThere"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "CNNBRK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cnn.smart.link/mi381rv0w",
+                "end": 147,
+                "expanded_url": "https://cnn.smart.link/mi381rv0w",
+                "start": 124,
+                "url": "https://t.co/7PQD7o6fLw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "end": 23,
+                "expanded_url": "http://www.cnn.com",
+                "start": 0,
+                "url": "https://t.co/imGp4Ieixi"
+              }
+            ]
+          }
+        },
+        "id": "759251",
+        "name": "CNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669780523911110656/K9gaaM1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61098643,
+          "following_count": 1046,
+          "like_count": 1324,
+          "listed_count": 153644,
+          "media_count": 190810,
+          "tweet_count": 425743
+        },
+        "url": "https://t.co/imGp4Ieixi",
+        "username": "CNN",
+        "verified": true
+      }
+    ]
+  }
+}

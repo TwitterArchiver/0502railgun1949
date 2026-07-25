@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1843309432098492416",
+        "3_1843309432266194944"
+      ],
+      "media_source_tweet_id": [
+        "1844483047464251582",
+        "1844483047464251582"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "1888458356878459122",
+    "created_at": "2025-02-09T05:22:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T06:22:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888458356878459122"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 32,
+          "tag": "minecraft建築コミュ"
+        },
+        {
+          "end": 58,
+          "start": 48,
+          "tag": "Minecraft"
+        },
+        {
+          "end": 67,
+          "start": 59,
+          "tag": "バニラ建築学部"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "マイクラ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1409899226981490693",
+          "start": 3,
+          "username": "Kuran66027624"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nsixyD42wF",
+          "end": 97,
+          "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+          "media_key": "3_1843309432098492416",
+          "start": 74,
+          "url": "https://t.co/nsixyD42wF"
+        },
+        {
+          "display_url": "pic.x.com/nsixyD42wF",
+          "end": 97,
+          "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+          "media_key": "3_1843309432266194944",
+          "start": 74,
+          "url": "https://t.co/nsixyD42wF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888458356878459122",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 782
+    },
+    "referenced_tweets": [
+      {
+        "id": "1844483047464251582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kuran66027624: ペールオークの植物アーチ\n#minecraft建築コミュ #Minecraft #バニラ建築学部 #マイクラ https://t.co/nsixyD42wF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 771,
+        "media_key": "3_1843309432098492416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZTAKYdbkAAybL7.jpg",
+        "width": 1455
+      },
+      {
+        "height": 671,
+        "media_key": "3_1843309432266194944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GZTAKZFagAARxC5.jpg",
+        "width": 1267
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843309432098492416",
+            "3_1843309432266194944"
+          ],
+          "media_source_tweet_id": [
+            "1844483047464251582",
+            "1844483047464251582"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1888458356878459122",
+        "created_at": "2025-02-09T05:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T06:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888458356878459122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 32,
+              "tag": "minecraft建築コミュ"
+            },
+            {
+              "end": 58,
+              "start": 48,
+              "tag": "Minecraft"
+            },
+            {
+              "end": 67,
+              "start": 59,
+              "tag": "バニラ建築学部"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "マイクラ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1409899226981490693",
+              "start": 3,
+              "username": "Kuran66027624"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsixyD42wF",
+              "end": 97,
+              "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+              "media_key": "3_1843309432098492416",
+              "start": 74,
+              "url": "https://t.co/nsixyD42wF"
+            },
+            {
+              "display_url": "pic.x.com/nsixyD42wF",
+              "end": 97,
+              "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+              "media_key": "3_1843309432266194944",
+              "start": 74,
+              "url": "https://t.co/nsixyD42wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888458356878459122",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 782
+        },
+        "referenced_tweets": [
+          {
+            "id": "1844483047464251582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kuran66027624: ペールオークの植物アーチ\n#minecraft建築コミュ #Minecraft #バニラ建築学部 #マイクラ https://t.co/nsixyD42wF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843309432098492416",
+            "3_1843309432266194944"
+          ]
+        },
+        "author_id": "1409899226981490693",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1844483047464251582",
+        "created_at": "2024-10-10T21:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-10T22:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844483047464251582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 13,
+              "tag": "minecraft建築コミュ"
+            },
+            {
+              "end": 39,
+              "start": 29,
+              "tag": "Minecraft"
+            },
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "バニラ建築学部"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "マイクラ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsixyD42wF",
+              "end": 78,
+              "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+              "media_key": "3_1843309432098492416",
+              "start": 55,
+              "url": "https://t.co/nsixyD42wF"
+            },
+            {
+              "display_url": "pic.x.com/nsixyD42wF",
+              "end": 78,
+              "expanded_url": "https://x.com/Kuran66027624/status/1844483047464251582/photo/1",
+              "media_key": "3_1843309432266194944",
+              "start": 55,
+              "url": "https://t.co/nsixyD42wF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1844483047464251582",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3427,
+          "impression_count": 408730,
+          "like_count": 11917,
+          "quote_count": 53,
+          "reply_count": 9,
+          "retweet_count": 782
+        },
+        "reply_settings": "everyone",
+        "text": "ペールオークの植物アーチ\n#minecraft建築コミュ #Minecraft #バニラ建築学部 #マイクラ https://t.co/nsixyD42wF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 750,
+          "like_count": 6590,
+          "listed_count": 1,
+          "media_count": 888,
+          "tweet_count": 5531
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-29T15:39:17.000Z",
+        "description": "JCU(Japan Crafters Union)所属です！ Minecraft建築画像を投稿しています。「誰でも真似して建築できる」を目指して日々アイデアを模索中。【Youtubeでも動画でご紹介しています！】 【Minecraft装飾屋さん】装飾まとめブログです。https://t.co/3q8DvkGPNQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "mikura-blog.com",
+                "end": 157,
+                "expanded_url": "https://mikura-blog.com/",
+                "start": 134,
+                "url": "https://t.co/3q8DvkGPNQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCOpFN…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCOpFNT4QQpkc0uvnCO5LY3A",
+                "start": 0,
+                "url": "https://t.co/d01e5ZHHKr"
+              }
+            ]
+          }
+        },
+        "id": "1409899226981490693",
+        "name": "Mikura",
+        "pinned_tweet_id": "1844483047464251582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753707422462750720/pTV75wWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16696,
+          "following_count": 367,
+          "like_count": 2621,
+          "listed_count": 123,
+          "media_count": 1473,
+          "tweet_count": 2653
+        },
+        "url": "https://t.co/d01e5ZHHKr",
+        "username": "Kuran66027624",
+        "verified": true
+      }
+    ]
+  }
+}

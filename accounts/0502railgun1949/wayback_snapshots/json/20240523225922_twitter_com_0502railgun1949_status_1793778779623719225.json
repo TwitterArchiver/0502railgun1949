@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1793664984792367527",
+    "created_at": "2024-05-23T22:59:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-23T23:59:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793778779623719225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608413813648527360",
+          "start": 0,
+          "username": "Cano_3118"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793778779623719225",
+    "in_reply_to_user_id": "1608413813648527360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793664984792367527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cano_3118 你不了解我的xp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1793664984792367527",
+        "created_at": "2024-05-23T22:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T23:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793778779623719225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608413813648527360",
+              "start": 0,
+              "username": "Cano_3118"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793778779623719225",
+        "in_reply_to_user_id": "1608413813648527360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793664984792367527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cano_3118 你不了解我的xp"
+      },
+      {
+        "attachments": {},
+        "author_id": "1608413813648527360",
+        "conversation_id": "1793664984792367527",
+        "created_at": "2024-05-23T15:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T16:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793664984792367527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793664984792367527",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总感觉每次认识一个mtf 第一天交流文学语言科技 第二天 了解一下xp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂16210号📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1766354717553393979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 740,
+          "like_count": 2651,
+          "listed_count": 1,
+          "tweet_count": 2873
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T10:45:23.000Z",
+        "description": "让我们零距离 可是别看我眼睛 糕中生/asd/enby/pansexual/互攻/switch/精神疾病友好/lgbt友好 我们都要好好的@fplex4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 69,
+                "username": "fplex4"
+              }
+            ]
+          }
+        },
+        "id": "1608413813648527360",
+        "location": "🤓很好",
+        "name": "狗头炖铁锅",
+        "pinned_tweet_id": "1737492128777822353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624378305872023554/NSxShHoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 116,
+          "like_count": 1534,
+          "listed_count": 0,
+          "tweet_count": 370
+        },
+        "username": "Cano_3118",
+        "verified": false
+      }
+    ]
+  }
+}

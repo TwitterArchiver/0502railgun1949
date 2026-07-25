@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2035890227018092544"
+      ],
+      "media_source_tweet_id": [
+        "2035890322799198336"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2035940124031344971",
+    "created_at": "2026-03-23T04:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T05:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035940124031344971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695126229446479872",
+          "start": 3,
+          "username": "zephyr_z9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8A46UH53I",
+          "end": 70,
+          "expanded_url": "https://x.com/zephyr_z9/status/2035890322799198336/video/1",
+          "media_key": "13_2035890227018092544",
+          "start": 47,
+          "url": "https://t.co/a8A46UH53I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035940124031344971",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 394
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035890322799198336",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zephyr_z9: Asian market getting rekt today https://t.co/a8A46UH53I"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 75580,
+        "height": 720,
+        "media_key": "13_2035890227018092544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035890227018092544/img/-w8R5DGy1UgKdysr.jpg",
+        "public_metrics": {
+          "view_count": 122835
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/480x270/9MYAfzJty0LvETsV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/640x360/0Ec7tQOobCWM-7mH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/1280x720/mqEzlgyVSTKy_M-D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/pl/PlP4ycQVtUkWGB7F.m3u8?v=d9d"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 75580,
+        "height": 720,
+        "media_key": "13_2035890227018092544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035890227018092544/img/-w8R5DGy1UgKdysr.jpg",
+        "public_metrics": {
+          "view_count": 128744
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/480x270/9MYAfzJty0LvETsV.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/640x360/0Ec7tQOobCWM-7mH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/vid/avc1/1280x720/mqEzlgyVSTKy_M-D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035890227018092544/pl/PlP4ycQVtUkWGB7F.m3u8?v=d9d"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035890227018092544"
+          ],
+          "media_source_tweet_id": [
+            "2035890322799198336"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035940124031344971",
+        "created_at": "2026-03-23T04:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T05:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035940124031344971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695126229446479872",
+              "start": 3,
+              "username": "zephyr_z9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8A46UH53I",
+              "end": 70,
+              "expanded_url": "https://x.com/zephyr_z9/status/2035890322799198336/video/1",
+              "media_key": "13_2035890227018092544",
+              "start": 47,
+              "url": "https://t.co/a8A46UH53I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035940124031344971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 394
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035890322799198336",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zephyr_z9: Asian market getting rekt today https://t.co/a8A46UH53I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035890227018092544"
+          ]
+        },
+        "author_id": "1695126229446479872",
+        "conversation_id": "2035890322799198336",
+        "created_at": "2026-03-23T01:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035890322799198336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8A46UH53I",
+              "end": 55,
+              "expanded_url": "https://x.com/zephyr_z9/status/2035890322799198336/video/1",
+              "media_key": "13_2035890227018092544",
+              "start": 32,
+              "url": "https://t.co/a8A46UH53I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035890322799198336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 666,
+          "impression_count": 266652,
+          "like_count": 3244,
+          "quote_count": 52,
+          "reply_count": 53,
+          "retweet_count": 394
+        },
+        "reply_settings": "everyone",
+        "text": "Asian market getting rekt today https://t.co/a8A46UH53I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 631,
+          "like_count": 11296,
+          "listed_count": 3,
+          "media_count": 1255,
+          "tweet_count": 8914
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T17:30:19.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "citriniresearch.com",
+                "end": 23,
+                "expanded_url": "http://www.citriniresearch.com",
+                "start": 0,
+                "url": "https://t.co/OmtkqRJqFU"
+              }
+            ]
+          }
+        },
+        "id": "1695126229446479872",
+        "name": "Zephyr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837802996723597312/Jk4w7gjp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113932,
+          "following_count": 693,
+          "like_count": 88990,
+          "listed_count": 1470,
+          "media_count": 3209,
+          "tweet_count": 29189
+        },
+        "url": "https://t.co/OmtkqRJqFU",
+        "username": "zephyr_z9",
+        "verified": true
+      }
+    ]
+  }
+}

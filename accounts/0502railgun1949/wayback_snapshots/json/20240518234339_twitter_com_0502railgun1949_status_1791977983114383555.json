@@ -1,0 +1,187 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1791951307147747799",
+    "created_at": "2024-05-18T23:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T00:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791977983114383555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786397664722268160",
+          "start": 0,
+          "username": "proxynova712sec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791977983114383555",
+    "in_reply_to_user_id": "1786397664722268160",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791952257052766574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@proxynova712sec 这倒是真的，自己租个小单间会舒服不少"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1791951307147747799",
+        "created_at": "2024-05-18T23:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T00:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791977983114383555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786397664722268160",
+              "start": 0,
+              "username": "proxynova712sec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791977983114383555",
+        "in_reply_to_user_id": "1786397664722268160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791952257052766574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@proxynova712sec 这倒是真的，自己租个小单间会舒服不少"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786397664722268160",
+        "conversation_id": "1791951307147747799",
+        "created_at": "2024-05-18T22:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T23:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791952257052766574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791952257052766574",
+        "in_reply_to_user_id": "1786397664722268160",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791951307147747799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中我就离家在外头住了，周末也不打算回来。毕竟老保家长看到我就犯病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂16210号📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1766354717553393979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 691,
+          "following_count": 734,
+          "like_count": 2573,
+          "listed_count": 1,
+          "tweet_count": 2819
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:09:34.000Z",
+        "description": "2009.3.22出厂/mtf/2023.7.12hrt/畜三牲/一号机@proxynova712/男友@kbhkbh1913832/互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "proxynova712"
+              },
+              {
+                "end": 66,
+                "start": 52,
+                "username": "kbhkbh1913832"
+              }
+            ]
+          }
+        },
+        "id": "1786397664722268160",
+        "location": "深圳",
+        "name": "proxynova 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791491839201259520/ZOeNF2W3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 121,
+          "like_count": 856,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "username": "proxynova712sec",
+        "verified": false
+      }
+    ]
+  }
+}

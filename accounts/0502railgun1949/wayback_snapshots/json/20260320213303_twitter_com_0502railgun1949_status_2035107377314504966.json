@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035107374466572290"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035107377314504966",
+    "created_at": "2026-03-20T21:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T22:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035107377314504966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/70IR00Fjy7",
+          "end": 161,
+          "expanded_url": "https://x.com/0502railgun1949/status/2035107377314504966/photo/1",
+          "media_key": "3_2035107374466572290",
+          "start": 138,
+          "url": "https://t.co/70IR00Fjy7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035107377314504966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实你像很多人我没有回fo，主要的原因还是因为有od内容，炒作内容，和一些低水平的人争论政治内容（不论他本人水平高低）\n真的不像前几年了，前几年不碰这些的人真的很多很多，现在真的是物是人非\n小蓝鸟变成黑色❌，我之前的互fo基本都走了\n不知道他们现在怎么样了，但是我还在等他们 https://t.co/70IR00Fjy7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2035107374466572290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD4nX-bboAIwrHq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035107374466572290"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035107377314504966",
+        "created_at": "2026-03-20T21:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T22:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035107377314504966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/70IR00Fjy7",
+              "end": 161,
+              "expanded_url": "https://x.com/0502railgun1949/status/2035107377314504966/photo/1",
+              "media_key": "3_2035107374466572290",
+              "start": 138,
+              "url": "https://t.co/70IR00Fjy7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035107377314504966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实你像很多人我没有回fo，主要的原因还是因为有od内容，炒作内容，和一些低水平的人争论政治内容（不论他本人水平高低）\n真的不像前几年了，前几年不碰这些的人真的很多很多，现在真的是物是人非\n小蓝鸟变成黑色❌，我之前的互fo基本都走了\n不知道他们现在怎么样了，但是我还在等他们 https://t.co/70IR00Fjy7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 623,
+          "like_count": 11173,
+          "listed_count": 3,
+          "media_count": 1252,
+          "tweet_count": 8823
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

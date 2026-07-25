@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055252453327503360"
+      ],
+      "media_source_tweet_id": [
+        "2055252484071788933"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation from and about the White House, both as a destination and as political voice",
+          "id": "871795678447456256",
+          "name": "The White House"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2056313158650958193",
+    "created_at": "2026-05-18T09:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056313158650958193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3219428618",
+          "start": 3,
+          "username": "ibraheemch333"
+        },
+        {
+          "end": 30,
+          "id": "1879644163769335808",
+          "start": 19,
+          "username": "WhiteHouse"
+        },
+        {
+          "end": 37,
+          "id": "1879650942410481666",
+          "start": 31,
+          "username": "POTUS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tmGeO6XHXk",
+          "end": 61,
+          "expanded_url": "https://x.com/ibraheemch333/status/2055252484071788933/photo/1",
+          "media_key": "3_2055252453327503360",
+          "start": 38,
+          "url": "https://t.co/tmGeO6XHXk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056313158650958193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055252484071788933",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ibraheemch333: @WhiteHouse @POTUS https://t.co/tmGeO6XHXk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_2055252453327503360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIW5N5RWAAAhrF1.jpg",
+        "width": 964
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055252453327503360"
+          ],
+          "media_source_tweet_id": [
+            "2055252484071788933"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2056313158650958193",
+        "created_at": "2026-05-18T09:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056313158650958193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3219428618",
+              "start": 3,
+              "username": "ibraheemch333"
+            },
+            {
+              "end": 30,
+              "id": "1879644163769335808",
+              "start": 19,
+              "username": "WhiteHouse"
+            },
+            {
+              "end": 37,
+              "id": "1879650942410481666",
+              "start": 31,
+              "username": "POTUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmGeO6XHXk",
+              "end": 61,
+              "expanded_url": "https://x.com/ibraheemch333/status/2055252484071788933/photo/1",
+              "media_key": "3_2055252453327503360",
+              "start": 38,
+              "url": "https://t.co/tmGeO6XHXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056313158650958193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055252484071788933",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ibraheemch333: @WhiteHouse @POTUS https://t.co/tmGeO6XHXk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055252453327503360"
+          ]
+        },
+        "author_id": "3219428618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation from and about the White House, both as a destination and as political voice",
+              "id": "871795678447456256",
+              "name": "The White House"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2055246373348315241",
+        "created_at": "2026-05-15T11:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055252484071788933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1879644163769335808",
+              "start": 0,
+              "username": "WhiteHouse"
+            },
+            {
+              "end": 18,
+              "id": "1879650942410481666",
+              "start": 12,
+              "username": "POTUS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tmGeO6XHXk",
+              "end": 42,
+              "expanded_url": "https://x.com/ibraheemch333/status/2055252484071788933/photo/1",
+              "media_key": "3_2055252453327503360",
+              "start": 19,
+              "url": "https://t.co/tmGeO6XHXk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055252484071788933",
+        "in_reply_to_user_id": "1879644163769335808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 37125,
+          "like_count": 350,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055246373348315241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhiteHouse @POTUS https://t.co/tmGeO6XHXk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 678,
+          "like_count": 14420,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11416
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-18T13:41:41.000Z",
+        "description": "Full Time Democrats ⚖️ , Journalist 💻 , Physicist 👨‍🔬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "w3learnings.com",
+                "end": 23,
+                "expanded_url": "http://w3learnings.com",
+                "start": 0,
+                "url": "https://t.co/JyEkYpCHCa"
+              }
+            ]
+          }
+        },
+        "id": "3219428618",
+        "location": "Indus to Asia to America",
+        "name": "Ibraheem 🇵🇰",
+        "pinned_tweet_id": "2053775097064808746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773562614624432128/_PDDWHqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 2170,
+          "like_count": 1643,
+          "listed_count": 16,
+          "media_count": 1295,
+          "tweet_count": 3935
+        },
+        "url": "https://t.co/JyEkYpCHCa",
+        "username": "ibraheemch333",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T21:37:54.000Z",
+        "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/0BqS4u1FRp"
+              }
+            ]
+          }
+        },
+        "id": "1879644163769335808",
+        "location": "Washington, DC",
+        "name": "The White House",
+        "pinned_tweet_id": "2013730570065359248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4657340,
+          "following_count": 6,
+          "like_count": 263,
+          "listed_count": 8759,
+          "media_count": 5504,
+          "tweet_count": 15077
+        },
+        "url": "https://t.co/0BqS4u1FRp",
+        "username": "WhiteHouse",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-15T22:04:52.000Z",
+        "description": "45th & 47th President of the United States. The Golden Age of America Begins Right Now.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "http://wh.gov",
+                "start": 0,
+                "url": "https://t.co/OwBzgKL1qh"
+              }
+            ]
+          }
+        },
+        "id": "1879650942410481666",
+        "name": "President Donald J. Trump",
+        "pinned_tweet_id": "1881408246067744887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929635178663567360/OjRxM9E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4185304,
+          "following_count": 4,
+          "like_count": 40,
+          "listed_count": 7569,
+          "media_count": 56,
+          "tweet_count": 2457
+        },
+        "url": "https://t.co/OwBzgKL1qh",
+        "username": "POTUS",
+        "verified": true
+      }
+    ]
+  }
+}

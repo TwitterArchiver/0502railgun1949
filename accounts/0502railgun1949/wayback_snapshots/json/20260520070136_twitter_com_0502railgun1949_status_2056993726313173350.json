@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056951968841732223",
+    "created_at": "2026-05-20T07:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056993726313173350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "_ropu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056993726313173350",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056951968841732223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ropu 好好爱自己啊，有不开心可以换换别的发泄方式喵\n你一定很痛苦才会这样吧，一路辛苦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2453,
+        "height": 1920,
+        "media_key": "13_2056951911342018560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056951911342018560/img/hy7p3sGSnPUJsekQ.jpg",
+        "public_metrics": {
+          "view_count": 128
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/480x852/4vix89V6Kg0OwC05.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/720x1280/UCJhr4DlqtdOwYSZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/1080x1920/byaEOWeztQUlcRQ-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056951911342018560/pl/QNLpSL9kuL662NeF.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/320x568/5zDNdj71NiphQtfh.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056951968841732223",
+        "created_at": "2026-05-20T07:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056993726313173350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056993726313173350",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056951968841732223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ropu 好好爱自己啊，有不开心可以换换别的发泄方式喵\n你一定很痛苦才会这样吧，一路辛苦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056951911342018560"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "2056951968841732223",
+        "created_at": "2026-05-20T04:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T05:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056951968841732223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sq1FtNiG3O",
+              "end": 31,
+              "expanded_url": "https://x.com/_ropu/status/2056951968841732223/video/1",
+              "media_key": "13_2056951911342018560",
+              "start": 8,
+              "url": "https://t.co/Sq1FtNiG3O"
+            },
+            {
+              "display_url": "x.com/_ropu/status/2…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/_ropu/status/2056945907124597212",
+              "start": 32,
+              "url": "https://t.co/EV5Ni5qIZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056951968841732223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 602,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056945907124597212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是谁的…血？ https://t.co/Sq1FtNiG3O https://t.co/EV5Ni5qIZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 682,
+          "like_count": 14570,
+          "listed_count": 5,
+          "media_count": 1377,
+          "tweet_count": 11536
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| ロプ＝Rophlis || 病んでれ || きゅうけつ || お姉さん： @Cchang3243 || CN/JP/EN/KR ○ || 变得可爱是第一要义 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "Cchang3243"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "ロプ",
+        "pinned_tweet_id": "2055435465881538633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30926,
+          "following_count": 4239,
+          "like_count": 14730,
+          "listed_count": 32,
+          "media_count": 4688,
+          "tweet_count": 34025
+        },
+        "username": "_ropu",
+        "verified": true
+      }
+    ]
+  }
+}

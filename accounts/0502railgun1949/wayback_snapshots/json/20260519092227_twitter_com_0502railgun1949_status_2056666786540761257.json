@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056656774225432651",
+    "created_at": "2026-05-19T09:22:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:22:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056666786540761257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "742571425584668673",
+          "start": 0,
+          "username": "zeroyohh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056666786540761257",
+    "in_reply_to_user_id": "742571425584668673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056656774225432651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zeroyohh 现在还打算限额了\n那不和GPT没有差别了嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1860,
+        "media_key": "3_2056656771071332353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq2b8ib0AEXb98.jpg",
+        "width": 1344
+      },
+      {
+        "height": 1871,
+        "media_key": "3_2056656771071229952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq2b8iaQAAkhgH.jpg",
+        "width": 1344
+      },
+      {
+        "height": 2197,
+        "media_key": "3_2056656769930403840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIq2b4SaoAADigi.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056656774225432651",
+        "created_at": "2026-05-19T09:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056666786540761257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "742571425584668673",
+              "start": 0,
+              "username": "zeroyohh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056666786540761257",
+        "in_reply_to_user_id": "742571425584668673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056656774225432651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeroyohh 现在还打算限额了\n那不和GPT没有差别了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056656771071332353",
+            "3_2056656771071229952",
+            "3_2056656769930403840"
+          ]
+        },
+        "author_id": "742571425584668673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Join the Google I/O livestream beginning May 19 at 10 am PT to watch as Google announces our biggest news, updates, and innovations for the year ahead.",
+              "id": "2053241348807864323",
+              "name": "Google I/O 2026"
+            }
+          }
+        ],
+        "conversation_id": "2056656774225432651",
+        "created_at": "2026-05-19T08:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056656774225432651"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QaqM6jCbL8",
+              "end": 119,
+              "expanded_url": "https://x.com/zeroyohh/status/2056656774225432651/photo/1",
+              "media_key": "3_2056656771071332353",
+              "start": 96,
+              "url": "https://t.co/QaqM6jCbL8"
+            },
+            {
+              "display_url": "pic.x.com/QaqM6jCbL8",
+              "end": 119,
+              "expanded_url": "https://x.com/zeroyohh/status/2056656774225432651/photo/1",
+              "media_key": "3_2056656771071229952",
+              "start": 96,
+              "url": "https://t.co/QaqM6jCbL8"
+            },
+            {
+              "display_url": "pic.x.com/QaqM6jCbL8",
+              "end": 119,
+              "expanded_url": "https://x.com/zeroyohh/status/2056656774225432651/photo/1",
+              "media_key": "3_2056656769930403840",
+              "start": 96,
+              "url": "https://t.co/QaqM6jCbL8"
+            },
+            {
+              "display_url": "x.com/op7418/status/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/op7418/status/2056609161287458913",
+              "start": 120,
+              "url": "https://t.co/ozdD5KQDdk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056656774225432651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056609161287458913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini Android 版本也改版了\n有bug\n一会是图1形态，一会是图2形态\n图3中“Usage limits”也是一会显示一会不显示\n蓝色渐变色背景不知道会不会变，蓝色不如绿色新鲜 https://t.co/QaqM6jCbL8 https://t.co/ozdD5KQDdk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 678,
+          "like_count": 14470,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11442
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-14T04:16:38.000Z",
+        "description": "",
+        "id": "742571425584668673",
+        "location": "California, USA",
+        "name": "零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039158588804050944/VxUjGpt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 455,
+          "like_count": 534,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 439
+        },
+        "username": "zeroyohh",
+        "verified": false
+      }
+    ]
+  }
+}

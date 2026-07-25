@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1855537043373482195",
+    "created_at": "2024-11-10T09:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T10:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855537043373482195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xuxiaole157671…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/xuxiaole157671/status/1855466434975211773",
+          "start": 24,
+          "url": "https://t.co/tBHPWR3NdB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855537043373482195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855466434975211773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "见过省教育厅厅长，中校\n再往上上的确实没见过了 https://t.co/tBHPWR3NdB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1855537043373482195",
+        "created_at": "2024-11-10T09:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T10:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855537043373482195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xuxiaole157671…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/xuxiaole157671/status/1855466434975211773",
+              "start": 24,
+              "url": "https://t.co/tBHPWR3NdB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855537043373482195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855466434975211773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "见过省教育厅厅长，中校\n再往上上的确实没见过了 https://t.co/tBHPWR3NdB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667055976367702016",
+        "conversation_id": "1855466434975211773",
+        "created_at": "2024-11-10T04:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T05:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855466434975211773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855466434975211773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 587,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国人这辈子见过最大的官，应该就是民警了吧？在往上的话，中国平民就见不到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 758,
+          "like_count": 5626,
+          "listed_count": 1,
+          "tweet_count": 4490
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-09T06:28:19.000Z",
+        "description": "一緒に帰ろう🥺我已经没有尊严了😭😭😭🏳️‍🌈🏳️‍⚧️",
+        "id": "1667055976367702016",
+        "location": "湖南腊肉乡",
+        "name": "从牛奶开始",
+        "pinned_tweet_id": "1850753347437129815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788229859711528960/yK_TUqsU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 489,
+          "like_count": 12882,
+          "listed_count": 1,
+          "tweet_count": 8882
+        },
+        "username": "xuxiaole157671",
+        "verified": false
+      }
+    ]
+  }
+}

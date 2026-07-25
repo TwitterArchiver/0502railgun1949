@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1828445191134683638",
+    "created_at": "2024-08-27T15:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T16:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828458105052815482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728276310534086657",
+          "start": 0,
+          "username": "Citric_sour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828458105052815482",
+    "in_reply_to_user_id": "1728276310534086657",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828457687530750365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citric_sour 我也是，而且他的观点也很特殊\n我愿意在读斯大林之前先看看他\n但是讲真，我对斯大林印象不好\n先锋队和巴黎公社式的民主都没有体现\n大清洗反而有一种恐怖主义意味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1828445191134683638",
+        "created_at": "2024-08-27T15:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828458105052815482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728276310534086657",
+              "start": 0,
+              "username": "Citric_sour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828458105052815482",
+        "in_reply_to_user_id": "1728276310534086657",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828457687530750365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citric_sour 我也是，而且他的观点也很特殊\n我愿意在读斯大林之前先看看他\n但是讲真，我对斯大林印象不好\n先锋队和巴黎公社式的民主都没有体现\n大清洗反而有一种恐怖主义意味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728276310534086657",
+        "conversation_id": "1828445191134683638",
+        "created_at": "2024-08-27T15:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828457687530750365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828457687530750365",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828445191134683638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 的确，霍查的地位相当特殊，我非常有兴趣，不过还没有读"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 887,
+          "following_count": 767,
+          "like_count": 4506,
+          "listed_count": 2,
+          "tweet_count": 3901
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T04:56:06.000Z",
+        "description": "04年女郭楠 | 梦想成为一名老师（已碎）/物理学家（已碎）| AAA.专业空调维修 | 希望早日见到我的小证😞 | 试图证明自己不是个废物ing...",
+        "id": "1728276310534086657",
+        "location": "动荡的远方",
+        "name": "柠萌酸🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827460443826483202/6za05iSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 698,
+          "like_count": 29666,
+          "listed_count": 1,
+          "tweet_count": 1682
+        },
+        "username": "Citric_sour",
+        "verified": false
+      }
+    ]
+  }
+}

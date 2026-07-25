@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1947612288292114903",
+    "created_at": "2025-08-20T08:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T09:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958088682591945104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629688098505510912",
+          "start": 0,
+          "username": "Unknow_CVC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958088682591945104",
+    "in_reply_to_user_id": "1629688098505510912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947612288292114903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unknow_CVC 可惜我不会写吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1947612288292114903",
+        "created_at": "2025-08-20T08:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T09:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958088682591945104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629688098505510912",
+              "start": 0,
+              "username": "Unknow_CVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958088682591945104",
+        "in_reply_to_user_id": "1629688098505510912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947612288292114903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unknow_CVC 可惜我不会写吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629688098505510912",
+        "conversation_id": "1947612288292114903",
+        "created_at": "2025-07-22T10:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T11:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947612288292114903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Unknow_CVC/sta…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Unknow_CVC/status/1947313483499888685",
+              "start": 16,
+              "url": "https://t.co/zMycZ5GoXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947612288292114903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1216,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947313483499888685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "长期招募香香软软小南凉陪我写码 https://t.co/zMycZ5GoXn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 629,
+          "like_count": 10706,
+          "listed_count": 3,
+          "media_count": 1040,
+          "tweet_count": 7467
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch下手|粤（Cantonese /Teochew/ Hakka ）|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|\n私帐：@CenKawaru21120|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 135,
+                "username": "CenKawaru21120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/unknow…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/unknow-cvc.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8qaP9KHnPL"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "Inm Republic of Cantonia_黃埔大道東",
+        "name": "超中专級のCenVCee",
+        "pinned_tweet_id": "1947612288292114903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 1351,
+          "like_count": 19224,
+          "listed_count": 1,
+          "media_count": 1772,
+          "tweet_count": 13732
+        },
+        "url": "https://t.co/8qaP9KHnPL",
+        "username": "Unknow_CVC",
+        "verified": false
+      }
+    ]
+  }
+}

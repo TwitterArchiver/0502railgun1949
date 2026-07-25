@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1852969300128354811",
+    "created_at": "2024-11-03T07:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T08:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852969300128354811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1742434589191385088",
+          "start": 3,
+          "username": "Minamikaii_1995"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852969300128354811",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852633021947760907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minamikaii_1995: 西马温情小故事《慈祥的齐泽克爷爷》\n\n在意识形态批判领域访问归来的齐泽克爷爷，全然不顾身体的疲惫，连夜召集我们这些主体间性，一同商量后续安排。谈话持续到深夜，齐泽克爷爷坚持送我们出门，亲自陪我们走上一段革命的乌托邦道路。… https:…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1852969300128354811].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1852969300128354811",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1852969300128354811"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852633015689830400"
+          ]
+        },
+        "author_id": "1742434589191385088",
+        "conversation_id": "1852633021947760907",
+        "created_at": "2024-11-02T08:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T09:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852633021947760907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K58p4tJ7pE",
+              "end": 135,
+              "expanded_url": "https://x.com/Minamikaii_1995/status/1852633021947760907/photo/1",
+              "media_key": "3_1852633015689830400",
+              "start": 112,
+              "url": "https://t.co/K58p4tJ7pE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852633021947760907",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 257,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "西马温情小故事《慈祥的齐泽克爷爷》\n\n在意识形态批判领域访问归来的齐泽克爷爷，全然不顾身体的疲惫，连夜召集我们这些主体间性，一同商量后续安排。谈话持续到深夜，齐泽克爷爷坚持送我们出门，亲自陪我们走上一段革命的乌托邦道路。… https://t.co/K58p4tJ7pE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 762,
+          "like_count": 5445,
+          "listed_count": 1,
+          "tweet_count": 4396
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-03T06:36:01.000Z",
+        "description": "El primer primer ministre espanyol escollit democràticament després de la dictadura de Franco,President de Unió de Centre Democràtic",
+        "id": "1742434589191385088",
+        "location": "アナーキーエリア",
+        "name": "Manolito Suárez González",
+        "pinned_tweet_id": "1829093577127018798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810002499807703040/A-9I3O-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 395,
+          "like_count": 79700,
+          "listed_count": 4,
+          "tweet_count": 19605
+        },
+        "username": "Minamikaii_1995",
+        "verified": true
+      }
+    ]
+  }
+}

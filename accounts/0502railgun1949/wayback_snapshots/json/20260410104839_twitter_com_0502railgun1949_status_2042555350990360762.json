@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042555350990360762",
+    "created_at": "2026-04-10T10:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042555350990360762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MomoseReina/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/MomoseReina/status/2042543864200990896",
+          "start": 50,
+          "url": "https://t.co/VyHIhbo6Cw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042555350990360762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042543864200990896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老乡鸡现在味道差多了\n再也不是我小时候尝到的那个味道了，我们老家的师傅炒的真的好\n现在又贵又不好吃 https://t.co/VyHIhbo6Cw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042543847671238657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiSzr6akAESrIm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042555350990360762",
+        "created_at": "2026-04-10T10:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042555350990360762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MomoseReina/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/MomoseReina/status/2042543864200990896",
+              "start": 50,
+              "url": "https://t.co/VyHIhbo6Cw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042555350990360762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042543864200990896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老乡鸡现在味道差多了\n再也不是我小时候尝到的那个味道了，我们老家的师傅炒的真的好\n现在又贵又不好吃 https://t.co/VyHIhbo6Cw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042543847671238657"
+          ]
+        },
+        "author_id": "1870108535268487169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042543864200990896",
+        "created_at": "2026-04-10T10:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042543864200990896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1488080791125237760",
+              "start": 19,
+              "username": "MengXi969"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WTC5EMnYap",
+              "end": 53,
+              "expanded_url": "https://x.com/MomoseReina/status/2042543864200990896/photo/1",
+              "media_key": "3_2042543847671238657",
+              "start": 30,
+              "url": "https://t.co/WTC5EMnYap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042543864200990896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃老乡鸡，也是吃上家乡菜了\nWith @MengXi969 https://t.co/WTC5EMnYap"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 658,
+          "like_count": 12646,
+          "listed_count": 3,
+          "media_count": 1314,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友 | 友跨不含糖 | 音游吃 | 术术人 | 技术宅 | 社恐 | 不见证 | 逃生舱: @NanaseReina | 笨蛋姐姐/主人: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 62,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 96,
+                "start": 86,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyNlK"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 328,
+          "like_count": 7494,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 5136
+        },
+        "url": "https://t.co/OdaAdEyNlK",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

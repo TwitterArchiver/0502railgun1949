@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2030351660657389624",
+    "created_at": "2026-03-07T18:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T19:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030351660657389624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "817932880605233152",
+          "start": 3,
+          "username": "AsiaFinance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030351660657389624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030108037210603532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsiaFinance: 中国房价为何持续下跌？除了大家知道的人口红利消退、存量过剩、投资属性削弱、收入预期下降、新增刚性购房需求显著萎缩等，还有两个大雷，每个雷都会使房价再跌25%以上：一是房产税普征；二是土地使用费。50年或70年土地租赁(使用权)到期，中国业主是否…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62046,
+        "height": 616,
+        "media_key": "13_2030107847552552962",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2030107847552552962/img/EE-3VaN71lkywon2.jpg",
+        "public_metrics": {
+          "view_count": 20501
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030107847552552962/vid/avc1/564x270/Q9dqf0onnVU9XNTS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030107847552552962/vid/avc1/752x360/17TP7bSR-BQG-8iC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2030107847552552962/vid/avc1/1288x616/3AKWvauA-kH03t3U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2030107847552552962/pl/o9JPM5SLyuXn5Q-S.m3u8?v=2d6"
+          }
+        ],
+        "width": 1288
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2030351660657389624",
+        "created_at": "2026-03-07T18:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T19:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030351660657389624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "817932880605233152",
+              "start": 3,
+              "username": "AsiaFinance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030351660657389624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030108037210603532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsiaFinance: 中国房价为何持续下跌？除了大家知道的人口红利消退、存量过剩、投资属性削弱、收入预期下降、新增刚性购房需求显著萎缩等，还有两个大雷，每个雷都会使房价再跌25%以上：一是房产税普征；二是土地使用费。50年或70年土地租赁(使用权)到期，中国业主是否…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2030107847552552962"
+          ]
+        },
+        "author_id": "817932880605233152",
+        "conversation_id": "2030108037210603532",
+        "created_at": "2026-03-07T02:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030108037210603532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vRq3YsQRWN",
+              "end": 168,
+              "expanded_url": "https://x.com/AsiaFinance/status/2030108037210603532/video/1",
+              "media_key": "13_2030107847552552962",
+              "start": 145,
+              "url": "https://t.co/vRq3YsQRWN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030108037210603532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 420,
+                "id": "817932880605233152",
+                "start": 408,
+                "username": "AsiaFinance"
+              }
+            ]
+          },
+          "text": "中国房价为何持续下跌？除了大家知道的人口红利消退、存量过剩、投资属性削弱、收入预期下降、新增刚性购房需求显著萎缩等，还有两个大雷，每个雷都会使房价再跌25%以上：一是房产税普征；二是土地使用费。50年或70年土地租赁(使用权)到期，中国业主是否要再交地税？大楼的处理，譬如拆除，究竟谁说了算？\n\n根据现行法律，中国土地所有权属于国家或集体，个人或单位取得的仅为土地使用权(而非租赁所有权)。住宅用地使用权通常70年，商业工业等非住宅用地为50年。土地使用权到期后的处理，主要依据《民法典》第359条、《城市房地产管理法》第22条和《城镇国有土地使用权出让和转让暂行条例》第41条等规定。\n\n土地使用权到期后，业主是否需要再交费用(地税或出让金)？肯定的。住宅用地(通常70年)：使用权到期后，自动续期，无需申请。这意味着业主可以继续使用土地，无需担心立即失去权利。但续期原则上有偿，即可能需要缴纳续期费用。亚洲金融(@AsiaFinance)发现，具体费用缴纳或减免标准，但是目前，国家尚未出台统一的细则或标准。\n\n非住宅用地(通常50年如商业)：到期后，需提前一年申请续期，除公共利益需要收回外，一般批准。批准后，需重新签订出让合同，并缴纳土地出让金(费用标准基于当时市场地价评估，通常相当于基准地价的35%或类似比例）。如果不申请或未获批准，土地使用权由国家无偿收回。实际中，北京等地规定，出让金按届时地价政策核定。\n\n总体上，“地税”并非标准术语，但续期费用本质上是土地出让金或使用费的延续。目前无全国统一税率，各地可能参考房产税或基准地价(如深圳曾采用基准地价35%补交)。\n\n大楼(建筑物)的处理，如拆除，谁说了算？建筑物归属与处理：中国实行“房地一体”原则，建筑物依附于土地使用权。土地使用权到期后：如果续期成功，建筑物继续归业主所有，无需额外处理。如果不续期或未获批准，土地使用权由国家无偿收回，地上建筑物及其他不动产的归属有约定从约定，无约定从法律、行政法规办理。\n\n 中国房地产已失去投资价值，业主也没权。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 36129,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "中国房价为何持续下跌？除了大家知道的人口红利消退、存量过剩、投资属性削弱、收入预期下降、新增刚性购房需求显著萎缩等，还有两个大雷，每个雷都会使房价再跌25%以上：一是房产税普征；二是土地使用费。50年或70年土地租赁(使用权)到期，中国业主是否要再交地税？大楼的处理，譬如拆除，究竟谁说了 https://t.co/vRq3YsQRWN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 620,
+          "like_count": 10968,
+          "listed_count": 3,
+          "media_count": 1228,
+          "tweet_count": 8622
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-08T03:16:10.000Z",
+        "description": "亚洲金融：政经领域的有意思的事儿。\nAsiaFinance: For the Rich and Powerful.",
+        "id": "817932880605233152",
+        "location": "New York, USA",
+        "name": "亚洲金融 Asia Finance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581767238968905729/WA2-mkJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392989,
+          "following_count": 585,
+          "like_count": 23126,
+          "listed_count": 1949,
+          "media_count": 12703,
+          "tweet_count": 15511
+        },
+        "username": "AsiaFinance",
+        "verified": true
+      }
+    ]
+  }
+}

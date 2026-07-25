@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1954238012067611010",
+    "created_at": "2025-08-10T15:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T16:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954565545623535660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1743445165426294785",
+          "start": 0,
+          "username": "Leighton1962610"
+        },
+        {
+          "end": 28,
+          "id": "1762505470538133504",
+          "start": 17,
+          "username": "RuiRui1399"
+        },
+        {
+          "end": 42,
+          "id": "1662540652029304832",
+          "start": 29,
+          "username": "Mira10022568"
+        },
+        {
+          "end": 53,
+          "id": "1329591028538544128",
+          "start": 43,
+          "username": "cht010314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954565545623535660",
+    "in_reply_to_user_id": "1743445165426294785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954383157631070689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Leighton1962610 @RuiRui1399 @Mira10022568 @cht010314 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1954238012067611010",
+        "created_at": "2025-08-10T15:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T16:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954565545623535660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1743445165426294785",
+              "start": 0,
+              "username": "Leighton1962610"
+            },
+            {
+              "end": 28,
+              "id": "1762505470538133504",
+              "start": 17,
+              "username": "RuiRui1399"
+            },
+            {
+              "end": 42,
+              "id": "1662540652029304832",
+              "start": 29,
+              "username": "Mira10022568"
+            },
+            {
+              "end": 53,
+              "id": "1329591028538544128",
+              "start": 43,
+              "username": "cht010314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954565545623535660",
+        "in_reply_to_user_id": "1743445165426294785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954383157631070689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leighton1962610 @RuiRui1399 @Mira10022568 @cht010314 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743445165426294785",
+        "conversation_id": "1954238012067611010",
+        "created_at": "2025-08-10T03:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954383157631070689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1762505470538133504",
+              "start": 0,
+              "username": "RuiRui1399"
+            },
+            {
+              "end": 25,
+              "id": "1662540652029304832",
+              "start": 12,
+              "username": "Mira10022568"
+            },
+            {
+              "end": 36,
+              "id": "1329591028538544128",
+              "start": 26,
+              "username": "cht010314"
+            },
+            {
+              "end": 53,
+              "id": "1596405792315691008",
+              "start": 37,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954383157631070689",
+        "in_reply_to_user_id": "1762505470538133504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954376737942593871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RuiRui1399 @Mira10022568 @cht010314 @0502railgun1949 恭喜你哦寶貝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 627,
+          "like_count": 10430,
+          "listed_count": 3,
+          "media_count": 1026,
+          "tweet_count": 7325
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T01:31:52.000Z",
+        "description": "一個00年的跨女 | SRS-2023-08-15 | 喜歡看色圖 | 喜歡一切  歡迎姐妹們擴列 | 妹妹 @Mira10022568",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "Mira10022568"
+              }
+            ]
+          }
+        },
+        "id": "1743445165426294785",
+        "location": "Hong Kong",
+        "name": "Chan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831510005159456768/Zhx77eBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 78,
+          "like_count": 535,
+          "listed_count": 9,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "username": "Leighton1962610",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T15:50:38.000Z",
+        "description": "是蕊蕊，06年出生的猫猫备选者，168cm-52kg。运气差降临在了不属于我的躯体，梦想成为猫猫。",
+        "id": "1762505470538133504",
+        "name": "小蕊🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913543993885065216/5jxLtmiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 84,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 28
+        },
+        "username": "RuiRui1399",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T19:26:11.000Z",
+        "description": "可咨询HRT、手术问题｜出糖｜咨询｜那天25.2.10｜ 姐姐@Leighton1962610",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "Leighton1962610"
+              }
+            ]
+          }
+        },
+        "id": "1662540652029304832",
+        "name": " Sky（泰补190）",
+        "pinned_tweet_id": "1880614863397097587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906869103278862336/SFVdt4pv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 1435,
+          "like_count": 47815,
+          "listed_count": 6,
+          "media_count": 150,
+          "tweet_count": 10445
+        },
+        "username": "Mira10022568",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-20T01:03:29.000Z",
+        "description": "一个普通的爱国小将",
+        "id": "1329591028538544128",
+        "location": "Washington, DC",
+        "name": "小陈仌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617673513057255424/hht9poEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 21,
+          "like_count": 142,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 27
+        },
+        "username": "cht010314",
+        "verified": false
+      }
+    ]
+  }
+}

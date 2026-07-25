@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2036419178803220507",
+    "created_at": "2026-03-24T12:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T13:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036419178803220507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ryan_80200/sta…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/ryan_80200/status/2036050195084099680",
+          "start": 10,
+          "url": "https://t.co/izLivMF7yI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036419178803220507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036050195084099680",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上学都不止朝九晚五 https://t.co/izLivMF7yI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2036419178803220507",
+        "created_at": "2026-03-24T12:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036419178803220507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ryan_80200/sta…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/ryan_80200/status/2036050195084099680",
+              "start": 10,
+              "url": "https://t.co/izLivMF7yI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036419178803220507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036050195084099680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上学都不止朝九晚五 https://t.co/izLivMF7yI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843488589906419712",
+        "conversation_id": "2036050195084099680",
+        "created_at": "2026-03-23T11:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036050195084099680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036050195084099680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 38203,
+          "like_count": 218,
+          "quote_count": 6,
+          "reply_count": 88,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我记得我小时候朝九晚五是形容一个人工作很辛苦。 现在呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 643,
+          "like_count": 11301,
+          "listed_count": 3,
+          "media_count": 1261,
+          "tweet_count": 8969
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T03:08:47.000Z",
+        "description": "蓝采和啊！醉酒当歌，红颜易老转眼桑田泛清波！",
+        "id": "1843488589906419712",
+        "name": "lucas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852125581393158144/hqrA-mmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 856,
+          "like_count": 9227,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 9938
+        },
+        "username": "ryan_80200",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1887942698436542464"
+      ],
+      "media_source_tweet_id": [
+        "1887942736701177999"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1888158591192019128",
+    "created_at": "2025-02-08T09:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T10:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888158591192019128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1158382980076716032",
+          "start": 3,
+          "username": "kokodayo5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ccDEPx51xL",
+          "end": 51,
+          "expanded_url": "https://x.com/kokodayo5150/status/1887942736701177999/photo/1",
+          "media_key": "3_1887942698436542464",
+          "start": 28,
+          "url": "https://t.co/ccDEPx51xL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888158591192019128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887942736701177999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokodayo5150: 啊这\n限速那么狠吗 https://t.co/ccDEPx51xL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 421,
+        "media_key": "3_1887942698436542464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjNR4aiaQAA4MKx.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887942698436542464"
+          ],
+          "media_source_tweet_id": [
+            "1887942736701177999"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1888158591192019128",
+        "created_at": "2025-02-08T09:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T10:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888158591192019128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1158382980076716032",
+              "start": 3,
+              "username": "kokodayo5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccDEPx51xL",
+              "end": 51,
+              "expanded_url": "https://x.com/kokodayo5150/status/1887942736701177999/photo/1",
+              "media_key": "3_1887942698436542464",
+              "start": 28,
+              "url": "https://t.co/ccDEPx51xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888158591192019128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887942736701177999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokodayo5150: 啊这\n限速那么狠吗 https://t.co/ccDEPx51xL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1887942698436542464"
+          ]
+        },
+        "author_id": "1158382980076716032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1887942736701177999",
+        "created_at": "2025-02-07T19:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T20:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887942736701177999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccDEPx51xL",
+              "end": 33,
+              "expanded_url": "https://x.com/kokodayo5150/status/1887942736701177999/photo/1",
+              "media_key": "3_1887942698436542464",
+              "start": 10,
+              "url": "https://t.co/ccDEPx51xL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887942736701177999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2441,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "啊这\n限速那么狠吗 https://t.co/ccDEPx51xL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 748,
+          "like_count": 6571,
+          "listed_count": 1,
+          "media_count": 886,
+          "tweet_count": 5514
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-05T14:23:18.000Z",
+        "description": "萌新kiger，常驻深圳，喜欢面基，欢迎私信互fo。前世@rabbubble550w，牢字辈一分子，找回推油中。最最最最喜欢对咱最好的人 @vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "rabbubble550w"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "username": "vu_yoyo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pocaro…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/pocarosa2381.xiaoyaoniang.com",
+                "start": 0,
+                "url": "https://t.co/OOjFFU1Fqk"
+              }
+            ]
+          }
+        },
+        "id": "1158382980076716032",
+        "location": "Hong Kong",
+        "name": "斯卡蒂蒂蒂",
+        "pinned_tweet_id": "1878179547637772367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864159275305848832/ZKfXUpTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 2886,
+          "like_count": 6322,
+          "listed_count": 4,
+          "media_count": 710,
+          "tweet_count": 7811
+        },
+        "url": "https://t.co/OOjFFU1Fqk",
+        "username": "kokodayo5150",
+        "verified": false
+      }
+    ]
+  }
+}

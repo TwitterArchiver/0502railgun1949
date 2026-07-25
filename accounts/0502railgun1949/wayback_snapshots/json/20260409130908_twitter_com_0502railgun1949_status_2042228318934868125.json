@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042228318934868125",
+    "created_at": "2026-04-09T13:09:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T14:09:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042228318934868125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/axzamyzed/stat…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/axzamyzed/status/2042145540889362519",
+          "start": 33,
+          "url": "https://t.co/1LI5TFPVby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042228318934868125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042145540889362519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前好像看到一篇科普说沾水之后刷牙效果不好\n后面就没有再沾过水了 https://t.co/1LI5TFPVby"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 279,
+        "media_key": "3_2042145531728932864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcoipZasAA6A-b.jpg",
+        "width": 554
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042228318934868125",
+        "created_at": "2026-04-09T13:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042228318934868125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/axzamyzed/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/axzamyzed/status/2042145540889362519",
+              "start": 33,
+              "url": "https://t.co/1LI5TFPVby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042228318934868125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042145540889362519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前好像看到一篇科普说沾水之后刷牙效果不好\n后面就没有再沾过水了 https://t.co/1LI5TFPVby"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042145531728932864"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2042145540889362519",
+        "created_at": "2026-04-09T07:40:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:40:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042145540889362519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8l4BIOshXs",
+              "end": 43,
+              "expanded_url": "https://x.com/axzamyzed/status/2042145540889362519/photo/1",
+              "media_key": "3_2042145531728932864",
+              "start": 20,
+              "url": "https://t.co/8l4BIOshXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042145540889362519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 95020,
+          "like_count": 207,
+          "quote_count": 2,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们北方人也没有把牙膏挤在牙上的习惯啊 https://t.co/8l4BIOshXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 657,
+          "like_count": 12529,
+          "listed_count": 3,
+          "media_count": 1307,
+          "tweet_count": 9954
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtf？mtx？｜叫我翅膀就好｜私信暂时只对互关及验证用户开放，本体 @mxyzcdb 允许所有人请求私信｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 35,
+                "username": "mxyzcdb"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "pinned_tweet_id": "2039497013008667074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 928,
+          "like_count": 8632,
+          "listed_count": 4,
+          "media_count": 671,
+          "tweet_count": 5207
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

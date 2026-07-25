@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2034725245651669024",
+    "created_at": "2026-03-20T04:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034849930389684356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1884871796522176512",
+          "start": 0,
+          "username": "Siyi114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034849930389684356",
+    "in_reply_to_user_id": "1884871796522176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034725245651669024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Siyi114 我之前也这样想过，但是我现在认了\n既然已经开了，那就继续去探求真理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2034725245651669024",
+        "created_at": "2026-03-20T04:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034849930389684356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1884871796522176512",
+              "start": 0,
+              "username": "Siyi114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034849930389684356",
+        "in_reply_to_user_id": "1884871796522176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034725245651669024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Siyi114 我之前也这样想过，但是我现在认了\n既然已经开了，那就继续去探求真理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884871796522176512",
+        "conversation_id": "2034725245651669024",
+        "created_at": "2026-03-19T20:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T21:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034725245651669024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034725245651669024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候真为自己懂的太进步而痛苦绝望，觉得自己要是个什么都不懂的人就没有这么多烦恼；有时候又为自己日渐丰富的知识而沾沾自喜，觉得自己问道夕死也好过无知傻乐。就这样思绪混乱且矛盾。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 623,
+          "like_count": 11129,
+          "listed_count": 3,
+          "media_count": 1248,
+          "tweet_count": 8792
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T07:50:46.000Z",
+        "description": "对方设置了权限，你可以在申请通过后查看",
+        "id": "1884871796522176512",
+        "name": "Siyi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884880544628105216/tl6rdHsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 272,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 406
+        },
+        "username": "Siyi114",
+        "verified": false
+      }
+    ]
+  }
+}

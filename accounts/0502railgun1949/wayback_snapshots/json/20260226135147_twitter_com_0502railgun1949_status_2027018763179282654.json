@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2027018763179282654",
+    "created_at": "2026-02-26T13:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T14:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027018763179282654"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Olebe179131/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Olebe179131/status/2026952977022619934",
+          "start": 29,
+          "url": "https://t.co/MKbFemIYBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027018763179282654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026952977022619934",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别想了，这个就是，头痛粉里面是对乙酰氨基酚阿司匹林咖啡因 https://t.co/MKbFemIYBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2026952686898475008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEuur8bcAA_9ZF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2027018763179282654",
+        "created_at": "2026-02-26T13:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027018763179282654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Olebe179131/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Olebe179131/status/2026952977022619934",
+              "start": 29,
+              "url": "https://t.co/MKbFemIYBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027018763179282654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026952977022619934",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别想了，这个就是，头痛粉里面是对乙酰氨基酚阿司匹林咖啡因 https://t.co/MKbFemIYBu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026952686898475008"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2026952977022619934",
+        "created_at": "2026-02-26T09:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026952977022619934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kBRla0xbR",
+              "end": 36,
+              "expanded_url": "https://x.com/Olebe179131/status/2026952977022619934/photo/1",
+              "media_key": "3_2026952686898475008",
+              "start": 13,
+              "url": "https://t.co/1kBRla0xbR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026952977022619934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1896,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受不了来点神奇白粉止痛！ https://t.co/1kBRla0xbR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1167,
+          "following_count": 612,
+          "like_count": 10777,
+          "listed_count": 3,
+          "media_count": 1189,
+          "tweet_count": 8382
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/赛博精神病/百合厨/二次元\n欢迎互关",
+        "id": "1687566770763071489",
+        "name": "多柔比星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012345874899513344/DajrQh8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 268,
+          "like_count": 8761,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 914
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

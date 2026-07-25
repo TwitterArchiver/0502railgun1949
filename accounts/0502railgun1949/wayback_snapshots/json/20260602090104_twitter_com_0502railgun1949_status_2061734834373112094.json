@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2061734834373112094",
+    "created_at": "2026-06-02T09:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061734834373112094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jaciezyt/statu…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/Jaciezyt/status/2061683228654866616",
+          "start": 68,
+          "url": "https://t.co/rGpEHdVYBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061734834373112094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061683228654866616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有这样的老师很好了\n我印象最深刻的就是我的小学老师，他在外地大学学习的时候，给我们捡了当地的银杏叶回来\n塑封好发给了我们班里面每一个人 https://t.co/rGpEHdVYBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2626,
+        "media_key": "3_2061683213190488064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyR9Yma4AAYQAw.jpg",
+        "width": 3667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2061734834373112094",
+        "created_at": "2026-06-02T09:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061734834373112094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jaciezyt/statu…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/Jaciezyt/status/2061683228654866616",
+              "start": 68,
+              "url": "https://t.co/rGpEHdVYBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061734834373112094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061683228654866616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这样的老师很好了\n我印象最深刻的就是我的小学老师，他在外地大学学习的时候，给我们捡了当地的银杏叶回来\n塑封好发给了我们班里面每一个人 https://t.co/rGpEHdVYBC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061683213190488064"
+          ]
+        },
+        "author_id": "1271652280438308864",
+        "conversation_id": "2061683228654866616",
+        "created_at": "2026-06-02T05:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T06:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061683228654866616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gLHB8HcgAZ",
+              "end": 23,
+              "expanded_url": "https://x.com/Jaciezyt/status/2061683228654866616/photo/1",
+              "media_key": "3_2061683213190488064",
+              "start": 0,
+              "url": "https://t.co/gLHB8HcgAZ"
+            },
+            {
+              "display_url": "x.com/jaciezyt/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/jaciezyt/status/2061292247837274195",
+              "start": 24,
+              "url": "https://t.co/tglaeIulXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061683228654866616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3674,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061292247837274195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/gLHB8HcgAZ https://t.co/tglaeIulXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 686,
+          "like_count": 15105,
+          "listed_count": 5,
+          "media_count": 1390,
+          "tweet_count": 11927
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "Jacie 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4099,
+          "following_count": 924,
+          "like_count": 64143,
+          "listed_count": 12,
+          "media_count": 1371,
+          "tweet_count": 15795
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

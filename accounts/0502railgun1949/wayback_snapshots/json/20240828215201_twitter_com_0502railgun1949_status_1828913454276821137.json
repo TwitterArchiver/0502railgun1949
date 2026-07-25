@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1828913454276821137",
+    "created_at": "2024-08-28T21:52:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T22:52:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828913454276821137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XisMoments/sta…",
+          "end": 176,
+          "expanded_url": "https://twitter.com/XisMoments/status/1827552544677360100",
+          "start": 153,
+          "url": "https://t.co/LeOeYRefxT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828913454276821137",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827552544677360100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他那个时候啊，在那里种了一棵树\n莲花山那里好像有胡锦涛手植树和习近平手植树\n现在他树都长挺大了， Reform and opening up，对于改革开放的翻译，我是没有想到的\n之前邓小平的雕像是可以在旁边玩的，现在都围起来了\n雕像后面还写了一句话，我深情的爱着我的祖国和人民，我是中国人民的儿子-邓小平 https://t.co/LeOeYRefxT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1828913454276821137",
+        "created_at": "2024-08-28T21:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T22:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828913454276821137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XisMoments/sta…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/XisMoments/status/1827552544677360100",
+              "start": 153,
+              "url": "https://t.co/LeOeYRefxT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828913454276821137",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827552544677360100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他那个时候啊，在那里种了一棵树\n莲花山那里好像有胡锦涛手植树和习近平手植树\n现在他树都长挺大了， Reform and opening up，对于改革开放的翻译，我是没有想到的\n之前邓小平的雕像是可以在旁边玩的，现在都围起来了\n雕像后面还写了一句话，我深情的爱着我的祖国和人民，我是中国人民的儿子-邓小平 https://t.co/LeOeYRefxT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1827551965691441152"
+          ]
+        },
+        "author_id": "952820189191536641",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1827552544677360100",
+        "created_at": "2024-08-25T03:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T04:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827552544677360100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Xi Jinping",
+              "probability": 0.95,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 135,
+              "normalized_text": "Deng Xiaoping",
+              "probability": 0.89,
+              "start": 123,
+              "type": "Person"
+            },
+            {
+              "end": 167,
+              "normalized_text": "Xi",
+              "probability": 0.7989,
+              "start": 166,
+              "type": "Person"
+            },
+            {
+              "end": 222,
+              "normalized_text": "Deng",
+              "probability": 0.5449,
+              "start": 219,
+              "type": "Person"
+            },
+            {
+              "end": 241,
+              "normalized_text": "Shenzhen",
+              "probability": 0.8818,
+              "start": 234,
+              "type": "Place"
+            },
+            {
+              "end": 261,
+              "normalized_text": "Guangdong province",
+              "probability": 0.7449,
+              "start": 244,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kexpvezuzg",
+              "end": 304,
+              "expanded_url": "https://twitter.com/XisMoments/status/1827552544677360100/video/1",
+              "media_key": "7_1827551965691441152",
+              "start": 281,
+              "url": "https://t.co/KeXpveZuZg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827552544677360100",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 65038,
+          "like_count": 770,
+          "quote_count": 15,
+          "reply_count": 22,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "President Xi Jinping has stressed the importance of following the path of reform and opening-up, which late Chinese leader Deng Xiaoping initiated. Twelve years ago, Xi paid a visit to the site where a bronze statue of Deng stands in Shenzhen, Guangdong province. Watch the video… https://t.co/KeXpveZuZg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 767,
+          "like_count": 4585,
+          "listed_count": 2,
+          "tweet_count": 3964
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-15T08:30:10.000Z",
+        "description": "We focus on news about President Xi Jinping and China.",
+        "id": "952820189191536641",
+        "name": "Xi's Moments",
+        "pinned_tweet_id": "1827552544677360100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/960768604462460928/Onlx6gVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151454,
+          "following_count": 105,
+          "like_count": 2407,
+          "listed_count": 236,
+          "tweet_count": 12954
+        },
+        "username": "XisMoments",
+        "verified": true
+      }
+    ]
+  }
+}

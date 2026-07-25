@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1857783701788332293",
+    "created_at": "2024-11-23T09:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T10:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860255020832415884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1358791821585911811",
+          "start": 0,
+          "username": "misaka19614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860255020832415884",
+    "in_reply_to_user_id": "1358791821585911811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857783701788332293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@misaka19614 贝多芬的交响曲还是很好听的，我最近也在听他的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1857783701788332293].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1857783701788332293",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1857783701788332293"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1857783701788332293",
+        "created_at": "2024-11-23T09:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T10:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860255020832415884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1358791821585911811",
+              "start": 0,
+              "username": "misaka19614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860255020832415884",
+        "in_reply_to_user_id": "1358791821585911811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857783701788332293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@misaka19614 贝多芬的交响曲还是很好听的，我最近也在听他的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 985,
+          "following_count": 755,
+          "like_count": 5875,
+          "listed_count": 1,
+          "tweet_count": 4631
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T14:56:47.000Z",
+        "description": "INFP-A/INFJ-A｜ 御坂御坂一名，即将变为一名社畜。喜欢交各种有趣的朋友，感兴趣的人会回fo ，净化TL，太多nsfw不会回fo抱歉@misaka19614@m.cmx.im instagram：misaka19614",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.misaka19614.com",
+                "end": 23,
+                "expanded_url": "http://blog.misaka19614.com",
+                "start": 0,
+                "url": "https://t.co/xSleydGQYt"
+              }
+            ]
+          }
+        },
+        "id": "1358791821585911811",
+        "location": "HK",
+        "name": "御坂 19614 号",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595335644242640896/PB068QPm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 322,
+          "like_count": 5825,
+          "listed_count": 1,
+          "tweet_count": 1771
+        },
+        "url": "https://t.co/xSleydGQYt",
+        "username": "misaka19614",
+        "verified": false
+      }
+    ]
+  }
+}

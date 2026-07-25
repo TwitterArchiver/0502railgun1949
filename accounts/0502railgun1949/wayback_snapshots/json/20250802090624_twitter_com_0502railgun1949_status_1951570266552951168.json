@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1951570266552951168",
+    "created_at": "2025-08-02T09:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T10:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951570266552951168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YENA_QWQ/statu…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/YENA_QWQ/status/1951297709618635046",
+          "start": 49,
+          "url": "https://t.co/fuJmgs3tpS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951570266552951168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951297709618635046",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌跟我聊到一半突然消失的行为，好歹说一声你去忙了，或者说你不想跟我聊了，这样我也不用干等消息 https://t.co/fuJmgs3tpS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1951570266552951168",
+        "created_at": "2025-08-02T09:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T10:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951570266552951168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YENA_QWQ/statu…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/YENA_QWQ/status/1951297709618635046",
+              "start": 49,
+              "url": "https://t.co/fuJmgs3tpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951570266552951168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951297709618635046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌跟我聊到一半突然消失的行为，好歹说一声你去忙了，或者说你不想跟我聊了，这样我也不用干等消息 https://t.co/fuJmgs3tpS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "1951297709618635046",
+        "created_at": "2025-08-01T15:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T16:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951297709618635046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1951297709618635046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4286,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌跟我聊到一半突然消失的行为，好歹说一声你去忙了，或者说你不想跟我聊了，这样我也不用干等消息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 632,
+          "like_count": 10105,
+          "listed_count": 3,
+          "media_count": 1019,
+          "tweet_count": 7235
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "04年MTF(？)/生理性别♂/小证，可以叫我奈奈，常出现在长三角地区以及广西～不接线下⚠️/❗病态般的缺爱❗喜欢交朋友～可以来找奈奈一起玩～/我一辈子都在妄想着一个人会回来找我/QQ2696873143(仅限同类)",
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA🍥",
+        "pinned_tweet_id": "1949866118820356493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951169981531693060/u-k2tWk4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 746,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 663
+        },
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

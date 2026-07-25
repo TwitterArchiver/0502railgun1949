@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035813778248306803",
+    "created_at": "2026-03-24T00:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T01:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036240378433855978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1279786832281116672",
+          "start": 0,
+          "username": "Raheem6009"
+        },
+        {
+          "end": 23,
+          "id": "1580462850123833344",
+          "start": 12,
+          "username": "lianda_edu"
+        },
+        {
+          "end": 38,
+          "id": "1676687420077531140",
+          "start": 24,
+          "username": "selfattentive"
+        },
+        {
+          "end": 48,
+          "id": "1661136128",
+          "start": 39,
+          "username": "alz_zyd_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036240378433855978",
+    "in_reply_to_user_id": "1279786832281116672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 32,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036194003448689048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raheem6009 @lianda_edu @selfattentive @alz_zyd_ If I don't do my homework, it doesn't mean that the teacher and the school don't require it."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035813778248306803",
+        "created_at": "2026-03-24T00:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036240378433855978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1279786832281116672",
+              "start": 0,
+              "username": "Raheem6009"
+            },
+            {
+              "end": 23,
+              "id": "1580462850123833344",
+              "start": 12,
+              "username": "lianda_edu"
+            },
+            {
+              "end": 38,
+              "id": "1676687420077531140",
+              "start": 24,
+              "username": "selfattentive"
+            },
+            {
+              "end": 48,
+              "id": "1661136128",
+              "start": 39,
+              "username": "alz_zyd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036240378433855978",
+        "in_reply_to_user_id": "1279786832281116672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036194003448689048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raheem6009 @lianda_edu @selfattentive @alz_zyd_ If I don't do my homework, it doesn't mean that the teacher and the school don't require it."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1279786832281116672",
+        "conversation_id": "2035813778248306803",
+        "created_at": "2026-03-23T21:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T22:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036194003448689048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            },
+            {
+              "end": 28,
+              "id": "1580462850123833344",
+              "start": 17,
+              "username": "lianda_edu"
+            },
+            {
+              "end": 43,
+              "id": "1676687420077531140",
+              "start": 29,
+              "username": "selfattentive"
+            },
+            {
+              "end": 53,
+              "id": "1661136128",
+              "start": 44,
+              "username": "alz_zyd_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036194003448689048",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035983057984106797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 @lianda_edu @selfattentive @alz_zyd_ Wow as someone WHO IS in a similar boat , very inspirational"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 644,
+          "like_count": 11281,
+          "listed_count": 3,
+          "media_count": 1260,
+          "tweet_count": 8958
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-05T14:39:03.000Z",
+        "description": "Hey",
+        "id": "1279786832281116672",
+        "name": "Anon2123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 80,
+          "like_count": 31882,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 148
+        },
+        "username": "Raheem6009",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer\nDefi ,Fintech ,Algorithmic Game Theory\nThe University of Hong Kong  @HKUniversity @nberpubs\nSenior Research Assistant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "nberpubs"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "NBER",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2035730255743484163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1304,
+          "following_count": 829,
+          "like_count": 16667,
+          "listed_count": 4,
+          "media_count": 941,
+          "tweet_count": 21753
+        },
+        "username": "lianda_edu",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-05T20:20:21.000Z",
+        "description": "deep learning stuff mostly",
+        "id": "1676687420077531140",
+        "location": "local minima (chicago)",
+        "name": "biased estimator",
+        "pinned_tweet_id": "1929650961124855965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836522331457421313/vDGJOZmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 1703,
+          "like_count": 106301,
+          "listed_count": 2,
+          "media_count": 37,
+          "tweet_count": 2767
+        },
+        "username": "selfattentive",
+        "verified": true
+      },
+      {
+        "created_at": "2013-08-10T22:58:48.000Z",
+        "description": "pfp by @ShizzyAizawa. Post-Newtonian heterodox economist. Inventor of the JvN hypothesis. World champion of econ/finance/food ragebait. Hermit savant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "ShizzyAizawa"
+              }
+            ]
+          }
+        },
+        "id": "1661136128",
+        "name": "alz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548663597668122627/-u985urp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33106,
+          "following_count": 17398,
+          "like_count": 105926,
+          "listed_count": 426,
+          "media_count": 2049,
+          "tweet_count": 40034
+        },
+        "username": "alz_zyd_",
+        "verified": true
+      }
+    ]
+  }
+}

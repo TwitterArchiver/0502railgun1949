@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1915723986971083098",
+    "created_at": "2025-04-25T11:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T12:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915723986971083098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/not_2b_or_2b/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/not_2b_or_2b/status/1915376754400825399",
+          "start": 7,
+          "url": "https://t.co/nzeb0BUF5F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915723986971083098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915376754400825399",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "标准化是工业 https://t.co/nzeb0BUF5F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1374,
+        "media_key": "3_1915376710696263682",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTI-GQbYAIPqIm.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1472,
+        "media_key": "3_1915376726244548611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTI_ALbYAMUhd1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1510,
+        "media_key": "3_1915376738827460612",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpTI_vDbYAQXHA4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1915723986971083098",
+        "created_at": "2025-04-25T11:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T12:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915723986971083098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/not_2b_or_2b/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/not_2b_or_2b/status/1915376754400825399",
+              "start": 7,
+              "url": "https://t.co/nzeb0BUF5F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915723986971083098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915376754400825399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "标准化是工业 https://t.co/nzeb0BUF5F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915376710696263682",
+            "3_1915376726244548611",
+            "3_1915376738827460612"
+          ]
+        },
+        "author_id": "25950119",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1915376754400825399",
+        "created_at": "2025-04-24T12:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T13:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915376754400825399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTPS4bWzEt",
+              "end": 54,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1915376754400825399/photo/1",
+              "media_key": "3_1915376710696263682",
+              "start": 31,
+              "url": "https://t.co/OTPS4bWzEt"
+            },
+            {
+              "display_url": "pic.x.com/OTPS4bWzEt",
+              "end": 54,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1915376754400825399/photo/1",
+              "media_key": "3_1915376726244548611",
+              "start": 31,
+              "url": "https://t.co/OTPS4bWzEt"
+            },
+            {
+              "display_url": "pic.x.com/OTPS4bWzEt",
+              "end": 54,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1915376754400825399/photo/1",
+              "media_key": "3_1915376738827460612",
+              "start": 31,
+              "url": "https://t.co/OTPS4bWzEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915376754400825399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 175686,
+          "like_count": 945,
+          "quote_count": 38,
+          "reply_count": 216,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "这是把教室当家了吧，\n你敢信这是一个正在读高三女生的课桌吗？ https://t.co/OTPS4bWzEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 738,
+          "like_count": 6962,
+          "listed_count": 2,
+          "media_count": 960,
+          "tweet_count": 6077
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36102,
+          "following_count": 179,
+          "like_count": 109,
+          "listed_count": 204,
+          "media_count": 7141,
+          "tweet_count": 11787
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

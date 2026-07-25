@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824377102592045346",
+    "created_at": "2024-08-16T09:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T10:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824378311998349699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1567543381441773570",
+          "start": 0,
+          "username": "darkuture"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824378311998349699",
+    "in_reply_to_user_id": "1567543381441773570",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824377102592045346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@darkuture 内圈哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824377102592045346",
+        "created_at": "2024-08-16T09:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824378311998349699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1567543381441773570",
+              "start": 0,
+              "username": "darkuture"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824378311998349699",
+        "in_reply_to_user_id": "1567543381441773570",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824377102592045346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@darkuture 内圈哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824377100029308928"
+          ]
+        },
+        "author_id": "1567543381441773570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1824377102592045346",
+        "created_at": "2024-08-16T09:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T10:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824377102592045346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinityweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinityweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/dw4Jw14Fiv"
+            },
+            {
+              "display_url": "pic.x.com/qlfw2g0oyh",
+              "end": 64,
+              "expanded_url": "https://twitter.com/darkuture/status/1824377102592045346/photo/1",
+              "media_key": "3_1824377100029308928",
+              "start": 41,
+              "url": "https://t.co/qlfW2G0oYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824377102592045346",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/dw4Jw14Fiv https://t.co/qlfW2G0oYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 763,
+          "like_count": 4017,
+          "listed_count": 2,
+          "tweet_count": 3687
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-07T16:00:47.000Z",
+        "description": "请看置顶\n如果哪天似了，我会魂归瓦尔哈拉@Valhalla198964\n建议去fo @cao_xia81245 @Allknowbody",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Valhalla198964"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "cao_xia81245"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "Allknowbody"
+              }
+            ]
+          }
+        },
+        "id": "1567543381441773570",
+        "location": "Listenbourg",
+        "name": "𝒮𝒽𝒾𝓃ℯ",
+        "pinned_tweet_id": "1809604205885419907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812866415101382656/ka8tYgkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 316,
+          "like_count": 2315,
+          "listed_count": 1,
+          "tweet_count": 1709
+        },
+        "username": "darkuture",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035159046467326211",
+    "created_at": "2026-03-21T04:17:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T05:17:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035209195063320883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035209195063320883",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035159046467326211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 不要上传到豆包\n你用豆包的外国版本，不然你的这些数据会被用来他的训练"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_2035158914963005440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5WQBvW4AApSjr.jpg",
+        "width": 2000
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035158916376494080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5WQHAXAAA7LEP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035158916380659712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5WQHBWkAAbjUr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2035158916863033344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD5WQI0XAAAR8Ub.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035159046467326211",
+        "created_at": "2026-03-21T04:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T05:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035209195063320883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035209195063320883",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035159046467326211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 不要上传到豆包\n你用豆包的外国版本，不然你的这些数据会被用来他的训练"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035158914963005440",
+            "3_2035158916376494080",
+            "3_2035158916380659712",
+            "3_2035158916863033344"
+          ]
+        },
+        "author_id": "1449176529246638080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2035159046467326211",
+        "created_at": "2026-03-21T00:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035159046467326211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RBtxYRTH8Y",
+              "end": 26,
+              "expanded_url": "https://x.com/niruiyuano00/status/2035159046467326211/photo/1",
+              "media_key": "3_2035158914963005440",
+              "start": 3,
+              "url": "https://t.co/RBtxYRTH8Y"
+            },
+            {
+              "display_url": "pic.x.com/RBtxYRTH8Y",
+              "end": 26,
+              "expanded_url": "https://x.com/niruiyuano00/status/2035159046467326211/photo/1",
+              "media_key": "3_2035158916376494080",
+              "start": 3,
+              "url": "https://t.co/RBtxYRTH8Y"
+            },
+            {
+              "display_url": "pic.x.com/RBtxYRTH8Y",
+              "end": 26,
+              "expanded_url": "https://x.com/niruiyuano00/status/2035159046467326211/photo/1",
+              "media_key": "3_2035158916380659712",
+              "start": 3,
+              "url": "https://t.co/RBtxYRTH8Y"
+            },
+            {
+              "display_url": "pic.x.com/RBtxYRTH8Y",
+              "end": 26,
+              "expanded_url": "https://x.com/niruiyuano00/status/2035159046467326211/photo/1",
+              "media_key": "3_2035158916863033344",
+              "start": 3,
+              "url": "https://t.co/RBtxYRTH8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035159046467326211",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天 https://t.co/RBtxYRTH8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 627,
+          "like_count": 11212,
+          "listed_count": 3,
+          "media_count": 1252,
+          "tweet_count": 8838
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "十六歳、学生です",
+        "id": "1449176529246638080",
+        "location": "Chungking",
+        "name": "上九天揽月",
+        "pinned_tweet_id": "1973707281268375979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 542,
+          "like_count": 8456,
+          "listed_count": 1,
+          "media_count": 1595,
+          "tweet_count": 7509
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

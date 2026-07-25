@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055897009442197504"
+      ],
+      "media_source_tweet_id": [
+        "2055897011556106394"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2055936435849433220",
+    "created_at": "2026-05-17T09:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055936435849433220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39941478",
+          "start": 3,
+          "username": "zaobaosg"
+        }
+      ],
+      "urls": [
+        {
+          "description": "上周，《联合早报》刊登一则法庭新闻。一名63岁男子被强制安排住进乐龄之家，他请求法官驳回社会福利司长的命令，说他只是“想回家”陪伴弟弟，也不愿像母亲和哥哥那样独自老死在疗养院中。",
+          "display_url": "zaobao.com.sg/forum/views/st…",
+          "end": 99,
+          "expanded_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+          "start": 76,
+          "status": 200,
+          "title": "谭德婷：回不了家的孤雁",
+          "unwound_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+          "url": "https://t.co/ghCVHBbrap"
+        },
+        {
+          "display_url": "pic.x.com/aexkTB6pzm",
+          "end": 123,
+          "expanded_url": "https://x.com/zaobaosg/status/2055897011556106394/photo/1",
+          "media_key": "3_2055897009442197504",
+          "start": 100,
+          "url": "https://t.co/aexkTB6pzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055936435849433220",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055897011556106394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaobaosg: 我们社会里有多少像案件当事人那样，成了回不了家的人？住在疗养院，尤其是被强制收治，在这些人心里，这等同于囚禁，失去了自由。 https://t.co/ghCVHBbrap https://t.co/aexkTB6pzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2055897009442197504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIgDb_6XEAAij26.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055897009442197504"
+          ],
+          "media_source_tweet_id": [
+            "2055897011556106394"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2055936435849433220",
+        "created_at": "2026-05-17T09:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055936435849433220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39941478",
+              "start": 3,
+              "username": "zaobaosg"
+            }
+          ],
+          "urls": [
+            {
+              "description": "上周，《联合早报》刊登一则法庭新闻。一名63岁男子被强制安排住进乐龄之家，他请求法官驳回社会福利司长的命令，说他只是“想回家”陪伴弟弟，也不愿像母亲和哥哥那样独自老死在疗养院中。",
+              "display_url": "zaobao.com.sg/forum/views/st…",
+              "end": 99,
+              "expanded_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+              "start": 76,
+              "status": 200,
+              "title": "谭德婷：回不了家的孤雁",
+              "unwound_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+              "url": "https://t.co/ghCVHBbrap"
+            },
+            {
+              "display_url": "pic.x.com/aexkTB6pzm",
+              "end": 123,
+              "expanded_url": "https://x.com/zaobaosg/status/2055897011556106394/photo/1",
+              "media_key": "3_2055897009442197504",
+              "start": 100,
+              "url": "https://t.co/aexkTB6pzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055936435849433220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055897011556106394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaobaosg: 我们社会里有多少像案件当事人那样，成了回不了家的人？住在疗养院，尤其是被强制收治，在这些人心里，这等同于囚禁，失去了自由。 https://t.co/ghCVHBbrap https://t.co/aexkTB6pzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055897009442197504"
+          ]
+        },
+        "author_id": "39941478",
+        "conversation_id": "2055897011556106394",
+        "created_at": "2026-05-17T06:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055897011556106394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "上周，《联合早报》刊登一则法庭新闻。一名63岁男子被强制安排住进乐龄之家，他请求法官驳回社会福利司长的命令，说他只是“想回家”陪伴弟弟，也不愿像母亲和哥哥那样独自老死在疗养院中。",
+              "display_url": "zaobao.com.sg/forum/views/st…",
+              "end": 85,
+              "expanded_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+              "start": 62,
+              "status": 200,
+              "title": "谭德婷：回不了家的孤雁",
+              "unwound_url": "https://www.zaobao.com.sg/forum/views/story20260516-9056786?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1778998076",
+              "url": "https://t.co/ghCVHBbrap"
+            },
+            {
+              "display_url": "pic.x.com/aexkTB6pzm",
+              "end": 109,
+              "expanded_url": "https://x.com/zaobaosg/status/2055897011556106394/photo/1",
+              "media_key": "3_2055897009442197504",
+              "start": 86,
+              "url": "https://t.co/aexkTB6pzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055897011556106394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5081,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我们社会里有多少像案件当事人那样，成了回不了家的人？住在疗养院，尤其是被强制收治，在这些人心里，这等同于囚禁，失去了自由。 https://t.co/ghCVHBbrap https://t.co/aexkTB6pzm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 680,
+          "like_count": 14406,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11375
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "2041003385239806399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762482,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 6215,
+          "media_count": 8068,
+          "tweet_count": 177795
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

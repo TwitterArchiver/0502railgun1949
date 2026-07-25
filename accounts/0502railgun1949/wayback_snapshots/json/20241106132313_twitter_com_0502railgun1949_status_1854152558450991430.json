@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1854152558450991430",
+    "created_at": "2024-11-06T13:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T14:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854152558450991430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/knowledgefxg/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/knowledgefxg/status/1854138222718210215",
+          "start": 36,
+          "url": "https://t.co/yk5BRmhgwS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854152558450991430",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854138222718210215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "慕课一点也不好用\n不如自学\n而且没有很好的入门性的教程\n全都靠自己摸的 https://t.co/yk5BRmhgwS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1854152558450991430",
+        "created_at": "2024-11-06T13:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T14:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854152558450991430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/knowledgefxg/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/knowledgefxg/status/1854138222718210215",
+              "start": 36,
+              "url": "https://t.co/yk5BRmhgwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854152558450991430",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854138222718210215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "慕课一点也不好用\n不如自学\n而且没有很好的入门性的教程\n全都靠自己摸的 https://t.co/yk5BRmhgwS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854138210894348291"
+          ]
+        },
+        "author_id": "1478042617958912005",
+        "conversation_id": "1854138222718210215",
+        "created_at": "2024-11-06T12:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T13:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854138222718210215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0mQJp6Lsy",
+              "end": 42,
+              "expanded_url": "https://x.com/knowledgefxg/status/1854138222718210215/photo/1",
+              "media_key": "3_1854138210894348291",
+              "start": 19,
+              "url": "https://t.co/A0mQJp6Lsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854138222718210215",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 21887,
+          "like_count": 288,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "关于学习这档子事，墙内墙外都用什么？ https://t.co/A0mQJp6Lsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 761,
+          "like_count": 5472,
+          "listed_count": 1,
+          "tweet_count": 4424
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T16:39:09.000Z",
+        "description": "热爱知识，没事分享点有趣硬核的东西,包含英语学习，AI编程，科技软件，资源网站等等。来都来了，点点关注😘。 合作请DM私信，本人一直在用的高速稳定机场：https://t.co/ctZhfBasfd 可解锁奈飞等流媒体",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bygcloud.com/#/login?code=u…",
+                "end": 99,
+                "expanded_url": "http://www.bygcloud.com/#/login?code=uZMR6XDJ",
+                "start": 76,
+                "url": "https://t.co/ctZhfBasfd"
+              }
+            ]
+          }
+        },
+        "id": "1478042617958912005",
+        "name": "知识分享官",
+        "pinned_tweet_id": "1808720849504981294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1485604570898526208/Bfi12r9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151971,
+          "following_count": 1255,
+          "like_count": 23055,
+          "listed_count": 885,
+          "tweet_count": 5707
+        },
+        "username": "knowledgefxg",
+        "verified": true
+      }
+    ]
+  }
+}

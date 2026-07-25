@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1943100110814220549",
+    "created_at": "2025-07-10T05:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T06:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943176759907881094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1720819011057840128",
+          "start": 0,
+          "username": "Pissenlit_AH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943176759907881094",
+    "in_reply_to_user_id": "1720819011057840128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943100110814220549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pissenlit_AH 建议天主教或者新教喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1943100110814220549",
+        "created_at": "2025-07-10T05:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T06:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943176759907881094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1720819011057840128",
+              "start": 0,
+              "username": "Pissenlit_AH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943176759907881094",
+        "in_reply_to_user_id": "1720819011057840128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943100110814220549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pissenlit_AH 建议天主教或者新教喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720819011057840128",
+        "conversation_id": "1943100110814220549",
+        "created_at": "2025-07-10T00:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T01:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943100110814220549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943100110814220549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看了不少关于拜占庭帝国的东西，我感觉我迟早会被洗成东正教教徒…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 647,
+          "like_count": 8993,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 6915
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T15:03:25.000Z",
+        "description": "非二元小孩❤️：@ashitasiempre",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "ashitasiempre"
+              }
+            ]
+          }
+        },
+        "id": "1720819011057840128",
+        "location": "？",
+        "name": "AH",
+        "pinned_tweet_id": "1909960673225847011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928205755947323392/7xIdth2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 228,
+          "like_count": 9677,
+          "listed_count": 2,
+          "media_count": 352,
+          "tweet_count": 2745
+        },
+        "username": "Pissenlit_AH",
+        "verified": false
+      }
+    ]
+  }
+}

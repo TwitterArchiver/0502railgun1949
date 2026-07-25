@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1883757024409981237",
+    "created_at": "2025-01-27T07:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T08:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883785962414846431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1225396244152897536",
+          "start": 0,
+          "username": "szac19851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883785962414846431",
+    "in_reply_to_user_id": "1225396244152897536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883781980682420280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@szac19851 手烫了，这才是坠机😭😖😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1883757024409981237",
+        "created_at": "2025-01-27T07:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T08:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883785962414846431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1225396244152897536",
+              "start": 0,
+              "username": "szac19851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883785962414846431",
+        "in_reply_to_user_id": "1225396244152897536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883781980682420280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szac19851 手烫了，这才是坠机😭😖😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1225396244152897536",
+        "conversation_id": "1883757024409981237",
+        "created_at": "2025-01-27T07:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T08:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883781980682420280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883781980682420280",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883757024409981237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 坠机图呢😂烙铁还好..热风枪是完全玩不转，要耐心手不能抖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 750,
+          "like_count": 6390,
+          "listed_count": 1,
+          "media_count": 849,
+          "tweet_count": 5326
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-06T12:30:29.000Z",
+        "description": "how hard can it be ?",
+        "id": "1225396244152897536",
+        "location": "Macau",
+        "name": "Jeffcow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871704887152766976/n1SD8Ahi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 104,
+          "like_count": 82,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 366
+        },
+        "username": "szac19851",
+        "verified": false
+      }
+    ]
+  }
+}

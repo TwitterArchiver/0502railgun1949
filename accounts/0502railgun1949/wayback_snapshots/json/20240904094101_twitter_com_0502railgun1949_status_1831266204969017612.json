@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      }
+    ],
+    "conversation_id": "1831266204969017612",
+    "created_at": "2024-09-04T09:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T10:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1831266204969017612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UNESCO_chinese…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/UNESCO_chinese/status/1831184160381083867",
+          "start": 19,
+          "url": "https://t.co/T3WlE7kVpY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831266204969017612",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831184160381083867",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "留给未来的伦理家吧\n这个问题恐怕太难 https://t.co/T3WlE7kVpY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "1831266204969017612",
+        "created_at": "2024-09-04T09:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T10:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831266204969017612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UNESCO_chinese…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1831184160381083867",
+              "start": 19,
+              "url": "https://t.co/T3WlE7kVpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831266204969017612",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831184160381083867",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "留给未来的伦理家吧\n这个问题恐怕太难 https://t.co/T3WlE7kVpY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831009964380327937"
+          ]
+        },
+        "author_id": "303806284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          }
+        ],
+        "conversation_id": "1831184160381083867",
+        "created_at": "2024-09-04T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831184160381083867"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 13,
+              "tag": "神经技术"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "科技伦理"
+            },
+            {
+              "end": 98,
+              "start": 91,
+              "tag": "神经技术伦理"
+            }
+          ],
+          "urls": [
+            {
+              "description": "教科文组织将于2023年7月13日上午9点在巴黎总部1号厅召开关于神经技术伦理问题的国际会议，会议主题为“建立保护和促进人权和基本自由的框架”。 让政策制定者、立法者、科学家、伦理学家、从业人员和私营企业等利益攸关方参与其中，这对于收集各方意见、为塑造神经技术伦理治理创造条件来说至关重要。 我们邀请所有感兴趣的利益攸关方参与其中、聚力合作。 这份《教科文组织国际生物伦理委员会关于神经技术伦理问题的报告》揭示了“读取”和“编写”脑活动的技术进展带来的多方面影响。 思想自由、认知自由和自由意志 我们的大脑活动使我们拥有自由意志。这与我们个人身份密切相关。可能干扰我们决策的外部工具或许会质疑甚至挑战我们的个人自由意志，从而质疑并挑战我们的个人责任。神经技术可能影响我们的大脑，从而影响我们的思想、决策和行动自由。这可能对司法系统和社会组织产生深远影响。 精神隐私和大脑数据的保密性 当神经技术收集我们的大脑数据时可能会出现一些特有问题。精神活动是我们最私密的部分。截至目前，无人可以访问他人的精神活动。随着神经技术的发展，我 们的“思想”需要得到保护，以免受到非法干预。神经技术可以从我们的大脑中获取大量的数据，这些“私",
+              "display_url": "unesco.org/zh/ethics-neur…",
+              "end": 83,
+              "expanded_url": "https://www.unesco.org/zh/ethics-neurotech",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1829010382955978752/4LxzeOLH?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1829010382955978752/4LxzeOLH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 60,
+              "status": 200,
+              "title": "神经技术伦理",
+              "unwound_url": "https://www.unesco.org/zh/ethics-neurotech",
+              "url": "https://t.co/Mi3DuatnYV"
+            },
+            {
+              "display_url": "pic.x.com/ioe7784nto",
+              "end": 122,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1831184160381083867/photo/1",
+              "media_key": "3_1831009964380327937",
+              "start": 99,
+              "url": "https://t.co/IOE7784NTo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831184160381083867",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 411,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "隐私权、自主权、人权……\n#神经技术 愈进步，潜在风险也愈高。\n\nUNESCO重视其潜力，同时关注随之而来的伦理问题➡️https://t.co/Mi3DuatnYV\n\n#科技伦理 #神经技术伦理 https://t.co/IOE7784NTo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 767,
+          "like_count": 4854,
+          "listed_count": 2,
+          "tweet_count": 4072
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34664,
+          "following_count": 41,
+          "like_count": 482,
+          "listed_count": 123,
+          "tweet_count": 9455
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

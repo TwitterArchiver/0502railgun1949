@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1820432446548021305",
+    "created_at": "2024-08-05T12:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T13:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820441001137467532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1504447727194849290",
+          "start": 0,
+          "username": "qstanm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820441001137467532",
+    "in_reply_to_user_id": "1504447727194849290",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820432446548021305",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qstanm 我也会w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1820432446548021305",
+        "created_at": "2024-08-05T12:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820441001137467532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1504447727194849290",
+              "start": 0,
+              "username": "qstanm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820441001137467532",
+        "in_reply_to_user_id": "1504447727194849290",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820432446548021305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qstanm 我也会w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504447727194849290",
+        "conversation_id": "1820432446548021305",
+        "created_at": "2024-08-05T12:11:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820432446548021305"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820432446548021305",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉其实我是精神湖北人我会边走路边写作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 754,
+          "like_count": 3516,
+          "listed_count": 1,
+          "tweet_count": 3423
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-17T13:21:14.000Z",
+        "description": "你似乎发现我了\n永远的十八岁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/kimu422",
+                "end": 23,
+                "expanded_url": "https://t.me/kimu422",
+                "start": 0,
+                "url": "https://t.co/ZMxu4i5YHe"
+              }
+            ]
+          }
+        },
+        "id": "1504447727194849290",
+        "location": "宜昌市 西陵区",
+        "name": "qstanm 希梦⌬ Akebono",
+        "pinned_tweet_id": "1736731207684251725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746017566638985216/rVItD8LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 719,
+          "like_count": 17669,
+          "listed_count": 2,
+          "tweet_count": 4171
+        },
+        "url": "https://t.co/ZMxu4i5YHe",
+        "username": "qstanm",
+        "verified": false
+      }
+    ]
+  }
+}

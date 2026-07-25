@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1828791306988204117",
+    "created_at": "2024-08-28T22:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T23:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828916590676717635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1679329911742558208",
+          "start": 0,
+          "username": "AfterhardWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828916590676717635",
+    "in_reply_to_user_id": "1679329911742558208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828791306988204117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AfterhardWorld 民国史有什么推荐的书吗？谢谢"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1828791306988204117].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1828791306988204117",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1828791306988204117"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1828791306988204117",
+        "created_at": "2024-08-28T22:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T23:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828916590676717635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1679329911742558208",
+              "start": 0,
+              "username": "AfterhardWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828916590676717635",
+        "in_reply_to_user_id": "1679329911742558208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828791306988204117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AfterhardWorld 民国史有什么推荐的书吗？谢谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 768,
+          "like_count": 4586,
+          "listed_count": 2,
+          "tweet_count": 3968
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T03:20:51.000Z",
+        "description": "一个平平无奇的傻卵医学生；立足蓝色大陆史，辐射到其他领域，泛左友好；民主社会主义；认同极端支黑=最支之人，温和友好；求求国畜不要来恶心我（一般民国派可讨论）；爱骂人🙃；支持台湾人民的自决",
+        "id": "1679329911742558208",
+        "location": "别人玩三年能上的一本",
+        "name": "镌刻晴川万代🇺🇦🇵🇸🚩🛠️🌹",
+        "pinned_tweet_id": "1825484907461914642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821142079076233220/3-m45AHo_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 836,
+          "like_count": 8580,
+          "listed_count": 5,
+          "tweet_count": 3898
+        },
+        "username": "AfterhardWorld",
+        "verified": false
+      }
+    ]
+  }
+}

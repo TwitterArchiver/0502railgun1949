@@ -1,0 +1,443 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1793650423665922048"
+      ],
+      "media_source_tweet_id": [
+        "1793695917729792474"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "986247671663898625",
+          "name": "Star Wars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "986247671663898625",
+          "name": "Star Wars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1794010937151893897",
+    "created_at": "2024-05-24T14:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T15:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794010937151893897"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "Star Wars",
+          "probability": 0.9547,
+          "start": 74,
+          "type": "Other"
+        },
+        {
+          "end": 93,
+          "normalized_text": "I",
+          "probability": 0.6789,
+          "start": 93,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1027214104661028864",
+          "start": 3,
+          "username": "JamesLucasIT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yC3CjW0u09",
+          "end": 125,
+          "expanded_url": "https://twitter.com/JamesLucasIT/status/1793695917729792474/photo/1",
+          "media_key": "3_1793650423665922048",
+          "start": 102,
+          "url": "https://t.co/yC3CjW0u09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794010937151893897",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20442
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793695917729792474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JamesLucasIT: The coolest movie posters of all time - a thread 🧵 \n\n1. Star Wars: Episode I (1999) https://t.co/yC3CjW0u09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_1793650423665922048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GORTjqHWEAA1SOl.jpg",
+        "width": 1349
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793650423665922048"
+          ],
+          "media_source_tweet_id": [
+            "1793695917729792474"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1794010937151893897",
+        "created_at": "2024-05-24T14:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T15:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794010937151893897"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "Star Wars",
+              "probability": 0.9547,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "I",
+              "probability": 0.6789,
+              "start": 93,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1027214104661028864",
+              "start": 3,
+              "username": "JamesLucasIT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yC3CjW0u09",
+              "end": 125,
+              "expanded_url": "https://twitter.com/JamesLucasIT/status/1793695917729792474/photo/1",
+              "media_key": "3_1793650423665922048",
+              "start": 102,
+              "url": "https://t.co/yC3CjW0u09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794010937151893897",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20442
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793695917729792474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JamesLucasIT: The coolest movie posters of all time - a thread 🧵 \n\n1. Star Wars: Episode I (1999) https://t.co/yC3CjW0u09"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793650423665922048"
+          ]
+        },
+        "author_id": "1027214104661028864",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "986247671663898625",
+              "name": "Star Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1793695917729792474",
+        "created_at": "2024-05-23T17:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T18:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793695917729792474"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Star Wars: Episode I",
+              "probability": 0.7633,
+              "start": 56,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yC3CjW0u09",
+              "end": 107,
+              "expanded_url": "https://twitter.com/JamesLucasIT/status/1793695917729792474/photo/1",
+              "media_key": "3_1793650423665922048",
+              "start": 84,
+              "url": "https://t.co/yC3CjW0u09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793695917729792474",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44657,
+          "impression_count": 35555819,
+          "like_count": 378006,
+          "quote_count": 1458,
+          "reply_count": 1617,
+          "retweet_count": 20442
+        },
+        "reply_settings": "everyone",
+        "text": "The coolest movie posters of all time - a thread 🧵 \n\n1. Star Wars: Episode I (1999) https://t.co/yC3CjW0u09"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂16210号📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 744,
+          "like_count": 2661,
+          "listed_count": 1,
+          "tweet_count": 2888
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-08T15:25:02.000Z",
+        "description": "Beauty is truth, truth beauty; that is all ye know on earth, and all ye need to know.",
+        "id": "1027214104661028864",
+        "location": "📩: info@jameslucas.it",
+        "name": "James Lucas",
+        "pinned_tweet_id": "1793695917729792474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1139462117474615296/KmYifXsI_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405504,
+          "following_count": 9234,
+          "like_count": 215044,
+          "listed_count": 1831,
+          "tweet_count": 62881
+        },
+        "username": "JamesLucasIT",
+        "verified": true
+      }
+    ]
+  }
+}

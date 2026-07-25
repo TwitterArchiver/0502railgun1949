@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048254564135288832"
+      ],
+      "media_source_tweet_id": [
+        "2048254566483763239"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2048628709192876281",
+    "created_at": "2026-04-27T05:02:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T06:02:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048628709192876281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3140679366",
+          "start": 3,
+          "username": "rare_jpg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FyaZZ3JF9q",
+          "end": 37,
+          "expanded_url": "https://x.com/rare_jpg/status/2048254566483763239/photo/1",
+          "media_key": "3_2048254564135288832",
+          "start": 14,
+          "url": "https://t.co/FyaZZ3JF9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048628709192876281",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 707
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048254566483763239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rare_jpg: https://t.co/FyaZZ3JF9q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2048254564135288832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzcrIjbQAATdtx.jpg",
+        "width": 631
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048254564135288832"
+          ],
+          "media_source_tweet_id": [
+            "2048254566483763239"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2048628709192876281",
+        "created_at": "2026-04-27T05:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T06:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048628709192876281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3140679366",
+              "start": 3,
+              "username": "rare_jpg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyaZZ3JF9q",
+              "end": 37,
+              "expanded_url": "https://x.com/rare_jpg/status/2048254566483763239/photo/1",
+              "media_key": "3_2048254564135288832",
+              "start": 14,
+              "url": "https://t.co/FyaZZ3JF9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048628709192876281",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 707
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048254566483763239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rare_jpg: https://t.co/FyaZZ3JF9q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048254564135288832"
+          ]
+        },
+        "author_id": "3140679366",
+        "conversation_id": "2048254566483763239",
+        "created_at": "2026-04-26T04:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048254566483763239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FyaZZ3JF9q",
+              "end": 23,
+              "expanded_url": "https://x.com/rare_jpg/status/2048254566483763239/photo/1",
+              "media_key": "3_2048254564135288832",
+              "start": 0,
+              "url": "https://t.co/FyaZZ3JF9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048254566483763239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 747,
+          "impression_count": 62199,
+          "like_count": 7614,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 707
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FyaZZ3JF9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 690,
+          "like_count": 13728,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10815
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-05T20:50:17.000Z",
+        "description": "the internet.",
+        "id": "3140679366",
+        "location": "biz@rarejpg.com",
+        "name": "rare.jpg",
+        "pinned_tweet_id": "2048463377001746581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854365475003920384/mbml_UNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307707,
+          "following_count": 14,
+          "like_count": 10084,
+          "listed_count": 638,
+          "media_count": 5322,
+          "tweet_count": 6100
+        },
+        "username": "rare_jpg",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065000737411903488"
+      ],
+      "media_source_tweet_id": [
+        "2065000766428037588"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2065086733637545984",
+    "created_at": "2026-06-11T15:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065086733637545984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1763034943599607808",
+          "start": 3,
+          "username": "moonlight_ruri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kd8Moi71WF",
+          "end": 57,
+          "expanded_url": "https://x.com/moonlight_ruri/status/2065000766428037588/photo/1",
+          "media_key": "3_2065000737411903488",
+          "start": 34,
+          "url": "https://t.co/Kd8Moi71WF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065086733637545984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065000766428037588",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moonlight_ruri: 南寧市統一中学校の夏制服… https://t.co/Kd8Moi71WF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1597,
+        "media_key": "3_2065000737411903488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhbOtZbMAARSHM.jpg",
+        "width": 1083
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065000737411903488"
+          ],
+          "media_source_tweet_id": [
+            "2065000766428037588"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2065086733637545984",
+        "created_at": "2026-06-11T15:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065086733637545984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1763034943599607808",
+              "start": 3,
+              "username": "moonlight_ruri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd8Moi71WF",
+              "end": 57,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2065000766428037588/photo/1",
+              "media_key": "3_2065000737411903488",
+              "start": 34,
+              "url": "https://t.co/Kd8Moi71WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065086733637545984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065000766428037588",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moonlight_ruri: 南寧市統一中学校の夏制服… https://t.co/Kd8Moi71WF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065000737411903488"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2065000766428037588",
+        "created_at": "2026-06-11T09:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065000766428037588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd8Moi71WF",
+              "end": 36,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2065000766428037588/photo/1",
+              "media_key": "3_2065000737411903488",
+              "start": 13,
+              "url": "https://t.co/Kd8Moi71WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065000766428037588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "南寧市統一中学校の夏制服\n南寧市統一中学校の夏制服は、2008年頃に導入されました。それまでのシャツと長ズボンの制服に代わり、チェック柄のスカートが採用されました。しかし、南寧の学生はスカートに対する受け入れ度があまり高くなかったため、多くの生徒は依然として長ズボンやTシャツ、さらにはジャージを着ることが一般的でした。そのため、この制服の魅力に気付くのは卒業後で、コスプレのような記念撮影で着用する人も少なくありませんでした。\n\n上衣は半袖シャツで、丸みのある前開きのスクエアカラーを採用しています。襟と袖口には装飾模様の縁取りが施され、同じ模様のリボンで蝶結びを作ります。下衣はチェック柄のスカート（膝下丈）で、明るく涼しげな夏向けの制服となっています。また、一部の学生からは生地がやや透けやすいという意見もありましたが、実際の見た目や写真映えという点では、多くの学校のシャツよりも優れていると評価されています。\n\nこの制服は、企画の第一段階から準備が進められていましたが、実際に入手するまでには一年以上かかりました。さらに第三段階になってようやくお披露目できたという経緯があり、本当に苦労して実現した制服と言えるでしょう。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 876,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南寧市統一中学校の夏制服 https://t.co/Kd8Moi71WF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 687,
+          "like_count": 15348,
+          "listed_count": 5,
+          "media_count": 1379,
+          "tweet_count": 12028
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "location": "千葉縣｜蓝v必回请私信｜x telegram同id",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8828,
+          "following_count": 484,
+          "like_count": 1149,
+          "listed_count": 22,
+          "media_count": 237,
+          "tweet_count": 2175
+        },
+        "username": "moonlight_ruri",
+        "verified": true
+      }
+    ]
+  }
+}

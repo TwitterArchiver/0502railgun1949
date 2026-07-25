@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1880601833150050304",
+        "3_1880601841752530944",
+        "3_1880601879698366465",
+        "3_1880601868436709376"
+      ],
+      "media_source_tweet_id": [
+        "1880602158707675605",
+        "1880602158707675605",
+        "1880602158707675605",
+        "1880602158707675605"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1880622768951345504",
+    "created_at": "2025-01-18T14:26:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T15:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880622768951345504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvmXKWybv6",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+          "media_key": "3_1880601833150050304",
+          "start": 86,
+          "url": "https://t.co/cvmXKWybv6"
+        },
+        {
+          "display_url": "pic.x.com/cvmXKWybv6",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+          "media_key": "3_1880601841752530944",
+          "start": 86,
+          "url": "https://t.co/cvmXKWybv6"
+        },
+        {
+          "display_url": "pic.x.com/cvmXKWybv6",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+          "media_key": "3_1880601879698366465",
+          "start": 86,
+          "url": "https://t.co/cvmXKWybv6"
+        },
+        {
+          "display_url": "pic.x.com/cvmXKWybv6",
+          "end": 109,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+          "media_key": "3_1880601868436709376",
+          "start": 86,
+          "url": "https://t.co/cvmXKWybv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880622768951345504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880602158707675605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 北京政协委员、朝阳医院主任医师卢长林，就医保集采提案，直言集采药品存在疗效欠佳、不良反应较大等问题，使得患者和医生不信任集采药。… https://t.co/cvmXKWybv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_1880601833150050304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghk9Z0TbcAAPdV7.png",
+        "width": 673
+      },
+      {
+        "height": 912,
+        "media_key": "3_1880601841752530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghk9aUWa4AAHWry.png",
+        "width": 683
+      },
+      {
+        "height": 916,
+        "media_key": "3_1880601879698366465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghk9chtaYAEsgfD.png",
+        "width": 658
+      },
+      {
+        "height": 252,
+        "media_key": "3_1880601868436709376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ghk9b3wbIAA2sbC.png",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880601833150050304",
+            "3_1880601841752530944",
+            "3_1880601879698366465",
+            "3_1880601868436709376"
+          ],
+          "media_source_tweet_id": [
+            "1880602158707675605",
+            "1880602158707675605",
+            "1880602158707675605",
+            "1880602158707675605"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1880622768951345504",
+        "created_at": "2025-01-18T14:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880622768951345504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601833150050304",
+              "start": 86,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601841752530944",
+              "start": 86,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601879698366465",
+              "start": 86,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 109,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601868436709376",
+              "start": 86,
+              "url": "https://t.co/cvmXKWybv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880622768951345504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880602158707675605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 北京政协委员、朝阳医院主任医师卢长林，就医保集采提案，直言集采药品存在疗效欠佳、不良反应较大等问题，使得患者和医生不信任集采药。… https://t.co/cvmXKWybv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880601833150050304",
+            "3_1880601841752530944",
+            "3_1880601879698366465",
+            "3_1880601868436709376"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1880602158707675605",
+        "created_at": "2025-01-18T13:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T14:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880602158707675605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601833150050304",
+              "start": 66,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601841752530944",
+              "start": 66,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601879698366465",
+              "start": 66,
+              "url": "https://t.co/cvmXKWybv6"
+            },
+            {
+              "display_url": "pic.x.com/cvmXKWybv6",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1880602158707675605/photo/1",
+              "media_key": "3_1880601868436709376",
+              "start": 66,
+              "url": "https://t.co/cvmXKWybv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880602158707675605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "北京政协委员、朝阳医院主任医师卢长林，就医保集采提案，直言集采药品存在疗效欠佳、不良反应较大等问题，使得患者和医生不信任集采药。\n 卢长林在提案中举例称，如果使用相同剂量的新型口服抗凝药，进口药可有效预防患者卒中发生和肺栓塞等；而使用集采药，患者发生卒中、肺栓塞的可能性较大。这使得患者和医生对集采药产生不信任。\n 此外，卢长林等医生认为，集采药出现不良反应的几率高于进口药或者原研药，病人换用集采药后，甚至出现过敏反应，说明其药物纯度不够，制作工艺有问题。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 36636,
+          "like_count": 221,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "北京政协委员、朝阳医院主任医师卢长林，就医保集采提案，直言集采药品存在疗效欠佳、不良反应较大等问题，使得患者和医生不信任集采药。… https://t.co/cvmXKWybv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 749,
+          "like_count": 6288,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 5196
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 107,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 84,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1878245513012892001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906162,
+          "following_count": 923,
+          "like_count": 5609,
+          "listed_count": 8003,
+          "media_count": 22235,
+          "tweet_count": 28524
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

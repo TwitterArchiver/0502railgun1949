@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056443772876234752",
+        "3_2056443775812313088"
+      ],
+      "media_source_tweet_id": [
+        "2056443778232451547",
+        "2056443778232451547"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056564918942392679",
+    "created_at": "2026-05-19T02:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056564918942392679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OHJGLKQZUC",
+          "end": 112,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+          "media_key": "3_2056443772876234752",
+          "start": 89,
+          "url": "https://t.co/OHJGLKQZUC"
+        },
+        {
+          "display_url": "pic.x.com/OHJGLKQZUC",
+          "end": 112,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+          "media_key": "3_2056443775812313088",
+          "start": 89,
+          "url": "https://t.co/OHJGLKQZUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056564918942392679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056443778232451547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 之前的简中互联网上也掀起过LGBTQ出柜浪潮 现在却很多人连LGBTQ是什么都不知道\n称呼性少数甚至只能憋出个现在语境带有贬义的“gay”来 https://t.co/OHJGLKQZUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 408,
+        "media_key": "3_2056443772876234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn0t0baIAAuKxx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2056443775812313088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIn0t_XbIAAGdYS.jpg",
+        "width": 776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056443772876234752",
+            "3_2056443775812313088"
+          ],
+          "media_source_tweet_id": [
+            "2056443778232451547",
+            "2056443778232451547"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056564918942392679",
+        "created_at": "2026-05-19T02:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056564918942392679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHJGLKQZUC",
+              "end": 112,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+              "media_key": "3_2056443772876234752",
+              "start": 89,
+              "url": "https://t.co/OHJGLKQZUC"
+            },
+            {
+              "display_url": "pic.x.com/OHJGLKQZUC",
+              "end": 112,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+              "media_key": "3_2056443775812313088",
+              "start": 89,
+              "url": "https://t.co/OHJGLKQZUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056564918942392679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056443778232451547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 之前的简中互联网上也掀起过LGBTQ出柜浪潮 现在却很多人连LGBTQ是什么都不知道\n称呼性少数甚至只能憋出个现在语境带有贬义的“gay”来 https://t.co/OHJGLKQZUC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056443772876234752",
+            "3_2056443775812313088"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2056443778232451547",
+        "created_at": "2026-05-18T18:36:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056443778232451547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHJGLKQZUC",
+              "end": 94,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+              "media_key": "3_2056443772876234752",
+              "start": 71,
+              "url": "https://t.co/OHJGLKQZUC"
+            },
+            {
+              "display_url": "pic.x.com/OHJGLKQZUC",
+              "end": 94,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2056443778232451547/photo/1",
+              "media_key": "3_2056443775812313088",
+              "start": 71,
+              "url": "https://t.co/OHJGLKQZUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056443778232451547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 6458,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "之前的简中互联网上也掀起过LGBTQ出柜浪潮 现在却很多人连LGBTQ是什么都不知道\n称呼性少数甚至只能憋出个现在语境带有贬义的“gay”来 https://t.co/OHJGLKQZUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 678,
+          "like_count": 14458,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11434
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5395,
+          "following_count": 1896,
+          "like_count": 56764,
+          "listed_count": 11,
+          "media_count": 1386,
+          "tweet_count": 11164
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

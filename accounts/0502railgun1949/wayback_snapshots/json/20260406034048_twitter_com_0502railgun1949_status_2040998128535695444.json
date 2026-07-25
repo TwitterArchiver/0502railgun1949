@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040998128535695444",
+    "created_at": "2026-04-06T03:40:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T04:40:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040998128535695444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dliphotos/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/dliphotos/status/2040934096004862146",
+          "start": 17,
+          "url": "https://t.co/oNZVgFyWQu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040998128535695444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040934096004862146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想吃牛肉干\n我也需要补充能量 https://t.co/oNZVgFyWQu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2040928517379272704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLVrFpbMAAmH4Y.jpg",
+        "width": 1946
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2040933904622944256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFLakqsaAAAwuCH.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040998128535695444",
+        "created_at": "2026-04-06T03:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T04:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040998128535695444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dliphotos/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/dliphotos/status/2040934096004862146",
+              "start": 17,
+              "url": "https://t.co/oNZVgFyWQu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040998128535695444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040934096004862146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想吃牛肉干\n我也需要补充能量 https://t.co/oNZVgFyWQu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040928517379272704",
+            "3_2040933904622944256"
+          ]
+        },
+        "author_id": "1511395120628711424",
+        "conversation_id": "2040934096004862146",
+        "created_at": "2026-04-05T23:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T00:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040934096004862146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0XXzfMhtQ",
+              "end": 169,
+              "expanded_url": "https://x.com/dliphotos/status/2040934096004862146/photo/1",
+              "media_key": "3_2040928517379272704",
+              "start": 146,
+              "url": "https://t.co/D0XXzfMhtQ"
+            },
+            {
+              "display_url": "pic.x.com/D0XXzfMhtQ",
+              "end": 169,
+              "expanded_url": "https://x.com/dliphotos/status/2040934096004862146/photo/1",
+              "media_key": "3_2040933904622944256",
+              "start": 146,
+              "url": "https://t.co/D0XXzfMhtQ"
+            },
+            {
+              "display_url": "x.com/BoDiplo/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/BoDiplo/status/2040837824081953100",
+              "start": 170,
+              "url": "https://t.co/7O6Dp2iPJL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040934096004862146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 578,
+                "start": 574,
+                "tag": "msr"
+              },
+              {
+                "end": 584,
+                "start": 579,
+                "tag": "food"
+              }
+            ]
+          },
+          "text": "没想到，那名被救回的美军飞行员在被困的48小时里，竟然可能还能用牙膏刷牙、涂防晒霜（SunX50）😅\n\n这也侧面说明，美军的补给体系里，不只是生存和作战需求，连最基本的个人护理也被考虑在内。\n\n说说被援救的美军飞行员留下的野战口粮的牛肉条。\n\n图中的牛肉条是美军口粮中的“照烧牛肉条（MSR Teriyaki Beef Stick）”。\n\n美军MRE口粮中的照烧牛肉条（Teriyaki Beef Stick）是一种高蛋白、即食的咸甜味零食。\n\n它采用优质牛肉制作，添加酱油、大蒜、糖和烟熏风味，通常不含反式脂肪。\n\n作为战场补给的一部分，这种包装紧凑的牛肉条为士兵提供快速能量补充，是受喜爱的MRE配菜。\n\n它属于军方定制的口粮组件（contract food），由不同食品供应商代工生产。\n\n包装上通常不会突出品牌，而是标注功能性信息，比如“Teriyaki Beef Stick”、NSN（军用编号）或合同编号，以及“inspection / approved”等质量标识。\n\n而且，同一种“照烧牛肉条”可能来自不同厂家，比如 SOPAKCO、AmeriQual、Wornick 等。\n\n不仅如此，在任何环境下，美军似乎都在尽量让士兵维持基本的身体状态，哪怕是在最极端的处境里，牙齿和皮肤这样的细节，也没有被忽略。\n\n这样的军队你羡慕吗？\n\n#msr #food"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 107578,
+          "like_count": 315,
+          "quote_count": 4,
+          "reply_count": 47,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837824081953100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没想到，那名被救回的美军飞行员在被困的48小时里，竟然可能还能用牙膏刷牙、涂防晒霜（SunX50）😅\n\n这也侧面说明，美军的补给体系里，不只是生存和作战需求，连最基本的个人护理也被考虑在内。\n\n说说被援救的美军飞行员留下的野战口粮的牛肉条。\n\n图中的牛肉条是美军口粮中的“照烧牛肉条（MSR https://t.co/D0XXzfMhtQ https://t.co/7O6Dp2iPJL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 656,
+          "like_count": 12252,
+          "listed_count": 3,
+          "media_count": 1293,
+          "tweet_count": 9692
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T17:27:38.000Z",
+        "description": "X Premium+ • food • healthy food • arts •  photos • 🇺🇸 USARMY 🚫 DM",
+        "id": "1511395120628711424",
+        "location": "Seattle, WA",
+        "name": "dliphotos 🇺🇸",
+        "pinned_tweet_id": "2040155915979247964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009512414686121984/tuZzHgA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2184,
+          "following_count": 1063,
+          "like_count": 11382,
+          "listed_count": 12,
+          "media_count": 346,
+          "tweet_count": 6927
+        },
+        "username": "dliphotos",
+        "verified": true
+      }
+    ]
+  }
+}

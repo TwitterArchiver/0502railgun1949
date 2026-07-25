@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1914876955880775684"
+      ],
+      "media_source_tweet_id": [
+        "1914876973115228396"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1915057840609534049",
+    "created_at": "2025-04-23T14:59:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-23T15:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915057840609534049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1810706620214820864",
+          "start": 3,
+          "username": "ni3621982364507"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yyJrQzX8xa",
+          "end": 52,
+          "expanded_url": "https://x.com/ni3621982364507/status/1914876973115228396/photo/1",
+          "media_key": "3_1914876955880775684",
+          "start": 29,
+          "url": "https://t.co/yyJrQzX8xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915057840609534049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914876973115228396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ni3621982364507: 有没有能救援的 https://t.co/yyJrQzX8xa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1914876955880775684",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpMCcifa4AQJzeA.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914876955880775684"
+          ],
+          "media_source_tweet_id": [
+            "1914876973115228396"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1915057840609534049",
+        "created_at": "2025-04-23T14:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T15:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915057840609534049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1810706620214820864",
+              "start": 3,
+              "username": "ni3621982364507"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyJrQzX8xa",
+              "end": 52,
+              "expanded_url": "https://x.com/ni3621982364507/status/1914876973115228396/photo/1",
+              "media_key": "3_1914876955880775684",
+              "start": 29,
+              "url": "https://t.co/yyJrQzX8xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915057840609534049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914876973115228396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ni3621982364507: 有没有能救援的 https://t.co/yyJrQzX8xa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1914876955880775684"
+          ]
+        },
+        "author_id": "1810706620214820864",
+        "conversation_id": "1914876973115228396",
+        "created_at": "2025-04-23T03:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-23T04:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914876973115228396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yyJrQzX8xa",
+              "end": 31,
+              "expanded_url": "https://x.com/ni3621982364507/status/1914876973115228396/photo/1",
+              "media_key": "3_1914876955880775684",
+              "start": 8,
+              "url": "https://t.co/yyJrQzX8xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914876973115228396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11335,
+          "like_count": 109,
+          "quote_count": 8,
+          "reply_count": 13,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "有没有能救援的 https://t.co/yyJrQzX8xa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1048,
+          "following_count": 738,
+          "like_count": 6953,
+          "listed_count": 2,
+          "media_count": 958,
+          "tweet_count": 6046
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T16:04:46.000Z",
+        "description": "09/mtf",
+        "id": "1810706620214820864",
+        "location": "广东潮州",
+        "name": "嘉ni真的非常累🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811224197211000832/Win9OdaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 716,
+          "like_count": 3634,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1371
+        },
+        "username": "ni3621982364507",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1941710672578105563",
+    "created_at": "2025-07-06T08:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T09:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941780311156863439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1182479361275920384",
+          "start": 0,
+          "username": "SagaeSayuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941780311156863439",
+    "in_reply_to_user_id": "1182479361275920384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941710672578105563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SagaeSayuki 真厉害喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1941710664986394624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvJXj-saAAAGMmA.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1941710672578105563",
+        "created_at": "2025-07-06T08:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T09:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941780311156863439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1182479361275920384",
+              "start": 0,
+              "username": "SagaeSayuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941780311156863439",
+        "in_reply_to_user_id": "1182479361275920384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941710672578105563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SagaeSayuki 真厉害喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941710664986394624"
+          ]
+        },
+        "author_id": "1182479361275920384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "1941710672578105563",
+        "created_at": "2025-07-06T04:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941710672578105563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAMGCRqkMw",
+              "end": 167,
+              "expanded_url": "https://x.com/SagaeSayuki/status/1941710672578105563/photo/1",
+              "media_key": "3_1941710664986394624",
+              "start": 144,
+              "url": "https://t.co/QAMGCRqkMw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941710672578105563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 556,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "收到了從海的那邊郵來的另一份學位記。\n7年的學位集郵之旅終於結束了。\n文學學士、法學學士、文學碩士、學術修士…\n捫心自問，這7年裡確是混吃等死碌碌無為，但認清了自己究竟適合什麼，又在追求著什麼。\n\n總之，這場不顧一切的瘋狂冒險在這個夏天平淡地結束了。\n感謝所有一路上幫助、支持過我的人🙏 https://t.co/QAMGCRqkMw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 646,
+          "like_count": 8534,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 6805
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-11T02:14:23.000Z",
+        "description": "這是一隻普通貓貓。我堆砌毫無意義的文字，我進行漫無目的的旅行，我度過無可留戀的人生。",
+        "id": "1182479361275920384",
+        "location": "堤防決壊時最大浸水深5m",
+        "name": "寒河江桜雪",
+        "pinned_tweet_id": "1893887851009286225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835671919305330688/T3uemmfP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 1086,
+          "like_count": 44151,
+          "listed_count": 7,
+          "media_count": 1437,
+          "tweet_count": 6743
+        },
+        "username": "SagaeSayuki",
+        "verified": false
+      }
+    ]
+  }
+}

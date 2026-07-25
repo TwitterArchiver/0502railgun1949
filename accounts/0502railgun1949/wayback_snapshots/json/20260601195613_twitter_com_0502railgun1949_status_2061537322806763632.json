@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2061537322806763632",
+    "created_at": "2026-06-01T19:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T20:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061537322806763632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39941478",
+          "start": 3,
+          "username": "zaobaosg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061537322806763632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061536476001645048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaobaosg: 上考场搏杀，以争取更好前途甚至改变命运，是很多世代都有的经历。如今，课程辅助活动、校际比赛、直接收生计划等也逐渐演变成新的竞争场域：一方面，家长和学生始终难以跳脱教育的“军备竞赛”思维，不同的是赛道增多了，另一方面，学校和教育部正探讨如何为学生减..…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2061536467889922048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwMfrwXoAAzZLl.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2061537322806763632",
+        "created_at": "2026-06-01T19:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061537322806763632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39941478",
+              "start": 3,
+              "username": "zaobaosg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061537322806763632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061536476001645048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaobaosg: 上考场搏杀，以争取更好前途甚至改变命运，是很多世代都有的经历。如今，课程辅助活动、校际比赛、直接收生计划等也逐渐演变成新的竞争场域：一方面，家长和学生始终难以跳脱教育的“军备竞赛”思维，不同的是赛道增多了，另一方面，学校和教育部正探讨如何为学生减..…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061536467889922048"
+          ]
+        },
+        "author_id": "39941478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2061536476001645048",
+        "created_at": "2026-06-01T19:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T20:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061536476001645048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "上考场搏杀，以争取更好前途甚至改变命运，是很多世代都有的经历。如今，课程辅助活动、校际比赛、直接收生计划等也逐渐演变成新的竞争场域：一方面，家长和学生始终难以跳脱教育的“军备竞赛”思维，不同的是赛道增多了，另一方面，学校和教育部正探讨如何为学生减轻负担和培养新技能。",
+              "display_url": "zaobao.com.sg/forum/talk/sto…",
+              "end": 150,
+              "expanded_url": "https://www.zaobao.com.sg/forum/talk/story20260601-9138108?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1780329971",
+              "start": 127,
+              "status": 200,
+              "title": "站长的话",
+              "unwound_url": "https://www.zaobao.com.sg/forum/talk/story20260601-9138108?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1780329971",
+              "url": "https://t.co/U9NN5r8MR8"
+            },
+            {
+              "display_url": "pic.x.com/VvBNYqdnlr",
+              "end": 174,
+              "expanded_url": "https://x.com/zaobaosg/status/2061536476001645048/photo/1",
+              "media_key": "3_2061536467889922048",
+              "start": 151,
+              "url": "https://t.co/VvBNYqdnlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061536476001645048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "上考场搏杀，以争取更好前途甚至改变命运，是很多世代都有的经历。如今，课程辅助活动、校际比赛、直接收生计划等也逐渐演变成新的竞争场域：一方面，家长和学生始终难以跳脱教育的“军备竞赛”思维，不同的是赛道增多了，另一方面，学校和教育部正探讨如何为学生减... https://t.co/U9NN5r8MR8 https://t.co/VvBNYqdnlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 686,
+          "like_count": 15095,
+          "listed_count": 5,
+          "media_count": 1390,
+          "tweet_count": 11921
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771002,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 6228,
+          "media_count": 8979,
+          "tweet_count": 179223
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

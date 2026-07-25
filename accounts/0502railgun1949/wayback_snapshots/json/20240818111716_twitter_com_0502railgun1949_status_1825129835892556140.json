@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824982079710605500",
+    "created_at": "2024-08-18T11:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-18T12:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1825129835892556140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886560923518779396",
+          "start": 0,
+          "username": "Rippin_C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825129835892556140",
+    "in_reply_to_user_id": "886560923518779396",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824982079710605500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rippin_C 正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824982079710605500",
+        "created_at": "2024-08-18T11:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T12:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1825129835892556140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886560923518779396",
+              "start": 0,
+              "username": "Rippin_C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825129835892556140",
+        "in_reply_to_user_id": "886560923518779396",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824982079710605500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rippin_C 正解"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1824982067513589760"
+          ]
+        },
+        "author_id": "886560923518779396",
+        "conversation_id": "1824982079710605500",
+        "created_at": "2024-08-18T01:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-18T02:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824982079710605500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/37vtrrlo6r",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Rippin_C/status/1824982079710605500/photo/1",
+              "media_key": "16_1824982067513589760",
+              "start": 146,
+              "url": "https://t.co/37vTRrLO6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824982079710605500",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是想悄悄吐槽一下“友跨尽头是翻车”这个说法。\n因为我觉得“友跨”和“成为xyn”是属性完全不同的两件事情，如果只是因为友跨、xyn可爱（而不是真的有gd）而翻车的话或许仔细考虑一下好一点…？👀\n更加建议吃糖的动机是“去做符合自身真实认同的事”而不是翻车…单纯想变得可爱的话不一定要吃糖啦w https://t.co/37vTRrLO6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 844,
+          "following_count": 760,
+          "like_count": 4204,
+          "listed_count": 2,
+          "tweet_count": 3766
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-16T12:19:30.000Z",
+        "description": "欢迎来到α空岛的世界！电波系&碎碎念&白日梦；高浓度INFP/ENFP(Ne-Fi)，偶尔理性态(不键政态)，21计科，友好一切。最近在玩EternalReturn给导师打工(似了)//面白い人や絵が好きです👀",
+        "id": "886560923518779396",
+        "location": "拉格朗日点L3",
+        "name": "不想打工的涟漪Rippin✨",
+        "pinned_tweet_id": "1824510839682109757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824987103253630976/qil4V_Ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 595,
+          "like_count": 16880,
+          "listed_count": 4,
+          "tweet_count": 2593
+        },
+        "username": "Rippin_C",
+        "verified": false
+      }
+    ]
+  }
+}

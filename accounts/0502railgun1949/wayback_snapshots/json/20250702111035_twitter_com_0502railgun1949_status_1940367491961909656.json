@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1940009083995873344",
+    "created_at": "2025-07-02T11:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T12:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940367491961909656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1502654786453204994",
+          "start": 0,
+          "username": "uranus_chaos"
+        },
+        {
+          "end": 24,
+          "id": "1597257668313260033",
+          "start": 14,
+          "username": "Minokakay"
+        },
+        {
+          "end": 41,
+          "id": "1856322437144817667",
+          "start": 25,
+          "username": "ChosekiNoraneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940367491961909656",
+    "in_reply_to_user_id": "1502654786453204994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940366063348420924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uranus_chaos @Minokakay @ChosekiNoraneko 噻奈普汀怎么买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 31,
+        "media_key": "3_1940366058193354752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2QpkDXAAAVc2q.png",
+        "width": 654
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1940366058885406720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2QpmoW4AAt_dM.jpg",
+        "width": 486
+      },
+      {
+        "height": 516,
+        "media_key": "3_1940366058042384384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu2QpjfXYAAmTSp.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1940009083995873344",
+        "created_at": "2025-07-02T11:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940367491961909656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1502654786453204994",
+              "start": 0,
+              "username": "uranus_chaos"
+            },
+            {
+              "end": 24,
+              "id": "1597257668313260033",
+              "start": 14,
+              "username": "Minokakay"
+            },
+            {
+              "end": 41,
+              "id": "1856322437144817667",
+              "start": 25,
+              "username": "ChosekiNoraneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940367491961909656",
+        "in_reply_to_user_id": "1502654786453204994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940366063348420924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uranus_chaos @Minokakay @ChosekiNoraneko 噻奈普汀怎么买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940366058193354752",
+            "3_1940366058885406720",
+            "3_1940366058042384384"
+          ]
+        },
+        "author_id": "1502654786453204994",
+        "conversation_id": "1940009083995873344",
+        "created_at": "2025-07-02T11:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T12:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940366063348420924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1597257668313260033",
+              "start": 0,
+              "username": "Minokakay"
+            },
+            {
+              "end": 27,
+              "id": "1856322437144817667",
+              "start": 11,
+              "username": "ChosekiNoraneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em0szVccAp",
+              "end": 141,
+              "expanded_url": "https://x.com/uranus_chaos/status/1940366063348420924/photo/1",
+              "media_key": "3_1940366058193354752",
+              "start": 118,
+              "url": "https://t.co/Em0szVccAp"
+            },
+            {
+              "display_url": "pic.x.com/Em0szVccAp",
+              "end": 141,
+              "expanded_url": "https://x.com/uranus_chaos/status/1940366063348420924/photo/1",
+              "media_key": "3_1940366058885406720",
+              "start": 118,
+              "url": "https://t.co/Em0szVccAp"
+            },
+            {
+              "display_url": "pic.x.com/Em0szVccAp",
+              "end": 141,
+              "expanded_url": "https://x.com/uranus_chaos/status/1940366063348420924/photo/1",
+              "media_key": "3_1940366058042384384",
+              "start": 118,
+              "url": "https://t.co/Em0szVccAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940366063348420924",
+        "in_reply_to_user_id": "1597257668313260033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940364523611013589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minokakay @ChosekiNoraneko 可以自制考虑氯烯雌醚10mg针剂🥹\n便宜又半衰期30天🥹一月一针🥹就是售出量肯定不会很高🥹\n以及和你推荐一个宝藏抗抑郁药，噻奈普汀，250mg一天，这个可以半激动阿片miu受体💝 https://t.co/Em0szVccAp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 646,
+          "like_count": 8282,
+          "listed_count": 3,
+          "media_count": 1001,
+          "tweet_count": 6708
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。弟弟：@glassflowers13 ‖ 伴星：已热寂，您可以选择当我的伴星 ‖药学毕业/医学生/护理学毕业/心理学二专‖单恋@gozZoazYckXOXcW @Lumorikuna猫猫@misakiyugan @10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "glassflowers13"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "gozZoazYckXOXcW"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "Lumorikuna"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "misakiyugan"
+              },
+              {
+                "end": 129,
+                "start": 120,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYIIS"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "天才SM少女黑桃Q🍥🏴🏳️‍🌈【学术推】【南河三】【cn夢見猫】",
+        "pinned_tweet_id": "1738293074215026803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770688626776752128/wJvCr3Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1151,
+          "following_count": 227,
+          "like_count": 18246,
+          "listed_count": 0,
+          "media_count": 655,
+          "tweet_count": 5749
+        },
+        "url": "https://t.co/ResOORYIIS",
+        "username": "uranus_chaos",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-28T15:54:46.000Z",
+        "description": "悲しくなるならそれでもいいなら，\nずっと一人で笑えよ。成渝半休学陰暗比高三生 阿斯ADHD Pansexual INFP MtX🇺🇦🏳️‍⚧️🏳️‍🌈买HRT/美白/减肥/促智/安眠找 @ChosekiNoraneko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 93,
+                "username": "ChosekiNoraneko"
+              }
+            ]
+          }
+        },
+        "id": "1597257668313260033",
+        "location": "重庆市精神卫生中心门诊5楼",
+        "name": "Minokakay（泰补色诺",
+        "pinned_tweet_id": "1940009083995873344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789594344930099200/wrFOWSe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7986,
+          "following_count": 897,
+          "like_count": 44011,
+          "listed_count": 31,
+          "media_count": 1268,
+          "tweet_count": 19322
+        },
+        "username": "Minokakay",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T13:05:46.000Z",
+        "description": "潮汐工作室的官方賬號，提供色普龙/补佳乐/减肥/美白/促智供大家购买，Choseki是一家真正专业正规的药物工作室，不售卖兽药/假药/伪劣药品，经营多国正规进口药品，并提供质量保证。\n\n此店铺由@Minokakay 担保并提供客服服务，欢迎私信本账号下单！ 工作时间10AM-26PM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Minokakay"
+              }
+            ]
+          }
+        },
+        "id": "1856322437144817667",
+        "location": "Macau",
+        "name": "Choseki Pharmacy",
+        "pinned_tweet_id": "1929534947955765404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856322922924912640/-kfTtOYd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1964,
+          "following_count": 22,
+          "like_count": 91,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 70
+        },
+        "username": "ChosekiNoraneko",
+        "verified": false
+      }
+    ]
+  }
+}

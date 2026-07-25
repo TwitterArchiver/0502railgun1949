@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2037922959365447743",
+    "created_at": "2026-03-28T16:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T17:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037922959365447743"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raffaele042/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/raffaele042/status/2037827401275842638",
+          "start": 24,
+          "url": "https://t.co/vWfZo87jJ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037922959365447743",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037827401275842638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你应该说的是近红外脑电\n或者脑电图，脑电地形图 https://t.co/vWfZo87jJ6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2037922959365447743",
+        "created_at": "2026-03-28T16:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T17:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037922959365447743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raffaele042/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/raffaele042/status/2037827401275842638",
+              "start": 24,
+              "url": "https://t.co/vWfZo87jJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037922959365447743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037827401275842638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你应该说的是近红外脑电\n或者脑电图，脑电地形图 https://t.co/vWfZo87jJ6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647385389785841664",
+        "conversation_id": "2037827401275842638",
+        "created_at": "2026-03-28T09:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037827401275842638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SCY_BTC/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/SCY_BTC/status/2037538938412470380",
+              "start": 18,
+              "url": "https://t.co/6s39bK2Xtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037827401275842638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6452,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037538938412470380",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "脑电皮电近红外，没读过书会少见多怪 https://t.co/6s39bK2Xtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 644,
+          "like_count": 11256,
+          "listed_count": 3,
+          "media_count": 1279,
+          "tweet_count": 9095
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。🚪1/2/3/4/5/6....",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚ咖啡因重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 589,
+          "like_count": 141302,
+          "listed_count": 9,
+          "media_count": 2002,
+          "tweet_count": 18774
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      }
+    ]
+  }
+}

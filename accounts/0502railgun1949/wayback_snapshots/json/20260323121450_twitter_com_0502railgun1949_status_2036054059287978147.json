@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036054039063085057"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2036054059287978147",
+    "created_at": "2026-03-23T12:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T13:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036054059287978147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uL01jNnpYx",
+          "end": 165,
+          "expanded_url": "https://x.com/0502railgun1949/status/2036054059287978147/photo/1",
+          "media_key": "3_2036054039063085057",
+          "start": 142,
+          "url": "https://t.co/uL01jNnpYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036054059287978147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我在任何地方都寻求认可\n其实我开这个账号，最开始是想交朋友的（事实上几乎没有主动找我说话的）然后再一个就是为了获取认可\n蚂蚁龙推送改了后我就没有流量了，我哪怕是一条评论看到有人点赞我都感觉好，我一直在刷新小铃铛，但是没有消息，会焦虑\n好缺爱，好缺社交，什么时候我的苦日子到头啊 https://t.co/uL01jNnpYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2036054039063085057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGEXG3awAEBclA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036054039063085057"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2036054059287978147",
+        "created_at": "2026-03-23T12:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036054059287978147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uL01jNnpYx",
+              "end": 165,
+              "expanded_url": "https://x.com/0502railgun1949/status/2036054059287978147/photo/1",
+              "media_key": "3_2036054039063085057",
+              "start": 142,
+              "url": "https://t.co/uL01jNnpYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036054059287978147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我在任何地方都寻求认可\n其实我开这个账号，最开始是想交朋友的（事实上几乎没有主动找我说话的）然后再一个就是为了获取认可\n蚂蚁龙推送改了后我就没有流量了，我哪怕是一条评论看到有人点赞我都感觉好，我一直在刷新小铃铛，但是没有消息，会焦虑\n好缺爱，好缺社交，什么时候我的苦日子到头啊 https://t.co/uL01jNnpYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 632,
+          "like_count": 11257,
+          "listed_count": 3,
+          "media_count": 1256,
+          "tweet_count": 8932
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1903060818973036807",
+    "created_at": "2025-03-21T12:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T13:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903060818973036807"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kasuga_iz/stat…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/kasuga_iz/status/1903008689642148275",
+          "start": 4,
+          "url": "https://t.co/unwANRC47u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903060818973036807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903008689642148275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可爱 https://t.co/unwANRC47u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1926,
+        "media_key": "3_1902978566062772224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmi87GVakAAShYf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1903060818973036807",
+        "created_at": "2025-03-21T12:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T13:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903060818973036807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kasuga_iz/stat…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/kasuga_iz/status/1903008689642148275",
+              "start": 4,
+              "url": "https://t.co/unwANRC47u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903060818973036807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903008689642148275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可爱 https://t.co/unwANRC47u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902978566062772224"
+          ]
+        },
+        "author_id": "47955870",
+        "conversation_id": "1903008689642148275",
+        "created_at": "2025-03-21T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903008689642148275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/un4HgRZE0S",
+              "end": 34,
+              "expanded_url": "https://x.com/kasuga_iz/status/1903008689642148275/photo/1",
+              "media_key": "3_1902978566062772224",
+              "start": 11,
+              "url": "https://t.co/un4HgRZE0S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903008689642148275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 579,
+          "impression_count": 58620,
+          "like_count": 5208,
+          "quote_count": 5,
+          "reply_count": 23,
+          "retweet_count": 981
+        },
+        "reply_settings": "everyone",
+        "text": "サメぬいホシノ🩵🦈✨ https://t.co/un4HgRZE0S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 744,
+          "like_count": 6885,
+          "listed_count": 1,
+          "media_count": 953,
+          "tweet_count": 5960
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-17T13:16:03.000Z",
+        "description": "春日いづれです。エモとかわいいを描きたいです！最近はブルアカを遊んでいます。Fanbox：https://t.co/qo2sDpuDVW / Skeb : https://t.co/LMnBwJQPdx / Sub：@sub_kasuga ⚠Do not use my art.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "sub_kasuga"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kasuga-iz.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://kasuga-iz.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/qo2sDpuDVW"
+              },
+              {
+                "display_url": "skeb.jp/@kasuga_iz",
+                "end": 101,
+                "expanded_url": "http://skeb.jp/@kasuga_iz",
+                "start": 78,
+                "url": "https://t.co/LMnBwJQPdx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasugaizure",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasugaizure",
+                "start": 0,
+                "url": "https://t.co/1YnOM7NVFC"
+              }
+            ]
+          }
+        },
+        "id": "47955870",
+        "location": "ご依頼はlit.link記載の連絡先からどうぞ！",
+        "name": "春日 / kasuga",
+        "pinned_tweet_id": "1863901186732249363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325441442353852417/CkHPS4KU_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65144,
+          "following_count": 1056,
+          "like_count": 24680,
+          "listed_count": 653,
+          "media_count": 2549,
+          "tweet_count": 57047
+        },
+        "url": "https://t.co/1YnOM7NVFC",
+        "username": "kasuga_iz",
+        "verified": false
+      }
+    ]
+  }
+}

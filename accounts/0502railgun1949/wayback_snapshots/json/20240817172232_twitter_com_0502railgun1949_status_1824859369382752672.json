@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824751828179075291",
+    "created_at": "2024-08-17T17:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T18:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824859369382752672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799692652511932416",
+          "start": 0,
+          "username": "gemmillihxrfpz"
+        },
+        {
+          "end": 29,
+          "id": "1592805077101596675",
+          "start": 16,
+          "username": "lerosase8964"
+        },
+        {
+          "end": 40,
+          "id": "1823178876400578560",
+          "start": 30,
+          "username": "KindMINSK"
+        },
+        {
+          "end": 55,
+          "id": "1812533919478382592",
+          "start": 41,
+          "username": "BronyaZay0818"
+        },
+        {
+          "end": 72,
+          "id": "1753348784573001728",
+          "start": 56,
+          "username": "rorochan_990126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824859369382752672",
+    "in_reply_to_user_id": "1799692652511932416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824856900703494346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gemmillihxrfpz @lerosase8964 @KindMINSK @BronyaZay0818 @rorochan_990126 都是加上好友，又不知道说些什么\n结果还是没有交到朋友"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1824856900703494346].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1824856900703494346",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1824856900703494346"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824751828179075291",
+        "created_at": "2024-08-17T17:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T18:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824859369382752672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799692652511932416",
+              "start": 0,
+              "username": "gemmillihxrfpz"
+            },
+            {
+              "end": 29,
+              "id": "1592805077101596675",
+              "start": 16,
+              "username": "lerosase8964"
+            },
+            {
+              "end": 40,
+              "id": "1823178876400578560",
+              "start": 30,
+              "username": "KindMINSK"
+            },
+            {
+              "end": 55,
+              "id": "1812533919478382592",
+              "start": 41,
+              "username": "BronyaZay0818"
+            },
+            {
+              "end": 72,
+              "id": "1753348784573001728",
+              "start": 56,
+              "username": "rorochan_990126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824859369382752672",
+        "in_reply_to_user_id": "1799692652511932416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824856900703494346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gemmillihxrfpz @lerosase8964 @KindMINSK @BronyaZay0818 @rorochan_990126 都是加上好友，又不知道说些什么\n结果还是没有交到朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 758,
+          "like_count": 4155,
+          "listed_count": 2,
+          "tweet_count": 3742
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T06:39:26.000Z",
+        "description": "这里是 @lerosase896 的小号，用于发牢骚记录生活，没有键政",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "lerosase896"
+              }
+            ]
+          }
+        },
+        "id": "1799692652511932416",
+        "location": "Seoul, Republic of Korea",
+        "name": "Leros Ase",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824463138051522560/0hsMIrE0_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 43,
+          "like_count": 194,
+          "listed_count": 0,
+          "tweet_count": 48
+        },
+        "username": "gemmillihxrfpz",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "Maoist 请关注@gemmillihxrfpz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "gemmillihxrfpz"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "中華人民共和國（1949-1976）",
+        "name": "Leros.",
+        "pinned_tweet_id": "1824465340761510379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824114166178910209/Ci-feQl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 1235,
+          "like_count": 16901,
+          "listed_count": 12,
+          "tweet_count": 5699
+        },
+        "username": "lerosase8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T02:05:13.000Z",
+        "description": "金猴奋起千钧棒，玉宇澄清万里埃。",
+        "id": "1823178876400578560",
+        "name": "Kind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824088906083553280/XYG1uyBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 521,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "KindMINSK",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T17:06:04.000Z",
+        "description": "08/男/infj/🇺🇦🇵🇸/民主社会主义/高中生/反建制/死宅/友LGBTQ+🏳️‍🌈/🇺🇳/言论自由\n有人可以作我朋友吗？可以互fo（支黑粉红慎fo，真的会骂）\n最后:我推布洛妮娅天下第一可爱！",
+        "id": "1812533919478382592",
+        "location": "中国重庆",
+        "name": "BronyaZay0818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813150666900271105/NKJPMLCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 134,
+          "like_count": 788,
+          "listed_count": 0,
+          "tweet_count": 261
+        },
+        "username": "BronyaZay0818",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "普通女高中牲 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 喜歡所有正常交流的人",
+        "id": "1753348784573001728",
+        "location": "「我存在過的證明」",
+        "name": "Mobius' poison✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823703762839724034/eXjYZD8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099,
+          "following_count": 1154,
+          "like_count": 56473,
+          "listed_count": 4,
+          "tweet_count": 8053
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

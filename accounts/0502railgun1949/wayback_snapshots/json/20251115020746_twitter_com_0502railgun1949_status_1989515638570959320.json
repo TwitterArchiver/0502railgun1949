@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1989515638570959320",
+    "created_at": "2025-11-15T02:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T03:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989515638570959320"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LXL0102/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/LXL0102/status/1989351116967199203",
+          "start": 24,
+          "url": "https://t.co/TJexxkSqCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989515638570959320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989351116967199203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果是在国外接受了这样的心理咨询，是可以起诉的 https://t.co/TJexxkSqCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989351073665142784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu9aUAAUdHH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351073656758272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu7aYAANR1s.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351074332131328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQxcbwAAMakA.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1989351073660936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5uYQu8aIAAQO0B.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1989515638570959320",
+        "created_at": "2025-11-15T02:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T03:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989515638570959320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LXL0102/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/LXL0102/status/1989351116967199203",
+              "start": 24,
+              "url": "https://t.co/TJexxkSqCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989515638570959320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989351116967199203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果是在国外接受了这样的心理咨询，是可以起诉的 https://t.co/TJexxkSqCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989351073665142784",
+            "3_1989351073656758272",
+            "3_1989351074332131328",
+            "3_1989351073660936192"
+          ]
+        },
+        "author_id": "1680544465671561216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1989351116967199203",
+        "created_at": "2025-11-14T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989351116967199203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073665142784",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073656758272",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351074332131328",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            },
+            {
+              "display_url": "pic.x.com/KbEO5RxPVy",
+              "end": 169,
+              "expanded_url": "https://x.com/LXL0102/status/1989351116967199203/photo/1",
+              "media_key": "3_1989351073660936192",
+              "start": 146,
+              "url": "https://t.co/KbEO5RxPVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989351116967199203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看个好玩的！\n自身患有精神疾病（双相）的一个博主，无证且公开接心理咨询（200/h）\n\n我本来只是随口一吐槽，小腿毛立马就急了。\n\n双相患者接心理咨询时，能否保证自身状态最佳？不会误导别人？\n\n再说一遍，没专业学过临床心理学等专业课程知识，能不能别出来害人？\n\n也就靠着低龄粉丝去维护你了 https://t.co/KbEO5RxPVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 627,
+          "like_count": 10973,
+          "listed_count": 3,
+          "media_count": 1088,
+          "tweet_count": 7852
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T11:46:50.000Z",
+        "description": "【中推第一专业女巫🔮六年经验】被奸人所害的第三世||我认输了请别再举报我‖ 한국 유학 예비생🇰🇷 ||我不是黄推，傻逼全滚‼️互fo请私信或在置顶推文下评论❤️‍🔥只要不雷都会回fo ||双相情绪不稳定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LXL0102",
+                "end": 23,
+                "expanded_url": "https://t.me/LXL0102",
+                "start": 0,
+                "url": "https://t.co/k0zhGfMiPZ"
+              }
+            ]
+          }
+        },
+        "id": "1680544465671561216",
+        "location": "永远爱w",
+        "name": "ʚ离心力ɞSAMA",
+        "pinned_tweet_id": "1938510360287580588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933789247183728644/AR1v9fs4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 267,
+          "like_count": 1422,
+          "listed_count": 5,
+          "media_count": 549,
+          "tweet_count": 3153
+        },
+        "url": "https://t.co/k0zhGfMiPZ",
+        "username": "LXL0102",
+        "verified": false
+      }
+    ]
+  }
+}

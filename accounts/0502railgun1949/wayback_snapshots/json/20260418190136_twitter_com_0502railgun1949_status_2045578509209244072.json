@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045578509209244072",
+    "created_at": "2026-04-18T19:01:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T20:01:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045578509209244072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mubeitech/stat…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/mubeitech/status/2045410665523712506",
+          "start": 82,
+          "url": "https://t.co/ETbn4lOclY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045578509209244072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045410665523712506",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别的我不知道\n我只能说中国精神科的医生甚至不是高深的问题，连基础都很差\n别说看学术前沿了，都犯一些很低级的知识性错误\n那些东西都是死记硬背的，都不愿意再翻课本看看 https://t.co/ETbn4lOclY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 147493,
+        "height": 1280,
+        "media_key": "7_2045410483805573120",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045410483805573120/pu/img/UxNThgpewxn6KFs6.jpg",
+        "public_metrics": {
+          "view_count": 1943
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045410483805573120/pu/vid/avc1/320x568/J7evqDd0cEdG8PPd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045410483805573120/pu/vid/avc1/480x852/XMT-posbATRFzi-S.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045410483805573120/pu/vid/avc1/720x1280/PrvrwiLr_SIQqxpF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045410483805573120/pu/pl/k1UfI0ujEBKemXzE.m3u8?tag=12&v=439"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045578509209244072",
+        "created_at": "2026-04-18T19:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T20:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045578509209244072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mubeitech/stat…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/mubeitech/status/2045410665523712506",
+              "start": 82,
+              "url": "https://t.co/ETbn4lOclY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045578509209244072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045410665523712506",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别的我不知道\n我只能说中国精神科的医生甚至不是高深的问题，连基础都很差\n别说看学术前沿了，都犯一些很低级的知识性错误\n那些东西都是死记硬背的，都不愿意再翻课本看看 https://t.co/ETbn4lOclY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045410483805573120"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "conversation_id": "2045410665523712506",
+        "created_at": "2026-04-18T07:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045410665523712506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mw41sNLVji",
+              "end": 167,
+              "expanded_url": "https://x.com/mubeitech/status/2045410665523712506/video/1",
+              "media_key": "7_2045410483805573120",
+              "start": 144,
+              "url": "https://t.co/Mw41sNLVji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045410665523712506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“因为AI，我觉得医生的好日子到头了。”\n一位美国医生的自述火了。\n砸掉饭碗的不是AI诊断系统。\n而是拿着AI答案来“考”医生的病人。\n\n以前看病，是医生问患者答。\n现在门诊的画风全变了。\n病人在见医生前，已经用AI聊天机器人摸透了病情底牌。\n他们带着极高维、极细化的刁钻问题走进诊室。\n\n这位医生分享了一个后背发凉的细节。\n上周有个病人突然问他：美国视网膜脱离的流行病学发病率是多少？\n他硬着头皮答：“大概万分之一吧。”\n病人满意地点点头：“没错，我查到的也是这个数据。”\n那一刻，他感觉自己像个被主考官盘问的实习生。\n\n病人们正在用AI当标尺，直接测试人类医生的真实含金量。\n那些勉强应付考核、不看学术前沿的医生，现在几句话就会露馅。\n业内开始抱怨这会毁掉本就脆弱的医患信任。\n但这掩盖不了一个残酷的现实。\n\n患者用手机两秒钟就能免费查到的基础医学数据，不再需要去诊所花钱听医生背书。\n人类医生必须拿出比AI数据更硬的价值。\n靠信息垄断混日子的时代结束了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 52395,
+          "like_count": 428,
+          "quote_count": 14,
+          "reply_count": 62,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "“因为AI，我觉得医生的好日子到头了。”\n一位美国医生的自述火了。\n砸掉饭碗的不是AI诊断系统。\n而是拿着AI答案来“考”医生的病人。\n\n以前看病，是医生问患者答。\n现在门诊的画风全变了。\n病人在见医生前，已经用AI聊天机器人摸透了病情底牌。\n他们带着极高维、极细化的刁钻问题走进诊室。 https://t.co/Mw41sNLVji"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 664,
+          "like_count": 13062,
+          "listed_count": 3,
+          "media_count": 1340,
+          "tweet_count": 10443
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space！美国政治、AI科技、国际博弈--观察西方，理解西方，学习西方，反思东方，理解文明。",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60760,
+          "following_count": 4196,
+          "like_count": 11115,
+          "listed_count": 304,
+          "media_count": 10664,
+          "tweet_count": 74720
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

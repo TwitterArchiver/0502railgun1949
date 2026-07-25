@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1969298095696486602",
+    "created_at": "2025-09-20T21:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T22:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969507597482074603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758399635733798912",
+          "start": 0,
+          "username": "wdlyrg"
+        },
+        {
+          "end": 17,
+          "id": "1422797484053520385",
+          "start": 8,
+          "username": "hsouncle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969507597482074603",
+    "in_reply_to_user_id": "1758399635733798912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969506051906289697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wdlyrg @hsouncle 你不睡觉的吗？兄弟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 290,
+        "media_key": "3_1969506048731201537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1UXUQGbQAE62Sq.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1969298095696486602",
+        "created_at": "2025-09-20T21:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T22:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969507597482074603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758399635733798912",
+              "start": 0,
+              "username": "wdlyrg"
+            },
+            {
+              "end": 17,
+              "id": "1422797484053520385",
+              "start": 8,
+              "username": "hsouncle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969507597482074603",
+        "in_reply_to_user_id": "1758399635733798912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969506051906289697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wdlyrg @hsouncle 你不睡觉的吗？兄弟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969506048731201537"
+          ]
+        },
+        "author_id": "1758399635733798912",
+        "conversation_id": "1969298095696486602",
+        "created_at": "2025-09-20T20:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T21:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969506051906289697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1422797484053520385",
+              "start": 0,
+              "username": "hsouncle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HLin7yrG1",
+              "end": 103,
+              "expanded_url": "https://x.com/wdlyrg/status/1969506051906289697/photo/1",
+              "media_key": "3_1969506048731201537",
+              "start": 80,
+              "url": "https://t.co/6HLin7yrG1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969506051906289697",
+        "in_reply_to_user_id": "1422797484053520385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969298095696486602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsouncle 这玩意和“圆珠笔尖钢”一样，属于需要点技术但又不多、市场也不大的那种,平常大厂看不上这点肉。一旦用户多起来了，那点技术专利什么的啥也不是。 https://t.co/6HLin7yrG1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 631,
+          "like_count": 10835,
+          "listed_count": 4,
+          "media_count": 1061,
+          "tweet_count": 7647
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T07:56:20.000Z",
+        "description": "",
+        "id": "1758399635733798912",
+        "name": "wdlyrg",
+        "pinned_tweet_id": "1949960480191131693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1768523202798780416/oMqgshRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 499,
+          "like_count": 261,
+          "listed_count": 1,
+          "media_count": 8855,
+          "tweet_count": 15383
+        },
+        "username": "wdlyrg",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-04T05:52:29.000Z",
+        "description": "废柴们，要救世就赶紧去，来我这里打键盘吠几声并没什么卵用。封号封快点而已~",
+        "id": "1422797484053520385",
+        "location": "小李卤味",
+        "name": "嘉叔🚀biantai***🈲",
+        "pinned_tweet_id": "1687287857646649344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873600543760990209/uIQ8Up6K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17535,
+          "following_count": 656,
+          "like_count": 28204,
+          "listed_count": 86,
+          "media_count": 6111,
+          "tweet_count": 47335
+        },
+        "username": "hsouncle",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040783694286245948",
+    "created_at": "2026-04-06T02:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T03:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040985607233790398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3307859748",
+          "start": 0,
+          "username": "reimeikanata"
+        },
+        {
+          "end": 25,
+          "id": "965583779380129792",
+          "start": 14,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040985607233790398",
+    "in_reply_to_user_id": "3307859748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040825412289204470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reimeikanata @mario_2333 我可以攻略（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040783694286245948",
+        "created_at": "2026-04-06T02:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T03:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040985607233790398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3307859748",
+              "start": 0,
+              "username": "reimeikanata"
+            },
+            {
+              "end": 25,
+              "id": "965583779380129792",
+              "start": 14,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040985607233790398",
+        "in_reply_to_user_id": "3307859748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040825412289204470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reimeikanata @mario_2333 我可以攻略（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3307859748",
+        "conversation_id": "2040783694286245948",
+        "created_at": "2026-04-05T16:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040825412289204470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040825412289204470",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040783694286245948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 居然是不可攻略角色😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 656,
+          "like_count": 12239,
+          "listed_count": 3,
+          "media_count": 1293,
+          "tweet_count": 9681
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-06T15:09:52.000Z",
+        "description": "intp，ACT爱好者，喜欢抹茶🍵，雨天🌧，和雨后蔚蓝的天穹🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rmknt.notion.site",
+                "end": 23,
+                "expanded_url": "http://rmknt.notion.site",
+                "start": 0,
+                "url": "https://t.co/RtUV5tJInd"
+              }
+            ]
+          }
+        },
+        "id": "3307859748",
+        "location": "VA-11 Hall A",
+        "name": "晓彼方",
+        "pinned_tweet_id": "1900468879941358048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035474256042348544/G1biPCTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 368,
+          "like_count": 39528,
+          "listed_count": 3,
+          "media_count": 421,
+          "tweet_count": 4565
+        },
+        "url": "https://t.co/RtUV5tJInd",
+        "username": "reimeikanata",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | Follow ≠ Endorsement⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+2",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3370,
+          "following_count": 262,
+          "like_count": 43916,
+          "listed_count": 15,
+          "media_count": 928,
+          "tweet_count": 14187
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": true
+      }
+    ]
+  }
+}

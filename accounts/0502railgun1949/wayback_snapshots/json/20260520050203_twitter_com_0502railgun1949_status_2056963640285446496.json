@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056527566853361664"
+      ],
+      "media_source_tweet_id": [
+        "2056527568145203262"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056963640285446496",
+    "created_at": "2026-05-20T05:02:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056963640285446496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878331922",
+          "start": 3,
+          "username": "jianhuazi_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "mtbrs.net/ps_jianhuazibo…",
+          "end": 101,
+          "expanded_url": "https://mtbrs.net/ps_jianhuazibot_2q08_png",
+          "start": 78,
+          "status": 403,
+          "unwound_url": "https://botbird.net/403.html",
+          "url": "https://t.co/LY78vAJXn2"
+        },
+        {
+          "display_url": "pic.x.com/TOeQH1Vtxz",
+          "end": 125,
+          "expanded_url": "https://x.com/jianhuazi_bot/status/2056527568145203262/photo/1",
+          "media_key": "3_2056527566853361664",
+          "start": 102,
+          "url": "https://t.co/TOeQH1Vtxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056963640285446496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056527568145203262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianhuazi_bot: 【穷】「窮」の簡化字。草書をもとに下部を近形の「力」に換えたもので、元・明・清代の大衆小説に用いられている。2Q08 https://t.co/LY78vAJXn2 https://t.co/TOeQH1Vtxz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2056527566853361664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpA7RUX0AADl66.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056527566853361664"
+          ],
+          "media_source_tweet_id": [
+            "2056527568145203262"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056963640285446496",
+        "created_at": "2026-05-20T05:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056963640285446496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878331922",
+              "start": 3,
+              "username": "jianhuazi_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "mtbrs.net/ps_jianhuazibo…",
+              "end": 101,
+              "expanded_url": "https://mtbrs.net/ps_jianhuazibot_2q08_png",
+              "start": 78,
+              "status": 403,
+              "unwound_url": "https://botbird.net/403.html",
+              "url": "https://t.co/LY78vAJXn2"
+            },
+            {
+              "display_url": "pic.x.com/TOeQH1Vtxz",
+              "end": 125,
+              "expanded_url": "https://x.com/jianhuazi_bot/status/2056527568145203262/photo/1",
+              "media_key": "3_2056527566853361664",
+              "start": 102,
+              "url": "https://t.co/TOeQH1Vtxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056963640285446496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056527568145203262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianhuazi_bot: 【穷】「窮」の簡化字。草書をもとに下部を近形の「力」に換えたもので、元・明・清代の大衆小説に用いられている。2Q08 https://t.co/LY78vAJXn2 https://t.co/TOeQH1Vtxz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056527566853361664"
+          ]
+        },
+        "author_id": "1878331922",
+        "conversation_id": "2056527568145203262",
+        "created_at": "2026-05-19T00:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056527568145203262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mtbrs.net/ps_jianhuazibo…",
+              "end": 82,
+              "expanded_url": "https://mtbrs.net/ps_jianhuazibot_2q08_png",
+              "start": 59,
+              "status": 403,
+              "unwound_url": "https://botbird.net/403.html",
+              "url": "https://t.co/LY78vAJXn2"
+            },
+            {
+              "display_url": "pic.x.com/TOeQH1Vtxz",
+              "end": 106,
+              "expanded_url": "https://x.com/jianhuazi_bot/status/2056527568145203262/photo/1",
+              "media_key": "3_2056527566853361664",
+              "start": 83,
+              "url": "https://t.co/TOeQH1Vtxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056527568145203262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 434,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "【穷】「窮」の簡化字。草書をもとに下部を近形の「力」に換えたもので、元・明・清代の大衆小説に用いられている。2Q08 https://t.co/LY78vAJXn2 https://t.co/TOeQH1Vtxz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 682,
+          "like_count": 14568,
+          "listed_count": 5,
+          "media_count": 1377,
+          "tweet_count": 11531
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T06:33:46.000Z",
+        "description": "《简化字总表》の第一表と第二表に収録されている簡体字・繁体字と、その由来を定期的にツイートしています。あらゆるメッセージには返信しません。このbotに関して連絡すべきことがあれば@nkay166687に返信してください。\n\n二簡字bot（運用停止中）→@jianhuazi_bot2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "nkay166687"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "jianhuazi_bot2"
+              }
+            ]
+          }
+        },
+        "id": "1878331922",
+        "name": "簡化字bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000472663283/ffb58f059345dfa779cd2cc3fa6b98e2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10269,
+          "following_count": 7794,
+          "like_count": 0,
+          "listed_count": 236,
+          "media_count": 42908,
+          "tweet_count": 43283
+        },
+        "username": "jianhuazi_bot",
+        "verified": false
+      }
+    ]
+  }
+}

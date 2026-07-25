@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1933579554066772477",
+    "created_at": "2025-06-14T03:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T04:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933726222665871573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "Gotohitory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933726222665871573",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933579554066772477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gotohitory 哈人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1933579188008857602",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtV0BuZbMAIbaAM.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1933579554066772477",
+        "created_at": "2025-06-14T03:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T04:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933726222665871573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "Gotohitory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933726222665871573",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933579554066772477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gotohitory 哈人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933579188008857602"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "conversation_id": "1933579554066772477",
+        "created_at": "2025-06-13T17:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933579554066772477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OrwmGdC0x",
+              "end": 89,
+              "expanded_url": "https://x.com/Gotohitory/status/1933579554066772477/photo/1",
+              "media_key": "3_1933579188008857602",
+              "start": 66,
+              "url": "https://t.co/6OrwmGdC0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933579554066772477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": ":孩子们我才是你们的波奇指导\n不要被那个蓝色眼睛的假粉毛骗了\n木嘿嘿嘿\nO               O\n      \\___/ https://t.co/6OrwmGdC0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 646,
+          "like_count": 8004,
+          "listed_count": 3,
+          "media_count": 993,
+          "tweet_count": 6603
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "一般路过左翼哲比 消除性别 生理无糖伪娘\n符号学大手子\n我是友好的波奇fumo\nʟᴇғᴛɪsᴛs & ʀɪɢʜᴛɪsᴛs ғʀɪᴇɴᴅʟʏ\n一般不会block别人 如果我b你你要好好反思自己是不是太傻逼了\n革命伴侣@iLIc5147 \n我的神人主队@TeamVitality",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 107,
+                "username": "iLIc5147"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "TeamVitality"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=dQw4w9…",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "start": 0,
+                "url": "https://t.co/4Kb114DPc5"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "dance & night club",
+        "name": "j79b0o0Oocchi15b0",
+        "pinned_tweet_id": "1932421826766061999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931188135171702784/eyn_Hm0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 1064,
+          "like_count": 15106,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 3419
+        },
+        "url": "https://t.co/4Kb114DPc5",
+        "username": "Gotohitory",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1994697410891972921",
+    "created_at": "2025-11-29T09:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994697410891972921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1690721268373581824",
+          "start": 3,
+          "username": "Celsius233C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994697410891972921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994350159363453191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Celsius233C: 在火灾发生时，巧克力脚手架（Chocolate Scaffolding）比钢制脚手架和竹脚手架更安全。\n虽然常识认为建筑材料需要耐火，但从“热力学相变吸热”和“灾后能量补给”这两个核心生存指标来看，巧克力脚手架具有其他材料无法比拟的压倒性优势。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994350156318420992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61a5pEasAAVdOK.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1994697410891972921",
+        "created_at": "2025-11-29T09:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994697410891972921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1690721268373581824",
+              "start": 3,
+              "username": "Celsius233C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994697410891972921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994350159363453191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Celsius233C: 在火灾发生时，巧克力脚手架（Chocolate Scaffolding）比钢制脚手架和竹脚手架更安全。\n虽然常识认为建筑材料需要耐火，但从“热力学相变吸热”和“灾后能量补给”这两个核心生存指标来看，巧克力脚手架具有其他材料无法比拟的压倒性优势。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994350156318420992"
+          ]
+        },
+        "author_id": "1690721268373581824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1994350159363453191",
+        "created_at": "2025-11-28T10:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994350159363453191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iw32Mithm4",
+              "end": 198,
+              "expanded_url": "https://x.com/Celsius233C/status/1994350159363453191/photo/1",
+              "media_key": "3_1994350156318420992",
+              "start": 175,
+              "url": "https://t.co/iw32Mithm4"
+            },
+            {
+              "display_url": "x.com/hk2019freehk/s…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/hk2019freehk/status/1994162493904871751",
+              "start": 199,
+              "url": "https://t.co/sNzTCCKbAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994350159363453191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 24892,
+          "like_count": 226,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994162493904871751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在火灾发生时，巧克力脚手架（Chocolate Scaffolding）比钢制脚手架和竹脚手架更安全。\n虽然常识认为建筑材料需要耐火，但从“热力学相变吸热”和“灾后能量补给”这两个核心生存指标来看，巧克力脚手架具有其他材料无法比拟的压倒性优势。\n\nArticle &amp; Information from Google Gemini 3 Pro https://t.co/iw32Mithm4 https://t.co/sNzTCCKbAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 607,
+          "like_count": 11125,
+          "listed_count": 3,
+          "media_count": 1100,
+          "tweet_count": 7934
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T13:45:44.000Z",
+        "description": "Gender undefined💛💜｜zh-CN/en-US｜R-18G｜Film Photography📷｜Planes✈️｜Amateur Radio📻｜War Thunder",
+        "id": "1690721268373581824",
+        "location": "Washington, USA",
+        "name": "233°C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709080494498054145/b4FIrcBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5542,
+          "following_count": 894,
+          "like_count": 21903,
+          "listed_count": 23,
+          "media_count": 137,
+          "tweet_count": 2392
+        },
+        "username": "Celsius233C",
+        "verified": false
+      }
+    ]
+  }
+}

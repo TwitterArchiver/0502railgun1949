@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892139119796797440"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1892139123424866634",
+    "created_at": "2025-02-19T09:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T10:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1892139123424866634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WloQOGmn3s",
+          "end": 29,
+          "expanded_url": "https://x.com/0502railgun1949/status/1892139123424866634/photo/1",
+          "media_key": "3_1892139119796797440",
+          "start": 6,
+          "url": "https://t.co/WloQOGmn3s"
+        },
+        {
+          "display_url": "x.com/Romanorum_/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Romanorum_/status/1892073124436611580",
+          "start": 30,
+          "url": "https://t.co/ofh46euLqf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892139123424866634",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892073124436611580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我才是皇帝 https://t.co/WloQOGmn3s https://t.co/ofh46euLqf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1892139119796797440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkI6gSUbwAAmifC.jpg",
+        "width": 1638
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1892073117465657344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkH-ecebQAAFt6N.jpg",
+        "width": 800
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1892073121383055365",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkH-erEaAAUp8gU.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892139119796797440"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1892139123424866634",
+        "created_at": "2025-02-19T09:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T10:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892139123424866634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WloQOGmn3s",
+              "end": 29,
+              "expanded_url": "https://x.com/0502railgun1949/status/1892139123424866634/photo/1",
+              "media_key": "3_1892139119796797440",
+              "start": 6,
+              "url": "https://t.co/WloQOGmn3s"
+            },
+            {
+              "display_url": "x.com/Romanorum_/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Romanorum_/status/1892073124436611580",
+              "start": 30,
+              "url": "https://t.co/ofh46euLqf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892139123424866634",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892073124436611580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才是皇帝 https://t.co/WloQOGmn3s https://t.co/ofh46euLqf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892073117465657344",
+            "3_1892073121383055365"
+          ]
+        },
+        "author_id": "1274515360839057408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1892073124436611580",
+        "created_at": "2025-02-19T04:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T05:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892073124436611580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfLPThEC1p",
+              "end": 32,
+              "expanded_url": "https://x.com/Romanorum_/status/1892073124436611580/photo/1",
+              "media_key": "3_1892073117465657344",
+              "start": 9,
+              "url": "https://t.co/CfLPThEC1p"
+            },
+            {
+              "display_url": "pic.x.com/CfLPThEC1p",
+              "end": 32,
+              "expanded_url": "https://x.com/Romanorum_/status/1892073124436611580/photo/1",
+              "media_key": "3_1892073121383055365",
+              "start": 9,
+              "url": "https://t.co/CfLPThEC1p"
+            },
+            {
+              "display_url": "x.com/L98808Lju/stat…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/L98808Lju/status/1892045302531576120",
+              "start": 33,
+              "url": "https://t.co/0cKz59GGRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892073124436611580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 866,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892045302531576120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才是皇帝——！ https://t.co/CfLPThEC1p https://t.co/0cKz59GGRS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 746,
+          "like_count": 6668,
+          "listed_count": 1,
+          "media_count": 915,
+          "tweet_count": 5683
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:32:06.000Z",
+        "description": "不鍵政/惡人/晴天娃娃/海@Frieastarsea /🐟@l98808lju/頭@Tinkles_12 /狼@KawatukiYuyuko/寶@KawaiiCheshire_ @HANABIRIKAJIANG @MengSanba54477 @lihanhanyuan @xinmengqaq @owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 13,
+                "username": "Frieastarsea"
+              },
+              {
+                "end": 39,
+                "start": 29,
+                "username": "l98808lju"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "Tinkles_12"
+              },
+              {
+                "end": 70,
+                "start": 55,
+                "username": "KawatukiYuyuko"
+              },
+              {
+                "end": 88,
+                "start": 72,
+                "username": "KawaiiCheshire_"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 121,
+                "start": 106,
+                "username": "MengSanba54477"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "lihanhanyuan"
+              },
+              {
+                "end": 147,
+                "start": 136,
+                "username": "xinmengqaq"
+              },
+              {
+                "end": 159,
+                "start": 148,
+                "username": "owl8964cat"
+              }
+            ]
+          }
+        },
+        "id": "1274515360839057408",
+        "location": "Κύπρος",
+        "name": "🌸神樂坂😼萱雨✞🏴‍☠️🇺🇦🇮🇱",
+        "pinned_tweet_id": "1885157043495198755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890577995322241024/TUQIKANJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2065,
+          "following_count": 1684,
+          "like_count": 44651,
+          "listed_count": 4,
+          "media_count": 4469,
+          "tweet_count": 18850
+        },
+        "username": "Romanorum_",
+        "verified": false
+      }
+    ]
+  }
+}

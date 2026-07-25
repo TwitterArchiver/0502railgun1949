@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1942472162561945876",
+    "created_at": "2025-07-08T06:33:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T07:33:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942472162561945876"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MaoZedong1893_…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/MaoZedong1893__/status/1942207556170236184",
+          "start": 42,
+          "url": "https://t.co/cjnH0xL9rh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942472162561945876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942207556170236184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我见的有实力的，能考上985211或者家里有钱的，理论水平通常更高，认知不一样 https://t.co/cjnH0xL9rh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1942472162561945876",
+        "created_at": "2025-07-08T06:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T07:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942472162561945876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MaoZedong1893_…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/MaoZedong1893__/status/1942207556170236184",
+              "start": 42,
+              "url": "https://t.co/cjnH0xL9rh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942472162561945876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942207556170236184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我见的有实力的，能考上985211或者家里有钱的，理论水平通常更高，认知不一样 https://t.co/cjnH0xL9rh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "937675426717159424",
+        "conversation_id": "1942207556170236184",
+        "created_at": "2025-07-07T13:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942207556170236184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942207556170236184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1706,
+          "like_count": 13,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只能说家里有点实力的不会天天跑来网络上建政，像我们这种最多就是对马克思主义有点兴趣，偶尔会聊一下，翻一下毛泽东选集，不是像某些人天天在网络上夸夸其谈，只有穷人才会对社会不满，渴望绝对的公有制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 646,
+          "like_count": 8748,
+          "listed_count": 3,
+          "media_count": 1004,
+          "tweet_count": 6862
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-04T13:30:17.000Z",
+        "description": "湖南湘潭人，伟大的马克思主义者，伟大的无产阶级革命家、战略家、理论家，中国共产党、中国人民解放军和中华人民共和国的主要缔造者和领导人。",
+        "id": "937675426717159424",
+        "name": "毛泽东",
+        "pinned_tweet_id": "1937110296197570796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923359512293203968/AFltvkOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 1086,
+          "like_count": 4723,
+          "listed_count": 9,
+          "media_count": 168,
+          "tweet_count": 2815
+        },
+        "username": "MaoZedong1893__",
+        "verified": false
+      }
+    ]
+  }
+}

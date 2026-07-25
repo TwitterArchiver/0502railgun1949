@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "1915772317277557183",
+    "created_at": "2025-04-25T14:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T15:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915772317277557183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yusphotograph/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yusphotograph/status/1915744274735587620",
+          "start": 8,
+          "url": "https://t.co/yE8Uo4R4WI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915772317277557183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915744274735587620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "历史在离开我们 https://t.co/yE8Uo4R4WI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1915744265306849280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYXQl4bQAAN6-Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1915744267378843648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYXQtmbYAAk37h.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915744270528724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYXQ5VawAA0kK1.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1915772317277557183",
+        "created_at": "2025-04-25T14:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T15:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915772317277557183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yusphotograph/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yusphotograph/status/1915744274735587620",
+              "start": 8,
+              "url": "https://t.co/yE8Uo4R4WI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915772317277557183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915744274735587620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "历史在离开我们 https://t.co/yE8Uo4R4WI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915744265306849280",
+            "3_1915744267378843648",
+            "3_1915744270528724992"
+          ]
+        },
+        "author_id": "1809914523714998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "1915744274735587620",
+        "created_at": "2025-04-25T12:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T13:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915744274735587620"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "photography"
+            },
+            {
+              "end": 63,
+              "start": 55,
+              "tag": "railway"
+            },
+            {
+              "end": 83,
+              "start": 64,
+              "tag": "いいねした鉄道ファン全員フォローする"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQUjMZNAlP",
+              "end": 107,
+              "expanded_url": "https://x.com/yusphotograph/status/1915744274735587620/photo/1",
+              "media_key": "3_1915744265306849280",
+              "start": 84,
+              "url": "https://t.co/uQUjMZNAlP"
+            },
+            {
+              "display_url": "pic.x.com/uQUjMZNAlP",
+              "end": 107,
+              "expanded_url": "https://x.com/yusphotograph/status/1915744274735587620/photo/1",
+              "media_key": "3_1915744267378843648",
+              "start": 84,
+              "url": "https://t.co/uQUjMZNAlP"
+            },
+            {
+              "display_url": "pic.x.com/uQUjMZNAlP",
+              "end": 107,
+              "expanded_url": "https://x.com/yusphotograph/status/1915744274735587620/photo/1",
+              "media_key": "3_1915744270528724992",
+              "start": 84,
+              "url": "https://t.co/uQUjMZNAlP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915744274735587620",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "短短两周 又有四台SS8回送至春湾站封存\nSS8-0193/189/178/162\n#photography #railway #いいねした鉄道ファン全員フォローする https://t.co/uQUjMZNAlP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 738,
+          "like_count": 6962,
+          "listed_count": 2,
+          "media_count": 960,
+          "tweet_count": 6078
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T11:37:24.000Z",
+        "description": "写真って、時代が変わっても変わることのない愛情表現なんだ。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xiaoyucai2077…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@xiaoyucai2077?si=C2n8TBHtGv9G5JiC",
+                "start": 0,
+                "url": "https://t.co/2B5o3zgcO1"
+              }
+            ]
+          }
+        },
+        "id": "1809914523714998272",
+        "location": "GuangZhouDong RailwayStation",
+        "name": "Hikari毓",
+        "pinned_tweet_id": "1825925486243098968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837483826282369024/TgO6f12e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 136,
+          "like_count": 1866,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/2B5o3zgcO1",
+        "username": "yusphotograph",
+        "verified": false
+      }
+    ]
+  }
+}

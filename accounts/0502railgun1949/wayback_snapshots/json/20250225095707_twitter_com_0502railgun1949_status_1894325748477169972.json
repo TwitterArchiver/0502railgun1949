@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1894325748477169972",
+    "created_at": "2025-02-25T09:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T10:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894325748477169972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Romanorum_/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/Romanorum_/status/1894282570579214348",
+          "start": 12,
+          "url": "https://t.co/Eff8QqCd0T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894325748477169972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894282570579214348",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說實話一根都沒收到過😉 https://t.co/Eff8QqCd0T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1894325748477169972",
+        "created_at": "2025-02-25T09:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894325748477169972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Romanorum_/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/Romanorum_/status/1894282570579214348",
+              "start": 12,
+              "url": "https://t.co/Eff8QqCd0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894325748477169972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894282570579214348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說實話一根都沒收到過😉 https://t.co/Eff8QqCd0T"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274515360839057408",
+        "conversation_id": "1894282570579214348",
+        "created_at": "2025-02-25T07:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T08:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894282570579214348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/elysia89642952…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/elysia89642952/status/1894196188351533093",
+              "start": 25,
+              "url": "https://t.co/COaiuZkOnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894282570579214348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894196188351533093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說實話萱雨一根都沒收到過😉\n這是成功呢🤔還是失敗 https://t.co/COaiuZkOnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 747,
+          "like_count": 6765,
+          "listed_count": 1,
+          "media_count": 927,
+          "tweet_count": 5756
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:32:06.000Z",
+        "description": "不鍵政/晴天娃娃/海@Frieastarsea /🐟@l98808lju/頭@Tinkles_12 /狼@KawatukiYuyuko/猫@KawaiiCheshire_/寶@HANABIRIKAJIANG @MengSanba54477 @lihanhanyuan @xinmengqaq @owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "Frieastarsea"
+              },
+              {
+                "end": 36,
+                "start": 26,
+                "username": "l98808lju"
+              },
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Tinkles_12"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "KawatukiYuyuko"
+              },
+              {
+                "end": 85,
+                "start": 69,
+                "username": "KawaiiCheshire_"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "MengSanba54477"
+              },
+              {
+                "end": 133,
+                "start": 120,
+                "username": "lihanhanyuan"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "xinmengqaq"
+              },
+              {
+                "end": 157,
+                "start": 146,
+                "username": "owl8964cat"
+              }
+            ]
+          }
+        },
+        "id": "1274515360839057408",
+        "location": "Κύπρος",
+        "name": "🌸神樂坂😼萱雨✞🏴‍☠️🇺🇦🇮🇱",
+        "pinned_tweet_id": "1885157043495198755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892746700248535040/2QOZBjUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2084,
+          "following_count": 1695,
+          "like_count": 46487,
+          "listed_count": 4,
+          "media_count": 4617,
+          "tweet_count": 19697
+        },
+        "username": "Romanorum_",
+        "verified": false
+      }
+    ]
+  }
+}

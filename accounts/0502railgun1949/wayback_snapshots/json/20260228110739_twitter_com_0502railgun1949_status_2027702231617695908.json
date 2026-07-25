@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027611565864943616",
+        "3_2027611565865025536"
+      ],
+      "media_source_tweet_id": [
+        "2027611585800507814",
+        "2027611585800507814"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2027702231617695908",
+    "created_at": "2026-02-28T11:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027702231617695908"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "松下道信監訳",
+          "probability": 0.453,
+          "start": 23,
+          "type": "Person"
+        },
+        {
+          "end": 35,
+          "normalized_text": "中国道教史",
+          "probability": 0.3865,
+          "start": 31,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "汲古書院",
+          "probability": 0.395,
+          "start": 38,
+          "type": "Organization"
+        },
+        {
+          "end": 69,
+          "normalized_text": "上海人民出版社1990版",
+          "probability": 0.4898,
+          "start": 58,
+          "type": "Organization"
+        },
+        {
+          "end": 84,
+          "normalized_text": "中国",
+          "probability": 0.8993,
+          "start": 83,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1256758512627023872",
+          "start": 3,
+          "username": "Qinghuofang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/opAX0sukV1",
+          "end": 138,
+          "expanded_url": "https://x.com/Qinghuofang/status/2027611585800507814/photo/1",
+          "media_key": "3_2027611565864943616",
+          "start": 115,
+          "url": "https://t.co/opAX0sukV1"
+        },
+        {
+          "display_url": "pic.x.com/opAX0sukV1",
+          "end": 138,
+          "expanded_url": "https://x.com/Qinghuofang/status/2027611585800507814/photo/1",
+          "media_key": "3_2027611565865025536",
+          "start": 115,
+          "url": "https://t.co/opAX0sukV1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027702231617695908",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027611585800507814",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Qinghuofang: 任継愈主編・松下道信監訳\n『中国道教史』（汲古書院、2026）\n完成しました！\n\n上海人民出版社1990版の全訳で全1154頁。\n\n中国を代表する道教史の金字塔です！\n道教に関心のある方はぜひ！ https://t.co/opAX0sukV1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027702231617695908].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027702231617695908",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027702231617695908"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027611565864943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOF-fXagAAdQmI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027611565865025536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCOF-fXbwAA9MpK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027611565864943616",
+            "3_2027611565865025536"
+          ]
+        },
+        "author_id": "1256758512627023872",
+        "conversation_id": "2027611585800507814",
+        "created_at": "2026-02-28T05:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T06:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027611585800507814"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "松下道信監訳",
+              "probability": 0.4709,
+              "start": 6,
+              "type": "Person"
+            },
+            {
+              "end": 18,
+              "normalized_text": "中国道教史",
+              "probability": 0.4333,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 24,
+              "normalized_text": "汲古書院",
+              "probability": 0.3961,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 52,
+              "normalized_text": "上海人民出版社1990版",
+              "probability": 0.494,
+              "start": 41,
+              "type": "Organization"
+            },
+            {
+              "end": 67,
+              "normalized_text": "中国",
+              "probability": 0.8981,
+              "start": 66,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/opAX0sukV1",
+              "end": 121,
+              "expanded_url": "https://x.com/Qinghuofang/status/2027611585800507814/photo/1",
+              "media_key": "3_2027611565864943616",
+              "start": 98,
+              "url": "https://t.co/opAX0sukV1"
+            },
+            {
+              "display_url": "pic.x.com/opAX0sukV1",
+              "end": 121,
+              "expanded_url": "https://x.com/Qinghuofang/status/2027611585800507814/photo/1",
+              "media_key": "3_2027611565865025536",
+              "start": 98,
+              "url": "https://t.co/opAX0sukV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027611585800507814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 4739,
+          "like_count": 160,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "任継愈主編・松下道信監訳\n『中国道教史』（汲古書院、2026）\n完成しました！\n\n上海人民出版社1990版の全訳で全1154頁。\n\n中国を代表する道教史の金字塔です！\n道教に関心のある方はぜひ！ https://t.co/opAX0sukV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 610,
+          "like_count": 10830,
+          "listed_count": 3,
+          "media_count": 1196,
+          "tweet_count": 8444
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-03T01:33:00.000Z",
+        "description": "伊勢の地にある皇學館大学で道教、特に中国近世期の内丹道について研究をしている松下道信(MATSUSHITA Michinobu)の研究室です。最近では神道についても少し。著に『宋金元道教内丹思想研究』『丘処機『西遊記』を読む : チンギス・ハンと会った道士』など。炉火純青たるべし。",
+        "id": "1256758512627023872",
+        "name": "青火房",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1258624038731083777/WuGpI3Yl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 346,
+          "like_count": 828,
+          "listed_count": 3,
+          "media_count": 188,
+          "tweet_count": 709
+        },
+        "username": "Qinghuofang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2030105461123346791",
+    "created_at": "2026-03-07T02:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T03:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030105461123346791"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/neko_ruyue/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/neko_ruyue/status/2029844342127661511",
+          "start": 13,
+          "url": "https://t.co/MAZBTjvtDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030105461123346791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029844342127661511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可以把它下放到农村插队吗 https://t.co/MAZBTjvtDU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2030105461123346791",
+        "created_at": "2026-03-07T02:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T03:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030105461123346791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/neko_ruyue/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/neko_ruyue/status/2029844342127661511",
+              "start": 13,
+              "url": "https://t.co/MAZBTjvtDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030105461123346791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029844342127661511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以把它下放到农村插队吗 https://t.co/MAZBTjvtDU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "2029844342127661511",
+        "created_at": "2026-03-06T08:59:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T09:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029844342127661511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029844342127661511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1592,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "食堂有人插队\n正常人：你插队干嘛，怎么那么没素质，快滚啊。\n学完社工的人：我发现你刚刚走到了我前面，想要站在我前面，这样你就可以先我一步拿到中饭，我感觉非常的伤心很难过，因为你这样的行为伤害到了我的利益，消耗了我个人的时间。我请求你，可以不要插队，排到后面去吗，求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 617,
+          "like_count": 10921,
+          "listed_count": 3,
+          "media_count": 1220,
+          "tweet_count": 8580
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "猫",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33663,
+          "following_count": 4108,
+          "like_count": 152835,
+          "listed_count": 85,
+          "media_count": 2726,
+          "tweet_count": 30440
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

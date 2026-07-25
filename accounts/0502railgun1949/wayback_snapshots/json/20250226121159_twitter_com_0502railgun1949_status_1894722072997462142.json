@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1894722072997462142",
+    "created_at": "2025-02-26T12:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T13:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894722072997462142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1894052304820810009",
+          "start": 56,
+          "url": "https://t.co/CqlAEDxCc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894722072997462142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894052304820810009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是看这个动画片长大\ntmd这么一搞，这个动画片永远都不可能有下一季了 \n作者怕不是也要有事了\n虽然已经封了 https://t.co/CqlAEDxCc6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 305749,
+        "height": 725,
+        "media_key": "7_1894050325943943168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1894050325943943168/pu/img/Z9wi9aZ5aoBl1Fml.jpg",
+        "public_metrics": {
+          "view_count": 528637
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894050325943943168/pu/vid/avc1/320x426/3Lc4VNA4FL5QZSfJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894050325943943168/pu/vid/avc1/480x638/06u9EfqossasjtQB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1894050325943943168/pu/vid/avc1/544x724/zrayMXrPLwrGw6RY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1894050325943943168/pu/pl/sc5QxuHFv2-NwJ18.m3u8?tag=12&v=f29"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1894722072997462142",
+        "created_at": "2025-02-26T12:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894722072997462142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1894052304820810009",
+              "start": 56,
+              "url": "https://t.co/CqlAEDxCc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894722072997462142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894052304820810009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是看这个动画片长大\ntmd这么一搞，这个动画片永远都不可能有下一季了 \n作者怕不是也要有事了\n虽然已经封了 https://t.co/CqlAEDxCc6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1894050325943943168"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1894052304820810009",
+        "created_at": "2025-02-24T15:50:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T16:49:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894052079313817660",
+          "1894052304820810009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gOu8FHW9zd",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1894052304820810009/video/1",
+              "media_key": "7_1894050325943943168",
+              "start": 112,
+              "url": "https://t.co/gOu8FHW9zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894052304820810009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1576,
+          "impression_count": 917262,
+          "like_count": 5013,
+          "quote_count": 35,
+          "reply_count": 135,
+          "retweet_count": 851
+        },
+        "reply_settings": "everyone",
+        "text": "2月20日(发布) 博主“禽兽超人强”制作了一部讽刺官员形式主义以及贪污腐败的动画。\n 这部动画讲述了一名镇长宁愿花钱招待上级领导也不愿修补一个井盖，最终导致校车经过时陷了进去，而那个敢于发声的下属，最后成了背锅侠.... https://t.co/gOu8FHW9zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 748,
+          "like_count": 6794,
+          "listed_count": 1,
+          "media_count": 934,
+          "tweet_count": 5781
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1886070694766911523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941511,
+          "following_count": 936,
+          "like_count": 5844,
+          "listed_count": 8044,
+          "media_count": 23856,
+          "tweet_count": 30191
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

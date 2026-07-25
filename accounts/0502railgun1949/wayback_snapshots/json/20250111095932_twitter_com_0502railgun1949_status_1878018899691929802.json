@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1878018897208918016"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1878018899691929802",
+    "created_at": "2025-01-11T09:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T10:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1878018899691929802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dLDcTsR1gE",
+          "end": 166,
+          "expanded_url": "https://x.com/0502railgun1949/status/1878018899691929802/photo/1",
+          "media_key": "3_1878018897208918016",
+          "start": 143,
+          "url": "https://t.co/dLDcTsR1gE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878018899691929802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实早在初代国家出现的时候，父母就已经催促孩子要读书做人上人\n以便他们能去做祭司以及官员商人之类的岗位\n说不读书就是体力劳动苦逼\n古代印度有古鲁制度，学生会跟随古鲁学习。父母会把孩子送到古鲁那里学习，并督促他们认真学习。\n罗马的家庭教育非常普遍，父母会亲自教导孩子，或者聘请家庭教师。 https://t.co/dLDcTsR1gE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1064,
+        "media_key": "3_1878018897208918016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhAQPKGbwAAXtGK.jpg",
+        "width": 846
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1878018897208918016"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1878018899691929802",
+        "created_at": "2025-01-11T09:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T10:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878018899691929802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dLDcTsR1gE",
+              "end": 166,
+              "expanded_url": "https://x.com/0502railgun1949/status/1878018899691929802/photo/1",
+              "media_key": "3_1878018897208918016",
+              "start": 143,
+              "url": "https://t.co/dLDcTsR1gE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878018899691929802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实早在初代国家出现的时候，父母就已经催促孩子要读书做人上人\n以便他们能去做祭司以及官员商人之类的岗位\n说不读书就是体力劳动苦逼\n古代印度有古鲁制度，学生会跟随古鲁学习。父母会把孩子送到古鲁那里学习，并督促他们认真学习。\n罗马的家庭教育非常普遍，父母会亲自教导孩子，或者聘请家庭教师。 https://t.co/dLDcTsR1gE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 752,
+          "like_count": 6260,
+          "listed_count": 1,
+          "media_count": 817,
+          "tweet_count": 5127
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1973948958113427840",
+    "created_at": "2025-10-03T12:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974085160024023378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1885557129588948992",
+          "start": 0,
+          "username": "jfrd163461"
+        },
+        {
+          "end": 25,
+          "id": "1627140243412639744",
+          "start": 12,
+          "username": "Smartest2077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974085160024023378",
+    "in_reply_to_user_id": "1885557129588948992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973994034650648803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jfrd163461 @Smartest2077 这不是马克思列宁主义者，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1973948958113427840",
+        "created_at": "2025-10-03T12:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974085160024023378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1885557129588948992",
+              "start": 0,
+              "username": "jfrd163461"
+            },
+            {
+              "end": 25,
+              "id": "1627140243412639744",
+              "start": 12,
+              "username": "Smartest2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974085160024023378",
+        "in_reply_to_user_id": "1885557129588948992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973994034650648803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jfrd163461 @Smartest2077 这不是马克思列宁主义者，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885557129588948992",
+        "conversation_id": "1973948958113427840",
+        "created_at": "2025-10-03T06:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T07:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973994034650648803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1627140243412639744",
+              "start": 0,
+              "username": "Smartest2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973994034650648803",
+        "in_reply_to_user_id": "1627140243412639744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973993755775475841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smartest2077 就係覺得中國係天國，無比驕傲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 627,
+          "like_count": 10869,
+          "listed_count": 3,
+          "media_count": 1065,
+          "tweet_count": 7697
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T05:14:52.000Z",
+        "description": "Revolutionary Democratic Socialism\nOriginal Marxism\nCountryhuman lover\nDemocracy&Freedom\nHongkonger\nI hope that all of China can achieve democracy and freedom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stategerls",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@stategerls",
+                "start": 0,
+                "url": "https://t.co/Ve7wgU1aBV"
+              }
+            ]
+          }
+        },
+        "id": "1885557129588948992",
+        "location": "EARTH AISA ROC HK 右邊係佢嘅website",
+        "name": "RevDemSoc HK 🇭🇰🇹🇼",
+        "pinned_tweet_id": "1947633280809111637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973899841571856384/ItiN6_Ki_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1152,
+          "following_count": 2894,
+          "like_count": 8500,
+          "listed_count": 4,
+          "media_count": 271,
+          "tweet_count": 1991
+        },
+        "url": "https://t.co/Ve7wgU1aBV",
+        "username": "jfrd163461",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T02:57:28.000Z",
+        "description": "千粉大号 @Smartest8964 被人才🐜🐲封禁，寻回推油中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "Smartest8964"
+              }
+            ]
+          }
+        },
+        "id": "1627140243412639744",
+        "name": "𝕿𝕽𝖀𝕿𝕳🇹🇼",
+        "pinned_tweet_id": "1953048470417494290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905821132827303936/P20zdPqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 309,
+          "like_count": 1821,
+          "listed_count": 2,
+          "media_count": 178,
+          "tweet_count": 1164
+        },
+        "username": "Smartest2077",
+        "verified": false
+      }
+    ]
+  }
+}

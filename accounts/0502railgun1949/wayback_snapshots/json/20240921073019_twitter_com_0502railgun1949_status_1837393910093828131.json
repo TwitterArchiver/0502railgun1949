@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1837393910093828131",
+    "created_at": "2024-09-21T07:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T08:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837393910093828131"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ukitheosci/sta…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/ukitheosci/status/1837349835285864554",
+          "start": 71,
+          "url": "https://t.co/D5YUfBEAcm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837393910093828131",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837349835285864554",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得这个实际上更类似一种科学神教\n本质上就是否定了人无限的可能性\n我也见过有后来居上，小时候不好好学的\n属于是拿一点点浅薄的脑科学来算命了 https://t.co/D5YUfBEAcm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1837393910093828131",
+        "created_at": "2024-09-21T07:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T08:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837393910093828131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ukitheosci/sta…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/ukitheosci/status/1837349835285864554",
+              "start": 71,
+              "url": "https://t.co/D5YUfBEAcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837393910093828131",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837349835285864554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得这个实际上更类似一种科学神教\n本质上就是否定了人无限的可能性\n我也见过有后来居上，小时候不好好学的\n属于是拿一点点浅薄的脑科学来算命了 https://t.co/D5YUfBEAcm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423233845235646474",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1837349835285864554",
+        "created_at": "2024-09-21T04:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T05:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837349835285864554"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837349835285864554",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8118,
+          "like_count": 105,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "“因为10岁以后，大脑皮层大部分髓鞘化已经完成，包括长联合束的形成，所以新加坡在大概四年级把学生分等级，这是有科学依据的。”\n这是否有点...科学迷信了...研究教育好像不是为了让这个人吃人的社会愈演愈烈🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 767,
+          "like_count": 5053,
+          "listed_count": 2,
+          "tweet_count": 4178
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-05T10:46:16.000Z",
+        "description": "做不被定义的人 / 数学物理专栏: https://t.co/3rKcKsFbVp / 关于教育的思考: https://t.co/vyZN9rThGs",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/column/p/65783…",
+                "end": 41,
+                "expanded_url": "https://www.zhihu.com/column/p/65783443?utm_id=0",
+                "start": 18,
+                "url": "https://t.co/3rKcKsFbVp"
+              },
+              {
+                "display_url": "zhuanlan.zhihu.com/p/556313785?ut…",
+                "end": 76,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/556313785?utm_psn=1788262393249394688",
+                "start": 53,
+                "url": "https://t.co/vyZN9rThGs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhihu.com/question/26892…",
+                "end": 23,
+                "expanded_url": "https://www.zhihu.com/question/268921201/answer/2508219977?utm_id=0",
+                "start": 0,
+                "url": "https://t.co/ywhVb5z0PJ"
+              }
+            ]
+          }
+        },
+        "id": "1423233845235646474",
+        "location": "理论物理教研室",
+        "name": "雨季",
+        "pinned_tweet_id": "1655455168140550144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792089530365100032/g7Nh0vBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7613,
+          "following_count": 339,
+          "like_count": 20118,
+          "listed_count": 30,
+          "tweet_count": 4318
+        },
+        "url": "https://t.co/ywhVb5z0PJ",
+        "username": "ukitheosci",
+        "verified": false
+      }
+    ]
+  }
+}

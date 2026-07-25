@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303013359306993665",
+          "name": "$SPY"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+          "id": "166",
+          "name": "Stocks"
+        },
+        "entity": {
+          "id": "1303013359306993665",
+          "name": "$SPY"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      }
+    ],
+    "conversation_id": "2031273476611572070",
+    "created_at": "2026-03-10T07:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031273476611572070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artinmemes/sta…",
+          "end": 91,
+          "expanded_url": "https://twitter.com/artinmemes/status/2031200030904988054",
+          "start": 68,
+          "url": "https://t.co/6VzulQp4mq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031273476611572070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031200030904988054",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特朗普应该是美国历史上捞钱捞的最爽的领导人\n一怒而诸侯惧，安居而天下熄\n有道德修养的人来说，这句话是夸他的\n然而对于某些人来说。。。。 https://t.co/6VzulQp4mq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2036,
+        "media_key": "3_2031196485497638912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBCcRsb0AACQ27.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303013359306993665",
+              "name": "$SPY"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303013359306993665",
+              "name": "$SPY"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2031273476611572070",
+        "created_at": "2026-03-10T07:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031273476611572070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artinmemes/sta…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/artinmemes/status/2031200030904988054",
+              "start": 68,
+              "url": "https://t.co/6VzulQp4mq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031273476611572070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031200030904988054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特朗普应该是美国历史上捞钱捞的最爽的领导人\n一怒而诸侯惧，安居而天下熄\n有道德修养的人来说，这句话是夸他的\n然而对于某些人来说。。。。 https://t.co/6VzulQp4mq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031196485497638912"
+          ]
+        },
+        "author_id": "1632261908178046977",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303013359306993665",
+              "name": "$SPY"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1303013359306993665",
+              "name": "$SPY"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2031200030904988054",
+        "created_at": "2026-03-10T02:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031200030904988054"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "SPY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2FctXfor0Y",
+              "end": 192,
+              "expanded_url": "https://x.com/artinmemes/status/2031200030904988054/photo/1",
+              "media_key": "3_2031196485497638912",
+              "start": 169,
+              "url": "https://t.co/2FctXfor0Y"
+            },
+            {
+              "display_url": "x.com/artinmemes/sta…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/artinmemes/status/2031192068148834805",
+              "start": 193,
+              "url": "https://t.co/mhUHTIlCpr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031200030904988054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "cashtags": [
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "SPY"
+              }
+            ]
+          },
+          "text": "川普告诉你末日期权有多爽，80分钟240倍\n\n如果你在今天凌晨2点，买入标普 $SPY 今天到期的 675 看涨期权，买1000美元\n\n当时因为战争预期增长，前景悲观，已经便宜到爆，只剩0.02\n\n3点20，特朗普说“伊朗战争已经打得差不多了”\n\n3点30，期权价从0.02飞到4.95，涨了 24650%，1000美元变成24万美元。\n\n都说买末日期权就买彩票。\n\n但特朗普告诉你什么叫只手遮天。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 193069,
+          "like_count": 287,
+          "quote_count": 2,
+          "reply_count": 46,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031192068148834805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "川普告诉你末日期权有多爽，80分钟240倍\n\n如果你在今天凌晨2点，买入标普 $SPY 今天到期的 675 看涨期权，买1000美元\n\n当时因为战争预期增长，前景悲观，已经便宜到爆，只剩0.02\n\n3点20，特朗普说“伊朗战争已经打得差不多了”\n\n3点30，期权价从0.02飞到4.95，涨了 24650%，1000美元变成24万美元。 https://t.co/2FctXfor0Y https://t.co/mhUHTIlCpr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 622,
+          "like_count": 11072,
+          "listed_count": 3,
+          "media_count": 1237,
+          "tweet_count": 8680
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-05T06:09:19.000Z",
+        "description": "投资丛林里的狩猎者。无CRS炒美股上盈透：https://t.co/cyPjUofsCJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "interactivebrokers.com/mkt/?src=ussto…",
+                "end": 44,
+                "expanded_url": "https://www.interactivebrokers.com/mkt/?src=usstokX&url=%2Fcn%2Fwhyib%2Foverview.php",
+                "start": 21,
+                "url": "https://t.co/cyPjUofsCJ"
+              }
+            ]
+          }
+        },
+        "id": "1632261908178046977",
+        "name": "美股OK哥",
+        "pinned_tweet_id": "2008745026105569454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838932235090907136/g6-1v5Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63476,
+          "following_count": 26,
+          "like_count": 478,
+          "listed_count": 699,
+          "media_count": 747,
+          "tweet_count": 1616
+        },
+        "username": "artinmemes",
+        "verified": true
+      }
+    ]
+  }
+}

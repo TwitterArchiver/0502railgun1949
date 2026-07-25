@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2057146691871289673",
+    "created_at": "2026-05-26T02:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T03:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059098792499323372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "853404492468846592",
+          "start": 0,
+          "username": "blu_2116519615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059098792499323372",
+    "in_reply_to_user_id": "853404492468846592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057146691871289673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blu_2116519615 这个路太熟悉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2057146548279255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxz4u0bIAANIe_.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2057146691871289673",
+        "created_at": "2026-05-26T02:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059098792499323372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "853404492468846592",
+              "start": 0,
+              "username": "blu_2116519615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059098792499323372",
+        "in_reply_to_user_id": "853404492468846592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057146691871289673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blu_2116519615 这个路太熟悉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057146548279255040"
+          ]
+        },
+        "author_id": "853404492468846592",
+        "conversation_id": "2057146691871289673",
+        "created_at": "2026-05-20T17:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T18:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057146691871289673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDjlhCm9IM",
+              "end": 63,
+              "expanded_url": "https://x.com/blu_2116519615/status/2057146691871289673/photo/1",
+              "media_key": "3_2057146548279255040",
+              "start": 40,
+              "url": "https://t.co/wDjlhCm9IM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057146691871289673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算复刻九江路网，九江的城市布局我蛮喜欢的，左边是九江长江二桥，右边是长江大桥 https://t.co/wDjlhCm9IM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 682,
+          "like_count": 14731,
+          "listed_count": 5,
+          "media_count": 1381,
+          "tweet_count": 11632
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-16T00:27:41.000Z",
+        "description": "哔哩哔哩：290371101  \n東方厨|爱玩fps    喜欢摄影  会分享摄影作品    🏳️‍🌈LGBT友好 双性恋    喜欢涩涩，可以互相涩涩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/290371101",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/290371101",
+                "start": 0,
+                "url": "https://t.co/ygJpItJdwx"
+              }
+            ]
+          }
+        },
+        "id": "853404492468846592",
+        "location": "广东佛山红魔馆 ",
+        "name": "智乃酱",
+        "pinned_tweet_id": "2046670281872404911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040105533689208834/bsAtwAwg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 1121,
+          "like_count": 2929,
+          "listed_count": 2,
+          "media_count": 1518,
+          "tweet_count": 4001
+        },
+        "url": "https://t.co/ygJpItJdwx",
+        "username": "blu_2116519615",
+        "verified": false
+      }
+    ]
+  }
+}

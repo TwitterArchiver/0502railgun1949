@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1981709804923215925",
+    "created_at": "2025-10-25T04:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T05:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981948200450928768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1464211360426962944",
+          "start": 0,
+          "username": "nFMz74Iziq5NqAt"
+        },
+        {
+          "end": 27,
+          "id": "1506361117391478785",
+          "start": 17,
+          "username": "xuexiamai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981948200450928768",
+    "in_reply_to_user_id": "1464211360426962944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981947204265980292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nFMz74Iziq5NqAt @xuexiamai 没看过这个翻译的版本，感觉怪怪的\n我看的是邓晓芒的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1981709804923215925",
+        "created_at": "2025-10-25T04:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981948200450928768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1464211360426962944",
+              "start": 0,
+              "username": "nFMz74Iziq5NqAt"
+            },
+            {
+              "end": 27,
+              "id": "1506361117391478785",
+              "start": 17,
+              "username": "xuexiamai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981948200450928768",
+        "in_reply_to_user_id": "1464211360426962944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981947204265980292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nFMz74Iziq5NqAt @xuexiamai 没看过这个翻译的版本，感觉怪怪的\n我看的是邓晓芒的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1464211360426962944",
+        "conversation_id": "1981709804923215925",
+        "created_at": "2025-10-25T04:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981947204265980292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            },
+            {
+              "end": 27,
+              "id": "1506361117391478785",
+              "start": 17,
+              "username": "xuexiamai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981947204265980292",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981935227313565727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 @xuexiamai 黑哥的精神现象学。。。颠佬 😡😠精神现象学的第一篇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 630,
+          "like_count": 10937,
+          "listed_count": 3,
+          "media_count": 1080,
+          "tweet_count": 7784
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-26T12:36:14.000Z",
+        "description": "是ADHD伪正太日常分享推\n在这里你还能看到学术笔记和一些牢骚话\n里推什么好看的也没有哦嘻嘻，被骗了吧",
+        "id": "1464211360426962944",
+        "location": "国立西南联合大学国家发展研究院",
+        "name": "Hayashi HeikichiⓂ️Ⓜ️T",
+        "pinned_tweet_id": "1800809308789297378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1467038391808131073/u24Xqfkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 289,
+          "like_count": 6042,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1948
+        },
+        "username": "nFMz74Iziq5NqAt",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-22T20:04:51.000Z",
+        "description": "……这里呈放着埋藏于吾辈内心至深之处的幽暗阴影，它的真实并不亚于一切可能显现于眼前的耀眼光辉，同样身为人格中最真切的一部分亲近于吾身，自始至终的待在那里……如其所是的静谧、沉眠…………",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/Qu0OW0G",
+                "end": 23,
+                "expanded_url": "https://b23.tv/Qu0OW0G",
+                "start": 0,
+                "url": "https://t.co/bENp275pF4"
+              }
+            ]
+          }
+        },
+        "id": "1506361117391478785",
+        "location": "上海",
+        "name": "雪藏幽梦",
+        "pinned_tweet_id": "1874946322882834515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844152038701268997/bYG1qjFQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 103,
+          "like_count": 5713,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/bENp275pF4",
+        "username": "xuexiamai",
+        "verified": true
+      }
+    ]
+  }
+}

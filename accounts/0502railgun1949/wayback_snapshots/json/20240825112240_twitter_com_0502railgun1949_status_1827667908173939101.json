@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1827663365323542542",
+    "created_at": "2024-08-25T11:22:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T12:22:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827667908173939101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1120105527415992320",
+          "start": 0,
+          "username": "7p8DQwEptHvHnL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827667908173939101",
+    "in_reply_to_user_id": "1120105527415992320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827663365323542542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7p8DQwEptHvHnL3 然然满昏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1827663365323542542",
+        "created_at": "2024-08-25T11:22:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T12:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827667908173939101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1120105527415992320",
+              "start": 0,
+              "username": "7p8DQwEptHvHnL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827667908173939101",
+        "in_reply_to_user_id": "1120105527415992320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827663365323542542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7p8DQwEptHvHnL3 然然满昏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827663358528733184"
+          ]
+        },
+        "author_id": "1120105527415992320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1827663365323542542",
+        "created_at": "2024-08-25T11:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T12:04:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827663365323542542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbaqiw9dvd",
+              "end": 110,
+              "expanded_url": "https://twitter.com/7p8DQwEptHvHnL3/status/1827663365323542542/photo/1",
+              "media_key": "3_1827663358528733184",
+              "start": 87,
+              "url": "https://t.co/ZbAqiW9DVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827663365323542542",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以10分为标准，黑吗喽我本人给到6分，原因如下\n1、我是动作游戏苦手  -2\n2、游戏剧情一坨屎 -3\n3、杨奇是个大傻逼 -4\n4、然然玩了我看的很开心 +5\n所以我没买 https://t.co/ZbAqiW9DVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 763,
+          "like_count": 4396,
+          "listed_count": 2,
+          "tweet_count": 3863
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-21T23:22:23.000Z",
+        "description": "习近平特色社会主义乐子人",
+        "id": "1120105527415992320",
+        "location": "枝江社会主义联盟",
+        "name": "张春桥🇵🇸🇧🇷🇿🇦",
+        "pinned_tweet_id": "1808209960524042493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796938691795173376/HbYDyQ_A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 483,
+          "like_count": 3678,
+          "listed_count": 6,
+          "tweet_count": 2791
+        },
+        "username": "7p8DQwEptHvHnL3",
+        "verified": false
+      }
+    ]
+  }
+}

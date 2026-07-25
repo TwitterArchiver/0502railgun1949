@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1823690648521932800"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1823690652078751813",
+    "created_at": "2024-08-14T11:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T12:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823690652078751813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hlm7fap2el",
+          "end": 121,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1823690652078751813/photo/1",
+          "media_key": "3_1823690648521932800",
+          "start": 98,
+          "url": "https://t.co/hLm7fAp2El"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823690652078751813",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不到半个月就要开学了，我承认我确实畏惧了，主要是我作业一笔未动，我写的都是我自己布置的东西，课外书目该买的也没买，就是把下个学期的数理化给学了，其他的全都没动\n勇闯夺命暑假作业\n我不怎么打算写了 https://t.co/hLm7fAp2El"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1823690648521932800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GU8M-4VaAAAjo8n.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1823690648521932800"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1823690652078751813",
+        "created_at": "2024-08-14T11:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T12:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823690652078751813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlm7fap2el",
+              "end": 121,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1823690652078751813/photo/1",
+              "media_key": "3_1823690648521932800",
+              "start": 98,
+              "url": "https://t.co/hLm7fAp2El"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823690652078751813",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不到半个月就要开学了，我承认我确实畏惧了，主要是我作业一笔未动，我写的都是我自己布置的东西，课外书目该买的也没买，就是把下个学期的数理化给学了，其他的全都没动\n勇闯夺命暑假作业\n我不怎么打算写了 https://t.co/hLm7fAp2El"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 758,
+          "like_count": 3848,
+          "listed_count": 2,
+          "tweet_count": 3595
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

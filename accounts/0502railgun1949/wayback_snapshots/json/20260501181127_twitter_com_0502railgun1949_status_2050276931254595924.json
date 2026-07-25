@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050128374841135104",
+        "3_2050128374845308928",
+        "3_2050128374824345600",
+        "3_2050128374807527425"
+      ],
+      "media_source_tweet_id": [
+        "2050128412447216027",
+        "2050128412447216027",
+        "2050128412447216027",
+        "2050128412447216027"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2050276931254595924",
+    "created_at": "2026-05-01T18:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050276931254595924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2169192024",
+          "start": 3,
+          "username": "Smile25_doll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rVsV7AtUr",
+          "end": 51,
+          "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+          "media_key": "3_2050128374841135104",
+          "start": 28,
+          "url": "https://t.co/6rVsV7AtUr"
+        },
+        {
+          "display_url": "pic.x.com/6rVsV7AtUr",
+          "end": 51,
+          "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+          "media_key": "3_2050128374845308928",
+          "start": 28,
+          "url": "https://t.co/6rVsV7AtUr"
+        },
+        {
+          "display_url": "pic.x.com/6rVsV7AtUr",
+          "end": 51,
+          "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+          "media_key": "3_2050128374824345600",
+          "start": 28,
+          "url": "https://t.co/6rVsV7AtUr"
+        },
+        {
+          "display_url": "pic.x.com/6rVsV7AtUr",
+          "end": 51,
+          "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+          "media_key": "3_2050128374807527425",
+          "start": 28,
+          "url": "https://t.co/6rVsV7AtUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050276931254595924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050128412447216027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Smile25_doll: あなただけの処方箋 https://t.co/6rVsV7AtUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2050128374841135104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOE5RZa0AALJ-o.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2050128374845308928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOE5RaagAAlXRA.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2050128374824345600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOE5RVaoAAlUD4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2050128374807527425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOE5RRaAAE3nEi.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050128374841135104",
+            "3_2050128374845308928",
+            "3_2050128374824345600",
+            "3_2050128374807527425"
+          ],
+          "media_source_tweet_id": [
+            "2050128412447216027",
+            "2050128412447216027",
+            "2050128412447216027",
+            "2050128412447216027"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2050276931254595924",
+        "created_at": "2026-05-01T18:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050276931254595924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2169192024",
+              "start": 3,
+              "username": "Smile25_doll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 51,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374841135104",
+              "start": 28,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 51,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374845308928",
+              "start": 28,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 51,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374824345600",
+              "start": 28,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 51,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374807527425",
+              "start": 28,
+              "url": "https://t.co/6rVsV7AtUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050276931254595924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050128412447216027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Smile25_doll: あなただけの処方箋 https://t.co/6rVsV7AtUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050128374841135104",
+            "3_2050128374845308928",
+            "3_2050128374824345600",
+            "3_2050128374807527425"
+          ]
+        },
+        "author_id": "2169192024",
+        "conversation_id": "2050128412447216027",
+        "created_at": "2026-05-01T08:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T09:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050128412447216027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 33,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374841135104",
+              "start": 10,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 33,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374845308928",
+              "start": 10,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 33,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374824345600",
+              "start": 10,
+              "url": "https://t.co/6rVsV7AtUr"
+            },
+            {
+              "display_url": "pic.x.com/6rVsV7AtUr",
+              "end": 33,
+              "expanded_url": "https://x.com/Smile25_doll/status/2050128412447216027/photo/1",
+              "media_key": "3_2050128374807527425",
+              "start": 10,
+              "url": "https://t.co/6rVsV7AtUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050128412447216027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 18422,
+          "like_count": 841,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "あなただけの処方箋 https://t.co/6rVsV7AtUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 689,
+          "like_count": 13916,
+          "listed_count": 3,
+          "media_count": 1356,
+          "tweet_count": 10999
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-01T22:47:12.000Z",
+        "description": "からんころんです。ラムネ瓶の中のB玉です。夏の残骸。絵を描く・3DCG。寝てる時以外ずっと眠い。爽やかに病む。 (×無断転載無断使用AI学習禁止) ⚠︎写真は全面使用禁止⚠︎ ご依頼📧poolside.suicide.2@gmail.com ︎︎ or DM➕ご依頼受付中です➕サイダーゴースト@cider_Ghost",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 147,
+                "username": "cider_Ghost"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fanme.link/@Smile25_doll",
+                "end": 23,
+                "expanded_url": "https://fanme.link/@Smile25_doll",
+                "start": 0,
+                "url": "https://t.co/KSeM3ztuT6"
+              }
+            ]
+          }
+        },
+        "id": "2169192024",
+        "location": "プールサイド・サナトリウム  ；💉；+",
+        "name": "からんころん",
+        "pinned_tweet_id": "2044359761928548404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1677317609493069825/8Y9Dzbex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62987,
+          "following_count": 987,
+          "like_count": 70970,
+          "listed_count": 596,
+          "media_count": 4889,
+          "tweet_count": 85173
+        },
+        "url": "https://t.co/KSeM3ztuT6",
+        "username": "Smile25_doll",
+        "verified": true
+      }
+    ]
+  }
+}

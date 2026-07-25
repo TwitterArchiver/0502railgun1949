@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1849971677826007341",
+    "created_at": "2024-10-26T00:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T01:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1849971677826007341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/USA_China_Talk…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/USA_China_Talk/status/1849637636333281586",
+          "start": 26,
+          "url": "https://t.co/34Kq8Ef7t0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1849971677826007341",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849637636333281586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要开始应对经济危机的行动了吧\n美国这翻译还挺接地气 https://t.co/34Kq8Ef7t0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1849971677826007341",
+        "created_at": "2024-10-26T00:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T01:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849971677826007341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/1849637636333281586",
+              "start": 26,
+              "url": "https://t.co/34Kq8Ef7t0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849971677826007341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849637636333281586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要开始应对经济危机的行动了吧\n美国这翻译还挺接地气 https://t.co/34Kq8Ef7t0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1849637586114908160"
+          ]
+        },
+        "author_id": "89421672",
+        "conversation_id": "1849637636333281586",
+        "created_at": "2024-10-25T02:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T03:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849637636333281586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Brookings InstitutionWashington, D.C. Good morning, everyone.  And thank you so much, David, for that introduction and for having me here today.  It's",
+              "display_url": "whitehouse.gov/briefing-room/…",
+              "end": 23,
+              "expanded_url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-apnsa-jake-sullivan-at-the-brookings-institution/",
+              "start": 0,
+              "status": 200,
+              "title": "Remarks by APNSA Jake Sullivan at the Brookings Institution | The White House",
+              "unwound_url": "https://www.whitehouse.gov/briefing-room/speeches-remarks/2024/10/23/remarks-by-apnsa-jake-sullivan-at-the-brookings-institution/",
+              "url": "https://t.co/x99PNDcAq2"
+            },
+            {
+              "display_url": "pic.x.com/L9c6c77hQ1",
+              "end": 47,
+              "expanded_url": "https://x.com/USA_China_Talk/status/1849637636333281586/photo/1",
+              "media_key": "3_1849637586114908160",
+              "start": 24,
+              "url": "https://t.co/L9c6c77hQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849637636333281586",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 624,
+          "impression_count": 1360525,
+          "like_count": 4586,
+          "quote_count": 242,
+          "reply_count": 1033,
+          "retweet_count": 698
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/x99PNDcAq2 https://t.co/L9c6c77hQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 768,
+          "like_count": 5349,
+          "listed_count": 1,
+          "tweet_count": 4347
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注伯恩斯大使的官方账号: @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 131,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 US MissionCN",
+        "pinned_tweet_id": "1846468357819687420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615313,
+          "following_count": 159,
+          "like_count": 11,
+          "listed_count": 4046,
+          "tweet_count": 17947
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

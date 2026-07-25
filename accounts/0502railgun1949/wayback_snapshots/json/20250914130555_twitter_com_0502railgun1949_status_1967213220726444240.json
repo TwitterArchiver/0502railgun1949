@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967198419887566848"
+      ],
+      "media_source_tweet_id": [
+        "1967198481640312975"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1967213220726444240",
+    "created_at": "2025-09-14T13:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967213220726444240"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "御坂さん",
+          "probability": 0.7612,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1363422977069514758",
+          "start": 3,
+          "username": "okaokaokaoooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/I3BzlJo0iZ",
+          "end": 47,
+          "expanded_url": "https://x.com/okaokaokaoooo/status/1967198481640312975/photo/1",
+          "media_key": "3_1967198419887566848",
+          "start": 24,
+          "url": "https://t.co/I3BzlJo0iZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967213220726444240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967198481640312975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @okaokaokaoooo: 御坂さん https://t.co/I3BzlJo0iZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_1967198419887566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zkikwbsAAyIj4.jpg",
+        "width": 1027
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967198419887566848"
+          ],
+          "media_source_tweet_id": [
+            "1967198481640312975"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1967213220726444240",
+        "created_at": "2025-09-14T13:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967213220726444240"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "御坂さん",
+              "probability": 0.7612,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1363422977069514758",
+              "start": 3,
+              "username": "okaokaokaoooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3BzlJo0iZ",
+              "end": 47,
+              "expanded_url": "https://x.com/okaokaokaoooo/status/1967198481640312975/photo/1",
+              "media_key": "3_1967198419887566848",
+              "start": 24,
+              "url": "https://t.co/I3BzlJo0iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967213220726444240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967198481640312975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @okaokaokaoooo: 御坂さん https://t.co/I3BzlJo0iZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967198419887566848"
+          ]
+        },
+        "author_id": "1363422977069514758",
+        "conversation_id": "1967198481640312975",
+        "created_at": "2025-09-14T12:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967198481640312975"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "御坂さん",
+              "probability": 0.7892,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I3BzlJo0iZ",
+              "end": 28,
+              "expanded_url": "https://x.com/okaokaokaoooo/status/1967198481640312975/photo/1",
+              "media_key": "3_1967198419887566848",
+              "start": 5,
+              "url": "https://t.co/I3BzlJo0iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967198481640312975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 376,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "御坂さん https://t.co/I3BzlJo0iZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 632,
+          "like_count": 10822,
+          "listed_count": 4,
+          "media_count": 1059,
+          "tweet_count": 7624
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T09:40:43.000Z",
+        "description": "マイペースに好きなもののお絵かき***インスタではたまに模写や写真のせてます💭【ご依頼→@oka_irst_】★Do not use my images without my permission.★",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "oka_irst_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/okaoka_ooka?ig…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/okaoka_ooka?igshid=MzNlNGNkZWQ4Mg==",
+                "start": 0,
+                "url": "https://t.co/rMYj0pAB0M"
+              }
+            ]
+          }
+        },
+        "id": "1363422977069514758",
+        "name": "おか",
+        "pinned_tweet_id": "1674012477347209216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890687862510960640/CE8P1DL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 50,
+          "like_count": 1592,
+          "listed_count": 7,
+          "media_count": 330,
+          "tweet_count": 2090
+        },
+        "url": "https://t.co/rMYj0pAB0M",
+        "username": "okaokaokaoooo",
+        "verified": false
+      }
+    ]
+  }
+}

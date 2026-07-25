@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1828990313731633491",
+    "created_at": "2024-09-01T04:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T05:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830103900831293666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1738910232485707776",
+          "start": 0,
+          "username": "onikawaeisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830103900831293666",
+    "in_reply_to_user_id": "1738910232485707776",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828990313731633491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onikawaeisa 😥😖抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1828990313731633491",
+        "created_at": "2024-09-01T04:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T05:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830103900831293666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1738910232485707776",
+              "start": 0,
+              "username": "onikawaeisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830103900831293666",
+        "in_reply_to_user_id": "1738910232485707776",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828990313731633491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onikawaeisa 😥😖抱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828990305116532736"
+          ]
+        },
+        "author_id": "1738910232485707776",
+        "conversation_id": "1828990313731633491",
+        "created_at": "2024-08-29T02:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T03:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828990313731633491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/afskg3n8un",
+              "end": 25,
+              "expanded_url": "https://twitter.com/onikawaeisa/status/1828990313731633491/photo/1",
+              "media_key": "3_1828990305116532736",
+              "start": 2,
+              "url": "https://t.co/aFskg3N8uN"
+            },
+            {
+              "display_url": "x.com/404_ynne/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/404_ynne/status/1828920795755884760",
+              "start": 26,
+              "url": "https://t.co/e8lAmnBG9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828990313731633491",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6315,
+          "like_count": 47,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828920795755884760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😢 https://t.co/aFskg3N8uN https://t.co/e8lAmnBG9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 766,
+          "like_count": 4749,
+          "listed_count": 2,
+          "tweet_count": 4033
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T13:11:30.000Z",
+        "description": "中推小太陽☀️/喜多郁代本人使用的帳號/喜欢一个人碎碎念/梗图树洞投稿中/我的寶@charming_midori @meguru8964 @zhao_mama @kotorichyandesu @miku_suki393939",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "charming_midori"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "meguru8964"
+              },
+              {
+                "end": 79,
+                "start": 69,
+                "username": "zhao_mama"
+              },
+              {
+                "end": 96,
+                "start": 80,
+                "username": "kotorichyandesu"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1738910232485707776",
+        "location": "Yau Tsim Mong District",
+        "name": "喜多いくよ⛩️",
+        "pinned_tweet_id": "1763986616639746400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827979808568963072/udzdP8mG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 1287,
+          "like_count": 20931,
+          "listed_count": 9,
+          "tweet_count": 8539
+        },
+        "username": "onikawaeisa",
+        "verified": false
+      }
+    ]
+  }
+}

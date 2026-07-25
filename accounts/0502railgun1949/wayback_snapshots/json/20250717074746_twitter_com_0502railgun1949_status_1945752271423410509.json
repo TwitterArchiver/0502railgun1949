@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1945752271423410509",
+    "created_at": "2025-07-17T07:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T08:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945752271423410509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wenqing1897323…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/wenqing18973238/status/1944232026200240605",
+          "start": 10,
+          "url": "https://t.co/tvbUzZlJSK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945752271423410509",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944232026200240605",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸运星果然最好玩了 https://t.co/tvbUzZlJSK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1945752271423410509",
+        "created_at": "2025-07-17T07:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T08:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945752271423410509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wenqing1897323…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wenqing18973238/status/1944232026200240605",
+              "start": 10,
+              "url": "https://t.co/tvbUzZlJSK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945752271423410509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944232026200240605",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸运星果然最好玩了 https://t.co/tvbUzZlJSK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550358687062994946",
+        "conversation_id": "1944232026200240605",
+        "created_at": "2025-07-13T03:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T04:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944232026200240605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944232026200240605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幸运星果然最好玩了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 636,
+          "like_count": 9497,
+          "listed_count": 3,
+          "media_count": 1010,
+          "tweet_count": 7045
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:55:01.000Z",
+        "description": "再见，皮奥莱维奇。\n19岁/法学在读/mtf/185超大只👍🏻",
+        "id": "1550358687062994946",
+        "name": "Naka",
+        "pinned_tweet_id": "1941542675376898118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919745894548963330/N6eHCVMb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 2419,
+          "like_count": 8857,
+          "listed_count": 3,
+          "media_count": 89,
+          "tweet_count": 1802
+        },
+        "username": "wenqing18973238",
+        "verified": false
+      }
+    ]
+  }
+}

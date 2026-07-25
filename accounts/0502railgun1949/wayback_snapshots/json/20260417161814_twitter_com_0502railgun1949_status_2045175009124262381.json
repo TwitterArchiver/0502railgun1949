@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045175009124262381",
+    "created_at": "2026-04-17T16:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045175009124262381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1324198319535521795",
+          "start": 3,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045175009124262381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045040816000045540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KKaWSB: 1996年的今天，地球上最有名的人走进了里约热内卢最危险的角落。\n\n迈克尔·杰克逊要拍一支MV。歌名本身就是一句控诉：《They Don't Care About Us》——他们根本不在乎我们。\n\n这首歌直指种族歧视、贫富悬殊、警察暴力。他拒绝在好莱坞搭…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97593,
+        "height": 720,
+        "media_key": "13_2045039670736887809",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045039670736887809/img/VEjqbbnHyu7Rqncr.jpg",
+        "public_metrics": {
+          "view_count": 6609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045039670736887809/vid/avc1/320x320/DJU0MgUSEgtdxd_N.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045039670736887809/vid/avc1/540x540/pMLv9g35g-s8H5nm.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045039670736887809/vid/avc1/720x720/jFoi-ejlSPKP5gZV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045039670736887809/pl/1Jwh52qNtRnbXmxz.m3u8?v=c26"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045175009124262381",
+        "created_at": "2026-04-17T16:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045175009124262381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1324198319535521795",
+              "start": 3,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045175009124262381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045040816000045540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KKaWSB: 1996年的今天，地球上最有名的人走进了里约热内卢最危险的角落。\n\n迈克尔·杰克逊要拍一支MV。歌名本身就是一句控诉：《They Don't Care About Us》——他们根本不在乎我们。\n\n这首歌直指种族歧视、贫富悬殊、警察暴力。他拒绝在好莱坞搭…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045039670736887809"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045040816000045540",
+        "created_at": "2026-04-17T07:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T08:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045040816000045540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbysNJgIWl",
+              "end": 178,
+              "expanded_url": "https://x.com/KKaWSB/status/2045040816000045540/video/1",
+              "media_key": "13_2045039670736887809",
+              "start": 155,
+              "url": "https://t.co/xbysNJgIWl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045040816000045540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1996年的今天，地球上最有名的人走进了里约热内卢最危险的角落。\n\n迈克尔·杰克逊要拍一支MV。歌名本身就是一句控诉：《They Don't Care About Us》——他们根本不在乎我们。\n\n这首歌直指种族歧视、贫富悬殊、警察暴力。他拒绝在好莱坞搭景，选择了导演斯派克·李的方案：去巴西真实的贫民窟拍。\n\n巴西政府吓坏了。\n\n里约当时正全力争取奥运申办。全球最大的巨星跑到贫民窟拍MV？等于向全世界直播巴西最不想被看到的一面。\n\n市长试图通过法律手段阻止拍摄。法官一度发布了禁令。官员甚至要求对拍摄素材拥有审核权。\n\n杰克逊没有退缩。他走法律程序，法院最终推翻了禁令。\n\n但政府不是最大的问题。安全才是。\n\n拍摄地唐娜·玛尔塔贫民窟，当时是毒品交易和暴力犯罪的代名词。警察无法保证剧组安全。于是出现了这个故事中最传奇的一幕：制作团队不得不与当地毒枭谈判，才获得了拍摄许可。\n\n最终，是帮派为杰克逊提供了安保。\n\n拍摄期间全区禁火。数千名贫民窟居民涌上街头，和这位全球巨星一起欢呼起舞。没有一起安全事件。\n\n而那些穿红黄绿三色衬衫的人，才是这支MV的灵魂。\n\n他们是萨尔瓦多的打击乐团Olodum，1979年成立的非裔巴西文化组织，致力于反抗种族歧视、提升黑人社区的自尊与文化认同。他们发明了一种叫Samba-Reggae的节奏——融合了传统桑巴、雷鬼、梅伦格和萨尔萨。两百名Olodum鼓手的节拍注入这首歌，让这种带有非洲血脉的巴西之声瞬间传遍全球。\n\n然后，时间开始施展魔法。\n\n那个曾经被视为\"城市伤疤\"的贫民窟，因为杰克逊的到来开始发生变化。政府被迫正视这片区域，投入基础设施建设。\n\n2010年，杰克逊去世一年后，一座他的全身铜像在当年的拍摄地揭幕。旁边是巴西艺术家创作的巨幅彩色马赛克壁画。这个地方如今叫\"迈克尔·杰克逊广场\"，成了里约最具标志性的旅游景点之一。\n\n这支MV在YouTube上的播放量已突破10亿。在2014年和2020年的\"黑人的命也是命\"运动中，这首歌一次又一次被重新唤醒。\n\n一位流行巨星，一个被遗忘的贫民窟，一支鼓队，一首抗议歌曲。\n\n他用自己的肉身和名声，走进了世界不愿正视的地方，把镜头对准了那些被告知\"没人在乎你们\"的人。\n\n然后告诉全世界：你们应该在乎。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 112692,
+          "like_count": 1071,
+          "quote_count": 8,
+          "reply_count": 45,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "1996年的今天，地球上最有名的人走进了里约热内卢最危险的角落。\n\n迈克尔·杰克逊要拍一支MV。歌名本身就是一句控诉：《They Don't Care About Us》——他们根本不在乎我们。\n\n这首歌直指种族歧视、贫富悬殊、警察暴力。他拒绝在好莱坞搭景，选择了导演斯派克·李的方案：去巴西真实的贫民窟拍。 https://t.co/xbysNJgIWl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 662,
+          "like_count": 13001,
+          "listed_count": 3,
+          "media_count": 1338,
+          "tweet_count": 10357
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SilentFleetKK",
+                "end": 23,
+                "expanded_url": "https://github.com/SilentFleetKK",
+                "start": 0,
+                "url": "https://t.co/TpeTVm0jBT"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77089,
+          "following_count": 2878,
+          "like_count": 9190,
+          "listed_count": 645,
+          "media_count": 6002,
+          "tweet_count": 12225
+        },
+        "url": "https://t.co/TpeTVm0jBT",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

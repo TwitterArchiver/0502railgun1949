@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1969656153719427464",
+    "created_at": "2025-09-21T06:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T07:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969656153719427464"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsgmxz/status/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/hsgmxz/status/1969559809684095068",
+          "start": 18,
+          "url": "https://t.co/LxZHqDp94n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969656153719427464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969559809684095068",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人类到底是怎么开启话题和交朋友的啊 https://t.co/LxZHqDp94n"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1969656153719427464",
+        "created_at": "2025-09-21T06:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969656153719427464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/hsgmxz/status/1969559809684095068",
+              "start": 18,
+              "url": "https://t.co/LxZHqDp94n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969656153719427464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969559809684095068",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类到底是怎么开启话题和交朋友的啊 https://t.co/LxZHqDp94n"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "1969559809684095068",
+        "created_at": "2025-09-21T00:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969559809684095068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hikari_Ciallo/…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Hikari_Ciallo/status/1969554804268789971",
+              "start": 19,
+              "url": "https://t.co/beMpTaqFcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969559809684095068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 429,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969554804268789971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人类到底是怎么开启话题和交朋友的啊。 https://t.co/beMpTaqFcY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 632,
+          "like_count": 10845,
+          "listed_count": 4,
+          "media_count": 1061,
+          "tweet_count": 7656
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|mtf🏳️‍⚧️|含糖2025.7.26|初音ミク大好き。🥰|欢迎贴贴|同类互fo|2011.1.24|intp-t|最最最最最最爱的姐姐：     @Haruka25999588",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "Haruka25999588"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967722962771128754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 1004,
+          "like_count": 4106,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 686
+        },
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

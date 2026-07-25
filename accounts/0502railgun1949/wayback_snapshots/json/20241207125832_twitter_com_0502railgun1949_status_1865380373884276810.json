@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1865363253985157359",
+    "created_at": "2024-12-07T12:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T13:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865380373884276810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "Cotiten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865380373884276810",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865366653971911125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cotiten 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1865363253985157359",
+        "created_at": "2024-12-07T12:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865380373884276810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "Cotiten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865380373884276810",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865366653971911125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cotiten 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714659505320140800",
+        "conversation_id": "1865363253985157359",
+        "created_at": "2024-12-07T12:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T13:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865366653971911125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865366653971911125",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865363253985157359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 过低是指比一般人，合理值还要低吗？\n好像一般情况下并不会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 755,
+          "like_count": 6045,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 4825
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "consolidated ...\n小号: @chionli\n哀莫大于心死\n对我的推文有疑惑，意见或想法欢迎以各种形式交流。\n没有上线则是在学习\n个人群：https://t.co/asKCPpaGMv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 21,
+                "username": "chionli"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+kZRRif5xnzc0N…",
+                "end": 99,
+                "expanded_url": "https://t.me/+kZRRif5xnzc0NGZl",
+                "start": 76,
+                "url": "https://t.co/asKCPpaGMv"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "all",
+        "name": "Chiote",
+        "pinned_tweet_id": "1844950703661515079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849802938878918658/l5o3Qpic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 975,
+          "like_count": 13174,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 6120
+        },
+        "username": "Cotiten",
+        "verified": false
+      }
+    ]
+  }
+}

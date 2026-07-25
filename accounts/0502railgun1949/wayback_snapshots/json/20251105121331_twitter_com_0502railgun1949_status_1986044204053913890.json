@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "1986044204053913890",
+    "created_at": "2025-11-05T12:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T13:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986044204053913890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imxiaohu/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/imxiaohu/status/1985850464689418353",
+          "start": 7,
+          "url": "https://t.co/vRfQZyczSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986044204053913890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985850464689418353",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "树状图制造者 https://t.co/vRfQZyczSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1985850444137316352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G48odRvbQAANPCE.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1986044204053913890",
+        "created_at": "2025-11-05T12:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T13:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986044204053913890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imxiaohu/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/imxiaohu/status/1985850464689418353",
+              "start": 7,
+              "url": "https://t.co/vRfQZyczSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986044204053913890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985850464689418353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "树状图制造者 https://t.co/vRfQZyczSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985850444137316352"
+          ]
+        },
+        "author_id": "1764818331822182400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1985850464689418353",
+        "created_at": "2025-11-04T23:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T00:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985850464689418353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qQmO9LZKAV",
+              "end": 201,
+              "expanded_url": "https://x.com/imxiaohu/status/1985850464689418353/photo/1",
+              "media_key": "3_1985850444137316352",
+              "start": 178,
+              "url": "https://t.co/qQmO9LZKAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985850464689418353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Google 的 TPU 也要上太空了😂\n\nGoogle 发布 Project Suncatcher 计划\n\n目标是在太空中建立可扩展的 AI 计算系统，用太阳能驱动AI…\n\nTrillium 代 TPU 已通过粒子加速器辐射测试，但仍需攻克热管理与系统可靠性等挑战。\n\nGoogle 计划与 Planet 联手，在 2027 年初 发射两颗搭载 TPU 的原型卫星，用于验证太空中的机器学习计算可行性。\n\n计划采用拂晓–黄昏（sun-synchronous）近地轨道。示例配置为81 颗卫星组成的集群，簇半径约 1 km，相邻卫星间距随轨道力学在约 100–200 米内振荡。这种紧密编队既提升太阳能获取，也为高带宽链路创造条件，同时通过适度的维持轨道机动保持稳定。\n\n卫星之间不用无线电，而是用激光光通信，速度能达到每秒 10 万 亿 比特（相当于地球数据中心级的带宽）。\n\n卫星上安装的太阳能板发电效率可达地球上的 8 倍，而且几乎可以 24 小时不断电…\n\nGoogle 在实验室用粒子加速器模拟了太空的辐射环境。\n\n• 结果显示：Trillium TPU 完全能在太空中“撑得住”。\n\n• 芯片在高辐射剂量下也几乎没有损坏，说明其抗辐射性能超出预期。\n\n• 下一步会测试热管理、长期可靠性等问题——因为在太空中散热非常困难。\n\nGoogle 测算：\n\n如果火箭发射价格持续下降，到 2030 年左右每公斤 200 美元以下时，在太空运行 AI 数据中心的成本可能和地球上差不多。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10076,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Google 的 TPU 也要上太空了😂\n\nGoogle 发布 Project Suncatcher 计划\n\n目标是在太空中建立可扩展的 AI 计算系统，用太阳能驱动AI…\n\nTrillium 代 TPU 已通过粒子加速器辐射测试，但仍需攻克热管理与系统可靠性等挑战。\n\nGoogle 计划与 Planet 联手，在 2027 年初 发射两颗搭载 TPU https://t.co/qQmO9LZKAV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 628,
+          "like_count": 10950,
+          "listed_count": 3,
+          "media_count": 1082,
+          "tweet_count": 7798
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:01:23.000Z",
+        "description": "学AI找小互，找小互，上 https://t.co/4PVaHEr5r3 ...",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 36,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 13,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaohu.ai",
+                "end": 23,
+                "expanded_url": "http://xiaohu.ai",
+                "start": 0,
+                "url": "https://t.co/4PVaHEr5r3"
+              }
+            ]
+          }
+        },
+        "id": "1764818331822182400",
+        "location": "Mars",
+        "name": "小互",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765404718959095808/BX7VN1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74586,
+          "following_count": 1490,
+          "like_count": 1820,
+          "listed_count": 933,
+          "media_count": 4744,
+          "tweet_count": 7531
+        },
+        "url": "https://t.co/4PVaHEr5r3",
+        "username": "imxiaohu",
+        "verified": true
+      }
+    ]
+  }
+}

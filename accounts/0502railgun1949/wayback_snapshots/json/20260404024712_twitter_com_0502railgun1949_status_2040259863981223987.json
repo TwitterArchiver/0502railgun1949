@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040259863981223987",
+    "created_at": "2026-04-04T02:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T03:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040259863981223987"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 31,
+          "tag": "职校"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423574479779733504",
+          "start": 3,
+          "username": "laborpowercn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040259863981223987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040102042304409662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laborpowercn: 边教边学｜我在职校的一天\n#职校 类似情况的反复出现，让我越来越清楚地意识到：这个系统内在的逻辑中，我的角色从来不是一个教育者，而更像一个小监工、一个管理者。最初，为了缓冲师生关系中天然的不平等给学生带来的压力，我的方法很简单——找TA们聊天…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040259863981223987",
+        "created_at": "2026-04-04T02:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040259863981223987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "职校"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423574479779733504",
+              "start": 3,
+              "username": "laborpowercn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040259863981223987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040102042304409662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laborpowercn: 边教边学｜我在职校的一天\n#职校 类似情况的反复出现，让我越来越清楚地意识到：这个系统内在的逻辑中，我的角色从来不是一个教育者，而更像一个小监工、一个管理者。最初，为了缓冲师生关系中天然的不平等给学生带来的压力，我的方法很简单——找TA们聊天…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423574479779733504",
+        "conversation_id": "2040102042304409662",
+        "created_at": "2026-04-03T16:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040102042304409662"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "职校"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040102042304409662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 13,
+                "tag": "职校"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "at.laborinfocn6.com/articles/url?l…",
+                "end": 163,
+                "expanded_url": "https://at.laborinfocn6.com/articles/url?lk=https%3A//mp.weixin.qq.com/s/i9Ryr1MN_BQ3zkxMTas64Q",
+                "start": 140,
+                "url": "https://t.co/klCAcrXrd3"
+              }
+            ]
+          },
+          "text": "边教边学｜我在职校的一天\n#职校 类似情况的反复出现，让我越来越清楚地意识到：这个系统内在的逻辑中，我的角色从来不是一个教育者，而更像一个小监工、一个管理者。最初，为了缓冲师生关系中天然的不平等给学生带来的压力，我的方法很简单——找TA们聊天，试着通过交谈建立一些私人性的情……\nhttps://t.co/klCAcrXrd3"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "边教边学｜我在职校的一天\n#职校 类似情况的反复出现，让我越来越清楚地意识到：这个系统内在的逻辑中，我的角色从来不是一个教育者，而更像一个小监工、一个管理者。最初，为了缓冲师生关系中天然的不平等给学生带来的压力，我的方法很简单——找TA们聊天，试着通过交谈建立一些私人性的情……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 655,
+          "like_count": 11989,
+          "listed_count": 3,
+          "media_count": 1290,
+          "tweet_count": 9499
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T09:19:54.000Z",
+        "description": "我们发布最新中国工人、劳动权益相关的新闻/社交媒体资讯。欢迎自助提交和备份你认为有价值的工人资讯。电子报：https://t.co/GNRhHG78La 搜索引擎：https://t.co/KnlQtqDTXA 联络请尽量用邮箱：laboreditor251@proton.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "feed.laborinfocn2.com",
+                "end": 76,
+                "expanded_url": "http://feed.laborinfocn2.com",
+                "start": 53,
+                "url": "https://t.co/GNRhHG78La"
+              },
+              {
+                "display_url": "search.laborinfocn2.com",
+                "end": 105,
+                "expanded_url": "http://search.laborinfocn2.com",
+                "start": 82,
+                "url": "https://t.co/KnlQtqDTXA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laborinfocn2.com",
+                "end": 23,
+                "expanded_url": "https://laborinfocn2.com",
+                "start": 0,
+                "url": "https://t.co/anqMlmqhxb"
+              }
+            ]
+          }
+        },
+        "id": "1423574479779733504",
+        "name": "工劳快讯：关注当代打工人",
+        "pinned_tweet_id": "2033851429727965550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676193037461114880/TTMga3Xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7643,
+          "following_count": 220,
+          "like_count": 187,
+          "listed_count": 45,
+          "media_count": 239,
+          "tweet_count": 11302
+        },
+        "url": "https://t.co/anqMlmqhxb",
+        "username": "laborpowercn",
+        "verified": true
+      }
+    ]
+  }
+}

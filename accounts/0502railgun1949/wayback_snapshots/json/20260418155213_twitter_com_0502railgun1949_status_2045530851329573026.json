@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045530851329573026",
+    "created_at": "2026-04-18T15:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045530851329573026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xiaoniu6161/st…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/Xiaoniu6161/status/2045498761800187951",
+          "start": 67,
+          "url": "https://t.co/3d1pF7rfn9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045530851329573026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045498761800187951",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个年代的，不管是大学生，还是网络上的各种视频\n都带给人一种特殊的感觉\n他们有一种独属于那个年代的气质\n在现在的人上面好像找不回来了 https://t.co/3d1pF7rfn9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 273486,
+        "height": 1280,
+        "media_key": "13_2045498660629458944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045498660629458944/img/p0kWag9HG9ldA5c9.jpg",
+        "public_metrics": {
+          "view_count": 531
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045498660629458944/vid/avc1/320x568/7jIqBpC9WWHF5z2F.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045498660629458944/vid/avc1/480x852/P4N65oezuGTek1vr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045498660629458944/vid/avc1/720x1280/ci2Xbfgd1qtYfsjx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045498660629458944/pl/93wBs5eOSEG3HIJ8.m3u8?v=020"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045530851329573026",
+        "created_at": "2026-04-18T15:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045530851329573026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xiaoniu6161/st…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/Xiaoniu6161/status/2045498761800187951",
+              "start": 67,
+              "url": "https://t.co/3d1pF7rfn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045530851329573026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045498761800187951",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个年代的，不管是大学生，还是网络上的各种视频\n都带给人一种特殊的感觉\n他们有一种独属于那个年代的气质\n在现在的人上面好像找不回来了 https://t.co/3d1pF7rfn9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045498660629458944"
+          ]
+        },
+        "author_id": "1240545827333914624",
+        "conversation_id": "2045498761800187951",
+        "created_at": "2026-04-18T13:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045498761800187951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gYehBHbSel",
+              "end": 57,
+              "expanded_url": "https://x.com/Xiaoniu6161/status/2045498761800187951/video/1",
+              "media_key": "13_2045498660629458944",
+              "start": 34,
+              "url": "https://t.co/gYehBHbSel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045498761800187951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 9953,
+          "like_count": 135,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "相信我，会硬控你四分钟！一秒没敢快进，老一辈车评，愿称之为艺术品！ https://t.co/gYehBHbSel"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 664,
+          "like_count": 13052,
+          "listed_count": 3,
+          "media_count": 1339,
+          "tweet_count": 10429
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T07:49:29.000Z",
+        "description": "署名投稿热线：https://t.co/DBjx3kRwDj\n预测市场群：https://t.co/ZKHf21DTKM\n币圈交流群：https://t.co/TU11hhS4xP\n美股交流群：https://t.co/pMSN66D3Dd\n链上盈利过亿实时喊单记录：https://t.co/oD1wI5RXXT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoniu6161",
+                "end": 30,
+                "expanded_url": "https://t.me/xiaoniu6161",
+                "start": 7,
+                "url": "https://t.co/DBjx3kRwDj"
+              },
+              {
+                "display_url": "t.me/polymarket88",
+                "end": 60,
+                "expanded_url": "https://t.me/polymarket88",
+                "start": 37,
+                "url": "https://t.co/ZKHf21DTKM"
+              },
+              {
+                "display_url": "t.me/xiaoniu616",
+                "end": 90,
+                "expanded_url": "https://t.me/xiaoniu616",
+                "start": 67,
+                "url": "https://t.co/TU11hhS4xP"
+              },
+              {
+                "display_url": "t.me/xiaoniu8181",
+                "end": 120,
+                "expanded_url": "https://t.me/xiaoniu8181",
+                "start": 97,
+                "url": "https://t.co/pMSN66D3Dd"
+              },
+              {
+                "display_url": "t.me/niuxiong",
+                "end": 157,
+                "expanded_url": "https://t.me/niuxiong",
+                "start": 134,
+                "url": "https://t.co/oD1wI5RXXT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web3.bitget.com/share/1BEusP?i…",
+                "end": 23,
+                "expanded_url": "https://web3.bitget.com/share/1BEusP?inviteCode=x9Warg",
+                "start": 0,
+                "url": "https://t.co/vzQKEX2NX5"
+              }
+            ]
+          }
+        },
+        "id": "1240545827333914624",
+        "location": "BG 钱包 最丝滑链上体验 meme  合约 美股 理财",
+        "name": "小牛",
+        "pinned_tweet_id": "2042462303992590441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970869381488939008/BHPIOtLo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152283,
+          "following_count": 890,
+          "like_count": 4237,
+          "listed_count": 1387,
+          "media_count": 13002,
+          "tweet_count": 28950
+        },
+        "url": "https://t.co/vzQKEX2NX5",
+        "username": "Xiaoniu6161",
+        "verified": true
+      }
+    ]
+  }
+}

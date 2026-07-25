@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2059864730400149687",
+    "created_at": "2026-05-28T05:09:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059864730400149687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。",
+          "display_url": "bbc.in/3PwasCm",
+          "end": 125,
+          "expanded_url": "https://bbc.in/3PwasCm",
+          "images": [
+            {
+              "height": 576,
+              "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 102,
+          "status": 200,
+          "title": "一次偶然的幸运：一位名不见经传的英国药剂师如何意外发明了现代火柴 - BBC News 中文",
+          "unwound_url": "https://www.bbc.com/zhongwen/articles/c2e2yvwekymo/simp?at_link_id=E61E2A26-5A49-11F1-BE25-BA672F8003DA&at_campaign_type=owned&at_bbc_team=editorial&at_format=link&at_medium=social&at_link_origin=bbcchinese&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_type=web_link",
+          "url": "https://t.co/9ah3I39Yfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059864730400149687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059847503885811997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。https://t.co/9ah3I39Yfs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2059864730400149687",
+        "created_at": "2026-05-28T05:09:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059864730400149687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。",
+              "display_url": "bbc.in/3PwasCm",
+              "end": 125,
+              "expanded_url": "https://bbc.in/3PwasCm",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "一次偶然的幸运：一位名不见经传的英国药剂师如何意外发明了现代火柴 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/c2e2yvwekymo/simp?at_link_id=E61E2A26-5A49-11F1-BE25-BA672F8003DA&at_campaign_type=owned&at_bbc_team=editorial&at_format=link&at_medium=social&at_link_origin=bbcchinese&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_type=web_link",
+              "url": "https://t.co/9ah3I39Yfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059864730400149687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059847503885811997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。https://t.co/9ah3I39Yfs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2059847503885811997",
+        "created_at": "2026-05-28T04:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059847503885811997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。",
+              "display_url": "bbc.in/3PwasCm",
+              "end": 109,
+              "expanded_url": "https://bbc.in/3PwasCm",
+              "images": [
+                {
+                  "height": 576,
+                  "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2059847505550983169/tUAXts1X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "一次偶然的幸运：一位名不见经传的英国药剂师如何意外发明了现代火柴 - BBC News 中文",
+              "unwound_url": "https://www.bbc.com/zhongwen/articles/c2e2yvwekymo/simp?at_link_id=E61E2A26-5A49-11F1-BE25-BA672F8003DA&at_campaign_type=owned&at_bbc_team=editorial&at_format=link&at_medium=social&at_link_origin=bbcchinese&at_campaign=Social_Flow&at_ptr_name=twitter&at_link_type=web_link",
+              "url": "https://t.co/9ah3I39Yfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059847503885811997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7465,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "1826年，英国药剂师约翰·沃克无意间发明了第一根摩擦火柴，他用干燥的化学混合物刮擦粗糙的表面。尽管这项发明后来风靡全球，但沃克从未为他的想法申请专利，因此至今仍鲜为人知。https://t.co/9ah3I39Yfs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 681,
+          "like_count": 14862,
+          "listed_count": 5,
+          "media_count": 1382,
+          "tweet_count": 11731
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252420,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12175,
+          "media_count": 24770,
+          "tweet_count": 155907
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

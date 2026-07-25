@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1854128658358878354",
+    "created_at": "2024-11-07T09:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T10:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854458070304444448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854458070304444448",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854128658358878354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chihiro 你这种属于季节性的抑郁，或者是说一种激素的一种紊乱，实际上你如果想的话是可以调一下的\n去做做针灸?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1854128658358878354",
+        "created_at": "2024-11-07T09:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T10:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854458070304444448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854458070304444448",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854128658358878354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chihiro 你这种属于季节性的抑郁，或者是说一种激素的一种紊乱，实际上你如果想的话是可以调一下的\n去做做针灸?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "1854128658358878354",
+        "created_at": "2024-11-06T11:48:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T12:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854128658358878354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854128658358878354",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己没有精神疾病的情绪症状，但是留存了季节性很强的躯体化反应（严重心悸/头疼/烦躁什么的，倒不会有什么幻觉啊，字在天上飘什么的）\n也基本不失眠\n一般就是备考时候，考前一晚，和每年特定的时令会出现\n这种要去看医生吗…\n我真的不难过但是一有压力或者特定的季节就好难受好难受…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 761,
+          "like_count": 5488,
+          "listed_count": 1,
+          "tweet_count": 4430
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "鳥になって雲をつかんで、\n風になって遥遠くへ。",
+        "id": "1444640763070005251",
+        "name": "Hqin",
+        "pinned_tweet_id": "1845783861529346403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811048363489624064/UVK8YWFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 646,
+          "like_count": 9566,
+          "listed_count": 4,
+          "tweet_count": 5647
+        },
+        "username": "hqin_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

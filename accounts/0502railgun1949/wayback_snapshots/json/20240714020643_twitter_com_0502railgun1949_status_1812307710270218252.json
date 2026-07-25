@@ -1,0 +1,248 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1812151816962130330",
+    "created_at": "2024-07-14T02:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T03:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812307710270218252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1488093192184479744",
+          "start": 0,
+          "username": "ceg1632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812307710270218252",
+    "in_reply_to_user_id": "1488093192184479744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812151816962130330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ceg1632 小米10s\n小米10至尊纪念版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1812151816962130330",
+        "created_at": "2024-07-14T02:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T03:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812307710270218252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1488093192184479744",
+              "start": 0,
+              "username": "ceg1632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812307710270218252",
+        "in_reply_to_user_id": "1488093192184479744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812151816962130330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ceg1632 小米10s\n小米10至尊纪念版"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812151783801729024",
+            "3_1812151791405948928"
+          ]
+        },
+        "author_id": "1488093192184479744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040410872",
+              "name": "Sony - Xperia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          }
+        ],
+        "conversation_id": "1812151816962130330",
+        "created_at": "2024-07-13T15:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T16:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812151816962130330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Gpx3v0k8Fx",
+              "end": 171,
+              "expanded_url": "https://twitter.com/ceg1632/status/1812151816962130330/photo/1",
+              "media_key": "3_1812151783801729024",
+              "start": 148,
+              "url": "https://t.co/Gpx3v0k8Fx"
+            },
+            {
+              "display_url": "pic.twitter.com/Gpx3v0k8Fx",
+              "end": 171,
+              "expanded_url": "https://twitter.com/ceg1632/status/1812151816962130330/photo/1",
+              "media_key": "3_1812151791405948928",
+              "start": 148,
+              "url": "https://t.co/Gpx3v0k8Fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812151816962130330",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2904,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求个手机推荐，因为家里说出钱，大概1500内，稍微多点也可以，\n需求是国外手机，拍照屏幕好，最主要是电池要长，能用两天最好，严重电量焦虑，不玩游戏，以后可能会玩，\n目前看中索尼Xperia 1 II，\n穷孩子穷惯了，家里出钱也舍不得花但手机好的话两千也能接受，\n求帮助，或转发，感谢各位帮助者， https://t.co/Gpx3v0k8Fx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 755,
+          "like_count": 3371,
+          "listed_count": 1,
+          "tweet_count": 3309
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T10:14:08.000Z",
+        "description": "真实的活在自己的世界里，底层逻辑为不自杀，\n是一个不死者，自发解离者，\n你有想自杀吗，考虑好了吗，对世界的存在感消失了吗，对所有离开后可能发生的事处理好了吗，可能拖累到亲近之人吗？\n以及我们活着就是对恶意最大的反抗。\n七月底整理账号，删掉认为负面的信息，\n理性渐渐回归，对死亡不再感性，帮不了别人，只能无能为力的痛苦着，",
+        "id": "1488093192184479744",
+        "name": "川",
+        "pinned_tweet_id": "1809851105188409470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776504483616268288/SBgGOi44_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 2650,
+          "like_count": 5750,
+          "listed_count": 1,
+          "tweet_count": 753
+        },
+        "username": "ceg1632",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1925542121995645102",
+    "created_at": "2025-05-22T13:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T14:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925542121995645102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/creeperwhite2/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/creeperwhite2/status/1925322324385140801",
+          "start": 8,
+          "url": "https://t.co/mvmo40sm1P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925542121995645102",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925322324385140801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人是易受感染的 https://t.co/mvmo40sm1P"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1925542121995645102",
+        "created_at": "2025-05-22T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925542121995645102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/creeperwhite2/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/creeperwhite2/status/1925322324385140801",
+              "start": 8,
+              "url": "https://t.co/mvmo40sm1P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925542121995645102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925322324385140801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人是易受感染的 https://t.co/mvmo40sm1P"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451001299873325064",
+        "conversation_id": "1925322324385140801",
+        "created_at": "2025-05-21T22:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T23:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925322324385140801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0_Y_G/status/1…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/0_Y_G/status/1924836179272466466",
+              "start": 23,
+              "url": "https://t.co/POJrCNJ4pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925322324385140801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16238,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924836179272466466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你猜从小在姐姐堆里长大的小男孩会变成啥样（） https://t.co/POJrCNJ4pn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 646,
+          "like_count": 7587,
+          "listed_count": 2,
+          "media_count": 978,
+          "tweet_count": 6381
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T01:44:23.000Z",
+        "description": "梦里写诗，醒时眼红。\n花眼里看见，花满楼。\n @_9D3CE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "_9D3CE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Internet.Overdo.se",
+                "end": 23,
+                "expanded_url": "http://Internet.Overdo.se",
+                "start": 0,
+                "url": "https://t.co/J9PBSEcAuX"
+              }
+            ]
+          }
+        },
+        "id": "1451001299873325064",
+        "location": "距你0.5公里",
+        "name": "蓟野菁菁",
+        "pinned_tweet_id": "1894294576115913060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800584797217058816/8kuPANQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 689,
+          "like_count": 7102,
+          "listed_count": 8,
+          "media_count": 631,
+          "tweet_count": 9030
+        },
+        "url": "https://t.co/J9PBSEcAuX",
+        "username": "creeperwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1821233201194676711",
+    "created_at": "2024-08-13T14:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T15:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823365184066634044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708477973052219392",
+          "start": 0,
+          "username": "ZeroClock_Chiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823365184066634044",
+    "in_reply_to_user_id": "1708477973052219392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821233201194676711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZeroClock_Chiin 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1821233201194676711",
+        "created_at": "2024-08-13T14:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T15:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823365184066634044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708477973052219392",
+              "start": 0,
+              "username": "ZeroClock_Chiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823365184066634044",
+        "in_reply_to_user_id": "1708477973052219392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821233201194676711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeroClock_Chiin 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708477973052219392",
+        "conversation_id": "1821233201194676711",
+        "created_at": "2024-08-07T17:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T18:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821233201194676711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821233201194676711",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天咱喵生日(´ฅ•ω•ฅ`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 753,
+          "like_count": 3759,
+          "listed_count": 2,
+          "tweet_count": 3558
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T13:44:41.000Z",
+        "description": "中文名：零点知音\n罗马音：Zeroclock·Chiin\n亚文化，互联网美学爱好者/健康宅/历史唯物主义/不支持分裂/实用主义/理想主义/偏自由/反神化\n主要玩竞技，手游，中小型单机游戏\n动漫角色最爱绫波丽，游戏最爱守月玲美",
+        "id": "1708477973052219392",
+        "name": "零點チイン（可互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812178967006187520/F879Qo_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 711,
+          "like_count": 8827,
+          "listed_count": 0,
+          "tweet_count": 667
+        },
+        "username": "ZeroClock_Chiin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792867678430044160"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1792867680862835089",
+    "created_at": "2024-05-21T10:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T11:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792867680862835089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ZaxZgi7GwK",
+          "end": 51,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1792867680862835089/photo/1",
+          "media_key": "3_1792867678430044160",
+          "start": 28,
+          "url": "https://t.co/ZaxZgi7GwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792867680862835089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "居然有女生愿意在我女装之后给我化妆，泪目了\n真是好同学 https://t.co/ZaxZgi7GwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1792867678430044160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOGLp44aIAA_3D8.jpg",
+        "width": 847
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792867678430044160"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1792867680862835089",
+        "created_at": "2024-05-21T10:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T11:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792867680862835089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZaxZgi7GwK",
+              "end": 51,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1792867680862835089/photo/1",
+              "media_key": "3_1792867678430044160",
+              "start": 28,
+              "url": "https://t.co/ZaxZgi7GwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792867680862835089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "居然有女生愿意在我女装之后给我化妆，泪目了\n真是好同学 https://t.co/ZaxZgi7GwK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂16210号📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1766354717553393979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 741,
+          "like_count": 2628,
+          "listed_count": 1,
+          "tweet_count": 2855
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1890931965504725492",
+    "created_at": "2025-02-16T01:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T02:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890937413192630779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890937413192630779",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890931965504725492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 逆天，我作业一点没写，但是我已经开学一周了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1890931965504725492",
+        "created_at": "2025-02-16T01:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T02:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890937413192630779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890937413192630779",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890931965504725492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 逆天，我作业一点没写，但是我已经开学一周了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449176529246638080",
+        "conversation_id": "1890931965504725492",
+        "created_at": "2025-02-16T01:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T02:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890931965504725492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890931965504725492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "成功在开学前补完作业"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 747,
+          "like_count": 6627,
+          "listed_count": 1,
+          "media_count": 906,
+          "tweet_count": 5631
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "05后学生，业余天文爱好者.老派西南官话成渝小片（母语），新派湖广片鄂中小片.生理男性，共青团员",
+        "id": "1449176529246638080",
+        "location": "中華民國戰時首都",
+        "name": "上九天揽月²（中考淡推）",
+        "pinned_tweet_id": "1809056511471067529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 521,
+          "like_count": 6944,
+          "listed_count": 1,
+          "media_count": 1197,
+          "tweet_count": 5779
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

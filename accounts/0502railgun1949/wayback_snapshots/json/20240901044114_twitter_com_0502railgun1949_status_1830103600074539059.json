@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829021861935821233",
+    "created_at": "2024-09-01T04:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T05:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830103600074539059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1695108682605080576",
+          "start": 0,
+          "username": "ccnanoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830103600074539059",
+    "in_reply_to_user_id": "1695108682605080576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829021861935821233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ccnanoQAQ 抱抱，没有想到宝宝是这样的，同病相怜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829021861935821233",
+        "created_at": "2024-09-01T04:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T05:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830103600074539059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1695108682605080576",
+              "start": 0,
+              "username": "ccnanoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830103600074539059",
+        "in_reply_to_user_id": "1695108682605080576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829021861935821233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccnanoQAQ 抱抱，没有想到宝宝是这样的，同病相怜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829021853589090304"
+          ]
+        },
+        "author_id": "1695108682605080576",
+        "conversation_id": "1829021861935821233",
+        "created_at": "2024-08-29T05:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T06:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829021861935821233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzzh8gzgcm",
+              "end": 23,
+              "expanded_url": "https://twitter.com/ccnanoQAQ/status/1829021861935821233/photo/1",
+              "media_key": "3_1829021853589090304",
+              "start": 0,
+              "url": "https://t.co/xzZh8Gzgcm"
+            },
+            {
+              "display_url": "x.com/onikawaeisa/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/onikawaeisa/status/1828990313731633491",
+              "start": 24,
+              "url": "https://t.co/Fm8IohyJto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829021861935821233",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 933,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828990313731633491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/xzZh8Gzgcm https://t.co/Fm8IohyJto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 766,
+          "like_count": 4749,
+          "listed_count": 2,
+          "tweet_count": 4032
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-25T16:20:04.000Z",
+        "description": "一个在码头搬运薯条的日常推（人生はお疲れ様でした~",
+        "id": "1695108682605080576",
+        "location": "浙江。",
+        "name": "ccnano🇫🇷（加油减肥版）",
+        "pinned_tweet_id": "1779609957475680724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759962566225481728/ktAnhzqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2899,
+          "following_count": 901,
+          "like_count": 63302,
+          "listed_count": 7,
+          "tweet_count": 10650
+        },
+        "username": "ccnanoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

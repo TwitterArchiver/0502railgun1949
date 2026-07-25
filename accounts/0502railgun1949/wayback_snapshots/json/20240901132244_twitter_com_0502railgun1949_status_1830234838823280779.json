@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1830224133353054313",
+    "created_at": "2024-09-01T13:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T14:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830234838823280779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662475048261935104",
+          "start": 0,
+          "username": "Flandremai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830234838823280779",
+    "in_reply_to_user_id": "1662475048261935104",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830233315787551175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandremai 我也是呜呜\n好好照顾自己"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1830233315787551175].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1830233315787551175",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1830233315787551175"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1830224133353054313",
+        "created_at": "2024-09-01T13:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T14:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830234838823280779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662475048261935104",
+              "start": 0,
+              "username": "Flandremai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830234838823280779",
+        "in_reply_to_user_id": "1662475048261935104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830233315787551175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandremai 我也是呜呜\n好好照顾自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 766,
+          "like_count": 4767,
+          "listed_count": 2,
+          "tweet_count": 4041
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T15:05:21.000Z",
+        "description": "活死人一个 / 愛好是看畫畫 / 是在晚上出沒的幽靈",
+        "id": "1662475048261935104",
+        "name": "芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788230479076106240/iJkEtzTc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 521,
+          "like_count": 5577,
+          "listed_count": 1,
+          "tweet_count": 1179
+        },
+        "username": "Flandremai",
+        "verified": false
+      }
+    ]
+  }
+}

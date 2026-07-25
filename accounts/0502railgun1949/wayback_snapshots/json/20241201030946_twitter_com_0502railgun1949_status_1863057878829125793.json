@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1862505050180133193",
+    "created_at": "2024-12-01T03:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T04:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863057878829125793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "Cotiten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863057878829125793",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863057291001668089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cotiten 后面其实我就觉得（哎\n其实我觉得比较理想的还是西南联大，长征迁云南时期的那种模式\n那种已经是比较好的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1862505050180133193",
+        "created_at": "2024-12-01T03:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T04:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863057878829125793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "Cotiten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863057878829125793",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863057291001668089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cotiten 后面其实我就觉得（哎\n其实我觉得比较理想的还是西南联大，长征迁云南时期的那种模式\n那种已经是比较好的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714659505320140800",
+        "conversation_id": "1862505050180133193",
+        "created_at": "2024-12-01T03:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T04:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863057291001668089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863057291001668089",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863055682339246526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 其实我会觉得57年以前还包含着很多中国知识分子的智慧在里面的。\n当然事实上也是英雄所见略同"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 749,
+          "like_count": 5995,
+          "listed_count": 1,
+          "media_count": 749,
+          "tweet_count": 4755
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "dedicated another account: @chionli\nconsolidated ...\n哀莫大于心死\n个人群：https://t.co/asKCPpaGMv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "chionli"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+kZRRif5xnzc0N…",
+                "end": 87,
+                "expanded_url": "https://t.me/+kZRRif5xnzc0NGZl",
+                "start": 64,
+                "url": "https://t.co/asKCPpaGMv"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "all",
+        "name": "Chico",
+        "pinned_tweet_id": "1844950703661515079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849802938878918658/l5o3Qpic_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 965,
+          "like_count": 13140,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 6458
+        },
+        "username": "Cotiten",
+        "verified": false
+      }
+    ]
+  }
+}

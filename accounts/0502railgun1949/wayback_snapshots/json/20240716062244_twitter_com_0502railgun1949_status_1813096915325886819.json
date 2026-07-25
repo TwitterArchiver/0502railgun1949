@@ -1,0 +1,297 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1812726241772122237",
+    "created_at": "2024-07-16T06:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T07:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813096915325886819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "952820189191536641",
+          "start": 0,
+          "username": "XisMoments"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813096915325886819",
+    "in_reply_to_user_id": "952820189191536641",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812726241772122237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XisMoments 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1812726241772122237",
+        "created_at": "2024-07-16T06:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T07:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813096915325886819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "952820189191536641",
+              "start": 0,
+              "username": "XisMoments"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813096915325886819",
+        "in_reply_to_user_id": "952820189191536641",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812726241772122237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XisMoments 好！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1812726232334618624"
+          ]
+        },
+        "author_id": "952820189191536641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1812726241772122237",
+        "created_at": "2024-07-15T05:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T06:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812726241772122237"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "China",
+              "probability": 0.915,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Beijing",
+              "probability": 0.9236,
+              "start": 96,
+              "type": "Place"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Xi Jinping",
+              "probability": 0.8641,
+              "start": 141,
+              "type": "Person"
+            },
+            {
+              "end": 198,
+              "normalized_text": "CPC Central Committee",
+              "probability": 0.5769,
+              "start": 178,
+              "type": "Organization"
+            },
+            {
+              "end": 257,
+              "normalized_text": "Bureau",
+              "probability": 0.587,
+              "start": 252,
+              "type": "Organization"
+            },
+            {
+              "end": 268,
+              "normalized_text": "CPC",
+              "probability": 0.6143,
+              "start": 266,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 123,
+              "tag": "3rdplenum"
+            },
+            {
+              "end": 139,
+              "start": 134,
+              "tag": "三中全会"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RIk1kGPVGD",
+              "end": 294,
+              "expanded_url": "https://twitter.com/XisMoments/status/1812726241772122237/photo/1",
+              "media_key": "3_1812726232334618624",
+              "start": 271,
+              "url": "https://t.co/RIk1kGPVGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812726241772122237",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 28393,
+          "like_count": 344,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "The 20th Central Committee of the Communist Party of China started its third plenary session in Beijing on Monday morning. #3rdplenum #三中全会\n\nXi Jinping, general secretary of the CPC Central Committee, delivered a work report on behalf of the Political Bureau of the CPC… https://t.co/RIk1kGPVGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 759,
+          "like_count": 3406,
+          "listed_count": 1,
+          "tweet_count": 3322
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-15T08:30:10.000Z",
+        "description": "We focus on news about President Xi Jinping and China.",
+        "id": "952820189191536641",
+        "name": "Xi's Moments",
+        "pinned_tweet_id": "1812726241772122237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/960768604462460928/Onlx6gVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139040,
+          "following_count": 104,
+          "like_count": 2188,
+          "listed_count": 240,
+          "tweet_count": 12273
+        },
+        "username": "XisMoments",
+        "verified": true
+      }
+    ]
+  }
+}

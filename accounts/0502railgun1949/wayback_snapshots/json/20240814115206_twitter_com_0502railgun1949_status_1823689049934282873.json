@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1823689049934282873",
+    "created_at": "2024-08-14T11:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T12:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823689049934282873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596405792315691008",
+          "start": 3,
+          "username": "0502railgun1949"
+        },
+        {
+          "end": 30,
+          "id": "2160602710",
+          "start": 21,
+          "username": "lUxIENtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823689049934282873",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823689040434200722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0502railgun1949: @lUxIENtR 小学的时候做那个阅读理解，全都是略略略答案都不给，我尼玛一半的题都没有答案，出题人给我卖萌呢，略略略"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1823689049934282873",
+        "created_at": "2024-08-14T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823689049934282873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596405792315691008",
+              "start": 3,
+              "username": "0502railgun1949"
+            },
+            {
+              "end": 30,
+              "id": "2160602710",
+              "start": 21,
+              "username": "lUxIENtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823689049934282873",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823689040434200722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0502railgun1949: @lUxIENtR 小学的时候做那个阅读理解，全都是略略略答案都不给，我尼玛一半的题都没有答案，出题人给我卖萌呢，略略略"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1813232466406306101",
+        "created_at": "2024-08-14T11:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T12:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823689040434200722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2160602710",
+              "start": 0,
+              "username": "lUxIENtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823689040434200722",
+        "in_reply_to_user_id": "2160602710",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823671504175030768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lUxIENtR 小学的时候做那个阅读理解，全都是略略略答案都不给，我尼玛一半的题都没有答案，出题人给我卖萌呢，略略略"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 758,
+          "like_count": 3845,
+          "listed_count": 2,
+          "tweet_count": 3591
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-30T17:38:09.000Z",
+        "description": "INTJ-T|🏳️‍⚧️MTF|接受称呼为she/they|严重的各种焦虑|爱具体的人|拿自己的显卡偷偷给自己跑头像\n严正声明，点赞不代表立场，仅代表对点赞的内容的本身的支持，本人不是圣人，不敢保证了解事情全貌有不满请直接指正",
+        "id": "2160602710",
+        "location": "Oregon, USA",
+        "name": "北雁新弦🏳️‍⚧️404",
+        "pinned_tweet_id": "1675682474083651585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672629813495087105/YLxcY5ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 976,
+          "like_count": 16039,
+          "listed_count": 7,
+          "tweet_count": 3321
+        },
+        "username": "lUxIENtR",
+        "verified": false
+      }
+    ]
+  }
+}

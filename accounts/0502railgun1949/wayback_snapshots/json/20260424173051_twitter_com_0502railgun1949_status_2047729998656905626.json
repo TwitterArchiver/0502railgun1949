@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047713137571606528"
+      ],
+      "media_source_tweet_id": [
+        "2047713144517357969"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2047729998656905626",
+    "created_at": "2026-04-24T17:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047729998656905626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1137723104304672768",
+          "start": 3,
+          "username": "arsyky14"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aGa0BXTcWh",
+          "end": 37,
+          "expanded_url": "https://x.com/arsyky14/status/2047713144517357969/photo/1",
+          "media_key": "3_2047713137571606528",
+          "start": 14,
+          "url": "https://t.co/aGa0BXTcWh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047729998656905626",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 429
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047713144517357969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @arsyky14: https://t.co/aGa0BXTcWh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2047713137571606528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrwP9bbMAA9Ef1.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047713137571606528"
+          ],
+          "media_source_tweet_id": [
+            "2047713144517357969"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2047729998656905626",
+        "created_at": "2026-04-24T17:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047729998656905626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1137723104304672768",
+              "start": 3,
+              "username": "arsyky14"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGa0BXTcWh",
+              "end": 37,
+              "expanded_url": "https://x.com/arsyky14/status/2047713144517357969/photo/1",
+              "media_key": "3_2047713137571606528",
+              "start": 14,
+              "url": "https://t.co/aGa0BXTcWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047729998656905626",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047713144517357969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @arsyky14: https://t.co/aGa0BXTcWh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047713137571606528"
+          ]
+        },
+        "author_id": "1137723104304672768",
+        "conversation_id": "2047713144517357969",
+        "created_at": "2026-04-24T16:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047713144517357969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGa0BXTcWh",
+              "end": 23,
+              "expanded_url": "https://x.com/arsyky14/status/2047713144517357969/photo/1",
+              "media_key": "3_2047713137571606528",
+              "start": 0,
+              "url": "https://t.co/aGa0BXTcWh"
+            },
+            {
+              "display_url": "x.com/mery70_/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mery70_/status/2044287081489330629",
+              "start": 24,
+              "url": "https://t.co/xGs12NAAs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047713144517357969",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1237,
+          "impression_count": 95426,
+          "like_count": 7152,
+          "quote_count": 6,
+          "reply_count": 13,
+          "retweet_count": 429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044287081489330629",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/aGa0BXTcWh https://t.co/xGs12NAAs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1245,
+          "following_count": 686,
+          "like_count": 13500,
+          "listed_count": 3,
+          "media_count": 1347,
+          "tweet_count": 10691
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-09T14:08:20.000Z",
+        "description": "just a lazy artist who likes to draw cute girls\n|| commission close (comment and DM so I can know) || https://t.co/6QHdmv66bH || https://t.co/EiA8AMkAKg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "arsyky.carrd.co",
+                "end": 125,
+                "expanded_url": "https://arsyky.carrd.co/",
+                "start": 102,
+                "url": "https://t.co/6QHdmv66bH"
+              },
+              {
+                "display_url": "ko-fi.com/arsyky14",
+                "end": 152,
+                "expanded_url": "https://ko-fi.com/arsyky14",
+                "start": 129,
+                "url": "https://t.co/EiA8AMkAKg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/39290487",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/39290487",
+                "start": 0,
+                "url": "https://t.co/nLuy7T2OQs"
+              }
+            ]
+          }
+        },
+        "id": "1137723104304672768",
+        "location": "bed discord: arsyky",
+        "name": "Arsyky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829891528388722694/y04CmLAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39801,
+          "following_count": 960,
+          "like_count": 71403,
+          "listed_count": 203,
+          "media_count": 588,
+          "tweet_count": 1989
+        },
+        "url": "https://t.co/nLuy7T2OQs",
+        "username": "arsyky14",
+        "verified": false
+      }
+    ]
+  }
+}

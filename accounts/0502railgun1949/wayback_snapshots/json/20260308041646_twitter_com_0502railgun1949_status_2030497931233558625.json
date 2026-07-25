@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030497910627184640"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2030497931233558625",
+    "created_at": "2026-03-08T04:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T05:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030497931233558625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aE3BGkDF90",
+          "end": 57,
+          "expanded_url": "https://x.com/0502railgun1949/status/2030497931233558625/photo/1",
+          "media_key": "3_2030497910627184640",
+          "start": 34,
+          "url": "https://t.co/aE3BGkDF90"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030497931233558625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天又是吃上好的了\n魔丸肯德基，你在干嘛\n这两个东西是能放一起的吗 https://t.co/aE3BGkDF90"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2030497910627184640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC3HF3gbMAAN3SK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030497910627184640"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2030497931233558625",
+        "created_at": "2026-03-08T04:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T05:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030497931233558625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aE3BGkDF90",
+              "end": 57,
+              "expanded_url": "https://x.com/0502railgun1949/status/2030497931233558625/photo/1",
+              "media_key": "3_2030497910627184640",
+              "start": 34,
+              "url": "https://t.co/aE3BGkDF90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030497931233558625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天又是吃上好的了\n魔丸肯德基，你在干嘛\n这两个东西是能放一起的吗 https://t.co/aE3BGkDF90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 622,
+          "like_count": 11048,
+          "listed_count": 3,
+          "media_count": 1232,
+          "tweet_count": 8643
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

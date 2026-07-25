@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1837612551577973209",
+    "created_at": "2024-09-22T04:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T05:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837706243462647987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1655485332366987264",
+          "start": 0,
+          "username": "AprilFool_98"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837706243462647987",
+    "in_reply_to_user_id": "1655485332366987264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837612551577973209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AprilFool_98 我也想过这样的事情，我要是小学开始吃会不会好很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1837612551577973209",
+        "created_at": "2024-09-22T04:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T05:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837706243462647987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1655485332366987264",
+              "start": 0,
+              "username": "AprilFool_98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837706243462647987",
+        "in_reply_to_user_id": "1655485332366987264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837612551577973209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AprilFool_98 我也想过这样的事情，我要是小学开始吃会不会好很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655485332366987264",
+        "conversation_id": "1837612551577973209",
+        "created_at": "2024-09-21T21:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T22:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837612551577973209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837612551577973209",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我从小学毕业就开始坚持吃几年ssri会不会省很多事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 770,
+          "like_count": 5071,
+          "listed_count": 2,
+          "tweet_count": 4182
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-08T08:12:19.000Z",
+        "description": "98年的 | 失业中 | 没有生活的生活推 | 好累bot | 转推机器 | 你看无常是真的吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aprilf…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aprilfool98.bsky.social",
+                "start": 0,
+                "url": "https://t.co/oi0OfbrPmP"
+              }
+            ]
+          }
+        },
+        "id": "1655485332366987264",
+        "location": "广州",
+        "name": "好累bot🏳️‍⚧️",
+        "pinned_tweet_id": "1694274239006749137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776846426451951616/uNrDat-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 558,
+          "like_count": 31668,
+          "listed_count": 1,
+          "tweet_count": 4359
+        },
+        "url": "https://t.co/oi0OfbrPmP",
+        "username": "AprilFool_98",
+        "verified": false
+      }
+    ]
+  }
+}

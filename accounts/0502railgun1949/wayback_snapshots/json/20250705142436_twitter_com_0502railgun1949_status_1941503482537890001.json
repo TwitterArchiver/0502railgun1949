@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1941503482537890001",
+    "created_at": "2025-07-05T14:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941503482537890001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 16,
+          "tag": "本周热读"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "46574977",
+          "start": 3,
+          "username": "ChineseWSJ"
+        }
+      ],
+      "urls": [
+        {
+          "description": "亚马逊已在其工作场所部署了超过100万台机器人，接近其设施中人类员工的数量。",
+          "display_url": "buff.ly/qGcP3fx",
+          "end": 113,
+          "expanded_url": "https://buff.ly/qGcP3fx",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 90,
+          "status": 200,
+          "title": "亚马逊仓库的机器人数量即将超过人类员工",
+          "unwound_url": "https://cn.wsj.com/articles/amazon-warehouse-robots-automation-f25ee6bb",
+          "url": "https://t.co/wHtUMoXtVp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941503482537890001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941497966411329725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChineseWSJ: #本周热读 亚马逊设施的自动化正接近一个新的里程碑：很快，机器人的数量将与人类员工相当。亚马逊表示，现已在这些工作场所部署了超过100万台机器人。 https://t.co/wHtUMoXtVp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1941503482537890001",
+        "created_at": "2025-07-05T14:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941503482537890001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "本周热读"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "46574977",
+              "start": 3,
+              "username": "ChineseWSJ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "亚马逊已在其工作场所部署了超过100万台机器人，接近其设施中人类员工的数量。",
+              "display_url": "buff.ly/qGcP3fx",
+              "end": 113,
+              "expanded_url": "https://buff.ly/qGcP3fx",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 90,
+              "status": 200,
+              "title": "亚马逊仓库的机器人数量即将超过人类员工",
+              "unwound_url": "https://cn.wsj.com/articles/amazon-warehouse-robots-automation-f25ee6bb",
+              "url": "https://t.co/wHtUMoXtVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941503482537890001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941497966411329725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChineseWSJ: #本周热读 亚马逊设施的自动化正接近一个新的里程碑：很快，机器人的数量将与人类员工相当。亚马逊表示，现已在这些工作场所部署了超过100万台机器人。 https://t.co/wHtUMoXtVp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "46574977",
+        "conversation_id": "1941497966411329725",
+        "created_at": "2025-07-05T14:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941497966411329725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "本周热读"
+            }
+          ],
+          "urls": [
+            {
+              "description": "亚马逊已在其工作场所部署了超过100万台机器人，接近其设施中人类员工的数量。",
+              "display_url": "buff.ly/qGcP3fx",
+              "end": 97,
+              "expanded_url": "https://buff.ly/qGcP3fx",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1940047158431854592/it2N6xkB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 74,
+              "status": 200,
+              "title": "亚马逊仓库的机器人数量即将超过人类员工",
+              "unwound_url": "https://cn.wsj.com/articles/amazon-warehouse-robots-automation-f25ee6bb",
+              "url": "https://t.co/wHtUMoXtVp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941497966411329725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5902,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#本周热读 亚马逊设施的自动化正接近一个新的里程碑：很快，机器人的数量将与人类员工相当。亚马逊表示，现已在这些工作场所部署了超过100万台机器人。 https://t.co/wHtUMoXtVp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 647,
+          "like_count": 8507,
+          "listed_count": 3,
+          "media_count": 1003,
+          "tweet_count": 6792
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-12T03:55:58.000Z",
+        "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cn.wsj.com",
+                "end": 142,
+                "expanded_url": "http://cn.wsj.com",
+                "start": 119,
+                "url": "https://t.co/Ay39I3A0HH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.wsj.com",
+                "end": 23,
+                "expanded_url": "https://cn.wsj.com/",
+                "start": 0,
+                "url": "https://t.co/YEMZVdznen"
+              }
+            ]
+          }
+        },
+        "id": "46574977",
+        "location": "China",
+        "name": "华尔街日报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251052,
+          "following_count": 497,
+          "like_count": 8,
+          "listed_count": 9086,
+          "media_count": 5850,
+          "tweet_count": 86135
+        },
+        "url": "https://t.co/YEMZVdznen",
+        "username": "ChineseWSJ",
+        "verified": true
+      }
+    ]
+  }
+}

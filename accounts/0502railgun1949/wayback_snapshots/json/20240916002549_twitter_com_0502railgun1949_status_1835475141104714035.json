@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1835475141104714035",
+    "created_at": "2024-09-16T00:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-16T01:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1835475141104714035"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/B_cat38324/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/B_cat38324/status/1835143100332745047",
+          "start": 19,
+          "url": "https://t.co/dgvILR36nb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835475141104714035",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835143100332745047",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这可能是我的未来\n但是我考不上北大（ https://t.co/dgvILR36nb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1835475141104714035",
+        "created_at": "2024-09-16T00:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-16T01:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835475141104714035"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/B_cat38324/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/B_cat38324/status/1835143100332745047",
+              "start": 19,
+              "url": "https://t.co/dgvILR36nb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835475141104714035",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835143100332745047",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这可能是我的未来\n但是我考不上北大（ https://t.co/dgvILR36nb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1835143100332745047",
+        "created_at": "2024-09-15T02:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T03:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835143100332745047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arctan3_141592…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/arctan3_1415926/status/1834862064021488014",
+              "start": 90,
+              "url": "https://t.co/s30mQ8vHym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835143100332745047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6338,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834862064021488014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天去国博玩，走到总统雕像附近，看到树荫下坐着一个中年女人，扇着扇子。\n我走进，他对我喊：“需要讲解吗？性少数、跨性别和平权都可以，我是北大哲学系研究生毕业，给你讲得明明白白。” https://t.co/s30mQ8vHym"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 767,
+          "like_count": 5019,
+          "listed_count": 2,
+          "tweet_count": 4155
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "反白貓",
+        "pinned_tweet_id": "1829181633674784770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10113,
+          "following_count": 162,
+          "like_count": 191,
+          "listed_count": 36,
+          "tweet_count": 7635
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

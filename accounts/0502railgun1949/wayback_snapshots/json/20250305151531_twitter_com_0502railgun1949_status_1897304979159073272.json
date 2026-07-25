@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1897304979159073272",
+    "created_at": "2025-03-05T15:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T16:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897304979159073272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1535959265391038466",
+          "start": 3,
+          "username": "Rorochan__2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897304979159073272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897304739857289290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rorochan__2001: 🎞️《被遗忘的角落》\n🎞️敬请按住加载4K，图片附带描述文字\n总述：这里早早就被划定为危楼，民众被迫动迁离开老房子。可如今却迟迟没人开发这块被遗忘的土地。这些老家伙们就这样尴尬得望着对面那些无人购买的新房子“既然没钱，又为什么要赶他们走？…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "《拆迁现场》\n——那个时代的水泥台阶已经不住岁月的考量而碎裂开来，马赛克瓷砖上喷涂着难以辨认的警告行人的标语，本不属于一个时代的大门却各自在这里守护着同一个主人。这里的主人仍在挣扎，他和他的店还能坚持多久呢？",
+        "height": 4096,
+        "media_key": "3_1897299271353004032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSPoo2acAAHjfz.jpg",
+        "width": 4096
+      },
+      {
+        "alt_text": "《热带雨林》\n——这里曾是镇北数一数二的平价大众浴池，我曾在这里和父亲一起洗过很多次。曾经我以为所谓的洗浴中心应该就是这家店的样子。如今这里早已大门紧锁，浴池也不再注水。本属于这家店欢庆新年的红灯笼也如同这篇土地一样，被遗弃，被遗忘。静静落满灰尘，结满锈霜。",
+        "height": 2097,
+        "media_key": "3_1897299171176022016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSPizqXAAA-Z-K.jpg",
+        "width": 2097
+      },
+      {
+        "alt_text": "《文龙商店》\n——开裂的柏油马路上停着现代的汽车、浸油木质电线杆上悬挂着不属于那个时代的电线、具有年代感的窗格和整齐排列的砖瓦依旧装点着这家店、半掩着的铁拉门却宣告这里已被遗弃...",
+        "height": 2097,
+        "media_key": "3_1897299056785031169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSPcJhbAAEHcmS.jpg",
+        "width": 2097
+      },
+      {
+        "alt_text": "《已搬迁》\n——富有年代感的电表箱下是五金店店主留下的文字，店主为了防止老顾客跑空特意在旁边再次书写了一遍。店主和这里的大部分店家一样，坚持到了最后，然后为了生计离开了。结满铁锈的电表箱下，是枯死的种植物，就像曾经这里人们心中的希望一样。",
+        "height": 2097,
+        "media_key": "3_1897299102792343553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlSPe06a4AEnYnx.jpg",
+        "width": 2097
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1897304979159073272",
+        "created_at": "2025-03-05T15:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897304979159073272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1535959265391038466",
+              "start": 3,
+              "username": "Rorochan__2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897304979159073272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897304739857289290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rorochan__2001: 🎞️《被遗忘的角落》\n🎞️敬请按住加载4K，图片附带描述文字\n总述：这里早早就被划定为危楼，民众被迫动迁离开老房子。可如今却迟迟没人开发这块被遗忘的土地。这些老家伙们就这样尴尬得望着对面那些无人购买的新房子“既然没钱，又为什么要赶他们走？…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897299271353004032",
+            "3_1897299171176022016",
+            "3_1897299056785031169",
+            "3_1897299102792343553"
+          ]
+        },
+        "author_id": "1535959265391038466",
+        "conversation_id": "1897304739857289290",
+        "created_at": "2025-03-05T15:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T16:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897304739857289290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PSOSdjXAqr",
+              "end": 167,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1897304739857289290/photo/1",
+              "media_key": "3_1897299271353004032",
+              "start": 144,
+              "url": "https://t.co/PSOSdjXAqr"
+            },
+            {
+              "display_url": "pic.x.com/PSOSdjXAqr",
+              "end": 167,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1897304739857289290/photo/1",
+              "media_key": "3_1897299171176022016",
+              "start": 144,
+              "url": "https://t.co/PSOSdjXAqr"
+            },
+            {
+              "display_url": "pic.x.com/PSOSdjXAqr",
+              "end": 167,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1897304739857289290/photo/1",
+              "media_key": "3_1897299056785031169",
+              "start": 144,
+              "url": "https://t.co/PSOSdjXAqr"
+            },
+            {
+              "display_url": "pic.x.com/PSOSdjXAqr",
+              "end": 167,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1897304739857289290/photo/1",
+              "media_key": "3_1897299102792343553",
+              "start": 144,
+              "url": "https://t.co/PSOSdjXAqr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897304739857289290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🎞️《被遗忘的角落》\n🎞️敬请按住加载4K，图片附带描述文字\n总述：这里早早就被划定为危楼，民众被迫动迁离开老房子。可如今却迟迟没人开发这块被遗忘的土地。这些老家伙们就这样尴尬得望着对面那些无人购买的新房子“既然没钱，又为什么要赶他们走？”\n“因为政绩很关键，至于人们的感受，没人在乎”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🎞️《被遗忘的角落》\n🎞️敬请按住加载4K，图片附带描述文字\n总述：这里早早就被划定为危楼，民众被迫动迁离开老房子。可如今却迟迟没人开发这块被遗忘的土地。这些老家伙们就这样尴尬得望着对面那些无人购买的新房子“既然没钱，又为什么要赶他们走？”\n“因为政绩很关键，至于人们的感受，没人在乎” https://t.co/PSOSdjXAqr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 746,
+          "like_count": 6891,
+          "listed_count": 1,
+          "media_count": 944,
+          "tweet_count": 5878
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T12:16:58.000Z",
+        "description": "孤獨小鎮裡的小孤獨🍥｜是黑白影像的忠實擁躉，人文巷弄的守望者📷｜ Apple好き｜沒了咖啡因就會立刻枯萎｜喹硫平和碳酸鋰的一生之敵｜鋼筆和手帳愛好者✍🏻｜Eugène Atget & Bresson 的一生追隨者🎞️｜紅圈鏡是人生理想ヾ(≧▽≦*)o",
+        "id": "1535959265391038466",
+        "location": "℧ 𝕸𝖆𝖈𝖗𝖆𝖌𝖌𝖊 ℧",
+        "name": "Rorochan_2001 辰辰酱 Official.✨",
+        "pinned_tweet_id": "1894082640250106306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872188628358905856/BfMhwu9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 1056,
+          "like_count": 19230,
+          "listed_count": 7,
+          "media_count": 472,
+          "tweet_count": 5421
+        },
+        "username": "Rorochan__2001",
+        "verified": true
+      }
+    ]
+  }
+}

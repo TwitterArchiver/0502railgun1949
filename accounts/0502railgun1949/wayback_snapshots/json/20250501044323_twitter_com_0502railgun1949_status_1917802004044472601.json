@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1917637492800643534",
+    "created_at": "2025-05-01T04:43:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T05:43:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917802004044472601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "efwgverbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917802004044472601",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917637492800643534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efwgverbg 我联系你之前那个没有反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1917637492800643534",
+        "created_at": "2025-05-01T04:43:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T05:43:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917802004044472601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "efwgverbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917802004044472601",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917637492800643534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efwgverbg 我联系你之前那个没有反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "1917637492800643534",
+        "created_at": "2025-04-30T17:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917637492800643534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917637492800643534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "语言是文化与思想的载体，语言的边界便是思想的边界，没有文学的单纯的语言学习毫无意义🙄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 640,
+          "like_count": 7158,
+          "listed_count": 2,
+          "media_count": 964,
+          "tweet_count": 6166
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "第十任Harvard费正清中国和正太研究中心主任（超新星纪元33-66年）\n书虫🤓，擅长发现各种冷门小众好电影\nAbeunt studia in mores\n好看的里推@nFMz74Iziq5NqAt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 84,
+                "username": "nFMz74Iziq5NqAt"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "北京市海淀区颐和园路5号",
+        "name": "小小科耶夫",
+        "pinned_tweet_id": "1915778851151413760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906361142769049600/sB5rNZwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 401,
+          "like_count": 9546,
+          "listed_count": 1,
+          "media_count": 509,
+          "tweet_count": 13024
+        },
+        "username": "efwgverbg",
+        "verified": false
+      }
+    ]
+  }
+}

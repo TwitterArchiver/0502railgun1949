@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889650726957359104"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1889650730044162106",
+    "created_at": "2025-02-12T12:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T13:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889650730044162106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NZxDioDcf",
+          "end": 164,
+          "expanded_url": "https://x.com/0502railgun1949/status/1889650730044162106/photo/1",
+          "media_key": "3_1889650726957359104",
+          "start": 141,
+          "url": "https://t.co/0NZxDioDcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889650730044162106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实我原本是个比较健谈的人\n后面遭受霸凌之后，还有被坏女人骗了之后才沉默寡言\n我虽然不用和情绪对抗，因为我感受不到，但是我发现我的潜意识里面似乎也有很多精力在对抗负面情绪\n我做大部分事情其实精力都不多\n对于很多事情，其实我已经比较尽力，一次次努力之后的失败，真的很让人难以相信成功 https://t.co/0NZxDioDcf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 571,
+        "media_key": "3_1889650726957359104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjljUwnaIAAGjEa.jpg",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889650726957359104"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1889650730044162106",
+        "created_at": "2025-02-12T12:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T13:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889650730044162106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NZxDioDcf",
+              "end": 164,
+              "expanded_url": "https://x.com/0502railgun1949/status/1889650730044162106/photo/1",
+              "media_key": "3_1889650726957359104",
+              "start": 141,
+              "url": "https://t.co/0NZxDioDcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889650730044162106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我原本是个比较健谈的人\n后面遭受霸凌之后，还有被坏女人骗了之后才沉默寡言\n我虽然不用和情绪对抗，因为我感受不到，但是我发现我的潜意识里面似乎也有很多精力在对抗负面情绪\n我做大部分事情其实精力都不多\n对于很多事情，其实我已经比较尽力，一次次努力之后的失败，真的很让人难以相信成功 https://t.co/0NZxDioDcf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 750,
+          "like_count": 6590,
+          "listed_count": 1,
+          "media_count": 902,
+          "tweet_count": 5588
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

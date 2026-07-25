@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2060029653168074979",
+    "created_at": "2026-05-28T16:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T17:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060029653168074979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "256065509",
+          "start": 3,
+          "username": "aiwangupiao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2060…",
+          "end": 40,
+          "expanded_url": "http://x.com/i/article/2060027739156185088",
+          "start": 17,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2060027739156185088",
+          "url": "https://t.co/ntHd14P979"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060029653168074979",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060027868223246488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiwangupiao: https://t.co/ntHd14P979"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2060029653168074979",
+        "created_at": "2026-05-28T16:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060029653168074979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "256065509",
+              "start": 3,
+              "username": "aiwangupiao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2060…",
+              "end": 40,
+              "expanded_url": "http://x.com/i/article/2060027739156185088",
+              "start": 17,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2060027739156185088",
+              "url": "https://t.co/ntHd14P979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060029653168074979",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060027868223246488",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiwangupiao: https://t.co/ntHd14P979"
+      },
+      {
+        "article": {
+          "title": "涨的还是它们"
+        },
+        "attachments": {},
+        "author_id": "256065509",
+        "conversation_id": "2060027868223246488",
+        "created_at": "2026-05-28T15:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060027868223246488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2060…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2060027739156185088",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2060027739156185088",
+              "url": "https://t.co/ntHd14P979"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060027868223246488",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 292,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ntHd14P979"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 682,
+          "like_count": 14885,
+          "listed_count": 5,
+          "media_count": 1383,
+          "tweet_count": 11753
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-22T15:51:32.000Z",
+        "description": "截止23年，我做股票已13年，职业炒股以此为生见过顶、抄过底，全靠真本事到现在，最好战绩一年10倍。不接受私信，更不会主动私信任何人。       可以有不同意见看法但是请文明交流，没素质的骂人的我不会骂你我只会直接拉黑你\n\n我分享的只是经验、节奏、认知体系和我对市场的理解，供你参考。市场是个人战场，赚了亏了都要自己扛",
+        "id": "256065509",
+        "location": "Republic of Singapore",
+        "name": "爱玩股票AiWanGuPiao",
+        "pinned_tweet_id": "1961842539436384408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936244744180387843/tlQfwG8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104123,
+          "following_count": 522,
+          "like_count": 3549,
+          "listed_count": 1029,
+          "media_count": 7370,
+          "tweet_count": 15063
+        },
+        "username": "aiwangupiao",
+        "verified": true
+      }
+    ]
+  }
+}

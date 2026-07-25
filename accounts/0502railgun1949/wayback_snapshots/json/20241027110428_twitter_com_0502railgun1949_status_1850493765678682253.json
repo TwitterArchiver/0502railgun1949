@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1850486574036705488",
+    "created_at": "2024-10-27T11:04:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T12:04:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850493765678682253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1410425452276051974",
+          "start": 0,
+          "username": "NX_01_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850493765678682253",
+    "in_reply_to_user_id": "1410425452276051974",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850493452510990476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NX_01_ 交流什么😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1850486574036705488",
+        "created_at": "2024-10-27T11:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T12:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850493765678682253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1410425452276051974",
+              "start": 0,
+              "username": "NX_01_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850493765678682253",
+        "in_reply_to_user_id": "1410425452276051974",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850493452510990476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NX_01_ 交流什么😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410425452276051974",
+        "conversation_id": "1850486574036705488",
+        "created_at": "2024-10-27T11:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T12:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850493452510990476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850493452510990476",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850493109320527932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 备好一本书，开始交流"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 767,
+          "like_count": 5377,
+          "listed_count": 1,
+          "tweet_count": 4361
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T02:30:19.000Z",
+        "description": "Chemistry,Philosophy and Philosophy of Chemistry\n\n#LongLiveandProsper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 50,
+                "tag": "LongLiveandProsper"
+              }
+            ]
+          }
+        },
+        "id": "1410425452276051974",
+        "location": "N/A",
+        "name": "𝐍𝐗-𝟎𝟏 𝐔.𝐒.𝐒 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞",
+        "pinned_tweet_id": "1846514383419265196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755810868636618752/eTgQsXhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 490,
+          "like_count": 7804,
+          "listed_count": 2,
+          "tweet_count": 9978
+        },
+        "username": "NX_01_",
+        "verified": false
+      }
+    ]
+  }
+}

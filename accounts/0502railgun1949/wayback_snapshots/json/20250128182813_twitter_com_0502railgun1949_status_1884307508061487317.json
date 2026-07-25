@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1884307508061487317",
+    "created_at": "2025-01-28T18:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T19:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884307508061487317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/04177_realname…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/04177_realname/status/1884248147104522408",
+          "start": 98,
+          "url": "https://t.co/vUjXv9LlPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884307508061487317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884248147104522408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "人体不管是大脑还是别的器官，都有自我调节能力\n都是用进废退的\n这也是成瘾的原理，外源性多巴胺，或者是过度激动多巴胺受体，最开始脱敏需要更多的多巴胺才能达到正常的水平，后面就直接烧坏神经，不运转了 https://t.co/vUjXv9LlPM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1884307508061487317",
+        "created_at": "2025-01-28T18:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T19:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884307508061487317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/04177_realname…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/04177_realname/status/1884248147104522408",
+              "start": 98,
+              "url": "https://t.co/vUjXv9LlPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884307508061487317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884248147104522408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "人体不管是大脑还是别的器官，都有自我调节能力\n都是用进废退的\n这也是成瘾的原理，外源性多巴胺，或者是过度激动多巴胺受体，最开始脱敏需要更多的多巴胺才能达到正常的水平，后面就直接烧坏神经，不运转了 https://t.co/vUjXv9LlPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884248109955575808"
+          ]
+        },
+        "author_id": "1680508885394927616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1884248147104522408",
+        "created_at": "2025-01-28T14:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884248147104522408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GVTGAFFkFn",
+              "end": 42,
+              "expanded_url": "https://x.com/04177_realname/status/1884248147104522408/photo/1",
+              "media_key": "3_1884248109955575808",
+              "start": 19,
+              "url": "https://t.co/GVTGAFFkFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884248147104522408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1522,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "磕睾酮磕阳痿了可还行 这对吗 这不对 https://t.co/GVTGAFFkFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1015,
+          "following_count": 748,
+          "like_count": 6427,
+          "listed_count": 1,
+          "media_count": 861,
+          "tweet_count": 5375
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:25:35.000Z",
+        "description": "ftm/逃生舱：@04177_truth/🦋：@04177realname.bsky.social/政治倾向不明/坚定的互fo主义者/梦想和中推所有人互fo/不爱了请双取，你的单取是我午夜梦回的惩罚😿/提问箱：https://t.co/pe56J9RdeY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "04177_truth"
+              },
+              {
+                "end": 37,
+                "start": 23,
+                "username": "04177realname"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/04177_realname",
+                "end": 128,
+                "expanded_url": "https://ngl.link/04177_realname",
+                "start": 105,
+                "url": "https://t.co/pe56J9RdeY"
+              }
+            ]
+          }
+        },
+        "id": "1680508885394927616",
+        "name": "真名🏳️‍⚧️",
+        "pinned_tweet_id": "1864147494676123745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816188111770247168/Ze_RvMX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9410,
+          "following_count": 6112,
+          "like_count": 58914,
+          "listed_count": 27,
+          "media_count": 1826,
+          "tweet_count": 15560
+        },
+        "username": "04177_realname",
+        "verified": false
+      }
+    ]
+  }
+}

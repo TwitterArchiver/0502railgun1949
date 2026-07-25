@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1954773887277007287",
+    "created_at": "2025-08-12T14:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T15:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955277892214042860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703786194176557056",
+          "start": 0,
+          "username": "se_hui33649"
+        },
+        {
+          "end": 24,
+          "id": "1887111976507277312",
+          "start": 13,
+          "username": "sssssszjzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955277892214042860",
+    "in_reply_to_user_id": "1703786194176557056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954850667241292188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@se_hui33649 @sssssszjzj 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1954773887277007287",
+        "created_at": "2025-08-12T14:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T15:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955277892214042860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703786194176557056",
+              "start": 0,
+              "username": "se_hui33649"
+            },
+            {
+              "end": 24,
+              "id": "1887111976507277312",
+              "start": 13,
+              "username": "sssssszjzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955277892214042860",
+        "in_reply_to_user_id": "1703786194176557056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954850667241292188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@se_hui33649 @sssssszjzj 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703786194176557056",
+        "conversation_id": "1954773887277007287",
+        "created_at": "2025-08-11T10:21:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T11:21:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954850667241292188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887111976507277312",
+              "start": 0,
+              "username": "sssssszjzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954850667241292188",
+        "in_reply_to_user_id": "1887111976507277312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1494,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954773887277007287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssszjzj 真的吗呜呜我也好想能在深圳贴贴呜呜来深圳基本上没有任何社交好孤独呜呜呜呜呜呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 625,
+          "like_count": 10502,
+          "listed_count": 3,
+          "media_count": 1032,
+          "tweet_count": 7360
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-18T15:01:18.000Z",
+        "description": "最有天赋的天才巫女\n傻卵二刺螈特种兵/粥粥人/月寄人/迦勒底的master/喜欢玩cos的xnn/无能狂怒音游人/淡推少发言/infp/OW楠梁陪玩代练\n愿大家能被温柔以待",
+        "id": "1703786194176557056",
+        "location": "下北泽“繁星”",
+        "name": "三木灰巫女",
+        "pinned_tweet_id": "1904077081832783982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930076829802737669/rKn4rgfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 1832,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 704
+        },
+        "username": "se_hui33649",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:12:26.000Z",
+        "description": "可以叫我果子！读研中～记录美好生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssszj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssszj",
+                "start": 0,
+                "url": "https://t.co/Evk5i0WJhy"
+              }
+            ]
+          }
+        },
+        "id": "1887111976507277312",
+        "name": "나무거리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913124219606712320/kW44lrra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 159,
+          "like_count": 207,
+          "listed_count": 12,
+          "media_count": 295,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/Evk5i0WJhy",
+        "username": "sssssszjzj",
+        "verified": false
+      }
+    ]
+  }
+}

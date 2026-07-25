@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2052023895935386075",
+    "created_at": "2026-05-20T02:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056926598193156256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740248854975696896",
+          "start": 0,
+          "username": "Illusory_P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056926598193156256",
+    "in_reply_to_user_id": "1740248854975696896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052023895935386075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Illusory_P 离谱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2052023895935386075",
+        "created_at": "2026-05-20T02:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056926598193156256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740248854975696896",
+              "start": 0,
+              "username": "Illusory_P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056926598193156256",
+        "in_reply_to_user_id": "1740248854975696896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052023895935386075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Illusory_P 离谱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740248854975696896",
+        "conversation_id": "2052023895935386075",
+        "created_at": "2026-05-06T13:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T14:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052023895935386075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052023895935386075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 627,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人懂高中生吗？每天都淡淡的，感觉像慵懒的小猫咪，动不动就一大群趴在桌子上补觉真的好可爱。。。还会一边嫌弃学校食堂的饭菜一边嘟囔着吃下去，有人懂这种 反差萌吗尤其是他们还有一种无论发生什么都会淡淡地接受的感觉。。。真的很好嬷啊好想养一只！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 677,
+          "like_count": 14537,
+          "listed_count": 5,
+          "media_count": 1375,
+          "tweet_count": 11514
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T05:50:42.000Z",
+        "description": "跨女、斯多葛主义者。存在即反抗。",
+        "id": "1740248854975696896",
+        "name": "月すき",
+        "pinned_tweet_id": "1884891403861336264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040096115035643904/QyEG-_yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 324,
+          "like_count": 23439,
+          "listed_count": 6,
+          "media_count": 316,
+          "tweet_count": 2866
+        },
+        "username": "Illusory_P",
+        "verified": true
+      }
+    ]
+  }
+}

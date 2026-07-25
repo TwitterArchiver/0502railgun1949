@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1735943158318387661",
+    "created_at": "2024-08-17T14:22:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T15:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824814117146018094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598175077194903552",
+          "start": 0,
+          "username": "ggdfyvdrtg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824814117146018094",
+    "in_reply_to_user_id": "1598175077194903552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1735943158318387661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdfyvdrtg 这英语还蛮简单的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1735943158318387661",
+        "created_at": "2024-08-17T14:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824814117146018094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598175077194903552",
+              "start": 0,
+              "username": "ggdfyvdrtg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824814117146018094",
+        "in_reply_to_user_id": "1598175077194903552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1735943158318387661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdfyvdrtg 这英语还蛮简单的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1735943155009110016"
+          ]
+        },
+        "author_id": "1598175077194903552",
+        "conversation_id": "1735943158318387661",
+        "created_at": "2023-12-16T08:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2023-12-16T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1735943158318387661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/anhdyykwny",
+              "end": 29,
+              "expanded_url": "https://twitter.com/ggdfyvdrtg/status/1735943158318387661/photo/1",
+              "media_key": "3_1735943155009110016",
+              "start": 6,
+              "url": "https://t.co/ANhDYykwnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1735943158318387661",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5832,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来和我做题 https://t.co/ANhDYykwnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 764,
+          "like_count": 4130,
+          "listed_count": 2,
+          "tweet_count": 3731
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-01T04:40:16.000Z",
+        "description": "有男友/幸福降临在我手中",
+        "id": "1598175077194903552",
+        "name": "小鱼宝",
+        "pinned_tweet_id": "1797661966137495885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795296557816074241/qizmXJHW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 831,
+          "following_count": 11,
+          "like_count": 78,
+          "listed_count": 0,
+          "tweet_count": 319
+        },
+        "username": "ggdfyvdrtg",
+        "verified": false
+      }
+    ]
+  }
+}

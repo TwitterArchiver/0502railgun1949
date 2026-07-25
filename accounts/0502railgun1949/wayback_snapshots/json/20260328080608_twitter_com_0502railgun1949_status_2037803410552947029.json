@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2037803410552947029",
+    "created_at": "2026-03-28T08:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037803410552947029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1653207153044520960",
+          "start": 3,
+          "username": "AsilenA123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/Gw2PCWGc",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/Gw2PCWGc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037803410552947029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037741583060410683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsilenA123: 对于人类-机器的原文-改写对的判别检测办法我已经研究到可以形成一个稳定流形上的统计规律判别，目前来说可以做到百分百判别。数据来源限制是2022GPT发布前的中文理工论文，从hanspub上爬取了全部论文 https://t.co/Gw2PCWGc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 473,
+        "media_key": "3_2037740943605116928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeCl3_aMAAc7C1.jpg",
+        "width": 439
+      },
+      {
+        "height": 976,
+        "media_key": "3_2037740943873601536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEeCl4_a8AAr7nU.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2037803410552947029",
+        "created_at": "2026-03-28T08:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037803410552947029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1653207153044520960",
+              "start": 3,
+              "username": "AsilenA123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/Gw2PCWGc",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/Gw2PCWGc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037803410552947029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037741583060410683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsilenA123: 对于人类-机器的原文-改写对的判别检测办法我已经研究到可以形成一个稳定流形上的统计规律判别，目前来说可以做到百分百判别。数据来源限制是2022GPT发布前的中文理工论文，从hanspub上爬取了全部论文 https://t.co/Gw2PCWGc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037740943605116928",
+            "3_2037740943873601536"
+          ]
+        },
+        "author_id": "1653207153044520960",
+        "conversation_id": "2037741583060410683",
+        "created_at": "2026-03-28T04:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T05:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037741583060410683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gw2PCWGcCE",
+              "end": 125,
+              "expanded_url": "https://x.com/AsilenA123/status/2037741583060410683/photo/1",
+              "media_key": "3_2037740943605116928",
+              "start": 102,
+              "url": "https://t.co/Gw2PCWGcCE"
+            },
+            {
+              "display_url": "pic.x.com/Gw2PCWGcCE",
+              "end": 125,
+              "expanded_url": "https://x.com/AsilenA123/status/2037741583060410683/photo/1",
+              "media_key": "3_2037740943873601536",
+              "start": 102,
+              "url": "https://t.co/Gw2PCWGcCE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037741583060410683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对于人类-机器的原文-改写对的判别检测办法我已经研究到可以形成一个稳定流形上的统计规律判别，目前来说可以做到百分百判别。数据来源限制是2022GPT发布前的中文理工论文，从hanspub上爬取了全部论文 https://t.co/Gw2PCWGcCE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 645,
+          "like_count": 11236,
+          "listed_count": 3,
+          "media_count": 1279,
+          "tweet_count": 9086
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "明年工作|嵌入式学习中|南京|温州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ebotian-blog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://ebotian-blog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/rSoB5cSoRY"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 928,
+          "like_count": 29892,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 2847
+        },
+        "url": "https://t.co/rSoB5cSoRY",
+        "username": "AsilenA123",
+        "verified": false
+      }
+    ]
+  }
+}

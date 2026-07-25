@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2038878262777237913",
+    "created_at": "2026-03-31T07:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T08:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038878262777237913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038878262777237913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038707101111812485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 今天是3月31日跨性别现身日（TDoV）；在这个跨性别权利在全球范围大踏步倒退的年代，我不庆祝这个节日。\n\n我们已经被迫现身太多次了。现身带来的往往并非自由或解放，而是凝视、监控、羞辱和暴力。他们希望我们从公共空间彻底消失，无法看到并照护彼此…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 554,
+        "media_key": "3_2038707095713771520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HErxTVEWcAAfdXD.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2038878262777237913",
+        "created_at": "2026-03-31T07:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T08:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038878262777237913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038878262777237913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038707101111812485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 今天是3月31日跨性别现身日（TDoV）；在这个跨性别权利在全球范围大踏步倒退的年代，我不庆祝这个节日。\n\n我们已经被迫现身太多次了。现身带来的往往并非自由或解放，而是凝视、监控、羞辱和暴力。他们希望我们从公共空间彻底消失，无法看到并照护彼此…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038707095713771520"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2038707101111812485",
+        "created_at": "2026-03-30T19:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T20:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038707101111812485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEtT1WrIHy",
+              "end": 160,
+              "expanded_url": "https://x.com/amber_toffee/status/2038707101111812485/photo/1",
+              "media_key": "3_2038707095713771520",
+              "start": 137,
+              "url": "https://t.co/xEtT1WrIHy"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2038024421126910086",
+              "start": 161,
+              "url": "https://t.co/7STAMrfoWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038707101111812485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13645,
+          "like_count": 258,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038024421126910086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天是3月31日跨性别现身日（TDoV）；在这个跨性别权利在全球范围大踏步倒退的年代，我不庆祝这个节日。\n\n我们已经被迫现身太多次了。现身带来的往往并非自由或解放，而是凝视、监控、羞辱和暴力。他们希望我们从公共空间彻底消失，无法看到并照护彼此，并被永远禁锢在他们的目光里。 https://t.co/xEtT1WrIHy https://t.co/7STAMrfoWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 640,
+          "like_count": 11360,
+          "listed_count": 3,
+          "media_count": 1285,
+          "tweet_count": 9190
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴀʟᴛ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24154,
+          "following_count": 2724,
+          "like_count": 39179,
+          "listed_count": 7,
+          "media_count": 542,
+          "tweet_count": 20966
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

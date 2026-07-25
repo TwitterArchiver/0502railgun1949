@@ -1,0 +1,275 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1803010542279492020",
+    "created_at": "2024-06-18T13:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-18T14:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803061427889922493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1559088842333769728",
+          "start": 0,
+          "username": "hsnyuia"
+        },
+        {
+          "end": 17,
+          "id": "1470410046353858565",
+          "start": 9,
+          "username": "miumcii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803061427889922493",
+    "in_reply_to_user_id": "1559088842333769728",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803018699701645653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsnyuia @miumcii 羡慕死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1803010542279492020",
+        "created_at": "2024-06-18T13:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T14:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803061427889922493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1559088842333769728",
+              "start": 0,
+              "username": "hsnyuia"
+            },
+            {
+              "end": 17,
+              "id": "1470410046353858565",
+              "start": 9,
+              "username": "miumcii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803061427889922493",
+        "in_reply_to_user_id": "1559088842333769728",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803018699701645653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsnyuia @miumcii 羡慕死了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803018689627017216",
+            "3_1803018689618567168",
+            "3_1803018689605947392"
+          ]
+        },
+        "author_id": "1559088842333769728",
+        "conversation_id": "1803010542279492020",
+        "created_at": "2024-06-18T10:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-18T11:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803018699701645653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1470410046353858565",
+              "start": 0,
+              "username": "miumcii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0xVovYdyq1",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hsnyuia/status/1803018699701645653/photo/1",
+              "media_key": "3_1803018689627017216",
+              "start": 27,
+              "url": "https://t.co/0xVovYdyq1"
+            },
+            {
+              "display_url": "pic.twitter.com/0xVovYdyq1",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hsnyuia/status/1803018699701645653/photo/1",
+              "media_key": "3_1803018689618567168",
+              "start": 27,
+              "url": "https://t.co/0xVovYdyq1"
+            },
+            {
+              "display_url": "pic.twitter.com/0xVovYdyq1",
+              "end": 50,
+              "expanded_url": "https://twitter.com/hsnyuia/status/1803018699701645653/photo/1",
+              "media_key": "3_1803018689605947392",
+              "start": 27,
+              "url": "https://t.co/0xVovYdyq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803018699701645653",
+        "in_reply_to_user_id": "1470410046353858565",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803010542279492020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miumcii 我与我女朋友的关系be like： https://t.co/0xVovYdyq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 744,
+          "like_count": 2944,
+          "listed_count": 1,
+          "tweet_count": 3104
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T08:05:37.000Z",
+        "description": "|星野ゆいあ\n|低浮上 フォロバ可能性50%\n|コスプレ初心者 #男の娘\n|日本語、简体中文\n|📱Redmi K40\n|🎮#マイクラ #Phigros など\n|推し：星野ひなた、七瀬くるみ、喜多郁代、ナヒーダ\n|座右の銘:転がる岩、君に朝が降る",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 32,
+                "tag": "男の娘"
+              },
+              {
+                "end": 66,
+                "start": 61,
+                "tag": "マイクラ"
+              },
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "Phigros"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/hsnyuia",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/hsnyuia",
+                "start": 0,
+                "url": "https://t.co/0lz3MyNq5u"
+              }
+            ]
+          }
+        },
+        "id": "1559088842333769728",
+        "location": "中国",
+        "name": "ゆいあ",
+        "pinned_tweet_id": "1776137523917410578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1717800585305694208/ls4BPT3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 604,
+          "like_count": 4911,
+          "listed_count": 4,
+          "tweet_count": 2562
+        },
+        "url": "https://t.co/0lz3MyNq5u",
+        "username": "hsnyuia",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T15:07:45.000Z",
+        "description": "手红冰碗藕，藕碗冰红手。郎笑藕丝长，长丝藕笑郎。",
+        "id": "1470410046353858565",
+        "name": "闵目夕曦🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795108929795772416/IwrHJCyH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23067,
+          "following_count": 311,
+          "like_count": 16915,
+          "listed_count": 74,
+          "tweet_count": 9850
+        },
+        "username": "miumcii",
+        "verified": false
+      }
+    ]
+  }
+}

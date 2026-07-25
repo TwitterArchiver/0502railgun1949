@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2032930278369538254",
+    "created_at": "2026-03-15T10:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033134648444829779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033134648444829779",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032930278369538254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 批判资本主义的所谓“左人”，又对西方政治制度有多少了解呢\n其实是一样的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2032930278369538254].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2032930278369538254",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2032930278369538254"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2032930278369538254",
+        "created_at": "2026-03-15T10:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033134648444829779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033134648444829779",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032930278369538254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 批判资本主义的所谓“左人”，又对西方政治制度有多少了解呢\n其实是一样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1186,
+          "following_count": 622,
+          "like_count": 11085,
+          "listed_count": 3,
+          "media_count": 1245,
+          "tweet_count": 8733
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | Emancipatory Social Science, Humanities & Philosophy | “哲学家们只是用不同的方式解释世界，而真正重要的是改变它。” （Karl Marx）",
+        "id": "1715891855983026176",
+        "name": "Praxis Philosopher",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010625724458385408/hiiTu6lH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 4522,
+          "like_count": 103963,
+          "listed_count": 5,
+          "media_count": 1007,
+          "tweet_count": 19849
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      }
+    ]
+  }
+}

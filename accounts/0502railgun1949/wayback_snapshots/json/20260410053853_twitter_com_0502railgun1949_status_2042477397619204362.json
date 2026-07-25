@@ -1,0 +1,693 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042454324819943424",
+        "3_2042454324073414656",
+        "3_2042454324824195074",
+        "3_2042454324828389377"
+      ],
+      "media_source_tweet_id": [
+        "2042454347867701579",
+        "2042454347867701579",
+        "2042454347867701579",
+        "2042454347867701579"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2042477397619204362",
+    "created_at": "2026-04-10T05:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T06:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042477397619204362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1303335410609790976",
+          "start": 3,
+          "username": "Rococo90933671"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jiXUbajSta",
+          "end": 124,
+          "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+          "media_key": "3_2042454324819943424",
+          "start": 101,
+          "url": "https://t.co/jiXUbajSta"
+        },
+        {
+          "display_url": "pic.x.com/jiXUbajSta",
+          "end": 124,
+          "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+          "media_key": "3_2042454324073414656",
+          "start": 101,
+          "url": "https://t.co/jiXUbajSta"
+        },
+        {
+          "display_url": "pic.x.com/jiXUbajSta",
+          "end": 124,
+          "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+          "media_key": "3_2042454324824195074",
+          "start": 101,
+          "url": "https://t.co/jiXUbajSta"
+        },
+        {
+          "display_url": "pic.x.com/jiXUbajSta",
+          "end": 124,
+          "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+          "media_key": "3_2042454324828389377",
+          "start": 101,
+          "url": "https://t.co/jiXUbajSta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042477397619204362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042454347867701579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rococo90933671: 文在寅：这中国人怎么什么样的都有，每天在书店刷新合影就像宝可梦一样？\n\n全卡卡打赢复活赛了，年轻的自己也回来了就算了，对岸的将军都来了✋😭🤚\n\n大国基因库这一块 https://t.co/jiXUbajSta"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1743,
+        "media_key": "3_2042454324819943424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxTaYAAND9S.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2042454324073414656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYuhbQAA3FRP.jpg",
+        "width": 976
+      },
+      {
+        "height": 1586,
+        "media_key": "3_2042454324824195074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxUbQAIFKgc.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1592,
+        "media_key": "3_2042454324828389377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhBYxVbQAEVulT.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042454324819943424",
+            "3_2042454324073414656",
+            "3_2042454324824195074",
+            "3_2042454324828389377"
+          ],
+          "media_source_tweet_id": [
+            "2042454347867701579",
+            "2042454347867701579",
+            "2042454347867701579",
+            "2042454347867701579"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2042477397619204362",
+        "created_at": "2026-04-10T05:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042477397619204362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1303335410609790976",
+              "start": 3,
+              "username": "Rococo90933671"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 124,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324819943424",
+              "start": 101,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 124,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324073414656",
+              "start": 101,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 124,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324824195074",
+              "start": 101,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 124,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324828389377",
+              "start": 101,
+              "url": "https://t.co/jiXUbajSta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042477397619204362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042454347867701579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rococo90933671: 文在寅：这中国人怎么什么样的都有，每天在书店刷新合影就像宝可梦一样？\n\n全卡卡打赢复活赛了，年轻的自己也回来了就算了，对岸的将军都来了✋😭🤚\n\n大国基因库这一块 https://t.co/jiXUbajSta"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042454324819943424",
+            "3_2042454324073414656",
+            "3_2042454324824195074",
+            "3_2042454324828389377"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2042454347867701579",
+        "created_at": "2026-04-10T04:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T05:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042454347867701579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324819943424",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324073414656",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324824195074",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            },
+            {
+              "display_url": "pic.x.com/jiXUbajSta",
+              "end": 104,
+              "expanded_url": "https://x.com/Rococo90933671/status/2042454347867701579/photo/1",
+              "media_key": "3_2042454324828389377",
+              "start": 81,
+              "url": "https://t.co/jiXUbajSta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042454347867701579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2391,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "文在寅：这中国人怎么什么样的都有，每天在书店刷新合影就像宝可梦一样？\n\n全卡卡打赢复活赛了，年轻的自己也回来了就算了，对岸的将军都来了✋😭🤚\n\n大国基因库这一块 https://t.co/jiXUbajSta"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 657,
+          "like_count": 12612,
+          "listed_count": 3,
+          "media_count": 1313,
+          "tweet_count": 10005
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9894,
+          "following_count": 2855,
+          "like_count": 34388,
+          "listed_count": 30,
+          "media_count": 3607,
+          "tweet_count": 20136
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2018986649330307503",
+    "created_at": "2026-02-04T09:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018986649330307503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1466587726988206082",
+          "start": 3,
+          "username": "NewsCaixin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "caixin.com/2026-02-03/102…",
+          "end": 123,
+          "expanded_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+          "start": 100,
+          "unwound_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+          "url": "https://t.co/h0Rb7ToKjT"
+        },
+        {
+          "display_url": "t.co/bG",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/bG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018986649330307503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018559213367419266",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewsCaixin: 【全球抗生素研发创新联盟成立，应对抗生素耐药危机】为应对耐药性危机，加速研发下一代抗生素，三家慈善机构将共同投入6000万美元成立全球抗生素研发创新联盟，支持合作研究。https://t.co/h0Rb7ToKjT https://t.co/bG…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2018559208447471616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANc58Ga8AAn66b.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2018986649330307503",
+        "created_at": "2026-02-04T09:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018986649330307503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1466587726988206082",
+              "start": 3,
+              "username": "NewsCaixin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "caixin.com/2026-02-03/102…",
+              "end": 123,
+              "expanded_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+              "start": 100,
+              "unwound_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+              "url": "https://t.co/h0Rb7ToKjT"
+            },
+            {
+              "display_url": "t.co/bG",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/bG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018986649330307503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018559213367419266",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewsCaixin: 【全球抗生素研发创新联盟成立，应对抗生素耐药危机】为应对耐药性危机，加速研发下一代抗生素，三家慈善机构将共同投入6000万美元成立全球抗生素研发创新联盟，支持合作研究。https://t.co/h0Rb7ToKjT https://t.co/bG…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018559208447471616"
+          ]
+        },
+        "author_id": "1466587726988206082",
+        "conversation_id": "2018559213367419266",
+        "created_at": "2026-02-03T05:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T06:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018559213367419266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "caixin.com/2026-02-03/102…",
+              "end": 107,
+              "expanded_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+              "start": 84,
+              "unwound_url": "https://www.caixin.com/2026-02-03/102410768.html?originReferrer=twitter",
+              "url": "https://t.co/h0Rb7ToKjT"
+            },
+            {
+              "display_url": "pic.x.com/bGrdNrHFcp",
+              "end": 131,
+              "expanded_url": "https://x.com/NewsCaixin/status/2018559213367419266/photo/1",
+              "media_key": "3_2018559208447471616",
+              "start": 108,
+              "url": "https://t.co/bGrdNrHFcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018559213367419266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2977,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【全球抗生素研发创新联盟成立，应对抗生素耐药危机】为应对耐药性危机，加速研发下一代抗生素，三家慈善机构将共同投入6000万美元成立全球抗生素研发创新联盟，支持合作研究。https://t.co/h0Rb7ToKjT https://t.co/bGrdNrHFcp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 606,
+          "like_count": 10743,
+          "listed_count": 3,
+          "media_count": 1132,
+          "tweet_count": 8120
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-03T01:59:10.000Z",
+        "description": "财新网官方Twitter账号。财经新闻资讯必读网站，整合资讯、观点、多媒体、互动等信息时代形态丰富的资讯产品，7天24小时输出高品质的原创内容。 限时优惠订阅，首月仅4.99美元 https://t.co/SASlEnQfpn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "a.caixin.com/c5w48DfF",
+                "end": 113,
+                "expanded_url": "https://a.caixin.com/c5w48DfF",
+                "start": 90,
+                "url": "https://t.co/SASlEnQfpn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "caixin.com/?from=twitter",
+                "end": 23,
+                "expanded_url": "http://caixin.com/?from=twitter",
+                "start": 0,
+                "url": "https://t.co/Lsvwn34s8W"
+              }
+            ]
+          }
+        },
+        "id": "1466587726988206082",
+        "location": "Beijing",
+        "name": "财新News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1468035973095116801/4c3igbFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149524,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 792,
+          "media_count": 5465,
+          "tweet_count": 6406
+        },
+        "url": "https://t.co/Lsvwn34s8W",
+        "username": "NewsCaixin",
+        "verified": false
+      }
+    ]
+  }
+}

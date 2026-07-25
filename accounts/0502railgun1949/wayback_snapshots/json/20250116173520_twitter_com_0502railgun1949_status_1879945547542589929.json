@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1879852777402400943",
+    "created_at": "2025-01-16T17:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T18:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879945547542589929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1855232749843652608",
+          "start": 0,
+          "username": "nzim1530001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879945547542589929",
+    "in_reply_to_user_id": "1855232749843652608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879852777402400943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nzim1530001 三菱书店，我记得有一个75块的版本，你买那个你非得买老的做什么，没啥改的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1879852777402400943",
+        "created_at": "2025-01-16T17:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T18:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879945547542589929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1855232749843652608",
+              "start": 0,
+              "username": "nzim1530001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879945547542589929",
+        "in_reply_to_user_id": "1855232749843652608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879852777402400943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nzim1530001 三菱书店，我记得有一个75块的版本，你买那个你非得买老的做什么，没啥改的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879852639967469568",
+            "3_1879852731130609664"
+          ]
+        },
+        "author_id": "1855232749843652608",
+        "conversation_id": "1879852777402400943",
+        "created_at": "2025-01-16T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879852777402400943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/td7alnnNE5",
+              "end": 30,
+              "expanded_url": "https://x.com/nzim1530001/status/1879852777402400943/photo/1",
+              "media_key": "3_1879852639967469568",
+              "start": 7,
+              "url": "https://t.co/td7alnnNE5"
+            },
+            {
+              "display_url": "pic.x.com/td7alnnNE5",
+              "end": 30,
+              "expanded_url": "https://x.com/nzim1530001/status/1879852777402400943/photo/1",
+              "media_key": "3_1879852731130609664",
+              "start": 7,
+              "url": "https://t.co/td7alnnNE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879852777402400943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 15,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我该买哪种？ https://t.co/td7alnnNE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 750,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 5186
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-09T12:55:49.000Z",
+        "description": "不成熟的共产主义者，还需不断学习🥺前身：@nzmnzmnzm136297\n性取向正常！不是同性恋和跨性别！！！坚定的毛左派，最喜欢的动漫是魔法少女にあこがれて\n支持武统台湾反中的猪，红旗特务亖一下谢谢！往上追3代都是党员，工人，军人。洗脑是万万不可能的😎\n中华人民共和国万岁！全世界无产者联合起来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 20,
+                "username": "nzmnzmnzm136297"
+              }
+            ]
+          }
+        },
+        "id": "1855232749843652608",
+        "location": "中华人民共和国",
+        "name": "枫糖琪舞 ☭（新春限定）",
+        "pinned_tweet_id": "1877702226430325157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875899209653891072/jdAGFAwv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 449,
+          "like_count": 829,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 920
+        },
+        "username": "nzim1530001",
+        "verified": false
+      }
+    ]
+  }
+}

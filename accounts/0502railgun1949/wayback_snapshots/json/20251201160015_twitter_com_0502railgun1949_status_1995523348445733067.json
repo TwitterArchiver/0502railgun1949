@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1995523348445733067",
+    "created_at": "2025-12-01T16:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T17:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995523348445733067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1995424589791510755",
+          "start": 14,
+          "url": "https://t.co/kpn8mn9yLh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995523348445733067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995424589791510755",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小时候经常经历这样的事情 https://t.co/kpn8mn9yLh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995424584028282880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EsFkMWYAAqMIG.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995424584057679872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EsFkTW8AAwdSC.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995424584053477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EsFkSW0AAYMz2.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1995424584024178688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EsFkLXwAA_5y6.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1995523348445733067",
+        "created_at": "2025-12-01T16:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T17:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995523348445733067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1995424589791510755",
+              "start": 14,
+              "url": "https://t.co/kpn8mn9yLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995523348445733067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995424589791510755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小时候经常经历这样的事情 https://t.co/kpn8mn9yLh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995424584028282880",
+            "3_1995424584057679872",
+            "3_1995424584053477376",
+            "3_1995424584024178688"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1995424589791510755",
+        "created_at": "2025-12-01T09:27:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T10:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995424589791510755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wjrRU2QCAa",
+              "end": 117,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1995424589791510755/photo/1",
+              "media_key": "3_1995424584028282880",
+              "start": 94,
+              "url": "https://t.co/wjrRU2QCAa"
+            },
+            {
+              "display_url": "pic.x.com/wjrRU2QCAa",
+              "end": 117,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1995424589791510755/photo/1",
+              "media_key": "3_1995424584057679872",
+              "start": 94,
+              "url": "https://t.co/wjrRU2QCAa"
+            },
+            {
+              "display_url": "pic.x.com/wjrRU2QCAa",
+              "end": 117,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1995424589791510755/photo/1",
+              "media_key": "3_1995424584053477376",
+              "start": 94,
+              "url": "https://t.co/wjrRU2QCAa"
+            },
+            {
+              "display_url": "pic.x.com/wjrRU2QCAa",
+              "end": 117,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1995424589791510755/photo/1",
+              "media_key": "3_1995424584024178688",
+              "start": 94,
+              "url": "https://t.co/wjrRU2QCAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995424589791510755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 6830,
+          "like_count": 193,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "这种其实就是典型的npd行为。\n\n我说过很多次了，在一个传统的“老中家庭”里，“爱和尊重”从来不是家庭关系的内核——那是现代式的家庭才有的东西。\n\n传统的“老中家庭”的内核是：权力与控制 https://t.co/wjrRU2QCAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 607,
+          "like_count": 11140,
+          "listed_count": 3,
+          "media_count": 1102,
+          "tweet_count": 7951
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//奔四老登//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 131,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 108,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30473,
+          "following_count": 3648,
+          "like_count": 169339,
+          "listed_count": 101,
+          "media_count": 3690,
+          "tweet_count": 62270
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

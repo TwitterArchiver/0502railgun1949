@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2063143879075860520",
+    "created_at": "2026-06-06T06:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T07:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063143879075860520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EUdelChina/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/EUdelChina/status/2062746369341964700",
+          "start": 13,
+          "url": "https://t.co/Mu5EBO0HFm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063143879075860520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062746369341964700",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是德国人想出来的创意吗 https://t.co/Mu5EBO0HFm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35483,
+        "height": 1146,
+        "media_key": "13_2062746214920257536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062746214920257536/img/9Sft9vJSxeBGlRIH.jpg",
+        "public_metrics": {
+          "view_count": 129296
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062746214920257536/vid/avc1/320x508/bDDfJPe-pjEjgAFG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062746214920257536/vid/avc1/480x764/tlQL-3gNMDYulpBe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062746214920257536/vid/avc1/720x1146/3abKg4zoM-HzYY_D.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062746214920257536/pl/sx7ypfhr2aGjuvk2.m3u8?v=a8a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2063143879075860520",
+        "created_at": "2026-06-06T06:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063143879075860520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EUdelChina/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/EUdelChina/status/2062746369341964700",
+              "start": 13,
+              "url": "https://t.co/Mu5EBO0HFm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063143879075860520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062746369341964700",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是德国人想出来的创意吗 https://t.co/Mu5EBO0HFm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062746214920257536"
+          ]
+        },
+        "author_id": "869747657669042178",
+        "conversation_id": "2062746369341964700",
+        "created_at": "2026-06-05T04:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062746369341964700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "高考"
+            },
+            {
+              "end": 96,
+              "start": 91,
+              "tag": "欧盟外交"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdOe2Ps8vN",
+              "end": 120,
+              "expanded_url": "https://x.com/EUdelChina/status/2062746369341964700/video/1",
+              "media_key": "13_2062746214920257536",
+              "start": 97,
+              "url": "https://t.co/KdOe2Ps8vN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062746369341964700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 235,
+          "impression_count": 365510,
+          "like_count": 1071,
+          "quote_count": 154,
+          "reply_count": 215,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "#高考 将至，欧盟驻华代表团向所有考生送上最真挚的祝福！ \n\n愿你们： \n🌟 金榜题名 \n🌟 前程似锦 \n🌟 得偿所愿 \n\n加油，少年！ 欧盟驻华代表团与你们一起，为梦想喝彩。 \n\n#欧盟外交 https://t.co/KdOe2Ps8vN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 689,
+          "like_count": 15203,
+          "listed_count": 5,
+          "media_count": 1395,
+          "tweet_count": 11977
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T02:49:35.000Z",
+        "description": "Official account of the Delegation of the European Union to China #EUinTheWorld #EUDiplomacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 66,
+                "tag": "EUinTheWorld"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "tag": "EUDiplomacy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eeas.europa.eu/delegations/ch…",
+                "end": 23,
+                "expanded_url": "https://www.eeas.europa.eu/delegations/china_en?s=166",
+                "start": 0,
+                "url": "https://t.co/gEQLdOasGB"
+              }
+            ]
+          }
+        },
+        "id": "869747657669042178",
+        "location": "Beijing",
+        "name": "EU Delegation to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551809703629316096/fmuPd35B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6297,
+          "following_count": 378,
+          "like_count": 853,
+          "listed_count": 81,
+          "media_count": 536,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/gEQLdOasGB",
+        "username": "EUdelChina",
+        "verified": true
+      }
+    ]
+  }
+}

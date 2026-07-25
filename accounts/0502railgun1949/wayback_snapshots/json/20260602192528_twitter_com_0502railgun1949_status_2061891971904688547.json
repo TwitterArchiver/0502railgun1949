@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2061891971904688547",
+    "created_at": "2026-06-02T19:25:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:25:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061891971904688547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409194073471164416",
+          "start": 3,
+          "username": "React19org"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061891971904688547",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036945391359304136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @React19org: The CDC has opened public comment on a proposed ICD-10 diagnosis code related to COVID vaccine adverse events.\n\nWe’re askin…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24233,
+        "height": 1350,
+        "media_key": "7_2036945088098578432",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2036945088098578432/pu/img/50g-cM0XdJ-bKhBs.jpg",
+        "public_metrics": {
+          "view_count": 5383
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036945088098578432/pu/vid/avc1/320x400/lxE6wwmFQerap13u.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036945088098578432/pu/vid/avc1/480x600/0j_zak4amCaAiAG2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2036945088098578432/pu/vid/avc1/720x900/9--LjgREoFScN6-9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2036945088098578432/pu/pl/_fEN6AFJnNk63Dq7.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2061891971904688547",
+        "created_at": "2026-06-02T19:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061891971904688547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409194073471164416",
+              "start": 3,
+              "username": "React19org"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061891971904688547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036945391359304136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @React19org: The CDC has opened public comment on a proposed ICD-10 diagnosis code related to COVID vaccine adverse events.\n\nWe’re askin…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2036945088098578432"
+          ]
+        },
+        "author_id": "1409194073471164416",
+        "conversation_id": "2036945391359304136",
+        "created_at": "2026-03-25T23:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T00:15:38.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036945129542418474",
+          "2036945391359304136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W9otNrpt6p",
+              "end": 302,
+              "expanded_url": "https://x.com/React19org/status/2036945391359304136/video/1",
+              "media_key": "7_2036945088098578432",
+              "start": 279,
+              "url": "https://t.co/W9otNrpt6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036945391359304136",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "cdc.gov/nchs/data/icd/…",
+                "end": 344,
+                "expanded_url": "https://www.cdc.gov/nchs/data/icd/topic-packet-March-2026.pdf",
+                "start": 321,
+                "url": "https://t.co/0GN0ey0wGR"
+              }
+            ]
+          },
+          "text": "The CDC has opened public comment on a proposed ICD-10 diagnosis code related to COVID vaccine adverse events.\n\nWe’re asking for a simple, respectful show of support.\n\nEmail: nchsicd10cm@cdc.gov\nDeadline: May 15, 2026\n\nPlease keep your message:\n-Clear\n-Respectful\n-Collaborative\n\nSee the official proposal (Pages 16–17): https://t.co/0GN0ey0wGR"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 79274,
+          "like_count": 351,
+          "quote_count": 18,
+          "reply_count": 23,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "The CDC has opened public comment on a proposed ICD-10 diagnosis code related to COVID vaccine adverse events.\n\nWe’re asking for a simple, respectful show of support.\n\nEmail: nchsicd10cm@cdc.gov\nDeadline: May 15, 2026\n\nPlease keep your message:\n-Clear\n-Respectful\n-Collaborative https://t.co/W9otNrpt6p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 688,
+          "like_count": 15124,
+          "listed_count": 5,
+          "media_count": 1390,
+          "tweet_count": 11939
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-27T17:04:34.000Z",
+        "description": "React19 is a science-based nonprofit offering financial, physical, and emotional support for those suffering from long-term COVID-19 vaccine adverse events.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "react19.org",
+                "end": 23,
+                "expanded_url": "http://www.react19.org",
+                "start": 0,
+                "url": "https://t.co/bvdCGnNkI6"
+              }
+            ]
+          }
+        },
+        "id": "1409194073471164416",
+        "name": "React19 - Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993442830581436416/x2-iQGP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46764,
+          "following_count": 246,
+          "like_count": 6681,
+          "listed_count": 187,
+          "media_count": 2038,
+          "tweet_count": 3806
+        },
+        "url": "https://t.co/bvdCGnNkI6",
+        "username": "React19org",
+        "verified": true
+      }
+    ]
+  }
+}

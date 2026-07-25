@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1821487006284984366",
+    "created_at": "2024-08-08T15:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-08T16:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821573964977893885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1410425452276051974",
+          "start": 0,
+          "username": "NX_01_"
+        },
+        {
+          "end": 23,
+          "id": "1573863666000224256",
+          "start": 8,
+          "username": "Futuristic2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821573964977893885",
+    "in_reply_to_user_id": "1410425452276051974",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821504754478203031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NX_01_ @Futuristic2007 来陪我玩"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1821504754478203031].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1821504754478203031",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1821504754478203031"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1821487006284984366",
+        "created_at": "2024-08-08T15:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-08T16:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821573964977893885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1410425452276051974",
+              "start": 0,
+              "username": "NX_01_"
+            },
+            {
+              "end": 23,
+              "id": "1573863666000224256",
+              "start": 8,
+              "username": "Futuristic2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821573964977893885",
+        "in_reply_to_user_id": "1410425452276051974",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821504754478203031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NX_01_ @Futuristic2007 来陪我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 755,
+          "like_count": 3606,
+          "listed_count": 1,
+          "tweet_count": 3478
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T02:30:19.000Z",
+        "description": "Chemistry,Philosophy and Philosophy of Chemistry\n\n#LongLiveandProsper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 50,
+                "tag": "LongLiveandProsper"
+              }
+            ]
+          }
+        },
+        "id": "1410425452276051974",
+        "location": "N/A",
+        "name": "𝐍𝐗-𝟎𝟏 𝐔.𝐒.𝐒 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞",
+        "pinned_tweet_id": "1813495155015708682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755810868636618752/eTgQsXhY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 464,
+          "like_count": 6541,
+          "listed_count": 2,
+          "tweet_count": 8389
+        },
+        "username": "NX_01_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T02:36:14.000Z",
+        "description": "07/准高二/一只不太会用正常语气说话的fw/希望能变可爱(๑＞ڡ＜)☆/只要是能相互尊重的友友们都可以和我交朋友啦❤️❤️我爱大家❤️❤️",
+        "id": "1573863666000224256",
+        "location": "People's Republic of China",
+        "name": "过客·Futuristic History",
+        "pinned_tweet_id": "1813069847242416183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798018678686162944/Jv_koOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 299,
+          "like_count": 71315,
+          "listed_count": 2,
+          "tweet_count": 12994
+        },
+        "username": "Futuristic2007",
+        "verified": false
+      }
+    ]
+  }
+}

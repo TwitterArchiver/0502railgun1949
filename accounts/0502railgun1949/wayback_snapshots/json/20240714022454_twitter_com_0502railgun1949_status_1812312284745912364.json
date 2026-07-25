@@ -1,0 +1,485 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1147215121103503360",
+          "name": "UNESCO"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1812312284745912364",
+    "created_at": "2024-07-14T02:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T03:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812312284745912364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "description": "联合国教科文组织发出警告：到2050年，90%的地球表层土壤可能会退化，给生物多样性和人类生活带来重大风险。教科文组织国际土壤大会今天在摩洛哥阿加迪尔召开，总干事阿祖莱呼吁194个会员国加强土壤保护和恢复。教科文组织还积极采取一系列行动，以填补该领域科学知识空白。",
+          "display_url": "unes.co/l490c0",
+          "end": 132,
+          "expanded_url": "http://unes.co/l490c0",
+          "images": [
+            {
+              "height": 628,
+              "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 109,
+          "status": 200,
+          "title": "教科文组织警告：全球土壤迅速退化",
+          "unwound_url": "https://www.unesco.org/zh/articles/jiaokewenzuzhijinggaoquanqiuturangxunsutuihua",
+          "url": "https://t.co/fazL74kMtP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812312284745912364",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812289659549995478",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 人类与大地的健康共进退：\n75%的土壤已经退化，直接影响到32亿人口。\n\nUNESCO不仅发出预警，还提出了应对这一问题的方法，并制定了详细措施。\n这些措施需要你的关注和参与➡️https://t.co/fazL74kMtP\n\n#可持续发…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1812312284745912364",
+        "created_at": "2024-07-14T02:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T03:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812312284745912364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "description": "联合国教科文组织发出警告：到2050年，90%的地球表层土壤可能会退化，给生物多样性和人类生活带来重大风险。教科文组织国际土壤大会今天在摩洛哥阿加迪尔召开，总干事阿祖莱呼吁194个会员国加强土壤保护和恢复。教科文组织还积极采取一系列行动，以填补该领域科学知识空白。",
+              "display_url": "unes.co/l490c0",
+              "end": 132,
+              "expanded_url": "http://unes.co/l490c0",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 109,
+              "status": 200,
+              "title": "教科文组织警告：全球土壤迅速退化",
+              "unwound_url": "https://www.unesco.org/zh/articles/jiaokewenzuzhijinggaoquanqiuturangxunsutuihua",
+              "url": "https://t.co/fazL74kMtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812312284745912364",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812289659549995478",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 人类与大地的健康共进退：\n75%的土壤已经退化，直接影响到32亿人口。\n\nUNESCO不仅发出预警，还提出了应对这一问题的方法，并制定了详细措施。\n这些措施需要你的关注和参与➡️https://t.co/fazL74kMtP\n\n#可持续发…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811836017793544193"
+          ]
+        },
+        "author_id": "303806284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1147215121103503360",
+              "name": "UNESCO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1812289659549995478",
+        "created_at": "2024-07-14T00:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T01:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812289659549995478"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 114,
+              "tag": "可持续发展"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "土壤"
+            }
+          ],
+          "urls": [
+            {
+              "description": "联合国教科文组织发出警告：到2050年，90%的地球表层土壤可能会退化，给生物多样性和人类生活带来重大风险。教科文组织国际土壤大会今天在摩洛哥阿加迪尔召开，总干事阿祖莱呼吁194个会员国加强土壤保护和恢复。教科文组织还积极采取一系列行动，以填补该领域科学知识空白。",
+              "display_url": "unes.co/l490c0",
+              "end": 112,
+              "expanded_url": "http://unes.co/l490c0",
+              "images": [
+                {
+                  "height": 628,
+                  "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1812289710116483072/irm5O3ZL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "教科文组织警告：全球土壤迅速退化",
+              "unwound_url": "https://www.unesco.org/zh/articles/jiaokewenzuzhijinggaoquanqiuturangxunsutuihua",
+              "url": "https://t.co/fazL74kMtP"
+            },
+            {
+              "display_url": "pic.twitter.com/vEfAJn6LWT",
+              "end": 148,
+              "expanded_url": "https://twitter.com/UNESCO_chinese/status/1812289659549995478/photo/1",
+              "media_key": "3_1811836017793544193",
+              "start": 125,
+              "url": "https://t.co/vEfAJn6LWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812289659549995478",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "人类与大地的健康共进退：\n75%的土壤已经退化，直接影响到32亿人口。\n\nUNESCO不仅发出预警，还提出了应对这一问题的方法，并制定了详细措施。\n这些措施需要你的关注和参与➡️https://t.co/fazL74kMtP\n\n#可持续发展 #土壤 https://t.co/vEfAJn6LWT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 755,
+          "like_count": 3371,
+          "listed_count": 1,
+          "tweet_count": 3310
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34669,
+          "following_count": 41,
+          "like_count": 482,
+          "listed_count": 123,
+          "tweet_count": 9251
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

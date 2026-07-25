@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1923978678322725035",
+    "created_at": "2025-05-18T05:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T06:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923978678322725035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1535959265391038466",
+          "start": 3,
+          "username": "Rorochan__2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923978678322725035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923697933691781240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rorochan__2001: 《领养代替购买》\n没什么需要额外解释说明的，当我看见它们喝水的时候，我觉得我的心很痛，就这样。\n\n***\n1.本画面保留原始噪点以呈现真实光照。\n2.本画面可能经过少量裁切，以去除非主体的少量非必要部分。\n3.本画面均为真实的实地拍摄，非…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "狗狗刚喝完垃圾桶旁的新鲜雨水。",
+        "height": 2728,
+        "media_key": "3_1923697199696748544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJYaTNWoAAvw_T.jpg",
+        "width": 4096
+      },
+      {
+        "alt_text": "猫咪正在喝泡沫箱子里的腐臭雨水。",
+        "height": 4096,
+        "media_key": "3_1923697331104260096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJYh8vWIAAhAZM.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1923978678322725035",
+        "created_at": "2025-05-18T05:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T06:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923978678322725035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1535959265391038466",
+              "start": 3,
+              "username": "Rorochan__2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923978678322725035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923697933691781240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rorochan__2001: 《领养代替购买》\n没什么需要额外解释说明的，当我看见它们喝水的时候，我觉得我的心很痛，就这样。\n\n***\n1.本画面保留原始噪点以呈现真实光照。\n2.本画面可能经过少量裁切，以去除非主体的少量非必要部分。\n3.本画面均为真实的实地拍摄，非…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923697199696748544",
+            "3_1923697331104260096"
+          ]
+        },
+        "author_id": "1535959265391038466",
+        "conversation_id": "1923697933691781240",
+        "created_at": "2025-05-17T11:11:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:11:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923697933691781240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeVhNjQlj5",
+              "end": 175,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1923697933691781240/photo/1",
+              "media_key": "3_1923697199696748544",
+              "start": 152,
+              "url": "https://t.co/HeVhNjQlj5"
+            },
+            {
+              "display_url": "pic.x.com/HeVhNjQlj5",
+              "end": 175,
+              "expanded_url": "https://x.com/Rorochan__2001/status/1923697933691781240/photo/1",
+              "media_key": "3_1923697331104260096",
+              "start": 152,
+              "url": "https://t.co/HeVhNjQlj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923697933691781240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "《领养代替购买》\n没什么需要额外解释说明的，当我看见它们喝水的时候，我觉得我的心很痛，就这样。\n\n***\n1.本画面保留原始噪点以呈现真实光照。\n2.本画面可能经过少量裁切，以去除非主体的少量非必要部分。\n3.本画面均为真实的实地拍摄，非AI生成。\n4.本画面不包含“摆拍”，均为未干涉被摄主体的抓拍。 https://t.co/HeVhNjQlj5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 649,
+          "like_count": 7448,
+          "listed_count": 2,
+          "media_count": 973,
+          "tweet_count": 6306
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-12T12:16:58.000Z",
+        "description": "孤獨小鎮裡的小孤獨🍥🏳️‍⚧️｜是黑白影像的忠實擁躉，人文巷弄的守望者📷｜ Apple好き｜沒了咖啡因就會立刻枯萎｜喹硫平和碳酸鋰的一生之敵｜鋼筆和手帳愛好者✍🏻｜Eugène Atget & Bresson 的一生追隨者🎞️｜紅圈鏡是人生理想ヾ(≧▽≦*)o｜生活号@rorochan___2001🐌‌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "rorochan___2001"
+              }
+            ]
+          }
+        },
+        "id": "1535959265391038466",
+        "location": "℧ 𝕸𝖆𝖈𝖗𝖆𝖌𝖌𝖊 ℧",
+        "name": "Rorochan_2001 辰辰酱 Official.✨",
+        "pinned_tweet_id": "1900477600595886548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899393876210679808/iSN-iRVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 1081,
+          "like_count": 21793,
+          "listed_count": 5,
+          "media_count": 515,
+          "tweet_count": 5842
+        },
+        "username": "Rorochan__2001",
+        "verified": true
+      }
+    ]
+  }
+}

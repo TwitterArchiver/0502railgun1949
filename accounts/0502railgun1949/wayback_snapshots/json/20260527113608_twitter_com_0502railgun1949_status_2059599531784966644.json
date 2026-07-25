@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2059599531784966644",
+    "created_at": "2026-05-27T11:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T12:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059599531784966644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2058…",
+          "end": 37,
+          "expanded_url": "http://x.com/i/article/2058909554637766656",
+          "start": 14,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2058909554637766656",
+          "url": "https://t.co/81hzTi5U9T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059599531784966644",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 252
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058910873947910558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: https://t.co/81hzTi5U9T"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2059599531784966644",
+        "created_at": "2026-05-27T11:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059599531784966644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 37,
+              "expanded_url": "http://x.com/i/article/2058909554637766656",
+              "start": 14,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058909554637766656",
+              "url": "https://t.co/81hzTi5U9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059599531784966644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 252
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058910873947910558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: https://t.co/81hzTi5U9T"
+      },
+      {
+        "article": {
+          "title": "中国天才们正在排队“崩开源”"
+        },
+        "attachments": {},
+        "author_id": "1699797396589588480",
+        "conversation_id": "2058910873947910558",
+        "created_at": "2026-05-25T13:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058910873947910558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2058…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2058909554637766656",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2058909554637766656",
+              "url": "https://t.co/81hzTi5U9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058910873947910558",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1216,
+          "impression_count": 767147,
+          "like_count": 1360,
+          "quote_count": 100,
+          "reply_count": 123,
+          "retweet_count": 252
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/81hzTi5U9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 681,
+          "like_count": 14840,
+          "listed_count": 5,
+          "media_count": 1382,
+          "tweet_count": 11708
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "没啥好看的，也就发点AI相关的内容👌\n海本辍学创业，📖Prev Marswave CMO（0-300万ARR）、美元基金SR、某知名模型团队人才负责人、AI专业媒体运营、多个百万用户AI产品经理\n小红书Max for AI（4万粉丝）\n公众号01Founder（长文首发）\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2005923836987154936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11056,
+          "following_count": 1763,
+          "like_count": 10015,
+          "listed_count": 107,
+          "media_count": 532,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

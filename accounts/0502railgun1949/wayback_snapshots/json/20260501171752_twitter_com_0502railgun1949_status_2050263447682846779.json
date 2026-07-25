@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2048964795416936448"
+      ],
+      "media_source_tweet_id": [
+        "2048964882104824263"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2050263447682846779",
+    "created_at": "2026-05-01T17:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050263447682846779"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 43,
+          "tag": "ニコニコ超会議2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "48651959",
+          "start": 3,
+          "username": "nico_nico_info"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YoQDiEDWZT",
+          "end": 80,
+          "expanded_url": "https://x.com/nico_nico_info/status/2048964882104824263/video/1",
+          "media_key": "7_2048964795416936448",
+          "start": 57,
+          "url": "https://t.co/YoQDiEDWZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050263447682846779",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048964882104824263",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nico_nico_info: 『ハレ晴レユカイ』を驚異的人数で踊ってみた！【#ニコニコ超会議2026】 https://t.co/YoQDiEDWZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30016,
+        "height": 720,
+        "media_key": "7_2048964795416936448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048964795416936448/pu/img/CCLpKDspubw0Qi_W.jpg",
+        "public_metrics": {
+          "view_count": 163556
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/480x270/IXjfbt9Tz8ozLTOV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/640x360/lgYX4DlYs5C0ypbB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/1280x720/DzLFXG00ILCGiu8I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/pl/M_ihSknuc25kCPLQ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 30016,
+        "height": 720,
+        "media_key": "7_2048964795416936448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048964795416936448/pu/img/CCLpKDspubw0Qi_W.jpg",
+        "public_metrics": {
+          "view_count": 163579
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/480x270/IXjfbt9Tz8ozLTOV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/640x360/lgYX4DlYs5C0ypbB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/vid/avc1/1280x720/DzLFXG00ILCGiu8I.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048964795416936448/pu/pl/M_ihSknuc25kCPLQ.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048964795416936448"
+          ],
+          "media_source_tweet_id": [
+            "2048964882104824263"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2050263447682846779",
+        "created_at": "2026-05-01T17:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050263447682846779"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "48651959",
+              "start": 3,
+              "username": "nico_nico_info"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoQDiEDWZT",
+              "end": 80,
+              "expanded_url": "https://x.com/nico_nico_info/status/2048964882104824263/video/1",
+              "media_key": "7_2048964795416936448",
+              "start": 57,
+              "url": "https://t.co/YoQDiEDWZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050263447682846779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048964882104824263",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nico_nico_info: 『ハレ晴レユカイ』を驚異的人数で踊ってみた！【#ニコニコ超会議2026】 https://t.co/YoQDiEDWZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048964795416936448"
+          ]
+        },
+        "author_id": "48651959",
+        "conversation_id": "2048964882104824263",
+        "created_at": "2026-04-28T03:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048964882104824263"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 23,
+              "tag": "ニコニコ超会議2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YoQDiEDWZT",
+              "end": 60,
+              "expanded_url": "https://x.com/nico_nico_info/status/2048964882104824263/video/1",
+              "media_key": "7_2048964795416936448",
+              "start": 37,
+              "url": "https://t.co/YoQDiEDWZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048964882104824263",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1073,
+          "impression_count": 427106,
+          "like_count": 10629,
+          "quote_count": 124,
+          "reply_count": 22,
+          "retweet_count": 1853
+        },
+        "reply_settings": "everyone",
+        "text": "『ハレ晴レユカイ』を驚異的人数で踊ってみた！【#ニコニコ超会議2026】 https://t.co/YoQDiEDWZT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 689,
+          "like_count": 13914,
+          "listed_count": 3,
+          "media_count": 1356,
+          "tweet_count": 10991
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-19T08:36:14.000Z",
+        "description": "コメントと共に楽しめる日本最大級の動画＆配信サービス「ニコニコ」のおすすめ情報、サービスや機能に関する最新情報をお届けしています。\nゲーム@nicogame_PR／アニメ@nicoanime_PR／ニュース@nico_nico_news／リリース・障害・復旧のお知らせ@nico_nico_talk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "nicogame_PR"
+              },
+              {
+                "end": 98,
+                "start": 85,
+                "username": "nicoanime_PR"
+              },
+              {
+                "end": 118,
+                "start": 103,
+                "username": "nico_nico_news"
+              },
+              {
+                "end": 149,
+                "start": 134,
+                "username": "nico_nico_talk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/",
+                "start": 0,
+                "url": "https://t.co/kM30O8Ye0Z"
+              }
+            ]
+          }
+        },
+        "id": "48651959",
+        "location": "日本 東京",
+        "name": "ニコニコ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893316114157051907/7MjEfpEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555698,
+          "following_count": 35,
+          "like_count": 1060,
+          "listed_count": 6614,
+          "media_count": 11448,
+          "tweet_count": 115357
+        },
+        "url": "https://t.co/kM30O8Ye0Z",
+        "username": "nico_nico_info",
+        "verified": true
+      }
+    ]
+  }
+}

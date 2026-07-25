@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050165339623723008"
+      ],
+      "media_source_tweet_id": [
+        "2050165341456646522"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2050274303200084078",
+    "created_at": "2026-05-01T18:01:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T19:01:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050274303200084078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4685749051",
+          "start": 3,
+          "username": "ProgressBar202_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n1t61RFeN1",
+          "end": 66,
+          "expanded_url": "https://x.com/ProgressBar202_/status/2050165341456646522/photo/1",
+          "media_key": "3_2050165339623723008",
+          "start": 43,
+          "url": "https://t.co/n1t61RFeN1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050274303200084078",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1414
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050165341456646522",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProgressBar202_: 2026 is 33% complete. https://t.co/n1t61RFeN1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2050165339623723008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHOmg58XEAApuwF.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050165339623723008"
+          ],
+          "media_source_tweet_id": [
+            "2050165341456646522"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2050274303200084078",
+        "created_at": "2026-05-01T18:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T19:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050274303200084078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4685749051",
+              "start": 3,
+              "username": "ProgressBar202_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1t61RFeN1",
+              "end": 66,
+              "expanded_url": "https://x.com/ProgressBar202_/status/2050165341456646522/photo/1",
+              "media_key": "3_2050165339623723008",
+              "start": 43,
+              "url": "https://t.co/n1t61RFeN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050274303200084078",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1414
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050165341456646522",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProgressBar202_: 2026 is 33% complete. https://t.co/n1t61RFeN1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050165339623723008"
+          ]
+        },
+        "author_id": "4685749051",
+        "conversation_id": "2050165341456646522",
+        "created_at": "2026-05-01T10:48:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T11:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050165341456646522"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n1t61RFeN1",
+              "end": 45,
+              "expanded_url": "https://x.com/ProgressBar202_/status/2050165341456646522/photo/1",
+              "media_key": "3_2050165339623723008",
+              "start": 22,
+              "url": "https://t.co/n1t61RFeN1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050165341456646522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 280094,
+          "like_count": 5807,
+          "quote_count": 227,
+          "reply_count": 57,
+          "retweet_count": 1414
+        },
+        "reply_settings": "everyone",
+        "text": "2026 is 33% complete. https://t.co/n1t61RFeN1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 689,
+          "like_count": 13915,
+          "listed_count": 3,
+          "media_count": 1356,
+          "tweet_count": 10996
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-31T23:06:47.000Z",
+        "description": "Dividing the year into 100 pieces.",
+        "id": "4685749051",
+        "location": "UTC +0 / GMT",
+        "name": "Progress Bar 2026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006520269075034114/RhY-GZcE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1468176,
+          "following_count": 1,
+          "like_count": 72,
+          "listed_count": 1105,
+          "media_count": 1044,
+          "tweet_count": 1044
+        },
+        "username": "ProgressBar202_",
+        "verified": true
+      }
+    ]
+  }
+}

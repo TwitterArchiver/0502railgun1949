@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "South Korean politician",
+          "id": "1070735197300092929",
+          "name": "Lee Jae-myung"
+        }
+      }
+    ],
+    "conversation_id": "2060764809004797956",
+    "created_at": "2026-05-30T16:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T17:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060764809004797956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "106379129",
+          "start": 3,
+          "username": "Jaemyung_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060764809004797956",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 993
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060739144066932762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jaemyung_Lee: “정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다\" - 플라톤\n\n민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.\n\n존…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2060764809004797956",
+        "created_at": "2026-05-30T16:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T17:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060764809004797956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "106379129",
+              "start": 3,
+              "username": "Jaemyung_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060764809004797956",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 993
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060739144066932762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jaemyung_Lee: “정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다\" - 플라톤\n\n민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.\n\n존…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "106379129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "South Korean politician",
+              "id": "1070735197300092929",
+              "name": "Lee Jae-myung"
+            }
+          }
+        ],
+        "conversation_id": "2060739144066932762",
+        "created_at": "2026-05-30T15:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060739144066932762"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060739144066932762",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "“정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다\" - 플라톤\n\n민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.\n\n존경하는 국민 여러분, 투표에 적극 참여해 이 나라의 주인은 국민이라는 사실을, 권력은 어디를 향해야 하는지를, 주권자의 뜻이 어디에 있는 지를 분명히 보여주십시오.\n\n국민이 맡긴 권력을 오로지 국민의 뜻에 따라 국민만을 위해 사용할, 충직하고 유능한 이들을 찾아 그들에게 기회를 주시기 바랍니다.\n\n선출된 공직자가 어떤 마음과 자세로 어떻게 하느냐에 따라 세상은 지옥이 될 수도 천국이 될 수도 있습니다.\n\n투표의 힘은 생각보다 강합니다. \n선출된 그들이 내 삶을 풍요롭게 만드는 충직한 머슴이 될 지, 세상을 파괴하고 국민에게 고통을 주는 악성 지배자가 될 지는 주권자의 손에 달려 있습니다.\n\n이 말이 불편한 정치인이나 정치집단이 있다면 그들이 바로 주권자가 투표로서 극복해야할 구태 기득권자들입니다."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 59328,
+          "like_count": 2714,
+          "quote_count": 90,
+          "reply_count": 207,
+          "retweet_count": 993
+        },
+        "reply_settings": "everyone",
+        "text": "“정치무관심의 대가는 최악의 저질들에게 지배당하는 것이다\" - 플라톤\n\n민주공화국에서 주권자의 침묵과 투표포기는 국민을 속이고 사익을 위해 권력을 남용하며 나와 가족의 삶을 망치는 자들에게 기회를 주는 것입니다.\n\n존경하는 국민 여러분, 투표에 적극 참여해 이 나라의 주인은 국민이라는"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 684,
+          "like_count": 14984,
+          "listed_count": 5,
+          "media_count": 1386,
+          "tweet_count": 11841
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-19T10:59:13.000Z",
+        "description": "대한민국 제21대 대통령",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.go.kr",
+                "end": 23,
+                "expanded_url": "https://www.president.go.kr/",
+                "start": 0,
+                "url": "https://t.co/NJ7qyiAoIk"
+              }
+            ]
+          }
+        },
+        "id": "106379129",
+        "location": "대한민국 ",
+        "name": "이재명",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916425597586448384/O2OTY-Yj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113802,
+          "following_count": 453733,
+          "like_count": 9181,
+          "listed_count": 2929,
+          "media_count": 7211,
+          "tweet_count": 63266
+        },
+        "url": "https://t.co/NJ7qyiAoIk",
+        "username": "Jaemyung_Lee",
+        "verified": true
+      }
+    ]
+  }
+}

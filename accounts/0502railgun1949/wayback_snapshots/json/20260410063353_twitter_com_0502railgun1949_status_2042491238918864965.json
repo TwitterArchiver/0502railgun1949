@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1754400771179978752"
+      ],
+      "media_source_tweet_id": [
+        "1754400826469359996"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1169370162589396992",
+          "name": "The Battle Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169370162589396992",
+          "name": "The Battle Cats"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2042491238918864965",
+    "created_at": "2026-04-10T06:33:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T07:33:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042491238918864965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1559069150785732608",
+          "start": 3,
+          "username": "Bakutan_bot1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ri5JHu6L5P",
+          "end": 49,
+          "expanded_url": "https://x.com/NoCatsNoLife_m/status/1754400826469359996/video/1",
+          "media_key": "13_1754400771179978752",
+          "start": 26,
+          "url": "https://t.co/Ri5JHu6L5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042491238918864965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 320
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042413252575953173",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bakutan_bot1: にゃんこ大戦争 https://t.co/Ri5JHu6L5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17433,
+        "height": 764,
+        "media_key": "13_1754400771179978752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1754400771179978752/img/GasCLIWRelB_wHT2.jpg",
+        "public_metrics": {
+          "view_count": 8404660
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/320x424/9QzmPTjWWvwltGYP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/480x636/LKi3kFOPLZZz8Pbj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/vid/avc1/576x764/Ycy6lJoMLvZwCRwj.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1754400771179978752/pl/2dY6_ovqwKjuytyG.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1754400771179978752"
+          ],
+          "media_source_tweet_id": [
+            "1754400826469359996"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1169370162589396992",
+              "name": "The Battle Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169370162589396992",
+              "name": "The Battle Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2042491238918864965",
+        "created_at": "2026-04-10T06:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T07:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042491238918864965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1559069150785732608",
+              "start": 3,
+              "username": "Bakutan_bot1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri5JHu6L5P",
+              "end": 49,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1754400826469359996/video/1",
+              "media_key": "13_1754400771179978752",
+              "start": 26,
+              "url": "https://t.co/Ri5JHu6L5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042491238918864965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 320
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042413252575953173",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bakutan_bot1: にゃんこ大戦争 https://t.co/Ri5JHu6L5P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1754400771179978752"
+          ],
+          "media_source_tweet_id": [
+            "1754400826469359996"
+          ]
+        },
+        "author_id": "1559069150785732608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1169370162589396992",
+              "name": "The Battle Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169370162589396992",
+              "name": "The Battle Cats"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2042413252575953173",
+        "created_at": "2026-04-10T01:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T02:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042413252575953173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri5JHu6L5P",
+              "end": 31,
+              "expanded_url": "https://x.com/NoCatsNoLife_m/status/1754400826469359996/video/1",
+              "media_key": "13_1754400771179978752",
+              "start": 8,
+              "url": "https://t.co/Ri5JHu6L5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042413252575953173",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 100867,
+          "like_count": 1399,
+          "quote_count": 22,
+          "reply_count": 25,
+          "retweet_count": 320
+        },
+        "reply_settings": "everyone",
+        "text": "にゃんこ大戦争 https://t.co/Ri5JHu6L5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 657,
+          "like_count": 12620,
+          "listed_count": 3,
+          "media_count": 1313,
+          "tweet_count": 10013
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-15T06:47:19.000Z",
+        "description": "癒やされる動物をツイートにて皆様にお届けします📦",
+        "id": "1559069150785732608",
+        "name": "癒しのお届け便 📦【動物】",
+        "pinned_tweet_id": "2039686786998489329",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1628720490398511105/RGzC-DTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361656,
+          "following_count": 0,
+          "like_count": 1963,
+          "listed_count": 792,
+          "media_count": 10783,
+          "tweet_count": 10864
+        },
+        "username": "Bakutan_bot1",
+        "verified": true
+      }
+    ]
+  }
+}

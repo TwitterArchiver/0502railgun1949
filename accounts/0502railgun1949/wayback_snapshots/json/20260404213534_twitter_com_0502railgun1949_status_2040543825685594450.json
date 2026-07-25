@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040460902768795786",
+    "created_at": "2026-04-04T21:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T22:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040543825685594450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1743531573478363136",
+          "start": 0,
+          "username": "chionli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040543825685594450",
+    "in_reply_to_user_id": "1743531573478363136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040460902768795786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chionli 不会"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040460902768795786].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040460902768795786",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040460902768795786"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040460902768795786",
+        "created_at": "2026-04-04T21:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T22:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040543825685594450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743531573478363136",
+              "start": 0,
+              "username": "chionli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040543825685594450",
+        "in_reply_to_user_id": "1743531573478363136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040460902768795786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chionli 不会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 656,
+          "like_count": 12053,
+          "listed_count": 3,
+          "media_count": 1291,
+          "tweet_count": 9534
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T07:15:08.000Z",
+        "description": "was/were\nfate or destiny\n\nI love you all❤️🥰🥰",
+        "id": "1743531573478363136",
+        "location": "02",
+        "name": "c_or",
+        "pinned_tweet_id": "2030552008349093936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850533289301549056/szXTfxgm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 280,
+          "like_count": 2692,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1701
+        },
+        "username": "chionli",
+        "verified": false
+      }
+    ]
+  }
+}

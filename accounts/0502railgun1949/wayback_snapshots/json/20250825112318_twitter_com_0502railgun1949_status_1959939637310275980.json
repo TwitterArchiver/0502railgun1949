@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1959939637310275980",
+    "created_at": "2025-08-25T11:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T12:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1959939637310275980"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lianda_edu/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/lianda_edu/status/1959604306606526671",
+          "start": 15,
+          "url": "https://t.co/HbDCBlejhg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959939637310275980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959604306606526671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个人不需要老爹也能当上教授 https://t.co/HbDCBlejhg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1959939637310275980",
+        "created_at": "2025-08-25T11:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T12:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959939637310275980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lianda_edu/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/lianda_edu/status/1959604306606526671",
+              "start": 15,
+              "url": "https://t.co/HbDCBlejhg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959939637310275980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959604306606526671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个人不需要老爹也能当上教授 https://t.co/HbDCBlejhg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1272970200388743169",
+              "name": "Lex Fridman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272970200388743169",
+              "name": "Lex Fridman"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1959604306606526671",
+        "created_at": "2025-08-24T13:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T14:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959604306606526671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jefflijun/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/jefflijun/status/1959253744790458451",
+              "start": 26,
+              "url": "https://t.co/BSzXc2VKUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959604306606526671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959253744790458451",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不服😡😡😡我要是有个部级老爹说不定我也当上教授了😡 https://t.co/BSzXc2VKUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 631,
+          "like_count": 10799,
+          "listed_count": 4,
+          "media_count": 1050,
+          "tweet_count": 7518
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "国立西南联合大学名誉教务长（超新星纪元66年—）\n书虫🤓Abeunt studia in mores\n好看的里推@nFMz74Iziq5NqAt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 56,
+                "username": "nFMz74Iziq5NqAt"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "国立西南联合大学国家发展研究院",
+        "name": "Imperator小科耶夫🧩$BARD",
+        "pinned_tweet_id": "1958195323077292421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942893715208720384/8LIY9kah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 476,
+          "like_count": 12036,
+          "listed_count": 4,
+          "media_count": 677,
+          "tweet_count": 16458
+        },
+        "username": "lianda_edu",
+        "verified": false
+      }
+    ]
+  }
+}

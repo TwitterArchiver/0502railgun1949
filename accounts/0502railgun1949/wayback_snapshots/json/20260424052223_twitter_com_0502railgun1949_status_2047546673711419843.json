@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2047546673711419843",
+    "created_at": "2026-04-24T05:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047546673711419843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2047465543129768312",
+          "start": 5,
+          "url": "https://t.co/mI0XQKDk2K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047546673711419843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047465543129768312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "垃圾家长 https://t.co/mI0XQKDk2K"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22631,
+        "height": 1280,
+        "media_key": "13_2047278971050422272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047278971050422272/img/fbYp-tZS9nbMckJh.jpg",
+        "public_metrics": {
+          "view_count": 38688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047278971050422272/vid/avc1/320x568/ABMeoYA2WceBvPbe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047278971050422272/vid/avc1/480x852/tn-UFZu-AykRFoLK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047278971050422272/vid/avc1/720x1280/JzXRgD8yrXqvOrOt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047278971050422272/pl/OWKkrwmsZE-FqyNT.m3u8?v=74a"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2047279686644797440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlmBy5WEAAUtOi.jpg",
+        "width": 2880
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2047279797428957184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlmIPmWMAALZwF.jpg",
+        "width": 2880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2047546673711419843",
+        "created_at": "2026-04-24T05:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047546673711419843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2047465543129768312",
+              "start": 5,
+              "url": "https://t.co/mI0XQKDk2K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047546673711419843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047465543129768312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "垃圾家长 https://t.co/mI0XQKDk2K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047278971050422272",
+            "3_2047279686644797440",
+            "3_2047279797428957184"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2047465543129768312",
+        "created_at": "2026-04-24T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047465543129768312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0trsRAcC5",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047465543129768312/video/1",
+              "media_key": "13_2047278971050422272",
+              "start": 61,
+              "url": "https://t.co/Q0trsRAcC5"
+            },
+            {
+              "display_url": "pic.x.com/Q0trsRAcC5",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047465543129768312/video/1",
+              "media_key": "3_2047279686644797440",
+              "start": 61,
+              "url": "https://t.co/Q0trsRAcC5"
+            },
+            {
+              "display_url": "pic.x.com/Q0trsRAcC5",
+              "end": 84,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047465543129768312/video/1",
+              "media_key": "3_2047279797428957184",
+              "start": 61,
+              "url": "https://t.co/Q0trsRAcC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047465543129768312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月23日， 有网友曝光：河北衡阳市衡州小学2206班一名四年级学生跳楼自杀。\n家属们学校门口维权，数名警察在现场维稳。\n\n网传一份学生家长和老师的聊天记录，老师向家长抱怨该学生学习效率慢，作业写的很慢，字也写的很丑：“我刚刚把本子撕了，就写了4个，我狠狠的打了他一顿”“你可以给他一个袋子，让他去外面捡破烂去”\n\n家长则回复称，每到周末孩子写作业我们也会崩溃，他的慢这么多年来始终改不了，我们有时候也打的很猛，但还是希望老师能考虑一下他的身心健康，而且孩子打了，也有自己的自尊心。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 81931,
+          "like_count": 362,
+          "quote_count": 7,
+          "reply_count": 91,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "4月23日， 有网友曝光：河北衡阳市衡州小学2206班一名四年级学生跳楼自杀。\n家属们学校门口维权，数名警察在现场维稳。 https://t.co/Q0trsRAcC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 679,
+          "like_count": 13462,
+          "listed_count": 3,
+          "media_count": 1346,
+          "tweet_count": 10659
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200263,
+          "following_count": 1037,
+          "like_count": 9420,
+          "listed_count": 8637,
+          "media_count": 45688,
+          "tweet_count": 52771
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2041925101764145335",
+    "created_at": "2026-04-09T02:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042073935441989783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818268672206741504",
+          "start": 0,
+          "username": "kuai_ai8250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042073935441989783",
+    "in_reply_to_user_id": "1818268672206741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042017931006243070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuai_ai8250 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2041925101764145335",
+        "created_at": "2026-04-09T02:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042073935441989783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818268672206741504",
+              "start": 0,
+              "username": "kuai_ai8250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042073935441989783",
+        "in_reply_to_user_id": "1818268672206741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042017931006243070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuai_ai8250 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818268672206741504",
+        "conversation_id": "2041925101764145335",
+        "created_at": "2026-04-08T23:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042017931006243070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042017931006243070",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041925101764145335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 別啊😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 658,
+          "like_count": 12481,
+          "listed_count": 3,
+          "media_count": 1306,
+          "tweet_count": 9913
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T12:53:38.000Z",
+        "description": "平常就是個臉很臭的陰沉男 /Tw/重度ACG沈迷者（嘛啊，不過我什麼都可以聊啦）今年剛升高一捏嘿，不od 不自殘 對不起",
+        "id": "1818268672206741504",
+        "location": "你的屁眼往裡面挖十公分在腸壁上開個洞就是我家",
+        "name": "愛冰塊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041465052302327808/-norN5T__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 200,
+          "like_count": 8868,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 224
+        },
+        "username": "kuai_ai8250",
+        "verified": false
+      }
+    ]
+  }
+}

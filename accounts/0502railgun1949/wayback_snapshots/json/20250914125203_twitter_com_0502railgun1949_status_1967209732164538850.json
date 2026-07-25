@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1967209732164538850",
+    "created_at": "2025-09-14T12:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T13:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967209732164538850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3ch4O1H/status…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/3ch4O1H/status/1966915074611966457",
+          "start": 12,
+          "url": "https://t.co/QgbG8fbHSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967209732164538850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966915074611966457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一天一苹果，医生远离我 https://t.co/QgbG8fbHSE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1967209732164538850",
+        "created_at": "2025-09-14T12:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967209732164538850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3ch4O1H/status…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/3ch4O1H/status/1966915074611966457",
+              "start": 12,
+              "url": "https://t.co/QgbG8fbHSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967209732164538850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966915074611966457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一天一苹果，医生远离我 https://t.co/QgbG8fbHSE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609619970811482112",
+        "conversation_id": "1966915074611966457",
+        "created_at": "2025-09-13T17:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966915074611966457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/hsn8086/status/1966559382579118453",
+              "start": 30,
+              "url": "https://t.co/thvnA8kI8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966915074611966457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966559382579118453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我想起来\n我们科icu\n每个病人监护旁边都要放个塑料苹果 https://t.co/thvnA8kI8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 632,
+          "like_count": 10822,
+          "listed_count": 4,
+          "media_count": 1059,
+          "tweet_count": 7621
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T18:38:28.000Z",
+        "description": "只有情感能超越时间\n最爱的伴侣@LixdH5jzYx99195\n顺男",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "LixdH5jzYx99195"
+              }
+            ]
+          }
+        },
+        "id": "1609619970811482112",
+        "location": "unknown",
+        "name": "Echo4th",
+        "pinned_tweet_id": "1932518713498222834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925247331391479808/c3pLQLxw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 3471,
+          "like_count": 73028,
+          "listed_count": 6,
+          "media_count": 926,
+          "tweet_count": 29398
+        },
+        "username": "3ch4O1H",
+        "verified": false
+      }
+    ]
+  }
+}

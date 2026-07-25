@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829366240424448231",
+    "created_at": "2024-08-30T06:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T07:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829411902914732528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829411902914732528",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829366240424448231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 火气太重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829366240424448231",
+        "created_at": "2024-08-30T06:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T07:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829411902914732528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829411902914732528",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829366240424448231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 火气太重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449176529246638080",
+        "conversation_id": "1829366240424448231",
+        "created_at": "2024-08-30T03:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T04:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829366240424448231"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829366240424448231",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沃德发今天是怎么了\n起床时两眼一黑持续近十秒，上午右鼻孔流鼻血，现在左鼻孔流鼻血"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 895,
+          "following_count": 766,
+          "like_count": 4617,
+          "listed_count": 2,
+          "tweet_count": 3978
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "05后，是学生，业余天文爱好者.西南官话成渝小片OK，湖广片鄂中小片a little.生理男性，中长跑爱好",
+        "id": "1449176529246638080",
+        "location": "永久陪都",
+        "name": "上九天揽月²",
+        "pinned_tweet_id": "1809056511471067529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 485,
+          "like_count": 5920,
+          "listed_count": 2,
+          "tweet_count": 4525
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

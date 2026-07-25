@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824204477299298520",
+    "created_at": "2024-08-16T03:47:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T04:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824291966089048412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3307859748",
+          "start": 0,
+          "username": "reimeikanata"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824291966089048412",
+    "in_reply_to_user_id": "3307859748",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824204477299298520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reimeikanata 羡慕能遇到这样的人，我现在就是不愿意相信这样的人了，渴望并排斥着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824204477299298520",
+        "created_at": "2024-08-16T03:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T04:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824291966089048412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3307859748",
+              "start": 0,
+              "username": "reimeikanata"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824291966089048412",
+        "in_reply_to_user_id": "3307859748",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824204477299298520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reimeikanata 羡慕能遇到这样的人，我现在就是不愿意相信这样的人了，渴望并排斥着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3307859748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1824204477299298520",
+        "created_at": "2024-08-15T22:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T23:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824204477299298520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reimeikanata/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/reimeikanata/status/1824201639726903579",
+              "start": 89,
+              "url": "https://t.co/3fIMqYJfbz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824204477299298520",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824201639726903579",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不明白为什么明明什么都没有做，想到一个人就能安下心来...之前好像从来没有这种感觉，最多只有一起共度时光的时候很安心。挺神奇的，所以理性上也不是很敢期待，但莫名奇妙地就是有信心 https://t.co/3fIMqYJfbz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 762,
+          "like_count": 3991,
+          "listed_count": 2,
+          "tweet_count": 3668
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-06T15:09:52.000Z",
+        "description": "intp，ACT爱好者，喜欢抹茶🍵，雨天🌧，和雨后蔚蓝的天穹🌈",
+        "id": "3307859748",
+        "location": "VA-11 Hall A",
+        "name": "晓彼方",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761845475270152192/tt7F8bbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 374,
+          "like_count": 20896,
+          "listed_count": 0,
+          "tweet_count": 2297
+        },
+        "username": "reimeikanata",
+        "verified": true
+      }
+    ]
+  }
+}

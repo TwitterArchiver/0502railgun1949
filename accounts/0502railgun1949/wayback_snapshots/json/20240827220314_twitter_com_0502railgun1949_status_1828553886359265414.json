@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1828553886359265414",
+    "created_at": "2024-08-27T22:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T23:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828553886359265414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EricLiu_USA/st…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/EricLiu_USA/status/1828457883136328146",
+          "start": 132,
+          "url": "https://t.co/NQ7xxp194x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828553886359265414",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828457883136328146",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "实际上教材变成这样是因为，教纲完全就改了\n基本上都是强调中国传统文化落实文化自信，要弘扬主旋律，教材改编的开始是4年前的事情了，那个时候还是疫情时期呢\n具体的要看习近平新闻观，你看完那个时候就会理解教育这方面的改动\n有一本专门论述习近平新闻观的书是新华社出版社的 https://t.co/NQ7xxp194x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1828553886359265414",
+        "created_at": "2024-08-27T22:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T23:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828553886359265414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EricLiu_USA/st…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/EricLiu_USA/status/1828457883136328146",
+              "start": 132,
+              "url": "https://t.co/NQ7xxp194x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828553886359265414",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828457883136328146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "实际上教材变成这样是因为，教纲完全就改了\n基本上都是强调中国传统文化落实文化自信，要弘扬主旋律，教材改编的开始是4年前的事情了，那个时候还是疫情时期呢\n具体的要看习近平新闻观，你看完那个时候就会理解教育这方面的改动\n有一本专门论述习近平新闻观的书是新华社出版社的 https://t.co/NQ7xxp194x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828457881043169280"
+          ]
+        },
+        "author_id": "569860610",
+        "conversation_id": "1828457883136328146",
+        "created_at": "2024-08-27T15:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T16:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828457883136328146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v0eha1cxcd",
+              "end": 44,
+              "expanded_url": "https://twitter.com/EricLiu_USA/status/1828457883136328146/photo/1",
+              "media_key": "3_1828457881043169280",
+              "start": 21,
+              "url": "https://t.co/v0EhA1cXCD"
+            },
+            {
+              "display_url": "x.com/jefflijun/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/jefflijun/status/1828441818330976753",
+              "start": 45,
+              "url": "https://t.co/BThflBZzhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828457883136328146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 30606,
+          "like_count": 185,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828441818330976753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不敢相信这是真的，但搜了一下确实是这样的 https://t.co/v0EhA1cXCD https://t.co/BThflBZzhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 766,
+          "like_count": 4557,
+          "listed_count": 2,
+          "tweet_count": 3943
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-03T10:25:01.000Z",
+        "description": "谷学专家",
+        "id": "569860610",
+        "name": "Eric Liu 刘力朋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780786052632068096/kCo4J36h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68331,
+          "following_count": 1533,
+          "like_count": 23091,
+          "listed_count": 298,
+          "tweet_count": 21670
+        },
+        "username": "EricLiu_USA",
+        "verified": false
+      }
+    ]
+  }
+}

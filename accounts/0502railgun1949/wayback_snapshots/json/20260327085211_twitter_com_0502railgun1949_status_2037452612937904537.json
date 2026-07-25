@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2037452612937904537",
+    "created_at": "2026-03-27T08:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T09:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037452612937904537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "620632841",
+          "start": 3,
+          "username": "nytchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037452612937904537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037398710670569504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nytchinese: 在社交媒体上，人们追问：张雪峰究竟是将中国年轻人引向了更好的生活，还是扼杀了他们的理想主义？在他长期抱怨疲惫与过劳之后的猝然离世，又折射出中国高度内卷的工作文化怎样的症结？如果生命如此无常，那么为着越来越遥不可及的成功而精心规划，究竟还有没有意义…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2037452612937904537",
+        "created_at": "2026-03-27T08:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037452612937904537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "620632841",
+              "start": 3,
+              "username": "nytchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037452612937904537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037398710670569504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nytchinese: 在社交媒体上，人们追问：张雪峰究竟是将中国年轻人引向了更好的生活，还是扼杀了他们的理想主义？在他长期抱怨疲惫与过劳之后的猝然离世，又折射出中国高度内卷的工作文化怎样的症结？如果生命如此无常，那么为着越来越遥不可及的成功而精心规划，究竟还有没有意义…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "conversation_id": "2037398710670569504",
+        "created_at": "2026-03-27T05:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037398710670569504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "张雪峰是中国最知名的教育类网红，粉丝称赞他敢于直言寒门学生面对的残酷现实，批评者则称他是功利主义的犬儒者。他的突然离世引发人们对中国内卷文化的反思。",
+              "display_url": "cn.nytimes.com/china/20260327…",
+              "end": 148,
+              "expanded_url": "https://cn.nytimes.com/china/20260327/chinese-influencer-zhang-death/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2037339604874035200/Dm_nNE0N?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2037339604874035200/Dm_nNE0N?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "张雪峰猝逝引发震惊与反思：内卷时代中国人的焦虑与困境",
+              "unwound_url": "https://cn.nytimes.com/china/20260327/chinese-influencer-zhang-death/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/XEX6NWcvXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037398710670569504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14884,
+          "like_count": 49,
+          "quote_count": 4,
+          "reply_count": 25,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "在社交媒体上，人们追问：张雪峰究竟是将中国年轻人引向了更好的生活，还是扼杀了他们的理想主义？在他长期抱怨疲惫与过劳之后的猝然离世，又折射出中国高度内卷的工作文化怎样的症结？如果生命如此无常，那么为着越来越遥不可及的成功而精心规划，究竟还有没有意义？\nhttps://t.co/XEX6NWcvXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1195,
+          "following_count": 641,
+          "like_count": 11146,
+          "listed_count": 3,
+          "media_count": 1267,
+          "tweet_count": 9016
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方推特。Official Twitter Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/hzbwaOOxA6\nAndroid app: https://t.co/NIusFpRU2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 118,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 95,
+                "url": "https://t.co/hzbwaOOxA6"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 155,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 132,
+                "url": "https://t.co/NIusFpRU2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/iOfk7hg4wi"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "name": "纽约时报中文网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806196,
+          "following_count": 370,
+          "like_count": 1101,
+          "listed_count": 9147,
+          "media_count": 12927,
+          "tweet_count": 74057
+        },
+        "url": "https://t.co/iOfk7hg4wi",
+        "username": "nytchinese",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824165783309783362",
+    "created_at": "2024-08-15T19:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T20:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824165783309783362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1403330013320159232",
+          "start": 3,
+          "username": "k6DKFVWVuYGmZk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824165783309783362",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824154165976895623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @k6DKFVWVuYGmZk1: 看到这个想起某个朋友当时也进去了，和我不是一个地方。她那边人少教官多，教官就强奸她们，而且还有那种主动去陪的女生，还跑来跳脸说你想过的好你也去。她那个机构后来死人了关停了，可惜我待的那个还没有\n她把里面经历说给别人都不信，法治社会怎么会…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824165783309783362",
+        "created_at": "2024-08-15T19:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T20:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824165783309783362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1403330013320159232",
+              "start": 3,
+              "username": "k6DKFVWVuYGmZk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824165783309783362",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824154165976895623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @k6DKFVWVuYGmZk1: 看到这个想起某个朋友当时也进去了，和我不是一个地方。她那边人少教官多，教官就强奸她们，而且还有那种主动去陪的女生，还跑来跳脸说你想过的好你也去。她那个机构后来死人了关停了，可惜我待的那个还没有\n她把里面经历说给别人都不信，法治社会怎么会…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1824154160817901570",
+            "3_1824154163858771969"
+          ]
+        },
+        "author_id": "1403330013320159232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1824154165976895623",
+        "created_at": "2024-08-15T18:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T19:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824154165976895623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xciglujftj",
+              "end": 164,
+              "expanded_url": "https://twitter.com/k6DKFVWVuYGmZk1/status/1824154165976895623/photo/1",
+              "media_key": "3_1824154160817901570",
+              "start": 141,
+              "url": "https://t.co/xcIGlujfTj"
+            },
+            {
+              "display_url": "pic.x.com/xciglujftj",
+              "end": 164,
+              "expanded_url": "https://twitter.com/k6DKFVWVuYGmZk1/status/1824154165976895623/photo/1",
+              "media_key": "3_1824154163858771969",
+              "start": 141,
+              "url": "https://t.co/xcIGlujfTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824154165976895623",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看到这个想起某个朋友当时也进去了，和我不是一个地方。她那边人少教官多，教官就强奸她们，而且还有那种主动去陪的女生，还跑来跳脸说你想过的好你也去。她那个机构后来死人了关停了，可惜我待的那个还没有\n她把里面经历说给别人都不信，法治社会怎么会有这种情况，我草我是真信啊，我也是这么过来的 https://t.co/xcIGlujfTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 762,
+          "like_count": 3982,
+          "listed_count": 2,
+          "tweet_count": 3666
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-11T12:35:34.000Z",
+        "description": "谢谢你来看我 \n@SleeepingGatito 是我的小猫咪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 8,
+                "username": "SleeepingGatito"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/mHgy0bZRCn"
+              }
+            ]
+          }
+        },
+        "id": "1403330013320159232",
+        "location": "距离0.6KM",
+        "name": "灰白色萨摩耶（吸尘器版）",
+        "pinned_tweet_id": "1614889971483115520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620722118039306241/CM3RbswH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 438,
+          "like_count": 9089,
+          "listed_count": 11,
+          "tweet_count": 11892
+        },
+        "url": "https://t.co/mHgy0bZRCn",
+        "username": "k6DKFVWVuYGmZk1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1964637584220626948",
+    "created_at": "2025-09-11T13:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T14:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966132883543961692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1956078660894748672",
+          "start": 0,
+          "username": "CIO1061od"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966132883543961692",
+    "in_reply_to_user_id": "1956078660894748672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964637584220626948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CIO1061od 是不是俄罗斯食品店买的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1964637580231868416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PLeFoagAAEcTz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1964637584220626948",
+        "created_at": "2025-09-11T13:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T14:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966132883543961692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1956078660894748672",
+              "start": 0,
+              "username": "CIO1061od"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966132883543961692",
+        "in_reply_to_user_id": "1956078660894748672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964637584220626948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CIO1061od 是不是俄罗斯食品店买的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964637580231868416"
+          ]
+        },
+        "author_id": "1956078660894748672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1964637584220626948",
+        "created_at": "2025-09-07T10:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T11:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964637584220626948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAZb359VYg",
+              "end": 40,
+              "expanded_url": "https://x.com/CIO1061od/status/1964637584220626948/photo/1",
+              "media_key": "3_1964637580231868416",
+              "start": 17,
+              "url": "https://t.co/GAZb359VYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964637584220626948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "难吃，千万不要买，一股酒精的味道 https://t.co/GAZb359VYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 632,
+          "like_count": 10796,
+          "listed_count": 4,
+          "media_count": 1057,
+          "tweet_count": 7602
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T19:41:37.000Z",
+        "description": "情商低不是我的错，不会说话也不是我的错！父母没有教我啊！患有先天性阿片不敏感综合征罕见病的od患者555",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/p2x68v6apx3pic1",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/p2x68v6apx3pic1",
+                "start": 0,
+                "url": "https://t.co/LHbPahhAeA"
+              }
+            ]
+          }
+        },
+        "id": "1956078660894748672",
+        "location": "天为被，地为床",
+        "name": "秋秋秋秋秋镔！（中考就去死版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956097666540298245/JYWgEEV3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 75,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/LHbPahhAeA",
+        "username": "CIO1061od",
+        "verified": false
+      }
+    ]
+  }
+}

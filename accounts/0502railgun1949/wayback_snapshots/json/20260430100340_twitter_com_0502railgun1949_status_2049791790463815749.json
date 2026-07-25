@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1308892785282412544",
+          "name": "Boat racing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1308892785282412544",
+          "name": "Boat racing"
+        }
+      }
+    ],
+    "conversation_id": "2049791790463815749",
+    "created_at": "2026-04-30T10:03:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T11:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049791790463815749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mushi_frog/sta…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/mushi_frog/status/2047285712018706540",
+          "start": 20,
+          "url": "https://t.co/lUS4jgQnua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049791790463815749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047285712018706540",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，这东西还设摊位的\n虽然我也很喜欢 https://t.co/lUS4jgQnua"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047285699922235392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlrf0GaEAAvYtP.jpg",
+        "width": 1349
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308892785282412544",
+              "name": "Boat racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308892785282412544",
+              "name": "Boat racing"
+            }
+          }
+        ],
+        "conversation_id": "2049791790463815749",
+        "created_at": "2026-04-30T10:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049791790463815749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mushi_frog/sta…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/mushi_frog/status/2047285712018706540",
+              "start": 20,
+              "url": "https://t.co/lUS4jgQnua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049791790463815749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047285712018706540",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，这东西还设摊位的\n虽然我也很喜欢 https://t.co/lUS4jgQnua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047285699922235392"
+          ]
+        },
+        "author_id": "1289246266333880321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1308892785282412544",
+              "name": "Boat racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1308892785282412544",
+              "name": "Boat racing"
+            }
+          }
+        ],
+        "conversation_id": "2047285712018706540",
+        "created_at": "2026-04-23T12:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047285712018706540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "でっかいカエルすき？ 次回出店イベント - SBボートレース江戸川 5月4日(月)入場無料 でっかいカエル アクキー(¥ 1,000), でっかいカエル スマホステッカー(¥ 350), でっかいカエル スマホステッカー(¥ 350), でっかいカエル 缶バッジ57mm(¥ 990), でっかいカエルといっしょ クリアカード(¥ 1,000), でっかいカエル 缶バッジ54x80mm(¥ 990), でっかいカエル(夕焼け) スマホステッカー(¥ 350), でっかいカエル アクリルバッジ(¥ 1,500), でっかいカエル アクリルスタンド(¥ 3,500), でっかいカエル",
+              "display_url": "mushi-frog.booth.pm/items",
+              "end": 156,
+              "expanded_url": "https://mushi-frog.booth.pm/items",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2047285758588039168/Vn8ue9m_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047285758588039168/Vn8ue9m_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 133,
+              "status": 200,
+              "title": "でっかいカエルすき？ - BOOTH",
+              "unwound_url": "https://mushi-frog.booth.pm/items",
+              "url": "https://t.co/roUl8aYeQg"
+            },
+            {
+              "display_url": "pic.x.com/PHEZ8LNuUr",
+              "end": 180,
+              "expanded_url": "https://x.com/mushi_frog/status/2047285712018706540/photo/1",
+              "media_key": "3_2047285699922235392",
+              "start": 157,
+              "url": "https://t.co/PHEZ8LNuUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047285712018706540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 12828,
+          "like_count": 319,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "【イベント参加のお知らせ】\nSBボートレース江戸川（5/4）に出店します🐸\n\nでっかいカエルグッズの一部をイベント価格でご用意してます！\n入場無料なので、お時間ある方はぜひ遊びに来てください🙌\n\n遠方の方はオンラインショップもどうぞ◎\n海外発送にも対応しています🌍\nhttps://t.co/roUl8aYeQg https://t.co/PHEZ8LNuUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 690,
+          "like_count": 13836,
+          "listed_count": 3,
+          "media_count": 1351,
+          "tweet_count": 10910
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-31T17:07:35.000Z",
+        "description": "でっかいカエルすき？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mushi_frog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@mushi_frog",
+                "start": 0,
+                "url": "https://t.co/GoZQISDkxr"
+              }
+            ]
+          }
+        },
+        "id": "1289246266333880321",
+        "location": "◎ AI学習・無断転載・使用禁止(※ただし面白ければ許す)",
+        "name": "でっかいカエル",
+        "pinned_tweet_id": "2042791507229577443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042823902104293377/6ZLVHwA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22680,
+          "following_count": 458,
+          "like_count": 3682,
+          "listed_count": 117,
+          "media_count": 2059,
+          "tweet_count": 3792
+        },
+        "url": "https://t.co/GoZQISDkxr",
+        "username": "mushi_frog",
+        "verified": false
+      }
+    ]
+  }
+}

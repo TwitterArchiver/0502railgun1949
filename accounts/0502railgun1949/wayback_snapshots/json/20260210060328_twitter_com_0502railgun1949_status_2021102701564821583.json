@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020384131385892864"
+      ],
+      "media_source_tweet_id": [
+        "2020648844795552031"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2021102701564821583",
+    "created_at": "2026-02-10T06:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T07:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021102701564821583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2450969401",
+          "start": 3,
+          "username": "amnestychinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6b4hlgsEs2",
+          "end": 59,
+          "expanded_url": "https://x.com/amnestychinese/status/2020648844795552031/photo/1",
+          "media_key": "3_2020384131385892864",
+          "start": 36,
+          "url": "https://t.co/6b4hlgsEs2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021102701564821583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020648844795552031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amnestychinese: 没有征得同意的性行为，就是性侵 https://t.co/6b4hlgsEs2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2020384131385892864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnYqb0XoAAdTyg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020384131385892864"
+          ],
+          "media_source_tweet_id": [
+            "2020648844795552031"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2021102701564821583",
+        "created_at": "2026-02-10T06:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T07:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021102701564821583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2450969401",
+              "start": 3,
+              "username": "amnestychinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b4hlgsEs2",
+              "end": 59,
+              "expanded_url": "https://x.com/amnestychinese/status/2020648844795552031/photo/1",
+              "media_key": "3_2020384131385892864",
+              "start": 36,
+              "url": "https://t.co/6b4hlgsEs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021102701564821583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020648844795552031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amnestychinese: 没有征得同意的性行为，就是性侵 https://t.co/6b4hlgsEs2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020384131385892864"
+          ]
+        },
+        "author_id": "2450969401",
+        "conversation_id": "2020648844795552031",
+        "created_at": "2026-02-09T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020648844795552031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6b4hlgsEs2",
+              "end": 39,
+              "expanded_url": "https://x.com/amnestychinese/status/2020648844795552031/photo/1",
+              "media_key": "3_2020384131385892864",
+              "start": 16,
+              "url": "https://t.co/6b4hlgsEs2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020648844795552031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17412,
+          "like_count": 174,
+          "quote_count": 14,
+          "reply_count": 26,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "没有征得同意的性行为，就是性侵 https://t.co/6b4hlgsEs2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 608,
+          "like_count": 10773,
+          "listed_count": 3,
+          "media_count": 1144,
+          "tweet_count": 8181
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-18T06:40:35.000Z",
+        "description": "关于能源转型和气候人权，你知道多少？国际特赦组织人权学院最新课程上线了！\n立即访问课程，链接请戳⬇️⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/49uexeY",
+                "end": 23,
+                "expanded_url": "https://bit.ly/49uexeY",
+                "start": 0,
+                "url": "https://t.co/ZnHrig2ZlB"
+              }
+            ]
+          }
+        },
+        "id": "2450969401",
+        "location": "世界各地",
+        "name": "国际特赦组织中文",
+        "pinned_tweet_id": "2001079898228609322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994378784674369536/LXBGqM5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103922,
+          "following_count": 746,
+          "like_count": 3886,
+          "listed_count": 510,
+          "media_count": 3937,
+          "tweet_count": 7857
+        },
+        "url": "https://t.co/ZnHrig2ZlB",
+        "username": "amnestychinese",
+        "verified": true
+      }
+    ]
+  }
+}

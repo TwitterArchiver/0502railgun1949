@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1879822589218128272",
+    "created_at": "2025-01-16T09:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T10:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879822589218128272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xianzhong_1953…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/Xianzhong_1953/status/1879537160086499398",
+          "start": 74,
+          "url": "https://t.co/TmqXhyRgTZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879822589218128272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879537160086499398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实，美军的信息公开度在世界军事领域确实感觉算比较高，就中国搞得神神秘秘的，可能是因为什么事情都要交给国会审核吧，85%的预算，都要提交报告给国会 https://t.co/TmqXhyRgTZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1879822589218128272",
+        "created_at": "2025-01-16T09:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T10:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879822589218128272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianzhong_1953…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/Xianzhong_1953/status/1879537160086499398",
+              "start": 74,
+              "url": "https://t.co/TmqXhyRgTZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879822589218128272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879537160086499398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实，美军的信息公开度在世界军事领域确实感觉算比较高，就中国搞得神神秘秘的，可能是因为什么事情都要交给国会审核吧，85%的预算，都要提交报告给国会 https://t.co/TmqXhyRgTZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879537156084957184",
+            "3_1879537156378574848",
+            "3_1879537156609204224",
+            "3_1879537157066424320"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1879537160086499398",
+        "created_at": "2025-01-15T14:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T15:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879537160086499398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nU6eHg8TRV",
+              "end": 44,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1879537160086499398/photo/1",
+              "media_key": "3_1879537156084957184",
+              "start": 21,
+              "url": "https://t.co/nU6eHg8TRV"
+            },
+            {
+              "display_url": "pic.x.com/nU6eHg8TRV",
+              "end": 44,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1879537160086499398/photo/1",
+              "media_key": "3_1879537156378574848",
+              "start": 21,
+              "url": "https://t.co/nU6eHg8TRV"
+            },
+            {
+              "display_url": "pic.x.com/nU6eHg8TRV",
+              "end": 44,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1879537160086499398/photo/1",
+              "media_key": "3_1879537156609204224",
+              "start": 21,
+              "url": "https://t.co/nU6eHg8TRV"
+            },
+            {
+              "display_url": "pic.x.com/nU6eHg8TRV",
+              "end": 44,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/1879537160086499398/photo/1",
+              "media_key": "3_1879537157066424320",
+              "start": 21,
+              "url": "https://t.co/nU6eHg8TRV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879537160086499398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 161270,
+          "like_count": 792,
+          "quote_count": 21,
+          "reply_count": 101,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "真好，美军开始在小红书上发送军事设备了？ https://t.co/nU6eHg8TRV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 750,
+          "like_count": 6285,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 5176
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "不是支黑哦，但是不妨碍俺盼献忠\n\n曾经的浙江苗族人\n\n已拉黑9000多万条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "献忠粉丝",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528597540819841024/vMyTbSY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102982,
+          "following_count": 804,
+          "like_count": 217640,
+          "listed_count": 344,
+          "media_count": 19705,
+          "tweet_count": 38692
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

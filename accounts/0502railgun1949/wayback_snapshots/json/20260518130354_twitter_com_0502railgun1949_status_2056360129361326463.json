@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056360129361326463",
+    "created_at": "2026-05-18T13:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056360129361326463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "39941478",
+          "start": 3,
+          "username": "zaobaosg"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/VyOO",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/VyOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056360129361326463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056344153907147220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zaobaosg: 中国科普博主“耿同学”近日接连举报多个高校学者、教授造假，令学术圈震动，还据报有人请求他不要曝光，他表示“没有办法”。耿同学最新发声称，他手里还有同济大学、华东师范大学、湖南大学和中山大学四所高校相关学术造假资料。 https://t.co/VyOO…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056360129361326463",
+        "created_at": "2026-05-18T13:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056360129361326463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "39941478",
+              "start": 3,
+              "username": "zaobaosg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/VyOO",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/VyOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056360129361326463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056344153907147220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zaobaosg: 中国科普博主“耿同学”近日接连举报多个高校学者、教授造假，令学术圈震动，还据报有人请求他不要曝光，他表示“没有办法”。耿同学最新发声称，他手里还有同济大学、华东师范大学、湖南大学和中山大学四所高校相关学术造假资料。 https://t.co/VyOO…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "conversation_id": "2056344153907147220",
+        "created_at": "2026-05-18T12:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056344153907147220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国科普博主“耿同学”近日接连举报多个高校学者、教授造假，令学术圈震动，还据报有人请求他不要曝光，他表示“没有办法”。耿同学最新发声称，他手里还有同济大学、华东师范大学、湖南大学和中山大学四所高校相关学术造假资料。",
+              "display_url": "zaobao.com.sg/news/china/sto…",
+              "end": 131,
+              "expanded_url": "https://www.zaobao.com.sg/news/china/story20260518-9064867?utm_medium=Social&utm_source=Twitter#Echobox=1779082410-1",
+              "start": 108,
+              "status": 200,
+              "title": "“耿同学”发声称还有四所高校学术造假证据",
+              "unwound_url": "https://www.zaobao.com.sg/news/china/story20260518-9064867?utm_medium=Social&utm_source=Twitter#Echobox=1779082410-1",
+              "url": "https://t.co/VyOOTXEGGO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056344153907147220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7687,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "中国科普博主“耿同学”近日接连举报多个高校学者、教授造假，令学术圈震动，还据报有人请求他不要曝光，他表示“没有办法”。耿同学最新发声称，他手里还有同济大学、华东师范大学、湖南大学和中山大学四所高校相关学术造假资料。 https://t.co/VyOOTXEGGO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 678,
+          "like_count": 14434,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11425
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "pinned_tweet_id": "2041003385239806399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1763301,
+          "following_count": 6,
+          "like_count": 22,
+          "listed_count": 6213,
+          "media_count": 8132,
+          "tweet_count": 177913
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

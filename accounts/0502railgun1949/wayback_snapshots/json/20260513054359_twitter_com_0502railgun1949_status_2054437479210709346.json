@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054380909194092544"
+      ],
+      "media_source_tweet_id": [
+        "2054380920329932882"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2054437479210709346",
+    "created_at": "2026-05-13T05:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054437479210709346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1819658574412574720",
+          "start": 3,
+          "username": "ruruko_momo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vA3fCC7yV",
+          "end": 113,
+          "expanded_url": "https://x.com/ruruko_momo/status/2054380920329932882/photo/1",
+          "media_key": "3_2054380909194092544",
+          "start": 90,
+          "url": "https://t.co/2vA3fCC7yV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054437479210709346",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054380920329932882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruruko_momo: Traditional Chinese clothing: Ming Style Hanfu “Changshan”\n中国传统服饰-明制汉服长衫 https://t.co/2vA3fCC7yV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054380909194092544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKgjWXboAAq1NW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054380909194092544"
+          ],
+          "media_source_tweet_id": [
+            "2054380920329932882"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2054437479210709346",
+        "created_at": "2026-05-13T05:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054437479210709346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1819658574412574720",
+              "start": 3,
+              "username": "ruruko_momo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vA3fCC7yV",
+              "end": 113,
+              "expanded_url": "https://x.com/ruruko_momo/status/2054380920329932882/photo/1",
+              "media_key": "3_2054380909194092544",
+              "start": 90,
+              "url": "https://t.co/2vA3fCC7yV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054437479210709346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054380920329932882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruruko_momo: Traditional Chinese clothing: Ming Style Hanfu “Changshan”\n中国传统服饰-明制汉服长衫 https://t.co/2vA3fCC7yV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054380909194092544"
+          ]
+        },
+        "author_id": "1819658574412574720",
+        "conversation_id": "2054380920329932882",
+        "created_at": "2026-05-13T01:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054380920329932882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vA3fCC7yV",
+              "end": 96,
+              "expanded_url": "https://x.com/ruruko_momo/status/2054380920329932882/photo/1",
+              "media_key": "3_2054380909194092544",
+              "start": 73,
+              "url": "https://t.co/2vA3fCC7yV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054380920329932882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2810,
+          "like_count": 209,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "Traditional Chinese clothing: Ming Style Hanfu “Changshan”\n中国传统服饰-明制汉服长衫 https://t.co/2vA3fCC7yV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 681,
+          "like_count": 14241,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11256
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-03T08:57:10.000Z",
+        "description": "汉服画师，传统服饰爱好者/\n正統中華風ー漢服を描くイラストレーター/\nChinese Hanfu Illustrator",
+        "id": "1819658574412574720",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "桃芷TAOZHI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046203845567823872/is_k4sA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 605,
+          "like_count": 39,
+          "listed_count": 3,
+          "media_count": 27,
+          "tweet_count": 39
+        },
+        "username": "ruruko_momo",
+        "verified": false
+      }
+    ]
+  }
+}

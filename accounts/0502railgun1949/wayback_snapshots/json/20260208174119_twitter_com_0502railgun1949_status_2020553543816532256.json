@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2020553543816532256",
+    "created_at": "2026-02-08T17:41:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020553543816532256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1854099041396899840",
+          "start": 3,
+          "username": "4698pjxbs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020553543816532256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020224560767865064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4698pjxbs: 当如今教育导致的所有问题最终都指向高考时，既得利益者还是会死不承认，因为一旦揭开高考这层最表面的矛盾，就只能直面更严重的分配矛盾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2020553543816532256",
+        "created_at": "2026-02-08T17:41:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020553543816532256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1854099041396899840",
+              "start": 3,
+              "username": "4698pjxbs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020553543816532256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020224560767865064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4698pjxbs: 当如今教育导致的所有问题最终都指向高考时，既得利益者还是会死不承认，因为一旦揭开高考这层最表面的矛盾，就只能直面更严重的分配矛盾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "2020224560767865064",
+        "created_at": "2026-02-07T19:54:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020224560767865064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2020190547336655192",
+              "start": 65,
+              "url": "https://t.co/Duzx97lBL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020224560767865064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1764,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020190547336655192",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当如今教育导致的所有问题最终都指向高考时，既得利益者还是会死不承认，因为一旦揭开高考这层最表面的矛盾，就只能直面更严重的分配矛盾 https://t.co/Duzx97lBL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 608,
+          "like_count": 10768,
+          "listed_count": 3,
+          "media_count": 1140,
+          "tweet_count": 8165
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996935239063801856/TQyVEoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 773,
+          "like_count": 9841,
+          "listed_count": 10,
+          "media_count": 169,
+          "tweet_count": 5776
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1798314784825421824"
+      ],
+      "media_source_tweet_id": [
+        "1798314847022858622"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Skiing",
+          "id": "847902877347495936",
+          "name": "Skiing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1260978608199266304",
+          "name": "Winter sports"
+        }
+      }
+    ],
+    "conversation_id": "1805563262354047100",
+    "created_at": "2024-06-25T11:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T12:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805563262354047100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1519869093586751488",
+          "start": 3,
+          "username": "bugcat_capoo_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/YyKT8fygNC",
+          "end": 51,
+          "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1798314847022858622/video/1",
+          "media_key": "13_1798314784825421824",
+          "start": 28,
+          "url": "https://t.co/YyKT8fygNC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805563262354047100",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 446
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798314847022858622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugcat_capoo_tw: 一起滑雪吧🎿 https://t.co/YyKT8fygNC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22291,
+        "height": 1920,
+        "media_key": "13_1798314784825421824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1798314784825421824/img/MvPPhsjlFElhfh4D.jpg",
+        "public_metrics": {
+          "view_count": 18366
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798314784825421824/vid/avc1/1080x1920/8MasFCZnAi264Paz.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1798314784825421824/pl/G-RWG34Caw9tixxi.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798314784825421824/vid/avc1/720x1280/frefGx2bz-JUOfIx.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798314784825421824/vid/avc1/480x852/SDPOB4KLRwOGlE2V.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1798314784825421824/vid/avc1/320x568/HRC3-sp3Hqm_AckK.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1798314784825421824"
+          ],
+          "media_source_tweet_id": [
+            "1798314847022858622"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "1805563262354047100",
+        "created_at": "2024-06-25T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805563262354047100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1519869093586751488",
+              "start": 3,
+              "username": "bugcat_capoo_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YyKT8fygNC",
+              "end": 51,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1798314847022858622/video/1",
+              "media_key": "13_1798314784825421824",
+              "start": 28,
+              "url": "https://t.co/YyKT8fygNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805563262354047100",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 446
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798314847022858622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugcat_capoo_tw: 一起滑雪吧🎿 https://t.co/YyKT8fygNC"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1798314784825421824"
+          ]
+        },
+        "author_id": "1519869093586751488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Skiing",
+              "id": "847902877347495936",
+              "name": "Skiing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1260978608199266304",
+              "name": "Winter sports"
+            }
+          }
+        ],
+        "conversation_id": "1798314847022858622",
+        "created_at": "2024-06-05T11:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-05T12:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798314847022858622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/YyKT8fygNC",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bugcat_capoo_tw/status/1798314847022858622/video/1",
+              "media_key": "13_1798314784825421824",
+              "start": 7,
+              "url": "https://t.co/YyKT8fygNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798314847022858622",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 72597,
+          "like_count": 3128,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 446
+        },
+        "reply_settings": "everyone",
+        "text": "一起滑雪吧🎿 https://t.co/YyKT8fygNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 749,
+          "like_count": 3079,
+          "listed_count": 1,
+          "tweet_count": 3176
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-29T02:40:18.000Z",
+        "description": "Strange creature that looks like a cat and a bug. 貓貓蟲咖波官方帳號，作者亞拉，來自台灣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/capoo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/capoo",
+                "start": 0,
+                "url": "https://t.co/XuFbWWPA9k"
+              }
+            ]
+          }
+        },
+        "id": "1519869093586751488",
+        "location": "Taichung City, Taiwan",
+        "name": "Bugcat Capoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519869339981152257/KbHAyq-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93784,
+          "following_count": 62,
+          "like_count": 30,
+          "listed_count": 191,
+          "tweet_count": 183
+        },
+        "url": "https://t.co/XuFbWWPA9k",
+        "username": "bugcat_capoo_tw",
+        "verified": true
+      }
+    ]
+  }
+}

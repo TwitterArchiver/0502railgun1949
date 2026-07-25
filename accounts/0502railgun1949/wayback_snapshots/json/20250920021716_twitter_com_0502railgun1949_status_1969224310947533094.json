@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1969224310947533094",
+    "created_at": "2025-09-20T02:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T03:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969224310947533094"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1969084074158670311",
+          "start": 46,
+          "url": "https://t.co/vtdxSeaca0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969224310947533094",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969084074158670311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太正常了，我们小学体育老师都是躲在阴的地方自己呆着\n或者是穿防晒衣防晒帽\n学生连水都带不了 https://t.co/vtdxSeaca0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 308933,
+        "height": 960,
+        "media_key": "13_1969032894233329664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969032894233329664/img/cO1WDZPPOyBAXod4.jpg",
+        "public_metrics": {
+          "view_count": 45578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969032894233329664/vid/avc1/320x564/A5-EqtOm227FMzA1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969032894233329664/vid/avc1/480x846/3kYPgoKjgL-Pyb1b.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969032894233329664/vid/avc1/544x960/xfHQ6LUyqpVYATze.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969032894233329664/pl/dzPs5zwrFFj8TfJy.m3u8?v=248"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1969224310947533094",
+        "created_at": "2025-09-20T02:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T03:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969224310947533094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1969084074158670311",
+              "start": 46,
+              "url": "https://t.co/vtdxSeaca0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969224310947533094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969084074158670311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太正常了，我们小学体育老师都是躲在阴的地方自己呆着\n或者是穿防晒衣防晒帽\n学生连水都带不了 https://t.co/vtdxSeaca0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969032894233329664"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1969084074158670311",
+        "created_at": "2025-09-19T17:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T18:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969084074158670311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKfxdMhXu9",
+              "end": 117,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1969084074158670311/video/1",
+              "media_key": "13_1969032894233329664",
+              "start": 94,
+              "url": "https://t.co/sKfxdMhXu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969084074158670311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 83783,
+          "like_count": 593,
+          "quote_count": 9,
+          "reply_count": 71,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "9月19日，广东省中山市，四沙小学。\n一名教师在烈日下对一名一年级学生长时间体罚，期间另一名教师站在一旁旁观。两位教师均身着防晒衣、佩戴防晒帽，而被体罚的孩子却在烈日下暴晒，无任何遮挡。 https://t.co/sKfxdMhXu9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 631,
+          "like_count": 10822,
+          "listed_count": 4,
+          "media_count": 1060,
+          "tweet_count": 7633
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1966463459425497352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2106968,
+          "following_count": 991,
+          "like_count": 8099,
+          "listed_count": 8351,
+          "media_count": 35095,
+          "tweet_count": 41889
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

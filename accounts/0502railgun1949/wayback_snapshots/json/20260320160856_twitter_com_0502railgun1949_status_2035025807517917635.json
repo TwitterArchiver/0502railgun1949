@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311728290139258880",
+          "name": "Animation & comics events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1313591444259573760",
+          "name": "Anime Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2026524743705178112",
+          "name": "AnimeJapan"
+        }
+      }
+    ],
+    "conversation_id": "2035025807517917635",
+    "created_at": "2026-03-20T16:08:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T17:08:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035025807517917635"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "AnimeJapan"
+        },
+        {
+          "end": 102,
+          "start": 92,
+          "tag": "wbj_anime"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1036210172",
+          "start": 3,
+          "username": "wb_anime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035025807517917635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 96
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034598354345484506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wb_anime: #AnimeJapan 2026 出展🎉 \n\n🎞2013年 \nとある科学の超電磁砲S / \nA Certain Scientific Railgun S\n\n#wbj_anime 15th Anniversary at AnimeJapan 2026!…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2034598214842892288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDxYS_BawAA28Ec.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313591444259573760",
+              "name": "Anime Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2026524743705178112",
+              "name": "AnimeJapan"
+            }
+          }
+        ],
+        "conversation_id": "2035025807517917635",
+        "created_at": "2026-03-20T16:08:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T17:08:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035025807517917635"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "AnimeJapan"
+            },
+            {
+              "end": 102,
+              "start": 92,
+              "tag": "wbj_anime"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1036210172",
+              "start": 3,
+              "username": "wb_anime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035025807517917635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034598354345484506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wb_anime: #AnimeJapan 2026 出展🎉 \n\n🎞2013年 \nとある科学の超電磁砲S / \nA Certain Scientific Railgun S\n\n#wbj_anime 15th Anniversary at AnimeJapan 2026!…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034598214842892288"
+          ]
+        },
+        "author_id": "1036210172",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+              "id": "10054665646",
+              "name": "とある魔術の禁書目録III"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311728290139258880",
+              "name": "Animation & comics events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1313591444259573760",
+              "name": "Anime Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2026524743705178112",
+              "name": "AnimeJapan"
+            }
+          }
+        ],
+        "conversation_id": "2034241171871158483",
+        "created_at": "2026-03-19T11:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T12:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034598354345484506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "AnimeJapan"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "wbj_anime"
+            },
+            {
+              "end": 157,
+              "start": 150,
+              "tag": "AJ2026"
+            },
+            {
+              "end": 168,
+              "start": 158,
+              "tag": "wbj_anime"
+            },
+            {
+              "end": 173,
+              "start": 169,
+              "tag": "とある"
+            },
+            {
+              "end": 180,
+              "start": 174,
+              "tag": "レールガン"
+            }
+          ],
+          "urls": [
+            {
+              "description": "レールガンが帰ってきた！おなじみのメンバーと学園都市的日常生活を送っていた御坂美琴に突然の学園都市の『闇』が迫る。TVアニメ第2期。",
+              "display_url": "toaru-project.com/railgun_s/",
+              "end": 149,
+              "expanded_url": "https://toaru-project.com/railgun_s/",
+              "start": 126,
+              "status": 200,
+              "title": "とある科学の超電磁砲S アニメ公式サイト",
+              "unwound_url": "https://toaru-project.com/railgun_s/",
+              "url": "https://t.co/o34gJBWp1A"
+            },
+            {
+              "display_url": "pic.x.com/jB47yLqQh7",
+              "end": 204,
+              "expanded_url": "https://x.com/wb_anime/status/2034598354345484506/photo/1",
+              "media_key": "3_2034598214842892288",
+              "start": 181,
+              "url": "https://t.co/jB47yLqQh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034598354345484506",
+        "in_reply_to_user_id": "1036210172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 12269,
+          "like_count": 288,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034241171871158483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#AnimeJapan 2026 出展🎉 \n\n🎞2013年 \nとある科学の超電磁砲S / \nA Certain Scientific Railgun S\n\n#wbj_anime 15th Anniversary at AnimeJapan 2026!\nhttps://t.co/o34gJBWp1A\n#AJ2026 #wbj_anime #とある #レールガン https://t.co/jB47yLqQh7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1193,
+          "following_count": 623,
+          "like_count": 11155,
+          "listed_count": 3,
+          "media_count": 1250,
+          "tweet_count": 8811
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-26T03:36:10.000Z",
+        "description": "ワーナー ブラザース ジャパンのアニメ公式X。今までプロデュースしてきたアニメから最新作の情報まで自社作品に関して呟いていきます。 Let's stay connected with Anime! 公式TikTok: https://t.co/TK0UW7kDl6 #wbj_anime",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 133,
+                "tag": "wbj_anime"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tiktok.com/@warnerbros_an…",
+                "end": 132,
+                "expanded_url": "http://www.tiktok.com/@warnerbros_anime",
+                "start": 109,
+                "url": "https://t.co/TK0UW7kDl6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCcjqS…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCcjqSFXBg2cGQg5r0YooMiA",
+                "start": 0,
+                "url": "https://t.co/gY6LgS46X4"
+              }
+            ]
+          }
+        },
+        "id": "1036210172",
+        "name": "Warner Bros. Japan Anime",
+        "pinned_tweet_id": "2033745730847088859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033454766744027137/M2sI6mMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37148,
+          "following_count": 240,
+          "like_count": 4214,
+          "listed_count": 489,
+          "media_count": 4586,
+          "tweet_count": 16027
+        },
+        "url": "https://t.co/gY6LgS46X4",
+        "username": "wb_anime",
+        "verified": true
+      }
+    ]
+  }
+}

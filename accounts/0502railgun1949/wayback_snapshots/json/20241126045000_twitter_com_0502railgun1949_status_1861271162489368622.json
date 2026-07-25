@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1861271158643118080"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1861271162489368622",
+    "created_at": "2024-11-26T04:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T05:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861271162489368622"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zpb6FEIAxD",
+          "end": 160,
+          "expanded_url": "https://x.com/0502railgun1949/status/1861271162489368622/photo/1",
+          "media_key": "3_1861271158643118080",
+          "start": 137,
+          "url": "https://t.co/Zpb6FEIAxD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861271162489368622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得应该不执着于女性的外貌着装之类\n女体化的特征在每一个时代都不同\n现在就是裙子，古代旗袍，大褂之类的\n是由生产关系，经济基础之类的决定的\n就好像丝袜高跟鞋最开始都是给男人穿的\n随着时间的演变才成为了女性的代表\n所以我还可以说是流动性别\n想可爱就成为女生\n平常就成为男生 https://t.co/Zpb6FEIAxD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 818,
+        "media_key": "3_1861271158643118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdSQQeGaUAA6iR3.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861271158643118080"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1861271162489368622",
+        "created_at": "2024-11-26T04:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861271162489368622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zpb6FEIAxD",
+              "end": 160,
+              "expanded_url": "https://x.com/0502railgun1949/status/1861271162489368622/photo/1",
+              "media_key": "3_1861271158643118080",
+              "start": 137,
+              "url": "https://t.co/Zpb6FEIAxD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861271162489368622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得应该不执着于女性的外貌着装之类\n女体化的特征在每一个时代都不同\n现在就是裙子，古代旗袍，大褂之类的\n是由生产关系，经济基础之类的决定的\n就好像丝袜高跟鞋最开始都是给男人穿的\n随着时间的演变才成为了女性的代表\n所以我还可以说是流动性别\n想可爱就成为女生\n平常就成为男生 https://t.co/Zpb6FEIAxD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 752,
+          "like_count": 5880,
+          "listed_count": 1,
+          "tweet_count": 4652
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

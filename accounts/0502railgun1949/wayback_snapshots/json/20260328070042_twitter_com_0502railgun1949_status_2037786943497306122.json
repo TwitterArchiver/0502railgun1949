@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2037786943497306122",
+    "created_at": "2026-03-28T07:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T08:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037786943497306122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linyue7523/sta…",
+          "end": 160,
+          "expanded_url": "https://twitter.com/linyue7523/status/2037443629606953457",
+          "start": 137,
+          "url": "https://t.co/mh9jnwDqF6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037786943497306122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037443629606953457",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《民法典》明确规定了监护人的法定顺位，父母的监护职责是法定的，不能通过民事协议转让给非营利机构或企业\n未成年人的父母或者其他监护人因外出务工等原因在一定期限内不能完全履行监护职责的，应当委托具有照护能力的完全民事行为能力人代为照护；无正当理由不得将未成年人托付给他人照护。 https://t.co/mh9jnwDqF6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2037443621381980160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZ0LcZbwAA0K83.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2037786943497306122",
+        "created_at": "2026-03-28T07:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037786943497306122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyue7523/sta…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/linyue7523/status/2037443629606953457",
+              "start": 137,
+              "url": "https://t.co/mh9jnwDqF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037786943497306122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037443629606953457",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《民法典》明确规定了监护人的法定顺位，父母的监护职责是法定的，不能通过民事协议转让给非营利机构或企业\n未成年人的父母或者其他监护人因外出务工等原因在一定期限内不能完全履行监护职责的，应当委托具有照护能力的完全民事行为能力人代为照护；无正当理由不得将未成年人托付给他人照护。 https://t.co/mh9jnwDqF6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037443621381980160"
+          ]
+        },
+        "author_id": "1766858890636120064",
+        "conversation_id": "2037443629606953457",
+        "created_at": "2026-03-27T08:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037443629606953457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xe1uErxFKN",
+              "end": 122,
+              "expanded_url": "https://x.com/Linyue7523/status/2037443629606953457/photo/1",
+              "media_key": "3_2037443621381980160",
+              "start": 99,
+              "url": "https://t.co/Xe1uErxFKN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037443629606953457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 26507,
+          "like_count": 277,
+          "quote_count": 4,
+          "reply_count": 26,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "有这样一个人\n他曾经是高中的年级第三，吉他十级\n但是由于玩手机被父母送进了这家机构下的一个校区\n机构夺走了他的天赋，给他留下了创伤与无穷尽的自我否定\n这不是孤例，这是全国所有机构的受害者的一个缩影 https://t.co/Xe1uErxFKN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1207,
+          "following_count": 645,
+          "like_count": 11233,
+          "listed_count": 3,
+          "media_count": 1279,
+          "tweet_count": 9084
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "摄影📷/东方Project",
+        "id": "1766858890636120064",
+        "name": "霖",
+        "pinned_tweet_id": "2035405077222138018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014974017019535361/pXcdgBH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3708,
+          "following_count": 1536,
+          "like_count": 20898,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 2964
+        },
+        "username": "Linyue7523",
+        "verified": false
+      }
+    ]
+  }
+}

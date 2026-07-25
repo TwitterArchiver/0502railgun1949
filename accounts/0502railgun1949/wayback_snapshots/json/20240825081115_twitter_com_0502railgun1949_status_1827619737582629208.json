@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1827619734654967808"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1827619737582629208",
+    "created_at": "2024-08-25T08:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T09:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1827619737582629208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j3jjaqfcuh",
+          "end": 70,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1827619737582629208/photo/1",
+          "media_key": "3_1827619734654967808",
+          "start": 47,
+          "url": "https://t.co/J3JJAQfCUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827619737582629208",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在梦里面，康宁的医生推荐我去做心理咨询\n但是经济不允许我这样做。。\n我也不是很相信那个玩意儿 https://t.co/J3JJAQfCUh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1827619734654967808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV0CdyyaYAAIIv7.jpg",
+        "width": 1703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1827619734654967808"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1827619737582629208",
+        "created_at": "2024-08-25T08:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T09:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1827619737582629208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j3jjaqfcuh",
+              "end": 70,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1827619737582629208/photo/1",
+              "media_key": "3_1827619734654967808",
+              "start": 47,
+              "url": "https://t.co/J3JJAQfCUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827619737582629208",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在梦里面，康宁的医生推荐我去做心理咨询\n但是经济不允许我这样做。。\n我也不是很相信那个玩意儿 https://t.co/J3JJAQfCUh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 763,
+          "like_count": 4389,
+          "listed_count": 2,
+          "tweet_count": 3857
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

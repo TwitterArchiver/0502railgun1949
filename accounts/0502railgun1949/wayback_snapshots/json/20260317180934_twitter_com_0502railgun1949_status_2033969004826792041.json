@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2033969004826792041",
+    "created_at": "2026-03-17T18:09:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:09:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033969004826792041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Shina_Kaede/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Shina_Kaede/status/2033897204449149030",
+          "start": 36,
+          "url": "https://t.co/8nrsqVGDFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033969004826792041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033897204449149030",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建议每个人都去学一学辩论中的各种谬误，这样可以发现老中人有多么不讲逻辑 https://t.co/8nrsqVGDFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1062,
+        "media_key": "3_2033897193493708800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnauK_bQAAvac9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1415,
+        "media_key": "3_2033897193497890819",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnauLAbEAMzvWM.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1648,
+        "media_key": "3_2033897193715994626",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnauL0bEAIAl5k.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2033969004826792041",
+        "created_at": "2026-03-17T18:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033969004826792041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shina_Kaede/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Shina_Kaede/status/2033897204449149030",
+              "start": 36,
+              "url": "https://t.co/8nrsqVGDFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033969004826792041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033897204449149030",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议每个人都去学一学辩论中的各种谬误，这样可以发现老中人有多么不讲逻辑 https://t.co/8nrsqVGDFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033897193493708800",
+            "3_2033897193497890819",
+            "3_2033897193715994626"
+          ]
+        },
+        "author_id": "1340253206417272832",
+        "conversation_id": "2033897204449149030",
+        "created_at": "2026-03-17T13:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033897204449149030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMq1CG9qWP",
+              "end": 41,
+              "expanded_url": "https://x.com/Shina_Kaede/status/2033897204449149030/photo/1",
+              "media_key": "3_2033897193493708800",
+              "start": 18,
+              "url": "https://t.co/TMq1CG9qWP"
+            },
+            {
+              "display_url": "pic.x.com/TMq1CG9qWP",
+              "end": 41,
+              "expanded_url": "https://x.com/Shina_Kaede/status/2033897204449149030/photo/1",
+              "media_key": "3_2033897193497890819",
+              "start": 18,
+              "url": "https://t.co/TMq1CG9qWP"
+            },
+            {
+              "display_url": "pic.x.com/TMq1CG9qWP",
+              "end": 41,
+              "expanded_url": "https://x.com/Shina_Kaede/status/2033897204449149030/photo/1",
+              "media_key": "3_2033897193715994626",
+              "start": 18,
+              "url": "https://t.co/TMq1CG9qWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033897204449149030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1897,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又是在诊室里和老中家长对线的一天（ https://t.co/TMq1CG9qWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 622,
+          "like_count": 11107,
+          "listed_count": 3,
+          "media_count": 1246,
+          "tweet_count": 8767
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵🇦🇺/Les🏳️‍🌈跨意识体恋/22♍️♎️/理系人文/認知神経心理学/心理言語学/医学/中文/EN/日本語/元声優/雀魂/FF14鸟区/茶道/雑学/和楽器/吹奏楽/弓道/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪ 最可靠的妹妹@piaoyao21｜💕Claude",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "piaoyao21"
+              }
+            ]
+          }
+        },
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 3686,
+          "like_count": 21369,
+          "listed_count": 12,
+          "media_count": 660,
+          "tweet_count": 6991
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2041880523489079357",
+    "created_at": "2026-04-08T14:07:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:07:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041880523489079357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/USA_China_Talk…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/USA_China_Talk/status/2041473560611332521",
+          "start": 24,
+          "url": "https://t.co/wSN8fQlUoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041880523489079357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041473560611332521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨越了月球背面的载人飞船\n却跨越不了战争与和平 https://t.co/wSN8fQlUoc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2041880523489079357",
+        "created_at": "2026-04-08T14:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041880523489079357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/USA_China_Talk…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/USA_China_Talk/status/2041473560611332521",
+              "start": 24,
+              "url": "https://t.co/wSN8fQlUoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041880523489079357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041473560611332521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨越了月球背面的载人飞船\n却跨越不了战争与和平 https://t.co/wSN8fQlUoc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "89421672",
+        "conversation_id": "2041473560611332521",
+        "created_at": "2026-04-07T11:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T12:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041473560611332521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NASA/status/20…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/NASA/status/2040114160529179103",
+              "start": 69,
+              "url": "https://t.co/ziIH8vnsTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041473560611332521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 27193,
+          "like_count": 208,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040114160529179103",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张同样是从“猎户座”飞船上拍摄的。我们可以看到被称为“晨昏线”的昼夜分界线横跨地球。我们都共同生活在这颗星球上，无论是醒着还是在梦中。 https://t.co/ziIH8vnsTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 658,
+          "like_count": 12438,
+          "listed_count": 3,
+          "media_count": 1302,
+          "tweet_count": 9867
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-12T10:55:22.000Z",
+        "description": "欢迎来到美国驻华使领馆的“推特”平台！本帐号使用条款可在以下链接找到：https://t.co/7fIbxneOkc 有时候，我们的内容会将关注者定向到非美国政府网站，此处包含的链接仅供参考，不一定代表美国政府或美国国务院观点或背书。关注庞德伟(David Perdue)大使： @USAmbChina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 140,
+                "username": "USAmbChina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ow.ly/T3EO50OxjR8",
+                "end": 58,
+                "expanded_url": "http://ow.ly/T3EO50OxjR8",
+                "start": 35,
+                "url": "https://t.co/7fIbxneOkc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "china.usembassy-china.org.cn",
+                "end": 23,
+                "expanded_url": "https://china.usembassy-china.org.cn/",
+                "start": 0,
+                "url": "https://t.co/EJ5I77rnR8"
+              }
+            ]
+          }
+        },
+        "id": "89421672",
+        "location": "China",
+        "name": "美国驻华使领馆 U.S. Mission to China",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713839270769618944/eLoK1MFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624050,
+          "following_count": 173,
+          "like_count": 11,
+          "listed_count": 4333,
+          "media_count": 421,
+          "tweet_count": 2210
+        },
+        "url": "https://t.co/EJ5I77rnR8",
+        "username": "USA_China_Talk",
+        "verified": true
+      }
+    ]
+  }
+}

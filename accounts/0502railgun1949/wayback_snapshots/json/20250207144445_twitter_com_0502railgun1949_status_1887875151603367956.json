@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1887871033635742160",
+    "created_at": "2025-02-07T14:44:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T15:44:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887875151603367956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1522614384333307905",
+          "start": 0,
+          "username": "Hongshiyue4ever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887875151603367956",
+    "in_reply_to_user_id": "1522614384333307905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887874371618046425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hongshiyue4ever 你要畜生的话，找深圳其他的公立学校\n尤其是深圳高级呃呃"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887874371618046425].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887874371618046425",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887874371618046425"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1887871033635742160",
+        "created_at": "2025-02-07T14:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T15:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887875151603367956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1522614384333307905",
+              "start": 0,
+              "username": "Hongshiyue4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887875151603367956",
+        "in_reply_to_user_id": "1522614384333307905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887874371618046425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hongshiyue4ever 你要畜生的话，找深圳其他的公立学校\n尤其是深圳高级呃呃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 747,
+          "like_count": 6540,
+          "listed_count": 1,
+          "media_count": 882,
+          "tweet_count": 5497
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-06T16:29:02.000Z",
+        "description": "赤鬼",
+        "id": "1522614384333307905",
+        "location": "Лунная орбита",
+        "name": "📕山泥若藻👈",
+        "pinned_tweet_id": "1792449928465383535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874815707869024256/uD7G030k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 604,
+          "like_count": 13479,
+          "listed_count": 1,
+          "media_count": 872,
+          "tweet_count": 6647
+        },
+        "username": "Hongshiyue4ever",
+        "verified": false
+      }
+    ]
+  }
+}

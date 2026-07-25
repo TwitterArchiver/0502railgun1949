@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1884532154782408758",
+    "created_at": "2025-01-29T09:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T10:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884534122661732465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1410425452276051974",
+          "start": 0,
+          "username": "NX_01_"
+        },
+        {
+          "end": 20,
+          "id": "1713114512830976000",
+          "start": 8,
+          "username": "YChung28509"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884534122661732465",
+    "in_reply_to_user_id": "1410425452276051974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884533146269667413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NX_01_ @YChung28509 我也会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1884532154782408758",
+        "created_at": "2025-01-29T09:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884534122661732465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1410425452276051974",
+              "start": 0,
+              "username": "NX_01_"
+            },
+            {
+              "end": 20,
+              "id": "1713114512830976000",
+              "start": 8,
+              "username": "YChung28509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884534122661732465",
+        "in_reply_to_user_id": "1410425452276051974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884533146269667413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NX_01_ @YChung28509 我也会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410425452276051974",
+        "conversation_id": "1884532154782408758",
+        "created_at": "2025-01-29T09:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T10:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884533146269667413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1713114512830976000",
+              "start": 0,
+              "username": "YChung28509"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884533146269667413",
+        "in_reply_to_user_id": "1713114512830976000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884532154782408758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YChung28509 到现在，我还会模拟两间不同地区住所的朝向"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 748,
+          "like_count": 6440,
+          "listed_count": 1,
+          "media_count": 863,
+          "tweet_count": 5380
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T02:30:19.000Z",
+        "description": "The Great Chain of Beings——观念全合成的科学",
+        "id": "1410425452276051974",
+        "location": "N/A",
+        "name": "𝐍𝐗-𝟎𝟏 𝐔.𝐒.𝐒 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞",
+        "pinned_tweet_id": "1861433031602642987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755810868636618752/eTgQsXhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 565,
+          "like_count": 9154,
+          "listed_count": 4,
+          "media_count": 439,
+          "tweet_count": 11779
+        },
+        "username": "NX_01_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T08:48:56.000Z",
+        "description": "「书写于言说，思绪起跨越世界的信函。」\n\n［写作系OC人×文字自动姬］\n\n［账号内容］：📝📑📚、✏️🌏🔮💫、📷🚉🌇🪶、🟩⛏️、🏥🩸🍥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shuyus…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shuyusuhan.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BBK82xM6ax"
+              }
+            ]
+          }
+        },
+        "id": "1713114512830976000",
+        "location": "奈何桥公立大学：奈何桥的世界游乐场",
+        "name": "书语思函💫",
+        "pinned_tweet_id": "1845088632010690716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823411124601303040/u0FjgdXv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 155,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 504
+        },
+        "url": "https://t.co/BBK82xM6ax",
+        "username": "YChung28509",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1917397621225779640",
+    "created_at": "2025-04-30T13:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T14:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917578403261341815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1105857295429177351",
+          "start": 0,
+          "username": "Glory_and_Dream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917578403261341815",
+    "in_reply_to_user_id": "1105857295429177351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917397621225779640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Glory_and_Dream 我想要还没有呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1588,
+        "media_key": "3_1917397618948292608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpv2-cKXwAAEfZ4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1917397621225779640",
+        "created_at": "2025-04-30T13:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T14:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917578403261341815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1105857295429177351",
+              "start": 0,
+              "username": "Glory_and_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917578403261341815",
+        "in_reply_to_user_id": "1105857295429177351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917397621225779640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glory_and_Dream 我想要还没有呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917397618948292608"
+          ]
+        },
+        "author_id": "1105857295429177351",
+        "conversation_id": "1917397621225779640",
+        "created_at": "2025-04-30T01:56:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T02:56:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917397621225779640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ets358ZbOh",
+              "end": 57,
+              "expanded_url": "https://x.com/Glory_and_Dream/status/1917397621225779640/photo/1",
+              "media_key": "3_1917397618948292608",
+              "start": 34,
+              "url": "https://t.co/ets358ZbOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917397621225779640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2331,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内朋友说给我寄了三卷本俄国名著，我以为是战争与和平，结果打开是： https://t.co/ets358ZbOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 740,
+          "like_count": 7052,
+          "listed_count": 2,
+          "media_count": 964,
+          "tweet_count": 6134
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T15:44:59.000Z",
+        "description": "#precure fan / #yuri enjoyer / #MiaSanMia",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "precure"
+              },
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "yuri"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "MiaSanMia"
+              }
+            ]
+          }
+        },
+        "id": "1105857295429177351",
+        "name": "光荣与梦想",
+        "pinned_tweet_id": "1477190543293640707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378571706722254848/PL9-8Idy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 3168,
+          "like_count": 45976,
+          "listed_count": 18,
+          "media_count": 1150,
+          "tweet_count": 16160
+        },
+        "username": "Glory_and_Dream",
+        "verified": false
+      }
+    ]
+  }
+}

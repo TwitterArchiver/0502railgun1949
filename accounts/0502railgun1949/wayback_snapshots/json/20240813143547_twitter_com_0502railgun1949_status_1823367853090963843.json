@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1813232466406306101",
+    "created_at": "2024-08-13T14:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T15:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823367853090963843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2160602710",
+          "start": 0,
+          "username": "lUxIENtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823367853090963843",
+    "in_reply_to_user_id": "2160602710",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813232466406306101",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lUxIENtR 主要是学习无缥缈的应试教育确实是太折磨人了，根本就看不到产出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1813232466406306101",
+        "created_at": "2024-08-13T14:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T15:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823367853090963843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2160602710",
+              "start": 0,
+              "username": "lUxIENtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823367853090963843",
+        "in_reply_to_user_id": "2160602710",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813232466406306101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lUxIENtR 主要是学习无缥缈的应试教育确实是太折磨人了，根本就看不到产出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2160602710",
+        "conversation_id": "1813232466406306101",
+        "created_at": "2024-07-16T15:21:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T16:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813232466406306101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813232466406306101",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再一次发现学习的乐趣\n虽然穿着无尘服在fab里还是有那么点难受的（我出汗不多倒也还好）\n但是感觉这种学的东西有明确的指向和回报确实更适合我\n虽然我还是想着干几年跳槽去别的地方干PIE哈哈哈（不一定真的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 757,
+          "like_count": 3780,
+          "listed_count": 2,
+          "tweet_count": 3566
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-30T17:38:09.000Z",
+        "description": "INTJ-T|🏳️‍⚧️MTF|接受称呼为she/they|严重的各种焦虑|爱具体的人|拿自己的显卡偷偷给自己跑头像\n严正声明，点赞不代表立场，仅代表对点赞的内容的本身的支持，本人不是圣人，不敢保证了解事情全貌有不满请直接指正",
+        "id": "2160602710",
+        "location": "Oregon, USA",
+        "name": "北雁新弦🏳️‍⚧️404",
+        "pinned_tweet_id": "1675682474083651585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672629813495087105/YLxcY5ho_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 975,
+          "like_count": 16038,
+          "listed_count": 7,
+          "tweet_count": 3320
+        },
+        "username": "lUxIENtR",
+        "verified": false
+      }
+    ]
+  }
+}

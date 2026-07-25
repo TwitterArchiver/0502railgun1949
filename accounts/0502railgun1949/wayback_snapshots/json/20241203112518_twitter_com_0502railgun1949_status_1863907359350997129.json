@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+          "id": "1347140848870334468",
+          "name": "Chinese New Year"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1863907359350997129",
+    "created_at": "2024-12-03T11:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T12:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863907359350997129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qinglongxiangm…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/qinglongxiangmo/status/1863737750199079098",
+          "start": 3,
+          "url": "https://t.co/yhCuGWmWDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863907359350997129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863737750199079098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "奶🐍 https://t.co/yhCuGWmWDw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1863907359350997129",
+        "created_at": "2024-12-03T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863907359350997129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qinglongxiangm…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qinglongxiangmo/status/1863737750199079098",
+              "start": 3,
+              "url": "https://t.co/yhCuGWmWDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863907359350997129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863737750199079098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "奶🐍 https://t.co/yhCuGWmWDw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863737747451887616"
+          ]
+        },
+        "author_id": "1668656828740403202",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1863737750199079098",
+        "created_at": "2024-12-03T00:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T01:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863737750199079098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FbT9UCFi3k",
+              "end": 56,
+              "expanded_url": "https://x.com/qinglongxiangmo/status/1863737750199079098/photo/1",
+              "media_key": "3_1863737747451887616",
+              "start": 33,
+              "url": "https://t.co/FbT9UCFi3k"
+            },
+            {
+              "display_url": "x.com/Frost_SZH/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/Frost_SZH/status/1861775129447219638",
+              "start": 57,
+              "url": "https://t.co/3oUztIsnM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863737750199079098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4635,
+          "like_count": 45,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861775129447219638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国中央电视台也发布了2025年春节联欢晚会的吉祥物“巳升升”。 https://t.co/FbT9UCFi3k https://t.co/3oUztIsnM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 752,
+          "like_count": 6024,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 4782
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T16:30:13.000Z",
+        "description": "我本江湖一闲人，\n四海为家看风景丨中华人民共和国万岁，世界人民大团结万岁丨爱好旅行、阅读、睡觉、动漫、影视丨略懂历史哲学、健身跑步减肥丨练习厨艺中丨注册推特初衷:宣扬中国动漫 ＃虹猫蓝兔 丨好朋友: @CPUP2024\n@xiangsaixue520   🇨🇳🥰🇨🇳🥰🇨🇳",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 93,
+                "start": 88,
+                "tag": "虹猫蓝兔"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 100,
+                "username": "CPUP2024"
+              },
+              {
+                "end": 125,
+                "start": 110,
+                "username": "xiangsaixue520"
+              }
+            ]
+          }
+        },
+        "id": "1668656828740403202",
+        "location": "中华人民共和国🇨🇳",
+        "name": "🍑🍌🫐跳跳喜欢蹦蹦跳🍓🍊🍇",
+        "pinned_tweet_id": "1795017323696263608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820478203770916866/YkmswBLR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11587,
+          "following_count": 5077,
+          "like_count": 42172,
+          "listed_count": 9,
+          "media_count": 2987,
+          "tweet_count": 10085
+        },
+        "username": "qinglongxiangmo",
+        "verified": true
+      }
+    ]
+  }
+}

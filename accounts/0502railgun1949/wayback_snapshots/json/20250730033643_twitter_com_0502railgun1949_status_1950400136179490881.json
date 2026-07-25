@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950400123055595520"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1950400136179490881",
+    "created_at": "2025-07-30T03:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T04:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950400136179490881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NQ65NeWliy",
+          "end": 23,
+          "expanded_url": "https://x.com/0502railgun1949/status/1950400136179490881/photo/1",
+          "media_key": "3_1950400123055595520",
+          "start": 0,
+          "url": "https://t.co/NQ65NeWliy"
+        },
+        {
+          "display_url": "x.com/Romanorum_/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Romanorum_/status/1950132309832741283",
+          "start": 24,
+          "url": "https://t.co/QWRYoSquT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950400136179490881",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950132309832741283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/NQ65NeWliy https://t.co/QWRYoSquT9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1950400123055595520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxE2lAibYAAfBzI.jpg",
+        "width": 1051
+      },
+      {
+        "height": 1274,
+        "media_key": "3_1950132306800496641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxBDADPbUAEGY0u.jpg",
+        "width": 1074
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950400123055595520"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950400136179490881",
+        "created_at": "2025-07-30T03:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T04:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950400136179490881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NQ65NeWliy",
+              "end": 23,
+              "expanded_url": "https://x.com/0502railgun1949/status/1950400136179490881/photo/1",
+              "media_key": "3_1950400123055595520",
+              "start": 0,
+              "url": "https://t.co/NQ65NeWliy"
+            },
+            {
+              "display_url": "x.com/Romanorum_/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Romanorum_/status/1950132309832741283",
+              "start": 24,
+              "url": "https://t.co/QWRYoSquT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950400136179490881",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950132309832741283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/NQ65NeWliy https://t.co/QWRYoSquT9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950132306800496641"
+          ]
+        },
+        "author_id": "1274515360839057408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1950132309832741283",
+        "created_at": "2025-07-29T09:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-29T10:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950132309832741283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZR6Cd3ZfI8",
+              "end": 31,
+              "expanded_url": "https://x.com/Romanorum_/status/1950132309832741283/photo/1",
+              "media_key": "3_1950132306800496641",
+              "start": 8,
+              "url": "https://t.co/ZR6Cd3ZfI8"
+            },
+            {
+              "display_url": "x.com/DeepKleeBeta/s…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/DeepKleeBeta/status/1950081126216691759",
+              "start": 32,
+              "url": "https://t.co/0YB2su0KPQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950132309832741283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1335,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950081126216691759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像还蛮准的🥺 https://t.co/ZR6Cd3ZfI8 https://t.co/0YB2su0KPQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 633,
+          "like_count": 9933,
+          "listed_count": 3,
+          "media_count": 1017,
+          "tweet_count": 7176
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-21T01:32:06.000Z",
+        "description": "不鍵政\n蔷薇公主@l98808lju\n鱼@cryblacktea\n頭@Tinkles_12 \n狼@KawatukiYuyuko\n月@ACtoDCADtoBC\n猫@Kawaiieru_\n寶@HANABIRIKAJIANG\n@sakubaikann\n@owl8964cat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "l98808lju"
+              },
+              {
+                "end": 32,
+                "start": 20,
+                "username": "cryblacktea"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Tinkles_12"
+              },
+              {
+                "end": 63,
+                "start": 48,
+                "username": "KawatukiYuyuko"
+              },
+              {
+                "end": 78,
+                "start": 65,
+                "username": "ACtoDCADtoBC"
+              },
+              {
+                "end": 91,
+                "start": 80,
+                "username": "Kawaiieru_"
+              },
+              {
+                "end": 109,
+                "start": 93,
+                "username": "HANABIRIKAJIANG"
+              },
+              {
+                "end": 122,
+                "start": 110,
+                "username": "sakubaikann"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "owl8964cat"
+              }
+            ]
+          }
+        },
+        "id": "1274515360839057408",
+        "location": "Κύπρος",
+        "name": "🌸神樂坂😼萱雨✞🏴‍☠️🇺🇦🇮🇱",
+        "pinned_tweet_id": "1897215793794048071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894678782671560704/JJ6PvtSB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 1741,
+          "like_count": 53668,
+          "listed_count": 5,
+          "media_count": 5455,
+          "tweet_count": 23875
+        },
+        "username": "Romanorum_",
+        "verified": false
+      }
+    ]
+  }
+}

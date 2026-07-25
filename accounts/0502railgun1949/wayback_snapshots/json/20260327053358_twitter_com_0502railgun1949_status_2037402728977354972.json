@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2037402728977354972",
+    "created_at": "2026-03-27T05:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T06:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037402728977354972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2037148814025646126",
+          "start": 31,
+          "url": "https://t.co/bUTE3PXc3I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037402728977354972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037148814025646126",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "张雪峰追悼会想去的学生，因为上课没有去\n似乎挺黑色幽默的（？ https://t.co/bUTE3PXc3I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 505,
+        "media_key": "3_2037124537599602688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVR-UrbMAAlxpE.jpg",
+        "width": 690
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2037124537566019584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVR-UjawAAXNWm.jpg",
+        "width": 907
+      },
+      {
+        "height": 713,
+        "media_key": "3_2037124537561866247",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVR-UibYAc0kMx.jpg",
+        "width": 690
+      },
+      {
+        "height": 1130,
+        "media_key": "3_2037124537456660480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVR-UJWEAAvoLx.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2037402728977354972",
+        "created_at": "2026-03-27T05:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037402728977354972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2037148814025646126",
+              "start": 31,
+              "url": "https://t.co/bUTE3PXc3I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037402728977354972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037148814025646126",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "张雪峰追悼会想去的学生，因为上课没有去\n似乎挺黑色幽默的（？ https://t.co/bUTE3PXc3I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037124537599602688",
+            "3_2037124537566019584",
+            "3_2037124537561866247",
+            "3_2037124537456660480"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037148814025646126",
+        "created_at": "2026-03-26T12:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037148814025646126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l1e3frqiCv",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037148814025646126/photo/1",
+              "media_key": "3_2037124537599602688",
+              "start": 35,
+              "url": "https://t.co/l1e3frqiCv"
+            },
+            {
+              "display_url": "pic.x.com/l1e3frqiCv",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037148814025646126/photo/1",
+              "media_key": "3_2037124537566019584",
+              "start": 35,
+              "url": "https://t.co/l1e3frqiCv"
+            },
+            {
+              "display_url": "pic.x.com/l1e3frqiCv",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037148814025646126/photo/1",
+              "media_key": "3_2037124537561866247",
+              "start": 35,
+              "url": "https://t.co/l1e3frqiCv"
+            },
+            {
+              "display_url": "pic.x.com/l1e3frqiCv",
+              "end": 58,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037148814025646126/photo/1",
+              "media_key": "3_2037124537456660480",
+              "start": 35,
+              "url": "https://t.co/l1e3frqiCv"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2036441879567274424",
+              "start": 59,
+              "url": "https://t.co/zhnLKyyxNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037148814025646126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 170505,
+          "like_count": 382,
+          "quote_count": 5,
+          "reply_count": 67,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036441879567274424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3月26日，张雪峰公司楼下摆满了鲜花。还有曾受助过的学生给他写的信。 https://t.co/l1e3frqiCv https://t.co/zhnLKyyxNS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 641,
+          "like_count": 11145,
+          "listed_count": 3,
+          "media_count": 1265,
+          "tweet_count": 9008
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196333,
+          "following_count": 1026,
+          "like_count": 9342,
+          "listed_count": 8633,
+          "media_count": 44184,
+          "tweet_count": 51249
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

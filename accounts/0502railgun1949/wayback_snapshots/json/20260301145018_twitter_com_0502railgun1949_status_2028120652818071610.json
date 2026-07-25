@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028114221708587008"
+      ],
+      "media_source_tweet_id": [
+        "2028114223382048926"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2028120652818071610",
+    "created_at": "2026-03-01T14:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T15:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028120652818071610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "description": "💬 1  🔁 29743  ❤️ 28374 · \"There is no truly ethical consumption under Capitalism\" & \"There is particularly unethical consumption under Capitalism\" are statements that can both be true simultaneousl…",
+          "display_url": "tumblr.com/heretekadept/6…",
+          "end": 100,
+          "expanded_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+          "images": [
+            {
+              "height": 528,
+              "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 77,
+          "status": 200,
+          "title": "Reblog by @heretekadept · 1 image",
+          "unwound_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+          "url": "https://t.co/3B8nLMgKkh"
+        },
+        {
+          "display_url": "pic.x.com/uzNIwboluf",
+          "end": 124,
+          "expanded_url": "https://x.com/translate_cn/status/2028114223382048926/photo/1",
+          "media_key": "3_2028114221708587008",
+          "start": 101,
+          "url": "https://t.co/uzNIwboluf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028120652818071610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028114223382048926",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 以下两句话可以同时成立：\n\n1. 资本主义下，没有真正合乎道德的消费；\n2. 但有些消费相比其它，尤为不合乎道德。\n\nhttps://t.co/3B8nLMgKkh https://t.co/uzNIwboluf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 401,
+        "media_key": "3_2028114221708587008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVPI6TbsAA3f8e.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028114221708587008"
+          ],
+          "media_source_tweet_id": [
+            "2028114223382048926"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2028120652818071610",
+        "created_at": "2026-03-01T14:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028120652818071610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "description": "💬 1  🔁 29743  ❤️ 28374 · \"There is no truly ethical consumption under Capitalism\" & \"There is particularly unethical consumption under Capitalism\" are statements that can both be true simultaneousl…",
+              "display_url": "tumblr.com/heretekadept/6…",
+              "end": 100,
+              "expanded_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+              "images": [
+                {
+                  "height": 528,
+                  "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 77,
+              "status": 200,
+              "title": "Reblog by @heretekadept · 1 image",
+              "unwound_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+              "url": "https://t.co/3B8nLMgKkh"
+            },
+            {
+              "display_url": "pic.x.com/uzNIwboluf",
+              "end": 124,
+              "expanded_url": "https://x.com/translate_cn/status/2028114223382048926/photo/1",
+              "media_key": "3_2028114221708587008",
+              "start": 101,
+              "url": "https://t.co/uzNIwboluf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028120652818071610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028114223382048926",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 以下两句话可以同时成立：\n\n1. 资本主义下，没有真正合乎道德的消费；\n2. 但有些消费相比其它，尤为不合乎道德。\n\nhttps://t.co/3B8nLMgKkh https://t.co/uzNIwboluf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028114221708587008"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "2028114223382048926",
+        "created_at": "2026-03-01T14:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T15:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028114223382048926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "💬 1  🔁 29743  ❤️ 28374 · \"There is no truly ethical consumption under Capitalism\" & \"There is particularly unethical consumption under Capitalism\" are statements that can both be true simultaneousl…",
+              "display_url": "tumblr.com/heretekadept/6…",
+              "end": 82,
+              "expanded_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+              "images": [
+                {
+                  "height": 528,
+                  "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028114224741007360/d6iuDhYA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "Reblog by @heretekadept · 1 image",
+              "unwound_url": "https://www.tumblr.com/heretekadept/653364749174718464/there-is-no-truly-ethical-consumption-under",
+              "url": "https://t.co/3B8nLMgKkh"
+            },
+            {
+              "display_url": "pic.x.com/uzNIwboluf",
+              "end": 106,
+              "expanded_url": "https://x.com/translate_cn/status/2028114223382048926/photo/1",
+              "media_key": "3_2028114221708587008",
+              "start": 83,
+              "url": "https://t.co/uzNIwboluf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028114223382048926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "以下两句话可以同时成立：\n\n1. 资本主义下，没有真正合乎道德的消费；\n2. 但有些消费相比其它，尤为不合乎道德。\n\nhttps://t.co/3B8nLMgKkh https://t.co/uzNIwboluf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 612,
+          "like_count": 10878,
+          "listed_count": 3,
+          "media_count": 1202,
+          "tweet_count": 8506
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16406,
+          "following_count": 887,
+          "like_count": 985,
+          "listed_count": 95,
+          "media_count": 9790,
+          "tweet_count": 10382
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

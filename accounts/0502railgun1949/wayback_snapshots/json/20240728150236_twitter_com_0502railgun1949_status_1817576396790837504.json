@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1817551833805754578",
+    "created_at": "2024-07-28T15:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-28T16:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817576396790837504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1668037836996771840",
+          "start": 0,
+          "username": "cha_li_jin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817576396790837504",
+    "in_reply_to_user_id": "1668037836996771840",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817551833805754578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cha_li_jin 你好👋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1817551833805754578",
+        "created_at": "2024-07-28T15:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T16:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817576396790837504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1668037836996771840",
+              "start": 0,
+              "username": "cha_li_jin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817576396790837504",
+        "in_reply_to_user_id": "1668037836996771840",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817551833805754578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cha_li_jin 你好👋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1817551604511621120",
+            "3_1817551604490567681",
+            "7_1817551604935192576"
+          ]
+        },
+        "author_id": "1668037836996771840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1817551833805754578",
+        "created_at": "2024-07-28T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-28T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817551833805754578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/j0VGm0g9lE",
+              "end": 174,
+              "expanded_url": "https://twitter.com/cha_li_jin/status/1817551833805754578/video/1",
+              "media_key": "3_1817551604511621120",
+              "start": 151,
+              "url": "https://t.co/j0VGm0g9lE"
+            },
+            {
+              "display_url": "pic.twitter.com/j0VGm0g9lE",
+              "end": 174,
+              "expanded_url": "https://twitter.com/cha_li_jin/status/1817551833805754578/video/1",
+              "media_key": "3_1817551604490567681",
+              "start": 151,
+              "url": "https://t.co/j0VGm0g9lE"
+            },
+            {
+              "display_url": "pic.twitter.com/j0VGm0g9lE",
+              "end": 174,
+              "expanded_url": "https://twitter.com/cha_li_jin/status/1817551833805754578/video/1",
+              "media_key": "7_1817551604935192576",
+              "start": 151,
+              "url": "https://t.co/j0VGm0g9lE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817551833805754578",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 164,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一个置顶~\n我是察里津，也可以叫茶梨，一枚含糖mtf，目前是无负能版(╹ڡ╹ )，喜欢玩音游，p社，mc，星露谷，也喜欢铁道和公交，喜欢看漫画，重度社恐infp。夸夸教徒(喜欢夸夸（，想要变得有趣可爱🥺🥺🥺\n目前住在深圳，上学在广州，同类互fo，想要好多朋友，欢迎找我扩列(≧∀≦)ゞ\np1电报个人号 https://t.co/j0VGm0g9lE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 755,
+          "like_count": 3440,
+          "listed_count": 1,
+          "tweet_count": 3370
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T23:29:56.000Z",
+        "description": "关于我转生成为残疾人这件事丨05含糖丨常驻深圳丨请和我交朋友😣丨最可爱的老婆：@DoujinYuye    杂鱼主人：@Tsaritsynowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "DoujinYuye"
+              },
+              {
+                "end": 72,
+                "start": 59,
+                "username": "Tsaritsynowo"
+              }
+            ]
+          }
+        },
+        "id": "1668037836996771840",
+        "location": "广东省 深圳市",
+        "name": "察里津往双拥街方向🍥",
+        "pinned_tweet_id": "1817551833805754578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813077784987856896/U6__SV8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 230,
+          "like_count": 1638,
+          "listed_count": 1,
+          "tweet_count": 298
+        },
+        "username": "cha_li_jin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050921076574863360"
+      ],
+      "media_source_tweet_id": [
+        "2050921147014025473"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2051280800637976785",
+    "created_at": "2026-05-04T12:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T13:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051280800637976785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0wWpzxXGft",
+          "end": 44,
+          "expanded_url": "https://x.com/damncold66/status/2050921147014025473/video/1",
+          "media_key": "13_2050921076574863360",
+          "start": 21,
+          "url": "https://t.co/0wWpzxXGft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051280800637976785",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051272334976147950",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: https://t.co/0wWpzxXGft"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113433,
+        "height": 720,
+        "media_key": "13_2050921076574863360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050921076574863360/img/WNp199QLhde28y3c.jpg",
+        "public_metrics": {
+          "view_count": 43781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/480x270/grHxGOSFZ30gPHQl.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/640x360/jD12zdAS0ccFUS78.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/1280x720/PHemvU3d1zMuuUNw.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/pl/mY1Ze7cukyN-xgSc.m3u8?tag=27&v=fbe"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 113433,
+        "height": 720,
+        "media_key": "13_2050921076574863360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050921076574863360/img/WNp199QLhde28y3c.jpg",
+        "public_metrics": {
+          "view_count": 44111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/480x270/grHxGOSFZ30gPHQl.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/640x360/jD12zdAS0ccFUS78.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/vid/avc1/1280x720/PHemvU3d1zMuuUNw.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050921076574863360/pl/mY1Ze7cukyN-xgSc.m3u8?tag=27&v=fbe"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050921076574863360"
+          ],
+          "media_source_tweet_id": [
+            "2050921147014025473"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051280800637976785",
+        "created_at": "2026-05-04T12:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051280800637976785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wWpzxXGft",
+              "end": 44,
+              "expanded_url": "https://x.com/damncold66/status/2050921147014025473/video/1",
+              "media_key": "13_2050921076574863360",
+              "start": 21,
+              "url": "https://t.co/0wWpzxXGft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051280800637976785",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051272334976147950",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: https://t.co/0wWpzxXGft"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050921076574863360"
+          ],
+          "media_source_tweet_id": [
+            "2050921147014025473"
+          ]
+        },
+        "author_id": "4752010152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2051272334976147950",
+        "created_at": "2026-05-04T12:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051272334976147950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wWpzxXGft",
+              "end": 23,
+              "expanded_url": "https://x.com/damncold66/status/2050921147014025473/video/1",
+              "media_key": "13_2050921076574863360",
+              "start": 0,
+              "url": "https://t.co/0wWpzxXGft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051272334976147950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 484,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0wWpzxXGft"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 681,
+          "like_count": 14026,
+          "listed_count": 4,
+          "media_count": 1361,
+          "tweet_count": 11077
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31811,
+          "following_count": 3682,
+          "like_count": 185591,
+          "listed_count": 107,
+          "media_count": 3919,
+          "tweet_count": 68091
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

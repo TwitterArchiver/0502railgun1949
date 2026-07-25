@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1850422073719718011",
+    "created_at": "2024-10-27T12:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T13:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850517275020759391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1654297647518466048",
+          "start": 0,
+          "username": "AngeloMcna6787"
+        },
+        {
+          "end": 32,
+          "id": "1105857295429177351",
+          "start": 16,
+          "username": "Glory_and_Dream"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850517275020759391",
+    "in_reply_to_user_id": "1654297647518466048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850447780898361701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AngeloMcna6787 @Glory_and_Dream 怎么和我一模一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1850422073719718011",
+        "created_at": "2024-10-27T12:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T13:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850517275020759391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1654297647518466048",
+              "start": 0,
+              "username": "AngeloMcna6787"
+            },
+            {
+              "end": 32,
+              "id": "1105857295429177351",
+              "start": 16,
+              "username": "Glory_and_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850517275020759391",
+        "in_reply_to_user_id": "1654297647518466048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850447780898361701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngeloMcna6787 @Glory_and_Dream 怎么和我一模一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654297647518466048",
+        "conversation_id": "1850422073719718011",
+        "created_at": "2024-10-27T08:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T09:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850447780898361701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1105857295429177351",
+              "start": 0,
+              "username": "Glory_and_Dream"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850447780898361701",
+        "in_reply_to_user_id": "1105857295429177351",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 212,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850445042219094524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Glory_and_Dream 我是真的不记得了……\n我的病症是经年累月的压抑之下造成的，这甚至可以追溯到小学，我自己并不记得“正常”的时候是什么样的，也没法说有没有什么症状。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 767,
+          "like_count": 5387,
+          "listed_count": 1,
+          "tweet_count": 4364
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T01:31:17.000Z",
+        "description": "康米",
+        "id": "1654297647518466048",
+        "location": "？",
+        "name": "Jamie Hume二代目",
+        "pinned_tweet_id": "1708764792754929967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660967912289751041/T6cHfnhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 147,
+          "like_count": 10324,
+          "listed_count": 15,
+          "tweet_count": 14650
+        },
+        "username": "AngeloMcna6787",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T15:44:59.000Z",
+        "description": "loyal audience of #precure / #yuri enjoyer / #MiaSanMia",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 18,
+                "tag": "precure"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "yuri"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "MiaSanMia"
+              }
+            ]
+          }
+        },
+        "id": "1105857295429177351",
+        "name": "光荣与梦想 (淡推)",
+        "pinned_tweet_id": "1847466406901928115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378571706722254848/PL9-8Idy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 3140,
+          "like_count": 38057,
+          "listed_count": 23,
+          "tweet_count": 14750
+        },
+        "username": "Glory_and_Dream",
+        "verified": false
+      }
+    ]
+  }
+}

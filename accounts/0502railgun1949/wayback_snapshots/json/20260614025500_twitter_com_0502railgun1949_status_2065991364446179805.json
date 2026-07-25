@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2065991364446179805",
+    "created_at": "2026-06-14T02:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T03:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065991364446179805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZhuangXuexin/s…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/ZhuangXuexin/status/2065775290471907632",
+          "start": 142,
+          "url": "https://t.co/Xdpe8W8C51"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065991364446179805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065775290471907632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "深圳的公共交通是我见过最垃圾的\n我看广州凌晨都有夜间巴士的，给那些下火车的人坐\n路面道路规划也是一坨，人行道和电动车互相抢，还有一部分电动车跟机动车抢，有在机动车道旁边画一条1米左右宽的线就不错了\n那公交车自从限速之后从来跑不过电动车，必须在40km/h以下\n上那种快速路跟路障一样 https://t.co/Xdpe8W8C51"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065775279528927232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKsbq_oa4AA5mnV.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2065991364446179805",
+        "created_at": "2026-06-14T02:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065991364446179805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZhuangXuexin/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/ZhuangXuexin/status/2065775290471907632",
+              "start": 142,
+              "url": "https://t.co/Xdpe8W8C51"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065991364446179805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065775290471907632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "深圳的公共交通是我见过最垃圾的\n我看广州凌晨都有夜间巴士的，给那些下火车的人坐\n路面道路规划也是一坨，人行道和电动车互相抢，还有一部分电动车跟机动车抢，有在机动车道旁边画一条1米左右宽的线就不错了\n那公交车自从限速之后从来跑不过电动车，必须在40km/h以下\n上那种快速路跟路障一样 https://t.co/Xdpe8W8C51"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065775279528927232"
+          ]
+        },
+        "author_id": "1717455447110844416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065775290471907632",
+        "created_at": "2026-06-13T12:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T13:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065775290471907632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RPolGY0SX8",
+              "end": 40,
+              "expanded_url": "https://x.com/ZhuangXuexin/status/2065775290471907632/photo/1",
+              "media_key": "3_2065775279528927232",
+              "start": 17,
+              "url": "https://t.co/RPolGY0SX8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065775290471907632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西安的地铁运营到这么晚吗，好喜欢 https://t.co/RPolGY0SX8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 688,
+          "like_count": 15385,
+          "listed_count": 5,
+          "media_count": 1380,
+          "tweet_count": 12077
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-26T08:17:57.000Z",
+        "description": "♂185/72 想交朋友 想买衣服。国女国男综合特征 想见识人格缺陷集大成的可以找我聊。最近一层人生观是v曲和木柜子动画塑造的。最爱作者是庾信杜甫王沂孙辛弃疾周邦彦康德黑格尔 欢迎让我荐书哦。新对政治思想史 英美道德学 德国法学感兴趣。凝聚态物理研究生。想做一个功利主义的幸福者。一元论爱欲观。我来推特就是来当圣人的！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "douban.com/people/2430104…",
+                "end": 23,
+                "expanded_url": "https://www.douban.com/people/243010415/?_i=0135044sWH32ht",
+                "start": 0,
+                "url": "https://t.co/ig3jZtIOew"
+              }
+            ]
+          }
+        },
+        "id": "1717455447110844416",
+        "location": "上海浦东",
+        "name": "ZhuangXuexin",
+        "pinned_tweet_id": "2062599294486729145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036698377338105856/S0nl9gbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 174,
+          "like_count": 18223,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/ig3jZtIOew",
+        "username": "ZhuangXuexin",
+        "verified": false
+      }
+    ]
+  }
+}

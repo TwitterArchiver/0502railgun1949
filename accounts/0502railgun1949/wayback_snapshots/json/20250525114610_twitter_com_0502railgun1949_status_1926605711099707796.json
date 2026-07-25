@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1926585529044255088",
+    "created_at": "2025-05-25T11:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T12:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926605711099707796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744320870800379904",
+          "start": 0,
+          "username": "386Nsg47079"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0502railgun194…",
+          "end": 36,
+          "expanded_url": "https://x.com/0502railgun1949/status/1926598546842628599",
+          "start": 13,
+          "url": "https://t.co/f5BfDafDBY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926605711099707796",
+    "in_reply_to_user_id": "1744320870800379904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926598546842628599",
+        "type": "quoted"
+      },
+      {
+        "id": "1926585529044255088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@386Nsg47079 https://t.co/f5BfDafDBY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1926585524510150656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrybU7nWUAAs__6.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926585524405366784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrybU7OXcAAF2qi.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926585524170510336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrybU6WX0AA5Hta.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926585524401106944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrybU7NWcAAiJpk.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1926585529044255088",
+        "created_at": "2025-05-25T11:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926605711099707796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744320870800379904",
+              "start": 0,
+              "username": "386Nsg47079"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0502railgun194…",
+              "end": 36,
+              "expanded_url": "https://x.com/0502railgun1949/status/1926598546842628599",
+              "start": 13,
+              "url": "https://t.co/f5BfDafDBY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926605711099707796",
+        "in_reply_to_user_id": "1744320870800379904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926598546842628599",
+            "type": "quoted"
+          },
+          {
+            "id": "1926585529044255088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@386Nsg47079 https://t.co/f5BfDafDBY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1926301527800426789",
+        "created_at": "2025-05-25T11:17:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T12:17:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926598546842628599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Translational Psychiatry - A randomized, double-blind, active placebo-controlled study of efficacy, safety, and durability of repeated vs single subanesthetic ketamine for treatment-resistant...",
+              "display_url": "nature.com/articles/s4139…",
+              "end": 39,
+              "expanded_url": "https://www.nature.com/articles/s41398-020-00897-0",
+              "images": [
+                {
+                  "height": 667,
+                  "url": "https://pbs.twimg.com/news_img/1926598549002670080/kC-vnRp6?format=png&name=orig",
+                  "width": 948
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1926598549002670080/kC-vnRp6?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "A randomized, double-blind, active placebo-controlled study of efficacy, safety, and durability of repeated vs single subanesthetic ketamine for treatment-resistant depression",
+              "unwound_url": "https://www.nature.com/articles/s41398-020-00897-0?error=cookies_not_supported&code=e7dfbeaa-836a-4467-b76f-bad93a9d5b4c",
+              "url": "https://t.co/QGybU9cOqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926598546842628599",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926301527800426789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "持久性差的没有边，不就是为了成瘾https://t.co/QGybU9cOqd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926585524510150656",
+            "3_1926585524405366784",
+            "3_1926585524170510336",
+            "3_1926585524401106944"
+          ]
+        },
+        "author_id": "1744320870800379904",
+        "conversation_id": "1926585529044255088",
+        "created_at": "2025-05-25T10:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T11:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926585529044255088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbFgEW8NZA",
+              "end": 93,
+              "expanded_url": "https://x.com/386Nsg47079/status/1926585529044255088/photo/1",
+              "media_key": "3_1926585524510150656",
+              "start": 70,
+              "url": "https://t.co/YbFgEW8NZA"
+            },
+            {
+              "display_url": "pic.x.com/YbFgEW8NZA",
+              "end": 93,
+              "expanded_url": "https://x.com/386Nsg47079/status/1926585529044255088/photo/1",
+              "media_key": "3_1926585524405366784",
+              "start": 70,
+              "url": "https://t.co/YbFgEW8NZA"
+            },
+            {
+              "display_url": "pic.x.com/YbFgEW8NZA",
+              "end": 93,
+              "expanded_url": "https://x.com/386Nsg47079/status/1926585529044255088/photo/1",
+              "media_key": "3_1926585524170510336",
+              "start": 70,
+              "url": "https://t.co/YbFgEW8NZA"
+            },
+            {
+              "display_url": "pic.x.com/YbFgEW8NZA",
+              "end": 93,
+              "expanded_url": "https://x.com/386Nsg47079/status/1926585529044255088/photo/1",
+              "media_key": "3_1926585524401106944",
+              "start": 70,
+              "url": "https://t.co/YbFgEW8NZA"
+            },
+            {
+              "display_url": "x.com/0502railgun194…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1926301527800426789",
+              "start": 94,
+              "url": "https://t.co/hEyWfaFBCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926585529044255088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926301527800426789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最后一篇发表在science的论文来自浙大，美国医药资本的大手已经伸到中国了。\n\n另外提醒大家，谨遵医嘱，不要相信任何未知信源的医疗建议。 https://t.co/YbFgEW8NZA https://t.co/hEyWfaFBCw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 644,
+          "like_count": 7666,
+          "listed_count": 2,
+          "media_count": 981,
+          "tweet_count": 6431
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:31:57.000Z",
+        "description": "欢迎来到我的博客。这个家伙是个电子👻。",
+        "id": "1744320870800379904",
+        "name": "ToritORItorI-KIWI",
+        "pinned_tweet_id": "1918543024587768099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916873290012151808/CQ-vT0Z3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 117,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 656
+        },
+        "username": "386Nsg47079",
+        "verified": false
+      }
+    ]
+  }
+}

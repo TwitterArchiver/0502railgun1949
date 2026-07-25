@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1837133440115781671",
+    "created_at": "2024-11-07T13:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T14:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854516346861867211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854516346861867211",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837133440115781671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki 会有多大改善呢？谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1837133440115781671",
+        "created_at": "2024-11-07T13:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854516346861867211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854516346861867211",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837133440115781671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki 会有多大改善呢？谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1837133440115781671",
+        "created_at": "2024-09-20T14:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837133440115781671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【本条目创建日期：2024年6月18日】 长春西汀（Vinpocetine，又名Ethyl apovincaminate），是抗痴呆和中风药、脑血管扩张药，属于 益智药。 长春西汀片【单方制剂】———— 泰力平：盒 装5mg×15片，价格约12元 多力康：盒装5mg×15片，价格约13.5元 开文通：盒装10mg×30片，价格不明",
+              "display_url": "overspeed.wiki/drug/%E9%95%BF…",
+              "end": 135,
+              "expanded_url": "https://overspeed.wiki/drug/%E9%95%BF%E6%98%A5%E8%A5%BF%E6%B1%80",
+              "start": 112,
+              "status": 200,
+              "title": "长春西汀（Vinpocetine）",
+              "unwound_url": "https://overspeed.wiki/drug/%E9%95%BF%E6%98%A5%E8%A5%BF%E6%B1%80",
+              "url": "https://t.co/GaN6H1Y9ok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837133440115781671",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2045,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nootropic长春西汀：已基本验证安全，可扩散\n没有娱乐价值，属于益智药。\n据主编多次实测，该药物按医学剂量服用仅有轻微胃部不适，而即使过量也只会导致脑血管发胀，暂未发现严重副作用。\n长春西汀还可以改善ASD相关行为。\nhttps://t.co/GaN6H1Y9ok"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 761,
+          "like_count": 5519,
+          "listed_count": 1,
+          "tweet_count": 4449
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "本号为OvsSuki编辑组人员多人共同使用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/YS4b5CWFxU"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "name": "OvackSpeed Suki",
+        "pinned_tweet_id": "1807266640221872551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849769703323115520/zFJO4jWH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 464,
+          "like_count": 6816,
+          "listed_count": 2,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/YS4b5CWFxU",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

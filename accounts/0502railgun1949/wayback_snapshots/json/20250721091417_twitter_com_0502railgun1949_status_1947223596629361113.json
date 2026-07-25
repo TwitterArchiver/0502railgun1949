@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1947223596629361113",
+    "created_at": "2025-07-21T09:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T10:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947223596629361113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZhenXunOyama/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ZhenXunOyama/status/1947170917798543474",
+          "start": 19,
+          "url": "https://t.co/QX2Jjto7xT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947223596629361113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947170917798543474",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幸好我这届教材没有改，最后的较好教材 https://t.co/QX2Jjto7xT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1947223596629361113",
+        "created_at": "2025-07-21T09:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T10:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947223596629361113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZhenXunOyama/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ZhenXunOyama/status/1947170917798543474",
+              "start": 19,
+              "url": "https://t.co/QX2Jjto7xT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947223596629361113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947170917798543474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幸好我这届教材没有改，最后的较好教材 https://t.co/QX2Jjto7xT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "964534819664289792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1947170917798543474",
+        "created_at": "2025-07-21T05:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947170917798543474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1947129403252621325",
+              "start": 146,
+              "url": "https://t.co/4MP89G2rEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947170917798543474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947129403252621325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是七年级学生，给大家举个例子\n\n七年级下册语文的红色课本有一半以上，我不知道我到底在学语文还是在学党史\n我一年级的时候恰逢🇨🇳成立70周年，我还记得当时铺天盖地的宣传和学校的红色爱国课，甚至学校让一年级的我背社会主义价值观\n我讨厌🇨🇳教育，有一半是因为制度不合理，一半是是铺天盖地的宣传 https://t.co/4MP89G2rEZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 634,
+          "like_count": 9725,
+          "listed_count": 3,
+          "media_count": 1016,
+          "tweet_count": 7114
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "Tips:不要设置…\n@mengqing5735",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mengqing5735"
+              }
+            ]
+          }
+        },
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "ZhenXunOyama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944262416398712832/jSPnRUJo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 124,
+          "like_count": 12708,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 4284
+        },
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

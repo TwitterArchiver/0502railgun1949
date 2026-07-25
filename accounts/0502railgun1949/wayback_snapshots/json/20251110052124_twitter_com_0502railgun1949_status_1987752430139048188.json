@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1987752430139048188",
+    "created_at": "2025-11-10T05:21:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:21:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987752430139048188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1759609422777577472",
+          "start": 3,
+          "username": "liuying_021464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987752430139048188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987345438538605050",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liuying_021464: 自治主义马克思主义的又一大将维尔诺走了\n总会有一天，那些哲学家们，我们的同路人都会渐渐的离我们而去，我们所剩的时间不多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1987752430139048188",
+        "created_at": "2025-11-10T05:21:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:21:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987752430139048188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1759609422777577472",
+              "start": 3,
+              "username": "liuying_021464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987752430139048188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987345438538605050",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liuying_021464: 自治主义马克思主义的又一大将维尔诺走了\n总会有一天，那些哲学家们，我们的同路人都会渐渐的离我们而去，我们所剩的时间不多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759609422777577472",
+        "conversation_id": "1987345438538605050",
+        "created_at": "2025-11-09T02:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987345438538605050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987345438538605050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1912,
+          "like_count": 33,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "自治主义马克思主义的又一大将维尔诺走了\n总会有一天，那些哲学家们，我们的同路人都会渐渐的离我们而去，我们所剩的时间不多了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 628,
+          "like_count": 10947,
+          "listed_count": 3,
+          "media_count": 1086,
+          "tweet_count": 7818
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T16:03:02.000Z",
+        "description": "对于美学的政治维度的挖掘开启了感性分配的革命性重塑",
+        "id": "1759609422777577472",
+        "location": "诸众",
+        "name": "抹茶小流萤",
+        "pinned_tweet_id": "1953814755015360882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952362918466428928/fqxWXZZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1517,
+          "following_count": 3151,
+          "like_count": 54928,
+          "listed_count": 8,
+          "media_count": 361,
+          "tweet_count": 19027
+        },
+        "username": "liuying_021464",
+        "verified": false
+      }
+    ]
+  }
+}

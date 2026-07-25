@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2026205430813233390",
+    "created_at": "2026-02-24T07:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T08:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026205430813233390"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/angle71766/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/angle71766/status/2025967361577361751",
+          "start": 7,
+          "url": "https://t.co/mGhKVnpGXn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026205430813233390",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025967361577361751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我讨厌任何梗 https://t.co/mGhKVnpGXn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2026205430813233390",
+        "created_at": "2026-02-24T07:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T08:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026205430813233390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/angle71766/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/angle71766/status/2025967361577361751",
+              "start": 7,
+              "url": "https://t.co/mGhKVnpGXn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026205430813233390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025967361577361751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我讨厌任何梗 https://t.co/mGhKVnpGXn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990814524556128256",
+        "conversation_id": "2025967361577361751",
+        "created_at": "2026-02-23T16:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025967361577361751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025967361577361751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 84778,
+          "like_count": 740,
+          "quote_count": 8,
+          "reply_count": 80,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "只有我觉得很讨厌 得吃 这个词吗，感觉特别恶心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 612,
+          "like_count": 10761,
+          "listed_count": 3,
+          "media_count": 1178,
+          "tweet_count": 8342
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T16:09:14.000Z",
+        "description": "我愛你們，快和我互fo吧",
+        "id": "1990814524556128256",
+        "name": "Super Angle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993015280168308736/V-Etklsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 143,
+          "like_count": 202,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 283
+        },
+        "username": "angle71766",
+        "verified": false
+      }
+    ]
+  }
+}

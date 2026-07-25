@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050938585080016897"
+      ],
+      "media_source_tweet_id": [
+        "2050938587407950116"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2051065494640394324",
+    "created_at": "2026-05-03T22:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T23:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051065494640394324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3232393554",
+          "start": 3,
+          "username": "initiumnews"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hmp43VWCOF",
+          "end": 67,
+          "expanded_url": "https://x.com/initiumnews/status/2050938587407950116/photo/1",
+          "media_key": "3_2050938585080016897",
+          "start": 44,
+          "url": "https://t.co/Hmp43VWCOF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051065494640394324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050938587407950116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @initiumnews: 「在黑暗的時代，我們沒有選擇沈默，這就是意義了。」… https://t.co/Hmp43VWCOF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2050938585080016897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZlxtvWMAEWI5d.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050938585080016897"
+          ],
+          "media_source_tweet_id": [
+            "2050938587407950116"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2051065494640394324",
+        "created_at": "2026-05-03T22:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051065494640394324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3232393554",
+              "start": 3,
+              "username": "initiumnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hmp43VWCOF",
+              "end": 67,
+              "expanded_url": "https://x.com/initiumnews/status/2050938587407950116/photo/1",
+              "media_key": "3_2050938585080016897",
+              "start": 44,
+              "url": "https://t.co/Hmp43VWCOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051065494640394324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050938587407950116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @initiumnews: 「在黑暗的時代，我們沒有選擇沈默，這就是意義了。」… https://t.co/Hmp43VWCOF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050938585080016897"
+          ]
+        },
+        "author_id": "3232393554",
+        "conversation_id": "2050938587407950116",
+        "created_at": "2026-05-03T14:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050938587407950116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hmp43VWCOF",
+              "end": 49,
+              "expanded_url": "https://x.com/initiumnews/status/2050938587407950116/photo/1",
+              "media_key": "3_2050938585080016897",
+              "start": 26,
+              "url": "https://t.co/Hmp43VWCOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050938587407950116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 251,
+                "start": 243,
+                "tag": "世界新聞自由日"
+              },
+              {
+                "end": 257,
+                "start": 252,
+                "tag": "晚安小端"
+              }
+            ]
+          },
+          "text": "「在黑暗的時代，我們沒有選擇沈默，這就是意義了。」\n\n李容馬，於1996年進入MBC電視台擔任社會記者。2012年為了訴求新聞報導自由與正義，與工會成員一起策劃了為期170天的罷工活動，因而被MBC電視台以「擾亂公司內部秩序」為由解雇。之後以「韓國社會群體分裂與政黨重組」為題，取得首爾大學研究所博士學位，四處登台演講。2016年被診斷出腹膜癌末期，2019年8月21日，因腹膜癌病情惡化，終年50歲。(資料來源：《我相信世界可以改變：韓國MBC記者提供的鏡子》作者簡介及維基百科)\n\n#世界新聞自由日 #晚安小端"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2276,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "「在黑暗的時代，我們沒有選擇沈默，這就是意義了。」 https://t.co/Hmp43VWCOF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 686,
+          "like_count": 13991,
+          "listed_count": 4,
+          "media_count": 1358,
+          "tweet_count": 11066
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-01T10:16:14.000Z",
+        "description": "端傳媒成立於2015年，專注原創深度報導，已獲得逾100項新聞及攝影大獎。端傳媒是靠會員付費訂閱維繫的獨立媒體機構，成為訂閱會員，支持華文世界不可或缺的深度報導和多元聲音。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theinitium.com/?utm_source=tw…",
+                "end": 23,
+                "expanded_url": "http://theinitium.com/?utm_source=twitter&utm_medium=social&utm_campaign=tw_post",
+                "start": 0,
+                "url": "https://t.co/YjTSHouGw7"
+              }
+            ]
+          }
+        },
+        "id": "3232393554",
+        "name": "端傳媒 Initium Media",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742186027173937152/Fjsm2UMj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249662,
+          "following_count": 625,
+          "like_count": 380,
+          "listed_count": 1910,
+          "media_count": 14639,
+          "tweet_count": 39913
+        },
+        "url": "https://t.co/YjTSHouGw7",
+        "username": "initiumnews",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2046233732605177963",
+    "created_at": "2026-04-20T14:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T15:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046233732605177963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1503726560805007361",
+          "start": 3,
+          "username": "Brian25584161"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046233732605177963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046092143723450826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Brian25584161: 在文章中，作者首先批判了台灣（極）右翼與保守勢力對於印度移工議題的反動觀點，之後再對自由派的論述焦點提出了質疑。作者運用政治學者Immanuel Ness與馬克思主義經濟學者John Smith兩人在他們著作中對移工、移民、全球化與資本主義…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046092135150354432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUt9M1bgAASr6z.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046092135146176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUt9M0bwAADtAo.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046092135150366720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUt9M1bsAATN_0.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2046092135146102784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUt9M0aoAA_2hJ.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2046233732605177963",
+        "created_at": "2026-04-20T14:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T15:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046233732605177963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1503726560805007361",
+              "start": 3,
+              "username": "Brian25584161"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046233732605177963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046092143723450826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Brian25584161: 在文章中，作者首先批判了台灣（極）右翼與保守勢力對於印度移工議題的反動觀點，之後再對自由派的論述焦點提出了質疑。作者運用政治學者Immanuel Ness與馬克思主義經濟學者John Smith兩人在他們著作中對移工、移民、全球化與資本主義…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046092135150354432",
+            "3_2046092135146176512",
+            "3_2046092135150366720",
+            "3_2046092135146102784"
+          ]
+        },
+        "author_id": "1503726560805007361",
+        "conversation_id": "2046092143723450826",
+        "created_at": "2026-04-20T05:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T06:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046092143723450826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "本文以馬克思主義視角，剖析引進移工的底層邏輯為資本剝削，旨在挽救利潤率。文章批判種族與國族主義論述，主張解方在於工人階級跨國團結，爭取同工同酬。",
+              "display_url": "thenewslens.com/article/266786",
+              "end": 153,
+              "expanded_url": "https://www.thenewslens.com/article/266786",
+              "start": 130,
+              "status": 200,
+              "title": "印度移工爭議是階級鬥爭問題，而不是簡單的文化與歧視 - TNL The News Lens 關鍵評論網",
+              "unwound_url": "https://www.thenewslens.com/article/266786",
+              "url": "https://t.co/YQ3MZbF2mb"
+            },
+            {
+              "display_url": "pic.x.com/JV1yoFRjDm",
+              "end": 177,
+              "expanded_url": "https://x.com/Brian25584161/status/2046092143723450826/photo/1",
+              "media_key": "3_2046092135150354432",
+              "start": 154,
+              "url": "https://t.co/JV1yoFRjDm"
+            },
+            {
+              "display_url": "pic.x.com/JV1yoFRjDm",
+              "end": 177,
+              "expanded_url": "https://x.com/Brian25584161/status/2046092143723450826/photo/1",
+              "media_key": "3_2046092135146176512",
+              "start": 154,
+              "url": "https://t.co/JV1yoFRjDm"
+            },
+            {
+              "display_url": "pic.x.com/JV1yoFRjDm",
+              "end": 177,
+              "expanded_url": "https://x.com/Brian25584161/status/2046092143723450826/photo/1",
+              "media_key": "3_2046092135150366720",
+              "start": 154,
+              "url": "https://t.co/JV1yoFRjDm"
+            },
+            {
+              "display_url": "pic.x.com/JV1yoFRjDm",
+              "end": 177,
+              "expanded_url": "https://x.com/Brian25584161/status/2046092143723450826/photo/1",
+              "media_key": "3_2046092135146102784",
+              "start": 154,
+              "url": "https://t.co/JV1yoFRjDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046092143723450826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1046,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "在文章中，作者首先批判了台灣（極）右翼與保守勢力對於印度移工議題的反動觀點，之後再對自由派的論述焦點提出了質疑。作者運用政治學者Immanuel Ness與馬克思主義經濟學者John Smith兩人在他們著作中對移工、移民、全球化與資本主義的分析⋯⋯\n1/3\nhttps://t.co/YQ3MZbF2mb https://t.co/JV1yoFRjDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 667,
+          "like_count": 13156,
+          "listed_count": 3,
+          "media_count": 1345,
+          "tweet_count": 10505
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-15T13:35:40.000Z",
+        "description": "Classical Marxist, Revolutionary Socialist, No war, Worker.  Interest: Social Theory, Sociology, Political Economy, Philosophy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "matters.town/@anderson1905",
+                "end": 23,
+                "expanded_url": "https://matters.town/@anderson1905",
+                "start": 0,
+                "url": "https://t.co/UX1jzOZRf6"
+              }
+            ]
+          }
+        },
+        "id": "1503726560805007361",
+        "location": "Taiwan (R.O.C)",
+        "name": "Mr.Anderson",
+        "pinned_tweet_id": "1950086072178020560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686999775957352448/Ek70RbuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 896,
+          "like_count": 125806,
+          "listed_count": 8,
+          "media_count": 2253,
+          "tweet_count": 42586
+        },
+        "url": "https://t.co/UX1jzOZRf6",
+        "username": "Brian25584161",
+        "verified": false
+      }
+    ]
+  }
+}

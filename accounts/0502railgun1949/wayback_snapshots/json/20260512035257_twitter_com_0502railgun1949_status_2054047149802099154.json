@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2054047149802099154",
+    "created_at": "2026-05-12T03:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054047149802099154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "890076269580341248",
+          "start": 3,
+          "username": "MacroMargin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054047149802099154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054026915040854385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MacroMargin: 韩国要搞AI“公民红利”，很快其他国家也会这样，只是叫法不一样，比如AI税、机器人税等。\n\n此前中国十五五规划，\n我最喜欢的一个目标变量其是，新增“劳动报酬和劳动生产率匹配”的目标，这个目标很前瞻，但也很紧迫和必要。\n要落地这个目标，通过AI税…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2054025619546255360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFdaxSbMAA-HOZ.png",
+        "width": 1518
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054047149802099154",
+        "created_at": "2026-05-12T03:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054047149802099154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "890076269580341248",
+              "start": 3,
+              "username": "MacroMargin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054047149802099154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054026915040854385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MacroMargin: 韩国要搞AI“公民红利”，很快其他国家也会这样，只是叫法不一样，比如AI税、机器人税等。\n\n此前中国十五五规划，\n我最喜欢的一个目标变量其是，新增“劳动报酬和劳动生产率匹配”的目标，这个目标很前瞻，但也很紧迫和必要。\n要落地这个目标，通过AI税…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054025619546255360"
+          ]
+        },
+        "author_id": "890076269580341248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2054026915040854385",
+        "created_at": "2026-05-12T02:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054026915040854385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BGh1EiCtJR",
+              "end": 165,
+              "expanded_url": "https://x.com/MacroMargin/status/2054026915040854385/photo/1",
+              "media_key": "3_2054025619546255360",
+              "start": 142,
+              "url": "https://t.co/BGh1EiCtJR"
+            },
+            {
+              "display_url": "x.com/MacroMargin/st…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/MacroMargin/status/1983155341635317973",
+              "start": 166,
+              "url": "https://t.co/dWIcTFrMSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054026915040854385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "韩国要搞AI“公民红利”，很快其他国家也会这样，只是叫法不一样，比如AI税、机器人税等。\n\n此前中国十五五规划，\n我最喜欢的一个目标变量其是，新增“劳动报酬和劳动生产率匹配”的目标，这个目标很前瞻，但也很紧迫和必要。\n要落地这个目标，通过AI税、机器人税，反哺人力劳动，是必要的路径"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 12217,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983155341635317973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "韩国要搞AI“公民红利”，很快其他国家也会这样，只是叫法不一样，比如AI税、机器人税等。\n\n此前中国十五五规划，\n我最喜欢的一个目标变量其是，新增“劳动报酬和劳动生产率匹配”的目标，这个目标很前瞻，但也很紧迫和必要。\n要落地这个目标，通过AI税、机器人税，反哺人力劳动，是必要的路径 https://t.co/BGh1EiCtJR https://t.co/dWIcTFrMSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 685,
+          "like_count": 14172,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11234
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-26T05:08:14.000Z",
+        "description": "Macro Research Analyst ，持续跟踪宏观趋势的边际变化，聚焦中国宏观政策、美联储风向，了解订阅宏观分析跟踪系统和政策简报👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ocmacro.com",
+                "end": 23,
+                "expanded_url": "http://ocmacro.com",
+                "start": 0,
+                "url": "https://t.co/GqDTu7LHFV"
+              }
+            ]
+          }
+        },
+        "id": "890076269580341248",
+        "name": "宏观边际MacroMargin",
+        "pinned_tweet_id": "2053834275775201622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832383003403636736/LzxkUKBL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189021,
+          "following_count": 552,
+          "like_count": 3470,
+          "listed_count": 1930,
+          "media_count": 1405,
+          "tweet_count": 3565
+        },
+        "url": "https://t.co/GqDTu7LHFV",
+        "username": "MacroMargin",
+        "verified": true
+      }
+    ]
+  }
+}

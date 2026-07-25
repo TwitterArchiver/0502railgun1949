@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883766553919025152"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1883766556083253434",
+    "created_at": "2025-01-27T06:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T07:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883766556083253434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/weQozmFfJU",
+          "end": 31,
+          "expanded_url": "https://x.com/0502railgun1949/status/1883766556083253434/photo/1",
+          "media_key": "3_1883766553919025152",
+          "start": 8,
+          "url": "https://t.co/weQozmFfJU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883766556083253434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不会韵律的结果 https://t.co/weQozmFfJU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 574,
+        "media_key": "3_1883766553919025152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiR7sz4a8AAG86E.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883766553919025152"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1883766556083253434",
+        "created_at": "2025-01-27T06:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T07:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883766556083253434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/weQozmFfJU",
+              "end": 31,
+              "expanded_url": "https://x.com/0502railgun1949/status/1883766556083253434/photo/1",
+              "media_key": "3_1883766553919025152",
+              "start": 8,
+              "url": "https://t.co/weQozmFfJU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883766556083253434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不会韵律的结果 https://t.co/weQozmFfJU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 750,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 849,
+          "tweet_count": 5323
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

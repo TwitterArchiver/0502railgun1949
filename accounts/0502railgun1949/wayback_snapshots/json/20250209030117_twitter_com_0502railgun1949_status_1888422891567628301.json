@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1888422891567628301",
+    "created_at": "2025-02-09T03:01:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T04:01:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888422891567628301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shigeruishiba/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/shigeruishiba/status/1888247844076999137",
+          "start": 4,
+          "url": "https://t.co/bf6GsUCu0v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888422891567628301",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888247844076999137",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "字好丑 https://t.co/bf6GsUCu0v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1888422891567628301",
+        "created_at": "2025-02-09T03:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T04:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888422891567628301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shigeruishiba/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/shigeruishiba/status/1888247844076999137",
+              "start": 4,
+              "url": "https://t.co/bf6GsUCu0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888422891567628301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888247844076999137",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "字好丑 https://t.co/bf6GsUCu0v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888247778075353088"
+          ]
+        },
+        "author_id": "808468854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          }
+        ],
+        "conversation_id": "1888247844076999137",
+        "created_at": "2025-02-08T15:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T16:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888247844076999137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aeEybIkylp",
+              "end": 23,
+              "expanded_url": "https://x.com/shigeruishiba/status/1888247844076999137/photo/1",
+              "media_key": "3_1888247778075353088",
+              "start": 0,
+              "url": "https://t.co/aeEybIkylp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888247844076999137",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 996,
+          "impression_count": 1314449,
+          "like_count": 35895,
+          "quote_count": 540,
+          "reply_count": 1597,
+          "retweet_count": 3284
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aeEybIkylp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 749,
+          "like_count": 6587,
+          "listed_count": 1,
+          "media_count": 888,
+          "tweet_count": 5528
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-07T08:44:49.000Z",
+        "description": "鳥取一区 衆議院議員 | 自民党 | 公式サイト https://t.co/k2LD1PJob2 | 公式ブログ https://t.co/wpgypBXRe7 | 公式YouTube https://t.co/NeclO4yQcw | カレー | 読書 | ラーメン |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 48,
+                "expanded_url": "http://ishiba.com",
+                "start": 25,
+                "url": "https://t.co/k2LD1PJob2"
+              },
+              {
+                "display_url": "ishiba-shigeru.cocolog-nifty.com",
+                "end": 80,
+                "expanded_url": "http://ishiba-shigeru.cocolog-nifty.com",
+                "start": 57,
+                "url": "https://t.co/wpgypBXRe7"
+              },
+              {
+                "display_url": "youtube.com/@ishibach",
+                "end": 116,
+                "expanded_url": "https://www.youtube.com/@ishibach",
+                "start": 93,
+                "url": "https://t.co/NeclO4yQcw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 23,
+                "expanded_url": "http://www.ishiba.com/",
+                "start": 0,
+                "url": "https://t.co/0ySZgOasZX"
+              }
+            ]
+          }
+        },
+        "id": "808468854",
+        "location": "自由民主党",
+        "name": "石破茂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820038227421716480/E4ucOtA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460335,
+          "following_count": 77,
+          "like_count": 276,
+          "listed_count": 3367,
+          "media_count": 539,
+          "tweet_count": 1760
+        },
+        "url": "https://t.co/0ySZgOasZX",
+        "username": "shigeruishiba",
+        "verified": true
+      }
+    ]
+  }
+}

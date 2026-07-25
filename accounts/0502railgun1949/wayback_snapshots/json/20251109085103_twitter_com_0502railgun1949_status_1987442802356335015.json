@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987050598131445760"
+      ],
+      "media_source_tweet_id": [
+        "1987050608021676373"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1987442802356335015",
+    "created_at": "2025-11-09T08:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987442802356335015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1653405864227901440",
+          "start": 3,
+          "username": "kamiara2003"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tcc2tYHdwo",
+          "end": 40,
+          "expanded_url": "https://x.com/kamiara2003/status/1987050608021676373/photo/1",
+          "media_key": "3_1987050598131445760",
+          "start": 17,
+          "url": "https://t.co/tcc2tYHdwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987442802356335015",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987050608021676373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamiara2003: https://t.co/tcc2tYHdwo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987050598131445760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Nr_bxaMAAB0Ev.jpg",
+        "width": 1535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987050598131445760"
+          ],
+          "media_source_tweet_id": [
+            "1987050608021676373"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1987442802356335015",
+        "created_at": "2025-11-09T08:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987442802356335015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1653405864227901440",
+              "start": 3,
+              "username": "kamiara2003"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcc2tYHdwo",
+              "end": 40,
+              "expanded_url": "https://x.com/kamiara2003/status/1987050608021676373/photo/1",
+              "media_key": "3_1987050598131445760",
+              "start": 17,
+              "url": "https://t.co/tcc2tYHdwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987442802356335015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987050608021676373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamiara2003: https://t.co/tcc2tYHdwo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987050598131445760"
+          ]
+        },
+        "author_id": "1653405864227901440",
+        "conversation_id": "1987050608021676373",
+        "created_at": "2025-11-08T06:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987050608021676373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcc2tYHdwo",
+              "end": 23,
+              "expanded_url": "https://x.com/kamiara2003/status/1987050608021676373/photo/1",
+              "media_key": "3_1987050598131445760",
+              "start": 0,
+              "url": "https://t.co/tcc2tYHdwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987050608021676373",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tcc2tYHdwo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 627,
+          "like_count": 10946,
+          "listed_count": 3,
+          "media_count": 1084,
+          "tweet_count": 7808
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T14:28:30.000Z",
+        "description": "上条当麻と彼に人生狂わされた人たちが好きです",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "syosetu.org/user/454096/",
+                "end": 23,
+                "expanded_url": "https://syosetu.org/user/454096/",
+                "start": 0,
+                "url": "https://t.co/eqP5kDEEkN"
+              }
+            ]
+          }
+        },
+        "id": "1653405864227901440",
+        "name": "爪先",
+        "pinned_tweet_id": "1833520031730438182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653406976238555137/rkqD47aJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 119,
+          "like_count": 9812,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 1962
+        },
+        "url": "https://t.co/eqP5kDEEkN",
+        "username": "kamiara2003",
+        "verified": false
+      }
+    ]
+  }
+}

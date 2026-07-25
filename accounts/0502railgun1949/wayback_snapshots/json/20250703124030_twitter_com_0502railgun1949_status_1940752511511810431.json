@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1940752511511810431",
+    "created_at": "2025-07-03T12:40:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T13:40:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1940752511511810431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1940050911537352918",
+          "start": 9,
+          "url": "https://t.co/ufzSZkVexR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940752511511810431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940050911537352918",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么空想社会主义 https://t.co/ufzSZkVexR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84659,
+        "height": 1280,
+        "media_key": "13_1940050533865164800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940050533865164800/img/WOpUms9tYmqekoJ0.jpg",
+        "public_metrics": {
+          "view_count": 190567
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940050533865164800/vid/avc1/320x568/qVjkYH0oU7pyAfRt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940050533865164800/vid/avc1/480x852/q7TJS5AxpNRBuBfU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940050533865164800/vid/avc1/720x1280/QLGbWFqIA6Oq4CR7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940050533865164800/pl/M-4HDTRUicYE7a5p.m3u8?v=2a6"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1940752511511810431",
+        "created_at": "2025-07-03T12:40:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T13:40:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940752511511810431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1940050911537352918",
+              "start": 9,
+              "url": "https://t.co/ufzSZkVexR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940752511511810431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940050911537352918",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么空想社会主义 https://t.co/ufzSZkVexR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940050533865164800"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1940050911537352918",
+        "created_at": "2025-07-01T14:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T15:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940050911537352918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PrCcHgiTvn",
+              "end": 52,
+              "expanded_url": "https://x.com/FurinaDF/status/1940050911537352918/video/1",
+              "media_key": "13_1940050533865164800",
+              "start": 29,
+              "url": "https://t.co/PrCcHgiTvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940050911537352918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 388512,
+          "like_count": 947,
+          "quote_count": 38,
+          "reply_count": 362,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "网友出资打造的怀旧服：\n20世纪60年代，文化大革命期间 https://t.co/PrCcHgiTvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 646,
+          "like_count": 8365,
+          "listed_count": 3,
+          "media_count": 1001,
+          "tweet_count": 6725
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "心怀良善与智慧，行事正直有担当@keaifangong",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "keaifangong"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "San Jose",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34201,
+          "following_count": 2249,
+          "like_count": 26866,
+          "listed_count": 96,
+          "media_count": 5450,
+          "tweet_count": 9694
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

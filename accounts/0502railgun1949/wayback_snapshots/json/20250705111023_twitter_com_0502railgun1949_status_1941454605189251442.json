@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tea",
+          "id": "850450940213592064",
+          "name": "Tea"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1792595821940113408",
+          "name": "Matcha"
+        }
+      }
+    ],
+    "conversation_id": "1941454605189251442",
+    "created_at": "2025-07-05T11:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941454605189251442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MinaseAyano/st…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/MinaseAyano/status/1941344017167663109",
+          "start": 86,
+          "url": "https://t.co/ylW5hRqYm8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941454605189251442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941344017167663109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来到推特都快两年了，这个地方真是到处都是负能量，这两年有人吞了亚硝酸钠，有人由乐观变得悲观，有人从活泼开朗变得沉默不语，然而我至今都没有没有o普瑞巴林，没有变得极端。🍵📷 https://t.co/ylW5hRqYm8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1941454605189251442",
+        "created_at": "2025-07-05T11:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941454605189251442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MinaseAyano/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/MinaseAyano/status/1941344017167663109",
+              "start": 86,
+              "url": "https://t.co/ylW5hRqYm8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941454605189251442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941344017167663109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来到推特都快两年了，这个地方真是到处都是负能量，这两年有人吞了亚硝酸钠，有人由乐观变得悲观，有人从活泼开朗变得沉默不语，然而我至今都没有没有o普瑞巴林，没有变得极端。🍵📷 https://t.co/ylW5hRqYm8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1941344017167663109",
+        "created_at": "2025-07-05T03:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T04:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941344017167663109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1941088626601042369",
+              "start": 122,
+              "url": "https://t.co/9MXiH7w5nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941344017167663109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 701,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941088626601042369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来到推特都快两年了，这个地方真是到处都是负能量，这两年有人吞了亚硝酸钠，有人由乐观变得悲观，有人从活泼开朗变得沉默不语，只有我还是那个我，依然是乐观的那个我，我至今都没有对生活绝望，没有o普瑞巴林，没有一点躯体化的迹象，没有变得极端。🍵📷😋🪭 https://t.co/9MXiH7w5nx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 646,
+          "like_count": 8479,
+          "listed_count": 3,
+          "media_count": 1002,
+          "tweet_count": 6772
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推负能 & 可爱老婆@Yumo_1314 杂鱼主人❤️@_Tojita_Sekai 可爱姐姐@yanmin1105 老婆大人@Kisaragi_momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "_Tojita_Sekai"
+              },
+              {
+                "end": 103,
+                "start": 92,
+                "username": "yanmin1105"
+              },
+              {
+                "end": 123,
+                "start": 108,
+                "username": "Kisaragi_momoe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/minaseayano1",
+                "start": 0,
+                "url": "https://t.co/AZVtx8jwKF"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "Longyearbyen",
+        "name": "綾乃 🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895406575382413312/OZs9bNeY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1750,
+          "following_count": 1759,
+          "like_count": 6611,
+          "listed_count": 6,
+          "media_count": 555,
+          "tweet_count": 6742
+        },
+        "url": "https://t.co/AZVtx8jwKF",
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

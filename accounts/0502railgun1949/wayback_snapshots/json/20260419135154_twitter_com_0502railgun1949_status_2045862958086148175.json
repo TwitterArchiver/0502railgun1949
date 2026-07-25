@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045862958086148175",
+    "created_at": "2026-04-19T13:51:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:51:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045862958086148175"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "联合国中文日"
+        },
+        {
+          "end": 46,
+          "start": 41,
+          "tag": "清华大学"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "中文"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "汉语"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045862958086148175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045837314400882845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 明天就是 #联合国中文日 啦！\n我们跟随 #清华大学 的陈楠老师，一起去探索汉字承载的智慧吧。\n\n汉字作为中华文明从未中断的核心视觉符号，兼具信息、审美与文化传承功能，是中外文明交流互鉴的重要桥梁。\n\n#中文 #汉语 https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46533,
+        "height": 1920,
+        "media_key": "13_2045664791604178944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045664791604178944/img/nIBsWfHRkCwQ0cWu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045664791604178944/vid/avc1/720x1280/-PE6ETpmx3WlRmhV.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045664791604178944/vid/avc1/320x568/GCK9y3KMpgWQpba-.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045664791604178944/pl/agTbW1TGNBSl8Tq5.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045664791604178944/vid/avc1/1080x1920/EyWFEFQQuM2cNEmm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045664791604178944/vid/avc1/480x852/NsK-TKAMbokHmWaL.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045862958086148175",
+        "created_at": "2026-04-19T13:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045862958086148175"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "联合国中文日"
+            },
+            {
+              "end": 46,
+              "start": 41,
+              "tag": "清华大学"
+            },
+            {
+              "end": 124,
+              "start": 121,
+              "tag": "中文"
+            },
+            {
+              "end": 128,
+              "start": 125,
+              "tag": "汉语"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045862958086148175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045837314400882845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 明天就是 #联合国中文日 啦！\n我们跟随 #清华大学 的陈楠老师，一起去探索汉字承载的智慧吧。\n\n汉字作为中华文明从未中断的核心视觉符号，兼具信息、审美与文化传承功能，是中外文明交流互鉴的重要桥梁。\n\n#中文 #汉语 https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045664791604178944"
+          ]
+        },
+        "author_id": "303806284",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045837314400882845",
+        "created_at": "2026-04-19T12:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045837314400882845"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "联合国中文日"
+            },
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "清华大学"
+            },
+            {
+              "end": 104,
+              "start": 101,
+              "tag": "中文"
+            },
+            {
+              "end": 108,
+              "start": 105,
+              "tag": "汉语"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0KE6Sl6jG",
+              "end": 132,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2045837314400882845/video/1",
+              "media_key": "13_2045664791604178944",
+              "start": 109,
+              "url": "https://t.co/M0KE6Sl6jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045837314400882845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "明天就是 #联合国中文日 啦！\n我们跟随 #清华大学 的陈楠老师，一起去探索汉字承载的智慧吧。\n\n汉字作为中华文明从未中断的核心视觉符号，兼具信息、审美与文化传承功能，是中外文明交流互鉴的重要桥梁。\n\n#中文 #汉语 https://t.co/M0KE6Sl6jG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 666,
+          "like_count": 13101,
+          "listed_count": 3,
+          "media_count": 1340,
+          "tweet_count": 10468
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36942,
+          "following_count": 41,
+          "like_count": 487,
+          "listed_count": 120,
+          "media_count": 10751,
+          "tweet_count": 11288
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

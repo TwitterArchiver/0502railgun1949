@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1826312942922739929",
+    "created_at": "2024-08-25T23:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T00:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827849299964919902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1470407185121169410",
+          "start": 0,
+          "username": "iranon_lcf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827849299964919902",
+    "in_reply_to_user_id": "1470407185121169410",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826312942922739929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iranon_lcf 我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1826312942922739929].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1826312942922739929",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1826312942922739929"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1826312942922739929",
+        "created_at": "2024-08-25T23:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T00:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827849299964919902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1470407185121169410",
+              "start": 0,
+              "username": "iranon_lcf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827849299964919902",
+        "in_reply_to_user_id": "1470407185121169410",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826312942922739929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iranon_lcf 我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 857,
+          "following_count": 764,
+          "like_count": 4412,
+          "listed_count": 2,
+          "tweet_count": 3875
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-13T14:56:17.000Z",
+        "description": "想像に一生悬命 现実は絶体絶命",
+        "id": "1470407185121169410",
+        "location": "大理石之都艾拉",
+        "name": "iranon🏳️‍⚧️",
+        "pinned_tweet_id": "1768630780593610789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819124163518328832/SleA_4VO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 973,
+          "like_count": 64908,
+          "listed_count": 1,
+          "tweet_count": 4182
+        },
+        "username": "iranon_lcf",
+        "verified": false
+      }
+    ]
+  }
+}

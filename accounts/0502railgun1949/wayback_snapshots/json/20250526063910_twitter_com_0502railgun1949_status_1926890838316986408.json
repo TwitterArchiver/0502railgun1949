@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1926881636253130867",
+    "created_at": "2025-05-26T06:39:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T07:39:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926890838316986408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "efwgverbg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926890838316986408",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926881636253130867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@efwgverbg 我基金赚了点小钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1926881636253130867",
+        "created_at": "2025-05-26T06:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926890838316986408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "efwgverbg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926890838316986408",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926881636253130867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@efwgverbg 我基金赚了点小钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "conversation_id": "1926881636253130867",
+        "created_at": "2025-05-26T06:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T07:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926881636253130867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/crypandapto/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/crypandapto/status/1926683364813107641",
+              "start": 20,
+              "url": "https://t.co/cacfac5tUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926881636253130867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926683364813107641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我消费也很克制，但是怎么钱被我亏完了😭 https://t.co/cacfac5tUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 645,
+          "like_count": 7714,
+          "listed_count": 2,
+          "media_count": 984,
+          "tweet_count": 6454
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "第十任Harvard费正清中国和正太研究中心主任（超新星纪元33-66年）\n国立西南联合大学名誉教务长（超新星纪元66年—）\n书虫🤓Abeunt studia in mores\n好看的里推@nFMz74Iziq5NqAt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "nFMz74Iziq5NqAt"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "国立西南联合大学国家发展研究院",
+        "name": "小小科耶夫",
+        "pinned_tweet_id": "1919750857605980224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906361142769049600/sB5rNZwH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 605,
+          "following_count": 412,
+          "like_count": 10118,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 13676
+        },
+        "username": "efwgverbg",
+        "verified": false
+      }
+    ]
+  }
+}

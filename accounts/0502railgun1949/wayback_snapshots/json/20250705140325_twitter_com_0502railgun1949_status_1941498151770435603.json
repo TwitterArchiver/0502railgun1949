@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1941498151770435603",
+    "created_at": "2025-07-05T14:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941498151770435603"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chzonggemin/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Chzonggemin/status/1941487065579024714",
+          "start": 44,
+          "url": "https://t.co/1R9muupypU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941498151770435603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941487065579024714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以后变成老登了就是这样的\n我还会谈国内国际政治，感受人情冷暖\n回看我这悲剧与？的一生 https://t.co/1R9muupypU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1941498151770435603",
+        "created_at": "2025-07-05T14:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941498151770435603"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chzonggemin/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Chzonggemin/status/1941487065579024714",
+              "start": 44,
+              "url": "https://t.co/1R9muupypU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941498151770435603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941487065579024714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以后变成老登了就是这样的\n我还会谈国内国际政治，感受人情冷暖\n回看我这悲剧与？的一生 https://t.co/1R9muupypU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755188079277801472",
+        "conversation_id": "1941487065579024714",
+        "created_at": "2025-07-05T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941487065579024714"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941487065579024714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "楼下的老太太盘着腿，摇着蒲扇\n聊着布尔什维克，列宁和共产主义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 646,
+          "like_count": 8496,
+          "listed_count": 3,
+          "media_count": 1003,
+          "tweet_count": 6779
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维主义从过去到现在始终是通向未来的道路🚩",
+        "id": "1755188079277801472",
+        "location": "#Trotskyism is Bolshevism",
+        "name": "宗革",
+        "pinned_tweet_id": "1941124485077475422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 512,
+          "like_count": 4636,
+          "listed_count": 8,
+          "media_count": 151,
+          "tweet_count": 2407
+        },
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

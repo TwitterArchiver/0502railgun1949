@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055356542321623040"
+      ],
+      "media_source_tweet_id": [
+        "2055356544645320871"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2055432422544867491",
+    "created_at": "2026-05-15T23:37:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T00:37:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055432422544867491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1659190798104297476",
+          "start": 3,
+          "username": "EinMensch_168"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/duGk1YsYuJ",
+          "end": 55,
+          "expanded_url": "https://x.com/EinMensch_168/status/2055356544645320871/photo/1",
+          "media_key": "3_2055356542321623040",
+          "start": 32,
+          "url": "https://t.co/duGk1YsYuJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055432422544867491",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055356544645320871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EinMensch_168: 弄了一个更简洁的自我介绍 https://t.co/duGk1YsYuJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2055356542321623040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYX4q_bAAAjKNg.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055356542321623040"
+          ],
+          "media_source_tweet_id": [
+            "2055356544645320871"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2055432422544867491",
+        "created_at": "2026-05-15T23:37:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T00:37:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055432422544867491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1659190798104297476",
+              "start": 3,
+              "username": "EinMensch_168"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/duGk1YsYuJ",
+              "end": 55,
+              "expanded_url": "https://x.com/EinMensch_168/status/2055356544645320871/photo/1",
+              "media_key": "3_2055356542321623040",
+              "start": 32,
+              "url": "https://t.co/duGk1YsYuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055432422544867491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055356544645320871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EinMensch_168: 弄了一个更简洁的自我介绍 https://t.co/duGk1YsYuJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055356542321623040"
+          ]
+        },
+        "author_id": "1659190798104297476",
+        "conversation_id": "2055356544645320871",
+        "created_at": "2026-05-15T18:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055356544645320871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/duGk1YsYuJ",
+              "end": 36,
+              "expanded_url": "https://x.com/EinMensch_168/status/2055356544645320871/photo/1",
+              "media_key": "3_2055356542321623040",
+              "start": 13,
+              "url": "https://t.co/duGk1YsYuJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055356544645320871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "弄了一个更简洁的自我介绍 https://t.co/duGk1YsYuJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 680,
+          "like_count": 14336,
+          "listed_count": 5,
+          "media_count": 1370,
+          "tweet_count": 11322
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T13:34:57.000Z",
+        "description": "性格经常改变致歉丨一直试图交友丨涉及面广丨10年下旬生人丨不OD不割手不抽烟不喝酒不约炮不嚼榔丨🖤🩶🤍💚🤍🩶🖤丨尽力让自己变得更好丨我在学习与研究",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/einmensch_168",
+                "end": 23,
+                "expanded_url": "https://ngl.link/einmensch_168",
+                "start": 0,
+                "url": "https://t.co/WrJu3qtava"
+              }
+            ]
+          }
+        },
+        "id": "1659190798104297476",
+        "location": "0.3km",
+        "name": "双刀王小桃",
+        "pinned_tweet_id": "2050968410188820804",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053073567441674240/Abxnm9sD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 314,
+          "like_count": 2992,
+          "listed_count": 1,
+          "media_count": 199,
+          "tweet_count": 1155
+        },
+        "url": "https://t.co/WrJu3qtava",
+        "username": "EinMensch_168",
+        "verified": true
+      }
+    ]
+  }
+}

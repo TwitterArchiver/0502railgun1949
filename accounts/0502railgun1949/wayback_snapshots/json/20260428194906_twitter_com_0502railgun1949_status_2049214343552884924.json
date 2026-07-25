@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2049214343552884924",
+    "created_at": "2026-04-28T19:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049214343552884924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423574479779733504",
+          "start": 3,
+          "username": "laborpowercn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049214343552884924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049143070080594126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @laborpowercn: 由于 Twitter（X）已经取消免费的自动发帖功能，之后“工劳快讯”的新收录内容将无法再即时自动同步到这里。\n\n如果大家希望持续接收最新更新，建议改用 Telegram 频道或邮箱订阅（请查看简介）。之后这个账号仍会继续使用，但主要会不定期…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2049214343552884924",
+        "created_at": "2026-04-28T19:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049214343552884924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423574479779733504",
+              "start": 3,
+              "username": "laborpowercn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049214343552884924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049143070080594126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @laborpowercn: 由于 Twitter（X）已经取消免费的自动发帖功能，之后“工劳快讯”的新收录内容将无法再即时自动同步到这里。\n\n如果大家希望持续接收最新更新，建议改用 Telegram 频道或邮箱订阅（请查看简介）。之后这个账号仍会继续使用，但主要会不定期…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423574479779733504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2049143070080594126",
+        "created_at": "2026-04-28T15:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049143070080594126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049143070080594126",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "由于 Twitter（X）已经取消免费的自动发帖功能，之后“工劳快讯”的新收录内容将无法再即时自动同步到这里。\n\n如果大家希望持续接收最新更新，建议改用 Telegram 频道或邮箱订阅（请查看简介）。之后这个账号仍会继续使用，但主要会不定期发布一些重要推荐内容与特别整理。\n\n感谢大家一直以来的关注，也欢迎继续通过 TG 追踪“工劳快讯”的最新收录！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "由于 Twitter（X）已经取消免费的自动发帖功能，之后“工劳快讯”的新收录内容将无法再即时自动同步到这里。\n\n如果大家希望持续接收最新更新，建议改用 Telegram 频道或邮箱订阅（请查看简介）。之后这个账号仍会继续使用，但主要会不定期发布一些重要推荐内容与特别整理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 691,
+          "like_count": 13769,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10862
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T09:19:54.000Z",
+        "description": "我们发布最新中国工人、劳动权益相关的新闻/社交媒体资讯。欢迎自助提交和备份你认为有价值的工人资讯。\n电子报：https://t.co/GNRhHG78La \n搜索引擎：https://t.co/KnlQtqDTXA \nTG: https://t.co/nx6mFRyRdQ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "feed.laborinfocn2.com",
+                "end": 77,
+                "expanded_url": "http://feed.laborinfocn2.com",
+                "start": 54,
+                "url": "https://t.co/GNRhHG78La"
+              },
+              {
+                "display_url": "search.laborinfocn2.com",
+                "end": 107,
+                "expanded_url": "http://search.laborinfocn2.com",
+                "start": 84,
+                "url": "https://t.co/KnlQtqDTXA"
+              },
+              {
+                "display_url": "t.me/laborpower",
+                "end": 136,
+                "expanded_url": "https://t.me/laborpower",
+                "start": 113,
+                "url": "https://t.co/nx6mFRyRdQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "laborinfocn2.com",
+                "end": 23,
+                "expanded_url": "https://laborinfocn2.com",
+                "start": 0,
+                "url": "https://t.co/anqMlmqhxb"
+              }
+            ]
+          }
+        },
+        "id": "1423574479779733504",
+        "name": "工劳快讯：关注当代打工人",
+        "pinned_tweet_id": "2049143070080594126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676193037461114880/TTMga3Xa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7681,
+          "following_count": 220,
+          "like_count": 188,
+          "listed_count": 45,
+          "media_count": 249,
+          "tweet_count": 11440
+        },
+        "url": "https://t.co/anqMlmqhxb",
+        "username": "laborpowercn",
+        "verified": true
+      }
+    ]
+  }
+}

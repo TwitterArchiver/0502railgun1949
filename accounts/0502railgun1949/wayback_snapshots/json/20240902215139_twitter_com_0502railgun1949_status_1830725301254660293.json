@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1830588566621299103",
+    "created_at": "2024-09-02T21:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T22:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830725301254660293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1664948430920359936",
+          "start": 0,
+          "username": "Snowcomics9452"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830725301254660293",
+    "in_reply_to_user_id": "1664948430920359936",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830588566621299103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snowcomics9452 谷歌什么时候放弃三星啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1830588566621299103",
+        "created_at": "2024-09-02T21:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T22:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830725301254660293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1664948430920359936",
+              "start": 0,
+              "username": "Snowcomics9452"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830725301254660293",
+        "in_reply_to_user_id": "1664948430920359936",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830588566621299103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snowcomics9452 谷歌什么时候放弃三星啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664948430920359936",
+        "conversation_id": "1830588566621299103",
+        "created_at": "2024-09-02T12:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T13:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830588566621299103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830588566621299103",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三星S25系列並沒有Exynos版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 768,
+          "like_count": 4826,
+          "listed_count": 2,
+          "tweet_count": 4063
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T10:53:52.000Z",
+        "description": "@Snowcomics 手機新聞的中文版\n可能稍多非新聞內容\n🎮 遊玩Minecraft, 原神, 崩壞: 星穹鐵道\n💻 可寫程式碼但能力較差\n📱 擁有多種不同品牌的手機\n日常區: @SchneeSchmitt\nDiscord: snowflake9452\nEN version: @Snowcomics",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Snowcomics"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "SchneeSchmitt"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "Snowcomics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "e-z.bio/snoocomics9452",
+                "end": 23,
+                "expanded_url": "https://e-z.bio/snoocomics9452",
+                "start": 0,
+                "url": "https://t.co/DHeHwyTwoQ"
+              }
+            ]
+          }
+        },
+        "id": "1664948430920359936",
+        "location": "香港 | Hong Kong",
+        "name": "雪花 (中文)",
+        "pinned_tweet_id": "1820078767957844053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829925532521431040/iOjFpb8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 192,
+          "like_count": 7387,
+          "listed_count": 0,
+          "tweet_count": 818
+        },
+        "url": "https://t.co/DHeHwyTwoQ",
+        "username": "Snowcomics9452",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883765515908530176",
+        "3_1883765519909785600",
+        "3_1883765524120956928"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1883765526750753177",
+    "created_at": "2025-01-27T06:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T07:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883765526750753177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I9OGXnYPEv",
+          "end": 44,
+          "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+          "media_key": "3_1883765515908530176",
+          "start": 21,
+          "url": "https://t.co/I9OGXnYPEv"
+        },
+        {
+          "display_url": "pic.x.com/I9OGXnYPEv",
+          "end": 44,
+          "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+          "media_key": "3_1883765519909785600",
+          "start": 21,
+          "url": "https://t.co/I9OGXnYPEv"
+        },
+        {
+          "display_url": "pic.x.com/I9OGXnYPEv",
+          "end": 44,
+          "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+          "media_key": "3_1883765524120956928",
+          "start": 21,
+          "url": "https://t.co/I9OGXnYPEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883765526750753177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好可爱啊啊啊\n我怎么不是深圳女初中生😭😭 https://t.co/I9OGXnYPEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1883765515908530176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiR6wY_bwAAi4KA.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883765519909785600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiR6wn5aEAAHd4v.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1883765524120956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiR6w3lbcAA1m4u.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883765515908530176",
+            "3_1883765519909785600",
+            "3_1883765524120956928"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1883765526750753177",
+        "created_at": "2025-01-27T06:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T07:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883765526750753177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9OGXnYPEv",
+              "end": 44,
+              "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+              "media_key": "3_1883765515908530176",
+              "start": 21,
+              "url": "https://t.co/I9OGXnYPEv"
+            },
+            {
+              "display_url": "pic.x.com/I9OGXnYPEv",
+              "end": 44,
+              "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+              "media_key": "3_1883765519909785600",
+              "start": 21,
+              "url": "https://t.co/I9OGXnYPEv"
+            },
+            {
+              "display_url": "pic.x.com/I9OGXnYPEv",
+              "end": 44,
+              "expanded_url": "https://x.com/0502railgun1949/status/1883765526750753177/photo/1",
+              "media_key": "3_1883765524120956928",
+              "start": 21,
+              "url": "https://t.co/I9OGXnYPEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883765526750753177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱啊啊啊\n我怎么不是深圳女初中生😭😭 https://t.co/I9OGXnYPEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 750,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 848,
+          "tweet_count": 5322
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

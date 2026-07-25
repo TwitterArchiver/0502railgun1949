@@ -1,0 +1,125 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1809256135540760579"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1809256139626107308",
+    "created_at": "2024-07-05T16:00:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T17:00:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809256139626107308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/h4VV46HZHJ",
+          "end": 74,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1809256139626107308/photo/1",
+          "media_key": "3_1809256135540760579",
+          "start": 51,
+          "url": "https://t.co/h4VV46HZHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809256139626107308",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有心的采访\n真情的采访\n深入的采访\n这才是记者，有温度，有勇气面对第一线\n向新闻自由，向大众传达真实 https://t.co/h4VV46HZHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1809256135540760579",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GRvE3pKaYAM_hMi.jpg",
+        "width": 887
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809256135540760579"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1809256139626107308",
+        "created_at": "2024-07-05T16:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T17:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809256139626107308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/h4VV46HZHJ",
+              "end": 74,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1809256139626107308/photo/1",
+              "media_key": "3_1809256135540760579",
+              "start": 51,
+              "url": "https://t.co/h4VV46HZHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809256139626107308",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有心的采访\n真情的采访\n深入的采访\n这才是记者，有温度，有勇气面对第一线\n向新闻自由，向大众传达真实 https://t.co/h4VV46HZHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 751,
+          "like_count": 3228,
+          "listed_count": 1,
+          "tweet_count": 3239
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

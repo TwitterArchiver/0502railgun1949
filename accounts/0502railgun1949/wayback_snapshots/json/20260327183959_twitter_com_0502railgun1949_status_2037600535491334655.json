@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037440439704567808",
+        "3_2037440452434206720",
+        "3_2037440474580213760",
+        "3_2037440496101101568"
+      ],
+      "media_source_tweet_id": [
+        "2037440512094093517",
+        "2037440512094093517",
+        "2037440512094093517",
+        "2037440512094093517"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037600535491334655",
+    "created_at": "2026-03-27T18:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037600535491334655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1206932939470041089",
+          "start": 3,
+          "username": "thomaslim2019"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0b5iOBFfk8",
+          "end": 126,
+          "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+          "media_key": "3_2037440439704567808",
+          "start": 103,
+          "url": "https://t.co/0b5iOBFfk8"
+        },
+        {
+          "display_url": "pic.x.com/0b5iOBFfk8",
+          "end": 126,
+          "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+          "media_key": "3_2037440452434206720",
+          "start": 103,
+          "url": "https://t.co/0b5iOBFfk8"
+        },
+        {
+          "display_url": "pic.x.com/0b5iOBFfk8",
+          "end": 126,
+          "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+          "media_key": "3_2037440474580213760",
+          "start": 103,
+          "url": "https://t.co/0b5iOBFfk8"
+        },
+        {
+          "display_url": "pic.x.com/0b5iOBFfk8",
+          "end": 126,
+          "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+          "media_key": "3_2037440496101101568",
+          "start": 103,
+          "url": "https://t.co/0b5iOBFfk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037600535491334655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037440512094093517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thomaslim2019: 澳洲的无人关帝庙\n \n澳洲大金山关帝庙这是1870年代淘金华人建的，后来金没了，华工一夜之间消失，留下了庙。\n \n庙被荒废了多年，后来本地白人作为文化遗产保护起来。… https://t.co/0b5iOBFfk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 648,
+        "media_key": "3_2037440439704567808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZxSPubQAArxkO.png",
+        "width": 863
+      },
+      {
+        "height": 500,
+        "media_key": "3_2037440452434206720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZxS_JaIAA-gsa.png",
+        "width": 751
+      },
+      {
+        "height": 499,
+        "media_key": "3_2037440474580213760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZxURpbYAAkWdg.png",
+        "width": 751
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2037440496101101568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZxVh0aEAAtGbO.jpg",
+        "width": 865
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037440439704567808",
+            "3_2037440452434206720",
+            "3_2037440474580213760",
+            "3_2037440496101101568"
+          ],
+          "media_source_tweet_id": [
+            "2037440512094093517",
+            "2037440512094093517",
+            "2037440512094093517",
+            "2037440512094093517"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037600535491334655",
+        "created_at": "2026-03-27T18:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037600535491334655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1206932939470041089",
+              "start": 3,
+              "username": "thomaslim2019"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 126,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440439704567808",
+              "start": 103,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 126,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440452434206720",
+              "start": 103,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 126,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440474580213760",
+              "start": 103,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 126,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440496101101568",
+              "start": 103,
+              "url": "https://t.co/0b5iOBFfk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037600535491334655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037440512094093517",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thomaslim2019: 澳洲的无人关帝庙\n \n澳洲大金山关帝庙这是1870年代淘金华人建的，后来金没了，华工一夜之间消失，留下了庙。\n \n庙被荒废了多年，后来本地白人作为文化遗产保护起来。… https://t.co/0b5iOBFfk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037440439704567808",
+            "3_2037440452434206720",
+            "3_2037440474580213760",
+            "3_2037440496101101568"
+          ]
+        },
+        "author_id": "1206932939470041089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037440512094093517",
+        "created_at": "2026-03-27T08:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T09:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037440512094093517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 106,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440439704567808",
+              "start": 83,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 106,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440452434206720",
+              "start": 83,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 106,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440474580213760",
+              "start": 83,
+              "url": "https://t.co/0b5iOBFfk8"
+            },
+            {
+              "display_url": "pic.x.com/0b5iOBFfk8",
+              "end": 106,
+              "expanded_url": "https://x.com/thomaslim2019/status/2037440512094093517/photo/1",
+              "media_key": "3_2037440496101101568",
+              "start": 83,
+              "url": "https://t.co/0b5iOBFfk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037440512094093517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "澳洲的无人关帝庙\n \n澳洲大金山关帝庙这是1870年代淘金华人建的，后来金没了，华工一夜之间消失，留下了庙。\n \n庙被荒废了多年，后来本地白人作为文化遗产保护起来。\n \n我在1982年第一次去。看管关帝庙的义工是几个白人女人。她们很高兴说，哇，终于有真的中国人来上香了！然后热情地教导我很奇怪的“中国传统朝拜规矩”...首先必须洗手洗脚，然后敲钟，然后把五毛的硬币丢在地上，然后鼓掌两次，祈祷，上香，再鞠躬一次，礼成....\n \n后来我常常去。关帝庙当年收费5毛，是维修费，独立管理，不盈利，看门女人都是志愿者，没有工资的。她们自己研究了一下就让我免费进入了...“朝拜者、中国人，我们不该收钱啊。”\n \n女人是基督教徒，大概心里可能认为佛教或者关帝都是邪教，可是，“无论如何，有历史的东西我们必须保留，别人的信仰就各信各的好了！我们只看管寺庙，我们不相信，也不拜！”\n \n她们很尽责，还为我详细讲解了当地华人历史，和很奇怪的关帝背景介绍（她们的义务工作包括对来参观的人当导游讲解）：\n \n“关帝是古中国历史伟人。众所周知，中国人姓名和我们西方人相反；Guan是姓，Di才是他的名。他发明了指南针、统一了中国、建了长城，后来他烧了一些书和埋了一些读书人，他老婆很不爽就飞到月亮上去了；每年，在一些小鸟的帮助下，他们能相会一次；后人为了纪念，每年会舞龙舞狮、吃粽子，挂起一些灯笼，里面藏着一些谜语...”\n \n后来熟悉了，她们还开车两小时去墨尔本为我买来了一些印度香，让我可以进行“你自己民族和宗教的朝拜仪式”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 65137,
+          "like_count": 462,
+          "quote_count": 10,
+          "reply_count": 58,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "澳洲的无人关帝庙\n \n澳洲大金山关帝庙这是1870年代淘金华人建的，后来金没了，华工一夜之间消失，留下了庙。\n \n庙被荒废了多年，后来本地白人作为文化遗产保护起来。 https://t.co/0b5iOBFfk8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1205,
+          "following_count": 644,
+          "like_count": 11215,
+          "listed_count": 3,
+          "media_count": 1274,
+          "tweet_count": 9064
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-17T13:43:52.000Z",
+        "description": "",
+        "id": "1206932939470041089",
+        "name": "老林永生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939535532465242112/nzIQPODp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39722,
+          "following_count": 48,
+          "like_count": 3582,
+          "listed_count": 187,
+          "media_count": 22251,
+          "tweet_count": 44379
+        },
+        "username": "thomaslim2019",
+        "verified": true
+      }
+    ]
+  }
+}

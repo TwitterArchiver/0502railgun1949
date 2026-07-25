@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1942650134409666675",
+    "created_at": "2025-07-09T03:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T04:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942790464773709956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515668818013696000",
+          "start": 0,
+          "username": "jym66662"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942790464773709956",
+    "in_reply_to_user_id": "1515668818013696000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942650134409666675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jym66662 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1942650134409666675",
+        "created_at": "2025-07-09T03:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T04:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942790464773709956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515668818013696000",
+              "start": 0,
+              "username": "jym66662"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942790464773709956",
+        "in_reply_to_user_id": "1515668818013696000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942650134409666675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jym66662 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515668818013696000",
+        "conversation_id": "1942650134409666675",
+        "created_at": "2025-07-08T18:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T19:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942650134409666675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942650134409666675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我需要大量的安眠药让我睡个好觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 646,
+          "like_count": 8920,
+          "listed_count": 3,
+          "media_count": 1005,
+          "tweet_count": 6899
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T12:29:50.000Z",
+        "description": "假如生活欺骗了你，不要悲伤，不要心急！忧郁的日子里须要镇静，相信吧，快乐的日子将会来临！心儿永远向往着未来…",
+        "id": "1515668818013696000",
+        "location": "加拿大 温哥华",
+        "name": "作业homework",
+        "pinned_tweet_id": "1819062909978529961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869398507221868544/ogHEhLna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 418,
+          "like_count": 388,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 1948
+        },
+        "username": "jym66662",
+        "verified": false
+      }
+    ]
+  }
+}

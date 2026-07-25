@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1861520782792499326",
+    "created_at": "2024-11-26T23:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T00:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861549182437499263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486309706440196096",
+          "start": 0,
+          "username": "CobaltApki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861549182437499263",
+    "in_reply_to_user_id": "1486309706440196096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861520782792499326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CobaltApki 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1861520782792499326",
+        "created_at": "2024-11-26T23:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T00:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861549182437499263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486309706440196096",
+              "start": 0,
+              "username": "CobaltApki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861549182437499263",
+        "in_reply_to_user_id": "1486309706440196096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861520782792499326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CobaltApki 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861519356884328450"
+          ]
+        },
+        "author_id": "1486309706440196096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1861520782792499326",
+        "created_at": "2024-11-26T21:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T22:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861520782792499326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VosH1u6fyn",
+              "end": 83,
+              "expanded_url": "https://x.com/CobaltApki/status/1861520782792499326/photo/1",
+              "media_key": "3_1861519356884328450",
+              "start": 60,
+              "url": "https://t.co/VosH1u6fyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861520782792499326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校发现的小漫画，我一直是圆焰厨啊，每次看到小焰和小圆的百合日常我都不禁羡慕，而我的校园生活以及理想中的恋爱都是泡影 https://t.co/VosH1u6fyn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 753,
+          "like_count": 5912,
+          "listed_count": 1,
+          "tweet_count": 4672
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T12:07:19.000Z",
+        "description": "衡中系高三在读学畜/网络依赖症/Steam/自我攻略/纯傲娇/渴望做内心强大的自己\n\n人丑家穷，肾不好，不约炮，没有鱼塘，并非南娘或难痛，陌生人请不要给我发裸照和🐔🎱，玉玉蒸别找我，别指望我能安慰谁，长期在校上网时间少，复活CD长请见谅\n有事邮件联系Cobalt_apki@foxmail.com",
+        "id": "1486309706440196096",
+        "location": "河北衡水",
+        "name": "杌原Apki(Away)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859350267482996739/yMP4APCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 127,
+          "like_count": 1374,
+          "listed_count": 0,
+          "tweet_count": 276
+        },
+        "username": "CobaltApki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Boy's Love category",
+          "id": "1298785075824230401",
+          "name": "BL"
+        }
+      }
+    ],
+    "conversation_id": "1992829826005430367",
+    "created_at": "2025-11-24T05:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T06:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992829826005430367"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1730923014471180288",
+          "start": 3,
+          "username": "sta_3120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992829826005430367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992662058803098002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sta_3120: 要知道现在的右转不只是LGBT受到打压，还有这个，以及中国特色eSIM，世界各国的未成年验证（间接实名），Qi2硬生生的被非法化，电车加速5秒，以及向V/M施压禁止黄片，都是保守派在意识到人民不可信任后的做法\n\n不过eSIM已经有物极必反的感觉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "1992829826005430367",
+        "created_at": "2025-11-24T05:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T06:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992829826005430367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1730923014471180288",
+              "start": 3,
+              "username": "sta_3120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992829826005430367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992662058803098002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sta_3120: 要知道现在的右转不只是LGBT受到打压，还有这个，以及中国特色eSIM，世界各国的未成年验证（间接实名），Qi2硬生生的被非法化，电车加速5秒，以及向V/M施压禁止黄片，都是保守派在意识到人民不可信任后的做法\n\n不过eSIM已经有物极必反的感觉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Boy's Love category",
+              "id": "1298785075824230401",
+              "name": "BL"
+            }
+          }
+        ],
+        "conversation_id": "1992662058803098002",
+        "created_at": "2025-11-23T18:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T19:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992662058803098002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dratohru_xln/s…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/dratohru_xln/status/1992460546034315385",
+              "start": 124,
+              "url": "https://t.co/T3eSerIjs6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992662058803098002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2366,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992460546034315385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要知道现在的右转不只是LGBT受到打压，还有这个，以及中国特色eSIM，世界各国的未成年验证（间接实名），Qi2硬生生的被非法化，电车加速5秒，以及向V/M施压禁止黄片，都是保守派在意识到人民不可信任后的做法\n\n不过eSIM已经有物极必反的感觉了 https://t.co/T3eSerIjs6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 615,
+          "like_count": 11057,
+          "listed_count": 3,
+          "media_count": 1097,
+          "tweet_count": 7906
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我晨曦或者Sunny/Transfem non-binary/she/they/她/祂/@Sydney_Uni and @UNSW alumni",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 68,
+                "start": 63,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Science Museum",
+        "name": "不屈の3120ST🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1972657175659962598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919359639818477568/If6l9MN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 238,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 403,
+          "tweet_count": 4052
+        },
+        "username": "sta_3120",
+        "verified": false
+      }
+    ]
+  }
+}

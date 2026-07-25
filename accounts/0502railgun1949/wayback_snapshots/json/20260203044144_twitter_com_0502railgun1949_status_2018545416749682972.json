@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2018178261323563433",
+    "created_at": "2026-02-03T04:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T05:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018545416749682972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1187671999063056384",
+          "start": 0,
+          "username": "xuechun2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018545416749682972",
+    "in_reply_to_user_id": "1187671999063056384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018178261323563433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuechun2333 民国"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2018178261323563433].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2018178261323563433",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2018178261323563433"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2018178261323563433",
+        "created_at": "2026-02-03T04:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T05:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018545416749682972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1187671999063056384",
+              "start": 0,
+              "username": "xuechun2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018545416749682972",
+        "in_reply_to_user_id": "1187671999063056384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018178261323563433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuechun2333 民国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 606,
+          "like_count": 10740,
+          "listed_count": 3,
+          "media_count": 1130,
+          "tweet_count": 8095
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-25T10:07:38.000Z",
+        "description": "我渴望如母亲一般安慰他，又渴望如女儿一样扑上去哭泣。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shdf.gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.shdf.gov.cn",
+                "start": 0,
+                "url": "https://t.co/l2y2qO0SYx"
+              }
+            ]
+          }
+        },
+        "id": "1187671999063056384",
+        "location": "Shenzhen←→Guangzhou",
+        "name": "xuechun²³³³🌌",
+        "pinned_tweet_id": "1959843842980782136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014994351240126464/CAJpNgHw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 306,
+          "like_count": 62743,
+          "listed_count": 10,
+          "media_count": 4049,
+          "tweet_count": 24531
+        },
+        "url": "https://t.co/l2y2qO0SYx",
+        "username": "xuechun2333",
+        "verified": false
+      }
+    ]
+  }
+}

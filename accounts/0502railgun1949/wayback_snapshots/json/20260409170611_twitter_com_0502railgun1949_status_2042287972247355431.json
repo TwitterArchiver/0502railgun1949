@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042212560381095936"
+      ],
+      "media_source_tweet_id": [
+        "2042212566739669355"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042287972247355431",
+    "created_at": "2026-04-09T17:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T18:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042287972247355431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1581347256359346178",
+          "start": 3,
+          "username": "52hzlightmist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5qmB6pfwpz",
+          "end": 45,
+          "expanded_url": "https://x.com/52hzlightmist/status/2042212566739669355/photo/1",
+          "media_key": "3_2042212560381095936",
+          "start": 22,
+          "url": "https://t.co/5qmB6pfwpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042287972247355431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042212566739669355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @52hzlightmist: 弃稿 https://t.co/5qmB6pfwpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2042212560381095936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdlgOlbMAADWoK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042212560381095936"
+          ],
+          "media_source_tweet_id": [
+            "2042212566739669355"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042287972247355431",
+        "created_at": "2026-04-09T17:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T18:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042287972247355431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1581347256359346178",
+              "start": 3,
+              "username": "52hzlightmist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qmB6pfwpz",
+              "end": 45,
+              "expanded_url": "https://x.com/52hzlightmist/status/2042212566739669355/photo/1",
+              "media_key": "3_2042212560381095936",
+              "start": 22,
+              "url": "https://t.co/5qmB6pfwpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042287972247355431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042212566739669355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @52hzlightmist: 弃稿 https://t.co/5qmB6pfwpz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042212560381095936"
+          ]
+        },
+        "author_id": "1581347256359346178",
+        "conversation_id": "2042212566739669355",
+        "created_at": "2026-04-09T12:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042212566739669355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5qmB6pfwpz",
+              "end": 26,
+              "expanded_url": "https://x.com/52hzlightmist/status/2042212566739669355/photo/1",
+              "media_key": "3_2042212560381095936",
+              "start": 3,
+              "url": "https://t.co/5qmB6pfwpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042212566739669355",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 7615,
+          "like_count": 761,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "弃稿 https://t.co/5qmB6pfwpz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 656,
+          "like_count": 12555,
+          "listed_count": 3,
+          "media_count": 1309,
+          "tweet_count": 9966
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T18:12:45.000Z",
+        "description": "📷 ☁️ ···main @CHOO1NE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "CHOO1NE"
+              }
+            ]
+          }
+        },
+        "id": "1581347256359346178",
+        "name": "ᶜᶜᶜᶜᶜᶜᶜ",
+        "pinned_tweet_id": "1688929851401732096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042117095920693250/YQ1TNXlh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5767,
+          "following_count": 91,
+          "like_count": 6598,
+          "listed_count": 67,
+          "media_count": 640,
+          "tweet_count": 1209
+        },
+        "username": "52hzlightmist",
+        "verified": false
+      }
+    ]
+  }
+}

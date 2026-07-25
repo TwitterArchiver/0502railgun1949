@@ -1,0 +1,630 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+          "id": "10054665646",
+          "name": "とある魔術の禁書目録III"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1890613999089115498",
+    "created_at": "2025-02-15T04:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T05:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890613999089115498"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "訪れてみたい日本のアニメ聖地 88",
+          "probability": 0.2774,
+          "start": 20,
+          "type": "Other"
+        },
+        {
+          "end": 50,
+          "normalized_text": "立川市",
+          "probability": 0.8682,
+          "start": 48,
+          "type": "Place"
+        },
+        {
+          "end": 116,
+          "normalized_text": "禁書目録",
+          "probability": 0.3462,
+          "start": 113,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 53,
+          "tag": "とある魔術の禁書目録"
+        },
+        {
+          "end": 78,
+          "start": 67,
+          "tag": "とある科学の超電磁砲"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1706629982523658240",
+          "start": 3,
+          "username": "Tachikawa_tcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890613999089115498",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890321971055055233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tachikawa_tcb: 『訪れてみたい日本のアニメ聖地 88』 2025年版にて、立川市が #とある魔術の禁書目録 と #とある科学の超電磁砲 の聖地として選定されました📚⚡\n皆様ご投票ありがとうございます！\n禁書目録は2019年から7年連続7度目、超電磁砲は20…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+              "id": "10054665646",
+              "name": "とある魔術の禁書目録III"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1890613999089115498",
+        "created_at": "2025-02-15T04:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T05:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890613999089115498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "訪れてみたい日本のアニメ聖地 88",
+              "probability": 0.2774,
+              "start": 20,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "立川市",
+              "probability": 0.8682,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 116,
+              "normalized_text": "禁書目録",
+              "probability": 0.3462,
+              "start": 113,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 53,
+              "tag": "とある魔術の禁書目録"
+            },
+            {
+              "end": 78,
+              "start": 67,
+              "tag": "とある科学の超電磁砲"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1706629982523658240",
+              "start": 3,
+              "username": "Tachikawa_tcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890613999089115498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890321971055055233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tachikawa_tcb: 『訪れてみたい日本のアニメ聖地 88』 2025年版にて、立川市が #とある魔術の禁書目録 と #とある科学の超電磁砲 の聖地として選定されました📚⚡\n皆様ご投票ありがとうございます！\n禁書目録は2019年から7年連続7度目、超電磁砲は20…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890321967594762240"
+          ]
+        },
+        "author_id": "1706629982523658240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+              "id": "10054665646",
+              "name": "とある魔術の禁書目録III"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1890321971055055233",
+        "created_at": "2025-02-14T08:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890321971055055233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "訪れてみたい日本のアニメ聖地 88",
+              "probability": 0.3393,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 31,
+              "normalized_text": "立川市",
+              "probability": 0.856,
+              "start": 29,
+              "type": "Place"
+            },
+            {
+              "end": 97,
+              "normalized_text": "禁書目録",
+              "probability": 0.4274,
+              "start": 94,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 34,
+              "tag": "とある魔術の禁書目録"
+            },
+            {
+              "end": 59,
+              "start": 48,
+              "tag": "とある科学の超電磁砲"
+            }
+          ],
+          "urls": [
+            {
+              "description": "一般社団法人アニメツーリズム協会は、毎年『訪れてみたい日本のアニメ聖地88』を選定、オフィシャル化することで国内外に積極的な情報発信を行い、選定した地域にアニメ聖地88認定プレートとご朱印スタンプの設置を進めています。また、地域や企業、権利者、アニメファンの橋渡しとなってアニメ作品の世界観やキャラクターを公式に活用した商品、サービス、イベントの創出を促進し、さらなるインバウンドの増大や地域創生に貢献することを目指しています。",
+              "display_url": "animetourism88.com",
+              "end": 165,
+              "expanded_url": "https://animetourism88.com",
+              "images": [
+                {
+                  "height": 1477,
+                  "url": "https://pbs.twimg.com/news_img/1888071483894939652/ldZmtSQ-?format=jpg&name=orig",
+                  "width": 1477
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1888071483894939652/ldZmtSQ-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "一般社団法人アニメツーリズム協会",
+              "unwound_url": "https://animetourism88.com",
+              "url": "https://t.co/QirCHhxBnT"
+            },
+            {
+              "display_url": "pic.x.com/mnchmj8KpE",
+              "end": 189,
+              "expanded_url": "https://x.com/Tachikawa_tcb/status/1890321971055055233/photo/1",
+              "media_key": "3_1890321967594762240",
+              "start": 166,
+              "url": "https://t.co/mnchmj8KpE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890321971055055233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 25269,
+          "like_count": 963,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "『訪れてみたい日本のアニメ聖地 88』 2025年版にて、立川市が #とある魔術の禁書目録 と #とある科学の超電磁砲 の聖地として選定されました📚⚡\n皆様ご投票ありがとうございます！\n禁書目録は2019年から7年連続7度目、超電磁砲は2018年から8年連続8度目の選定になります！\nhttps://t.co/QirCHhxBnT https://t.co/mnchmj8KpE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 747,
+          "like_count": 6627,
+          "listed_count": 1,
+          "media_count": 906,
+          "tweet_count": 5618
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T11:22:49.000Z",
+        "description": "一般社団法人立川観光コンベンション協会の公式アカウントです。旧アカウント（@tachikawa_k）がロックされてしまったため、今後こちらのアカウントを運用させていただきます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "tachikawa_k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tokyo-tachikawa.org",
+                "end": 23,
+                "expanded_url": "https://tokyo-tachikawa.org",
+                "start": 0,
+                "url": "https://t.co/EXx7lpubl2"
+              }
+            ]
+          }
+        },
+        "id": "1706629982523658240",
+        "location": "東京都　立川市",
+        "name": "立川観光コンベンション協会",
+        "pinned_tweet_id": "1706851013179891981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706826347237322752/5BS0ywB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 82,
+          "like_count": 13,
+          "listed_count": 7,
+          "media_count": 41,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/EXx7lpubl2",
+        "username": "Tachikawa_tcb",
+        "verified": false
+      }
+    ]
+  }
+}

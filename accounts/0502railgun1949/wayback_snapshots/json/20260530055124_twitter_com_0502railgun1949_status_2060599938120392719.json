@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Conversation about eating",
+          "id": "1006277774384828416",
+          "name": "Food experience"
+        }
+      }
+    ],
+    "conversation_id": "2060599938120392719",
+    "created_at": "2026-05-30T05:51:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060599938120392719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kingofdairyque…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/kingofdairyque/status/2060295319292895609",
+          "start": 145,
+          "url": "https://t.co/qD0doZUXYG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060599938120392719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060295319292895609",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我从小学开始，因为家离学校比较远，差不多要15到20分钟，当时的话因为精神状态不好，晚上睡得不好，白天又很早起，躯体化也各种不舒服，为了省时间早上的话一般就是吃泡面，因为好得快，吃的话10分钟以内能吃完\n中午一般吃饭吃两大碗加一碗汤，也差不多10分钟\n我发现我周围的人都没有我这个吃饭速度 https://t.co/qD0doZUXYG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14094,
+        "height": 1254,
+        "media_key": "7_2060295272341835776",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060295272341835776/pu/img/Dup8eEQ2vp0SOfCp.jpg",
+        "public_metrics": {
+          "view_count": 2283
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060295272341835776/pu/vid/avc1/320x556/PPYbnczhQOLOT2XE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060295272341835776/pu/vid/avc1/480x836/LdbOH3IhdfajZF3k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060295272341835776/pu/vid/avc1/720x1254/x8Ym_Gu7p-CGFREo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060295272341835776/pu/pl/4BP1v6Hot1BQlpzC.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2060599938120392719",
+        "created_at": "2026-05-30T05:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060599938120392719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kingofdairyque…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/kingofdairyque/status/2060295319292895609",
+              "start": 145,
+              "url": "https://t.co/qD0doZUXYG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060599938120392719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060295319292895609",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我从小学开始，因为家离学校比较远，差不多要15到20分钟，当时的话因为精神状态不好，晚上睡得不好，白天又很早起，躯体化也各种不舒服，为了省时间早上的话一般就是吃泡面，因为好得快，吃的话10分钟以内能吃完\n中午一般吃饭吃两大碗加一碗汤，也差不多10分钟\n我发现我周围的人都没有我这个吃饭速度 https://t.co/qD0doZUXYG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060295272341835776"
+          ]
+        },
+        "author_id": "1966348132217765888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Conversation about eating",
+              "id": "1006277774384828416",
+              "name": "Food experience"
+            }
+          }
+        ],
+        "conversation_id": "2060295319292895609",
+        "created_at": "2026-05-29T09:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060295319292895609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLMY9M4M4p",
+              "end": 55,
+              "expanded_url": "https://x.com/kingofdairyque/status/2060295319292895609/video/1",
+              "media_key": "7_2060295272341835776",
+              "start": 32,
+              "url": "https://t.co/MLMY9M4M4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060295319292895609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5314,
+          "like_count": 251,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Gugu gaga is eating breakfast.. https://t.co/MLMY9M4M4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 683,
+          "like_count": 14944,
+          "listed_count": 5,
+          "media_count": 1385,
+          "tweet_count": 11804
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T03:48:42.000Z",
+        "description": "Creating AI-Powered Content ✨\nOpen for Paid Collaborations & Brand Deals\nTurning smart ideas into viral content 🚀\nDM for work |",
+        "id": "1966348132217765888",
+        "name": "simply",
+        "pinned_tweet_id": "2060568527426507158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978667782213693440/bB_M8IqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6670,
+          "following_count": 1091,
+          "like_count": 37026,
+          "listed_count": 102,
+          "media_count": 830,
+          "tweet_count": 32766
+        },
+        "username": "kingofdairyque",
+        "verified": true
+      }
+    ]
+  }
+}

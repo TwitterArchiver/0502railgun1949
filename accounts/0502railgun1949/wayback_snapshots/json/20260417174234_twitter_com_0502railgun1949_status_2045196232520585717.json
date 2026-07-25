@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045194336397373618",
+    "created_at": "2026-04-17T17:42:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045196232520585717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045196232520585717",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045195476727967776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 看看我的意识流内容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045194336397373618",
+        "created_at": "2026-04-17T17:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045196232520585717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045196232520585717",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045195476727967776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 看看我的意识流内容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2045194336397373618",
+        "created_at": "2026-04-17T17:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045195476727967776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ],
+          "urls": [
+            {
+              "description": "4月16日，中国科协发布第13次中国公民科学素质抽样调查结果。调查结果显示，2023年我国公民具备科学素质的比例达到14.14%，比2022年提高1.21个百分点，呈提速增长趋势。据预测，2025年公民具备科学素质的比例超过15%的发展目标有望提前实现。 本次调查覆盖全国（不含港、澳、台）31个省（区、市）和新疆生产建设兵团、333个地市级行政单位和86个直辖市所辖区县，调查对象为18～69周岁公民（不含现役军人），采用线下入户面访（计算机辅助面访系统）与线上手机短信推送（计算机辅助网络访问系统）相结合的调查方式，共计回收有效样本28.9万份。抽样调查问卷考察科学知识、科学方法、科学精神与思想、应用科学的能力等四个方面指标，权重分别为40分、20分、20分、20分，总分100分，当总得分达到70分即判定为具备科学素质。 一是东、中、西部地区公民科学素质水平差距首次缩小，地区不平衡情况得到改善。2023年，东、中、西部地区公民具备科学素质的比例分别达到16.39%、13.12%和11.51%，较2022年分别提高1.08、1.15和1.24个百分点。 二是女性科学素质持续快速提升，性别差距进一步缩小。2023",
+              "display_url": "cppcc.gov.cn/zxww/2024/04/1…",
+              "end": 40,
+              "expanded_url": "http://www.cppcc.gov.cn/zxww/2024/04/17/ARTI1713331106966130.shtml",
+              "start": 17,
+              "status": 200,
+              "title": "14.14%！我国公民科学素质水平新增长",
+              "unwound_url": "http://www.cppcc.gov.cn/zxww/2024/04/17/ARTI1713331106966130.shtml",
+              "url": "https://t.co/6AYwfbARtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045195476727967776",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045195177997095373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 https://t.co/6AYwfbARtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 662,
+          "like_count": 13005,
+          "listed_count": 3,
+          "media_count": 1338,
+          "tweet_count": 10375
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "今年工作|嵌入式学习中|南京|温州|爱好coding",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 511,
+          "following_count": 957,
+          "like_count": 33317,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 3148
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": false
+      }
+    ]
+  }
+}

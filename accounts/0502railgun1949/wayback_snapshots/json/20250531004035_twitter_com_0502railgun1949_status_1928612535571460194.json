@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1928482644527886761",
+    "created_at": "2025-05-31T00:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T01:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928612535571460194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679805896967483393",
+          "start": 0,
+          "username": "VSanxi18865"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928612535571460194",
+    "in_reply_to_user_id": "1679805896967483393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928482644527886761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VSanxi18865 计算机生物学已经越来越发达了\n但是中国还是很落后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1928482644527886761",
+        "created_at": "2025-05-31T00:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T01:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928612535571460194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679805896967483393",
+              "start": 0,
+              "username": "VSanxi18865"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928612535571460194",
+        "in_reply_to_user_id": "1679805896967483393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928482644527886761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VSanxi18865 计算机生物学已经越来越发达了\n但是中国还是很落后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679805896967483393",
+        "conversation_id": "1928482644527886761",
+        "created_at": "2025-05-30T16:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928482644527886761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/relva_belinha/…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/relva_belinha/status/1928481614364852505",
+              "start": 123,
+              "url": "https://t.co/pXzdA5tANf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928482644527886761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928481614364852505",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "动物实验确实是应该逐渐减少取消的，现在的细胞实验+AI计算药理学确实越来越能替代动物实验。\n而且动物模型得出的成果，能真正应用于人类的也确实不多\n但是这是一个渐进的过程\n把动物实验等同于跟虐猫一样的施虐倾向，进行道德批判\n这坡是不是滑得也太快了 https://t.co/pXzdA5tANf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 644,
+          "like_count": 7808,
+          "listed_count": 2,
+          "media_count": 985,
+          "tweet_count": 6495
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T10:51:58.000Z",
+        "description": "Non-binary/Postgenderism | Asexual+智性浪漫 | INFP | ASD | ADHD | BPD(?) | Bipolar(?) | Transhumanism | Biohacker | Stand with 🇺🇦🇨🇦🇲🇽🇦🇺🏳️‍⚧️🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/",
+                "start": 0,
+                "url": "https://t.co/PmvsNW3cTq"
+              }
+            ]
+          }
+        },
+        "id": "1679805896967483393",
+        "location": "Melbourne, Victoria",
+        "name": "雨晴守望Vack（药物研究版）",
+        "pinned_tweet_id": "1923621884870131916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679815423523692544/1GyMUJlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 519,
+          "like_count": 21551,
+          "listed_count": 8,
+          "media_count": 323,
+          "tweet_count": 5833
+        },
+        "url": "https://t.co/PmvsNW3cTq",
+        "username": "VSanxi18865",
+        "verified": false
+      }
+    ]
+  }
+}

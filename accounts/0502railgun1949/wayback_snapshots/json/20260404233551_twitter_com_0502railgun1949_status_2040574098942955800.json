@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2040574098942955800",
+    "created_at": "2026-04-04T23:35:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T00:35:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040574098942955800"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CPUP2024/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/CPUP2024/status/2040488068613013677",
+          "start": 11,
+          "url": "https://t.co/aRoyhTzJ73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040574098942955800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040488068613013677",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么彵也翻车了？？？ https://t.co/aRoyhTzJ73"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040488059360440320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFFFDqa8AANTno.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040488059343691776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFFFDmbYAAfAJ2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2040574098942955800",
+        "created_at": "2026-04-04T23:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T00:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040574098942955800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CPUP2024/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/CPUP2024/status/2040488068613013677",
+              "start": 11,
+              "url": "https://t.co/aRoyhTzJ73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040574098942955800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040488068613013677",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么彵也翻车了？？？ https://t.co/aRoyhTzJ73"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040488059360440320",
+            "3_2040488059343691776"
+          ]
+        },
+        "author_id": "1799308675158605825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040488068613013677",
+        "created_at": "2026-04-04T17:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T18:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040488068613013677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NrkqPO9OCF",
+              "end": 51,
+              "expanded_url": "https://x.com/CPUP2024/status/2040488068613013677/photo/1",
+              "media_key": "3_2040488059360440320",
+              "start": 28,
+              "url": "https://t.co/NrkqPO9OCF"
+            },
+            {
+              "display_url": "pic.x.com/NrkqPO9OCF",
+              "end": 51,
+              "expanded_url": "https://x.com/CPUP2024/status/2040488068613013677/photo/1",
+              "media_key": "3_2040488059343691776",
+              "start": 28,
+              "url": "https://t.co/NrkqPO9OCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040488068613013677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 467,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小剂量体验一下，出事了就是生物爹的。\n色普龙我没吃（） https://t.co/NrkqPO9OCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 654,
+          "like_count": 12056,
+          "listed_count": 3,
+          "media_count": 1291,
+          "tweet_count": 9544
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "你好，这里是葱 小号@mikulovermua 偏生活/一位左翼挺建制&CPC🇨🇳的汉人/仰慕☪️亲什叶派 🏳️‍🌈ally&挺跨挺酷儿/stand with🇵🇸🇨🇺🇷🇺and Iran☫/同情↖️、毛左📕🚩、🇨🇳爱国者/笑霍霍尔锡安港废台绿 赞美我川皇狠栓洋人👊🏻🤠🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "mikulovermua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/m1dLzTSfCB"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "PRC🇨🇳",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎☫——保卫商鞅阵线 平霍镇犹运动",
+        "pinned_tweet_id": "2040128693750894968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 1779,
+          "like_count": 44553,
+          "listed_count": 35,
+          "media_count": 1003,
+          "tweet_count": 12569
+        },
+        "url": "https://t.co/m1dLzTSfCB",
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1862781485465436559",
+    "created_at": "2024-11-30T10:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T11:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862807683755389027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862807683755389027",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862781485465436559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 这傻逼同学你还不整他\n这你要是写到贴吧里面高低老哥得帮你举报\n狠狠的干了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1862781485465436559",
+        "created_at": "2024-11-30T10:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T11:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862807683755389027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862807683755389027",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862781485465436559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 这傻逼同学你还不整他\n这你要是写到贴吧里面高低老哥得帮你举报\n狠狠的干了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449176529246638080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1862781485465436559",
+        "created_at": "2024-11-30T08:51:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T09:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862781485465436559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niruiyuano00/s…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/niruiyuano00/status/1862780574265479311",
+              "start": 140,
+              "url": "https://t.co/aPsZqKmijn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862781485465436559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862780574265479311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（2）我们班普遍认为我脾气最好，最容易欺负，于是我长期受气，前几天晚上，我班一化学爱好者和我探讨问题，爱好者在床边，他在别人身后一顶，爱好者脑袋碰着床缘，甚至痛哭了，他不仅丝毫没有半点歉意，不到五分钟又看另一个很瘦弱的同学不爽，用裤腰带把那小同学双手反绑，骑在他身上羞辱.... https://t.co/aPsZqKmijn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 748,
+          "like_count": 5945,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4705
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "05后，infj，是学生，业余天文爱好者.西南官话成渝小片OK，湖广片鄂中小片a little.生理男性，中长跑爱好 共青团员",
+        "id": "1449176529246638080",
+        "location": "ROC战时首都",
+        "name": "上九天揽月²",
+        "pinned_tweet_id": "1809056511471067529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 497,
+          "like_count": 6593,
+          "listed_count": 2,
+          "media_count": 1095,
+          "tweet_count": 5284
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

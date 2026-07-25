@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035867788238340156",
+    "created_at": "2026-03-22T23:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T00:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035867788238340156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2035647672405696525",
+          "start": 14,
+          "url": "https://t.co/8eXWSQNFkG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035867788238340156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035647672405696525",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想说自己的经历，还是不敢说 https://t.co/8eXWSQNFkG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2035636074429456384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAIOXRWoAAu-vb.jpg",
+        "width": 673
+      },
+      {
+        "height": 693,
+        "media_key": "3_2035636074416934912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAIOXOXkAAy4EA.png",
+        "width": 647
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2035636074450386945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAIOXWWAAEy8Tv.jpg",
+        "width": 1026
+      },
+      {
+        "height": 846,
+        "media_key": "3_2035636074429505536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEAIOXRXYAAevsd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035867788238340156",
+        "created_at": "2026-03-22T23:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T00:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035867788238340156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2035647672405696525",
+              "start": 14,
+              "url": "https://t.co/8eXWSQNFkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035867788238340156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035647672405696525",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想说自己的经历，还是不敢说 https://t.co/8eXWSQNFkG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035636074429456384",
+            "3_2035636074416934912",
+            "3_2035636074450386945",
+            "3_2035636074429505536"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2035647672405696525",
+        "created_at": "2026-03-22T09:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035647672405696525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ChPnMOwq2O",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035647672405696525/photo/1",
+              "media_key": "3_2035636074429456384",
+              "start": 117,
+              "url": "https://t.co/ChPnMOwq2O"
+            },
+            {
+              "display_url": "pic.x.com/ChPnMOwq2O",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035647672405696525/photo/1",
+              "media_key": "3_2035636074416934912",
+              "start": 117,
+              "url": "https://t.co/ChPnMOwq2O"
+            },
+            {
+              "display_url": "pic.x.com/ChPnMOwq2O",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035647672405696525/photo/1",
+              "media_key": "3_2035636074450386945",
+              "start": 117,
+              "url": "https://t.co/ChPnMOwq2O"
+            },
+            {
+              "display_url": "pic.x.com/ChPnMOwq2O",
+              "end": 140,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2035647672405696525/photo/1",
+              "media_key": "3_2035636074429505536",
+              "start": 117,
+              "url": "https://t.co/ChPnMOwq2O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035647672405696525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "3月21日，广东广州。彭女士反映，其孩子彭天逊就读于广州麒麟中学。自去年8月起，孩子在校内被同学及老师长期造谣，称其患有艾滋病、是同性恋，导致孩子长期遭受辱骂与排挤。\n今年1月22日，孩子在巨大心理压力下不堪承受，从23楼坠下身亡。\n彭女士表示，全家曾专程到医院进行相关检测以自证清白，但校方与老师并未积极出面澄清，相关谣言仍在校园内传播，导致孩子长期处于被孤立和霸凌的状态。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 136414,
+          "like_count": 516,
+          "quote_count": 13,
+          "reply_count": 98,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "3月21日，广东广州。彭女士反映，其孩子彭天逊就读于广州麒麟中学。自去年8月起，孩子在校内被同学及老师长期造谣，称其患有艾滋病、是同性恋，导致孩子长期遭受辱骂与排挤。\n今年1月22日，孩子在巨大心理压力下不堪承受，从23楼坠下身亡。 https://t.co/ChPnMOwq2O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 632,
+          "like_count": 11279,
+          "listed_count": 3,
+          "media_count": 1254,
+          "tweet_count": 8892
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195640,
+          "following_count": 1023,
+          "like_count": 9319,
+          "listed_count": 8636,
+          "media_count": 43882,
+          "tweet_count": 50942
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

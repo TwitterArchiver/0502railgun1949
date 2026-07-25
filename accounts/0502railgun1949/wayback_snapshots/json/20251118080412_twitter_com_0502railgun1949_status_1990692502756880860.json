@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990692500525494274"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1990692502756880860",
+    "created_at": "2025-11-18T08:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990692502756880860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/maSn1xebN4",
+          "end": 27,
+          "expanded_url": "https://x.com/0502railgun1949/status/1990692502756880860/photo/1",
+          "media_key": "3_1990692500525494274",
+          "start": 4,
+          "url": "https://t.co/maSn1xebN4"
+        },
+        {
+          "display_url": "x.com/JOJOEvangelist…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/JOJOEvangelist/status/1857902138443313456",
+          "start": 28,
+          "url": "https://t.co/qOMI7UpJct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990692502756880860",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857902138443313456",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "無敵了 https://t.co/maSn1xebN4 https://t.co/qOMI7UpJct"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1990692500525494274",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BcSDbbMAIDti3.jpg",
+        "width": 480
+      },
+      {
+        "height": 637,
+        "media_key": "3_1857902131287830528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GciYJRLaMAAkf9v.jpg",
+        "width": 478
+      },
+      {
+        "height": 637,
+        "media_key": "3_1857902134446141442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GciYJc8aMAIfiMs.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990692500525494274"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1990692502756880860",
+        "created_at": "2025-11-18T08:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990692502756880860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/maSn1xebN4",
+              "end": 27,
+              "expanded_url": "https://x.com/0502railgun1949/status/1990692502756880860/photo/1",
+              "media_key": "3_1990692500525494274",
+              "start": 4,
+              "url": "https://t.co/maSn1xebN4"
+            },
+            {
+              "display_url": "x.com/JOJOEvangelist…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/JOJOEvangelist/status/1857902138443313456",
+              "start": 28,
+              "url": "https://t.co/qOMI7UpJct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990692502756880860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857902138443313456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "無敵了 https://t.co/maSn1xebN4 https://t.co/qOMI7UpJct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857902131287830528",
+            "3_1857902134446141442"
+          ]
+        },
+        "author_id": "1756727887301128192",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1857902138443313456",
+        "created_at": "2024-11-16T21:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T22:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857902138443313456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RIaHTilwMJ",
+              "end": 30,
+              "expanded_url": "https://x.com/JOJOEvangelist/status/1857902138443313456/photo/1",
+              "media_key": "3_1857902131287830528",
+              "start": 7,
+              "url": "https://t.co/RIaHTilwMJ"
+            },
+            {
+              "display_url": "pic.x.com/RIaHTilwMJ",
+              "end": 30,
+              "expanded_url": "https://x.com/JOJOEvangelist/status/1857902138443313456/photo/1",
+              "media_key": "3_1857902134446141442",
+              "start": 7,
+              "url": "https://t.co/RIaHTilwMJ"
+            },
+            {
+              "display_url": "x.com/miaowu075/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/miaowu075/status/1857147095871823968",
+              "start": 31,
+              "url": "https://t.co/2tHfimS3ko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857902138443313456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857147095871823968",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概也很不错 https://t.co/RIaHTilwMJ https://t.co/2tHfimS3ko"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 625,
+          "like_count": 10997,
+          "listed_count": 3,
+          "media_count": 1092,
+          "tweet_count": 7869
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T17:12:59.000Z",
+        "description": "并非俊达",
+        "id": "1756727887301128192",
+        "name": "邪福",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863405619182780416/5PsKakvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 1522,
+          "like_count": 50407,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 2144
+        },
+        "username": "JOJOEvangelist",
+        "verified": false
+      }
+    ]
+  }
+}

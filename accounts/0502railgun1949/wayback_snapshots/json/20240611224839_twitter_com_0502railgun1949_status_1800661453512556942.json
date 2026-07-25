@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1800589101714063774",
+    "created_at": "2024-06-11T22:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T23:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800661453512556942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1596528833431150592",
+          "start": 0,
+          "username": "nakiri_aya2002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800661453512556942",
+    "in_reply_to_user_id": "1596528833431150592",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800589101714063774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nakiri_aya2002 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1800589101714063774",
+        "created_at": "2024-06-11T22:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T23:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800661453512556942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1596528833431150592",
+              "start": 0,
+              "username": "nakiri_aya2002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800661453512556942",
+        "in_reply_to_user_id": "1596528833431150592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800589101714063774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nakiri_aya2002 我也是"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596528833431150592",
+        "conversation_id": "1800589101714063774",
+        "created_at": "2024-06-11T18:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T19:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800589101714063774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800589101714063774",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "胸口闷，睡不着。现在要是有人能陪咱说说话挺好的......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 738,
+          "like_count": 2830,
+          "listed_count": 1,
+          "tweet_count": 3037
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T15:38:40.000Z",
+        "description": "推友面基专用版\n有事请私信\n对象 @ripple_sunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "ripple_sunset"
+              }
+            ]
+          }
+        },
+        "id": "1596528833431150592",
+        "location": "秋葉原",
+        "name": "百鬼 あや",
+        "pinned_tweet_id": "1787842814635876783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777528052362403840/UQgHLvSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 902,
+          "like_count": 27378,
+          "listed_count": 3,
+          "tweet_count": 5549
+        },
+        "username": "nakiri_aya2002",
+        "verified": false
+      }
+    ]
+  }
+}

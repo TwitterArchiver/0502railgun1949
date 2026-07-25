@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2021240561768775925",
+    "created_at": "2026-02-10T15:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T16:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021240561768775925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881256183828496385",
+          "start": 3,
+          "username": "Line_XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021240561768775925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021222741534298437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Line_XII: GDP崇拜是典型的资产阶级意识形态，它将GDP作为衡量经济体成败的最终标准，却忽略了毛泽东时代的中国大量生产根本没有货币化，计算GDP也就无从谈起。而且GDP更傻福的是，生产对社会有害的产品会拉高GDP，治理污染也会拉高GDP，但是一来一回，社会总福…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2021222703701819394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAzTVxIaAAIqZRf.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2021240561768775925",
+        "created_at": "2026-02-10T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021240561768775925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881256183828496385",
+              "start": 3,
+              "username": "Line_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021240561768775925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021222741534298437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Line_XII: GDP崇拜是典型的资产阶级意识形态，它将GDP作为衡量经济体成败的最终标准，却忽略了毛泽东时代的中国大量生产根本没有货币化，计算GDP也就无从谈起。而且GDP更傻福的是，生产对社会有害的产品会拉高GDP，治理污染也会拉高GDP，但是一来一回，社会总福…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021222703701819394"
+          ]
+        },
+        "author_id": "1881256183828496385",
+        "conversation_id": "2021222741534298437",
+        "created_at": "2026-02-10T14:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T15:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021222741534298437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GRX5lhedxK",
+              "end": 157,
+              "expanded_url": "https://x.com/Line_XII/status/2021222741534298437/photo/1",
+              "media_key": "3_2021222703701819394",
+              "start": 134,
+              "url": "https://t.co/GRX5lhedxK"
+            },
+            {
+              "display_url": "x.com/piyoloveu/stat…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/piyoloveu/status/2020565569901109405",
+              "start": 158,
+              "url": "https://t.co/vMOks64Zgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021222741534298437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 240,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020565569901109405",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "GDP崇拜是典型的资产阶级意识形态，它将GDP作为衡量经济体成败的最终标准，却忽略了毛泽东时代的中国大量生产根本没有货币化，计算GDP也就无从谈起。而且GDP更傻福的是，生产对社会有害的产品会拉高GDP，治理污染也会拉高GDP，但是一来一回，社会总福利不变甚至下降。 https://t.co/GRX5lhedxK https://t.co/vMOks64Zgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 608,
+          "like_count": 10776,
+          "listed_count": 3,
+          "media_count": 1148,
+          "tweet_count": 8189
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T08:24:25.000Z",
+        "description": "革命的マルクス主義者と1920年代の左翼反対派｜左派汎亜主義と中華未来主義｜プロレタリア独裁委員会共和国と社会主義計画経済｜革命政治経済学と反資本主義左派｜サイバー共産主義と参加型経済｜小林多喜二とプロレタリア文化派｜万国の労働者よ、団結せよ！",
+        "id": "1881256183828496385",
+        "location": "OTL",
+        "name": "☭転炉",
+        "pinned_tweet_id": "1963823432833155142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952609027118313472/gWfZa4zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 375,
+          "like_count": 4466,
+          "listed_count": 3,
+          "media_count": 36,
+          "tweet_count": 1348
+        },
+        "username": "Line_XII",
+        "verified": false
+      }
+    ]
+  }
+}

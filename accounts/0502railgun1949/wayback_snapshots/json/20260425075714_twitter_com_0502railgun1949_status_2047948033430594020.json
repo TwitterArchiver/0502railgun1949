@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2047948033430594020",
+    "created_at": "2026-04-25T07:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047948033430594020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mushi_frog/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/mushi_frog/status/2047940783110787229",
+          "start": 5,
+          "url": "https://t.co/lsFJS2Sl6p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047948033430594020",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047940783110787229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "青蛙伟大 https://t.co/lsFJS2Sl6p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047940775472984064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGu_SOsa8AAasV7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2047948033430594020",
+        "created_at": "2026-04-25T07:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047948033430594020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mushi_frog/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/mushi_frog/status/2047940783110787229",
+              "start": 5,
+              "url": "https://t.co/lsFJS2Sl6p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047948033430594020",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047940783110787229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "青蛙伟大 https://t.co/lsFJS2Sl6p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047940775472984064"
+          ]
+        },
+        "author_id": "1289246266333880321",
+        "conversation_id": "2047940783110787229",
+        "created_at": "2026-04-25T07:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047940783110787229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BcXhG29QqX",
+              "end": 28,
+              "expanded_url": "https://x.com/mushi_frog/status/2047940783110787229/photo/1",
+              "media_key": "3_2047940775472984064",
+              "start": 5,
+              "url": "https://t.co/BcXhG29QqX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047940783110787229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1273,
+          "like_count": 160,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "おさんぽ https://t.co/BcXhG29QqX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 687,
+          "like_count": 13546,
+          "listed_count": 3,
+          "media_count": 1347,
+          "tweet_count": 10710
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-31T17:07:35.000Z",
+        "description": "でっかいカエルすき？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mushi_frog",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@mushi_frog",
+                "start": 0,
+                "url": "https://t.co/GoZQISDkxr"
+              }
+            ]
+          }
+        },
+        "id": "1289246266333880321",
+        "location": "◎ AI学習・無断転載・使用禁止(※ただし面白ければ許す)",
+        "name": "でっかいカエル",
+        "pinned_tweet_id": "2042791507229577443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042823902104293377/6ZLVHwA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22582,
+          "following_count": 458,
+          "like_count": 3678,
+          "listed_count": 117,
+          "media_count": 2055,
+          "tweet_count": 3786
+        },
+        "url": "https://t.co/GoZQISDkxr",
+        "username": "mushi_frog",
+        "verified": false
+      }
+    ]
+  }
+}

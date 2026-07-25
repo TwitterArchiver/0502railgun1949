@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030099094216093696"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2030099103779110962",
+    "created_at": "2026-03-07T01:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T02:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030099103779110962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YcRkBx3UGV",
+          "end": 168,
+          "expanded_url": "https://x.com/0502railgun1949/status/2030099103779110962/photo/1",
+          "media_key": "3_2030099094216093696",
+          "start": 145,
+          "url": "https://t.co/YcRkBx3UGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030099103779110962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2026年2月27日，我国现代精神病学奠基者之一沈渔邨教授逝世，享年102岁。在新中国精神卫生事业的起步阶段，她将系统化理念融入精神医学实践，推动建立精神卫生服务体系，参与创建科研与教学平台，主持编写《精神病学》教材并推动学科规范化发展，同时致力于促进中国精神医学与国际学术界的交流对话。 https://t.co/YcRkBx3UGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1335,
+        "media_key": "3_2030099094216093696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCxcXsmXsAAcXVB.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030099094216093696"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2030099103779110962",
+        "created_at": "2026-03-07T01:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T02:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030099103779110962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcRkBx3UGV",
+              "end": 168,
+              "expanded_url": "https://x.com/0502railgun1949/status/2030099103779110962/photo/1",
+              "media_key": "3_2030099094216093696",
+              "start": 145,
+              "url": "https://t.co/YcRkBx3UGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030099103779110962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年2月27日，我国现代精神病学奠基者之一沈渔邨教授逝世，享年102岁。在新中国精神卫生事业的起步阶段，她将系统化理念融入精神医学实践，推动建立精神卫生服务体系，参与创建科研与教学平台，主持编写《精神病学》教材并推动学科规范化发展，同时致力于促进中国精神医学与国际学术界的交流对话。 https://t.co/YcRkBx3UGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 617,
+          "like_count": 10921,
+          "listed_count": 3,
+          "media_count": 1220,
+          "tweet_count": 8577
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

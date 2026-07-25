@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1830833428947964152",
+    "created_at": "2024-09-03T05:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T06:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830833428947964152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hatadanna/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/hatadanna/status/1830579688005308684",
+          "start": 17,
+          "url": "https://t.co/ppbfSrdkmf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830833428947964152",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830579688005308684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第2个去玩政治金融商业全都赢麻了 https://t.co/ppbfSrdkmf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1830833428947964152",
+        "created_at": "2024-09-03T05:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T06:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830833428947964152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hatadanna/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hatadanna/status/1830579688005308684",
+              "start": 17,
+              "url": "https://t.co/ppbfSrdkmf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830833428947964152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830579688005308684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第2个去玩政治金融商业全都赢麻了 https://t.co/ppbfSrdkmf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830579683974606848"
+          ]
+        },
+        "author_id": "1226850561057624064",
+        "conversation_id": "1830579688005308684",
+        "created_at": "2024-09-02T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830579688005308684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/94hi62gzw3",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hatadanna/status/1830579688005308684/photo/1",
+              "media_key": "3_1830579683974606848",
+              "start": 9,
+              "url": "https://t.co/94HI62gzw3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830579688005308684",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 102304,
+          "like_count": 890,
+          "quote_count": 21,
+          "reply_count": 243,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "选1还是选2呢… https://t.co/94HI62gzw3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 767,
+          "like_count": 4840,
+          "listed_count": 2,
+          "tweet_count": 4067
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "梗图bot | 日常分享 | 爱大家 | Et Omnia Vanitas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "pinned_tweet_id": "1698299948578816158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16461,
+          "following_count": 3261,
+          "like_count": 10460,
+          "listed_count": 81,
+          "tweet_count": 6369
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": false
+      }
+    ]
+  }
+}

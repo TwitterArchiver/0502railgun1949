@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930324690821898240"
+      ],
+      "media_source_tweet_id": [
+        "1930324701462896643"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1931295461715169738",
+    "created_at": "2025-06-07T10:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T11:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931295461715169738"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 42,
+          "tag": "Pride_Month"
+        },
+        {
+          "end": 59,
+          "start": 55,
+          "tag": "les"
+        },
+        {
+          "end": 70,
+          "start": 60,
+          "tag": "Pride2025"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1424079046388842501",
+          "start": 3,
+          "username": "Shimizu_RikoNYA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RsB1u7FNfg",
+          "end": 114,
+          "expanded_url": "https://x.com/Shimizu_RikoNYA/status/1930324701462896643/photo/1",
+          "media_key": "3_1930324690821898240",
+          "start": 91,
+          "url": "https://t.co/RsB1u7FNfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931295461715169738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930324701462896643",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shimizu_RikoNYA: 六月了，画了骄傲月贺图！带自家自设过个节\n#Pride_Month #les #Pride2025 \n愿我们终有一天都能在阳光下相爱 🌈🌈 https://t.co/RsB1u7FNfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930324690821898240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsnkFDma4AAVN6W.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930324690821898240"
+          ],
+          "media_source_tweet_id": [
+            "1930324701462896643"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1931295461715169738",
+        "created_at": "2025-06-07T10:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T11:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931295461715169738"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "Pride_Month"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "les"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "Pride2025"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1424079046388842501",
+              "start": 3,
+              "username": "Shimizu_RikoNYA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsB1u7FNfg",
+              "end": 114,
+              "expanded_url": "https://x.com/Shimizu_RikoNYA/status/1930324701462896643/photo/1",
+              "media_key": "3_1930324690821898240",
+              "start": 91,
+              "url": "https://t.co/RsB1u7FNfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931295461715169738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930324701462896643",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shimizu_RikoNYA: 六月了，画了骄傲月贺图！带自家自设过个节\n#Pride_Month #les #Pride2025 \n愿我们终有一天都能在阳光下相爱 🌈🌈 https://t.co/RsB1u7FNfg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930324690821898240"
+          ]
+        },
+        "author_id": "1424079046388842501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1930324701462896643",
+        "created_at": "2025-06-04T18:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T19:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930324701462896643"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 21,
+              "tag": "Pride_Month"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "les"
+            },
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "Pride2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RsB1u7FNfg",
+              "end": 93,
+              "expanded_url": "https://x.com/Shimizu_RikoNYA/status/1930324701462896643/photo/1",
+              "media_key": "3_1930324690821898240",
+              "start": 70,
+              "url": "https://t.co/RsB1u7FNfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930324701462896643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 16582,
+          "like_count": 432,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "六月了，画了骄傲月贺图！带自家自设过个节\n#Pride_Month #les #Pride2025 \n愿我们终有一天都能在阳光下相爱 🌈🌈 https://t.co/RsB1u7FNfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 646,
+          "like_count": 7959,
+          "listed_count": 3,
+          "media_count": 990,
+          "tweet_count": 6580
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-07T18:44:50.000Z",
+        "description": "🌈Lesbianレズビアン女子毎日頑張ってるよ！大好きな彼女❤️もいるし最高！✨ 普通の腐女子でGLもBLもOK‍♀️ 🦋INFP-Tのインドア派ビジュアルデザインもやってるよ！ 他の連絡先はDMで教えてね ❤️音ゲーと東方大好き！ ASDとADHD持ちだけど気にしないでね FF14もやってるよ！ 中国語注意⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shimiz…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shimizuriko.bsky.social",
+                "start": 0,
+                "url": "https://t.co/KxoiT6C85Y"
+              }
+            ]
+          }
+        },
+        "id": "1424079046388842501",
+        "location": "Hino-shi, Tokyo",
+        "name": "しみずリコ🌈",
+        "pinned_tweet_id": "1846510140222279953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866782940920774656/SaJnjn_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 599,
+          "like_count": 6123,
+          "listed_count": 1,
+          "media_count": 388,
+          "tweet_count": 2736
+        },
+        "url": "https://t.co/KxoiT6C85Y",
+        "username": "Shimizu_RikoNYA",
+        "verified": false
+      }
+    ]
+  }
+}

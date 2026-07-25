@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994966208115085316"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1994966211420201045",
+    "created_at": "2025-11-30T03:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T04:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994966211420201045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S15LNrpbic",
+          "end": 29,
+          "expanded_url": "https://x.com/0502railgun1949/status/1994966211420201045/photo/1",
+          "media_key": "3_1994966208115085316",
+          "start": 6,
+          "url": "https://t.co/S15LNrpbic"
+        },
+        {
+          "display_url": "x.com/soyorin_chihay…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/soyorin_chihaya/status/1994766508267114900",
+          "start": 30,
+          "url": "https://t.co/YCyeuu9KmW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994966211420201045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994766508267114900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一条不沾 https://t.co/S15LNrpbic https://t.co/YCyeuu9KmW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1994966208115085316",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6-LMk2bkAQiW2N.jpg",
+        "width": 818
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1994766499891089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67VkBvbkAAEGND.jpg",
+        "width": 818
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1994766494111338508",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67VjsNbkAwmqSd.jpg",
+        "width": 818
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994966208115085316"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1994966211420201045",
+        "created_at": "2025-11-30T03:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T04:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994966211420201045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S15LNrpbic",
+              "end": 29,
+              "expanded_url": "https://x.com/0502railgun1949/status/1994966211420201045/photo/1",
+              "media_key": "3_1994966208115085316",
+              "start": 6,
+              "url": "https://t.co/S15LNrpbic"
+            },
+            {
+              "display_url": "x.com/soyorin_chihay…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/soyorin_chihaya/status/1994766508267114900",
+              "start": 30,
+              "url": "https://t.co/YCyeuu9KmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994966211420201045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994766508267114900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一条不沾 https://t.co/S15LNrpbic https://t.co/YCyeuu9KmW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994766499891089408",
+            "3_1994766494111338508"
+          ]
+        },
+        "author_id": "1771562039485534208",
+        "conversation_id": "1994766508267114900",
+        "created_at": "2025-11-29T13:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T14:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994766508267114900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x7578YjqhJ",
+              "end": 29,
+              "expanded_url": "https://x.com/soyorin_chihaya/status/1994766508267114900/photo/1",
+              "media_key": "3_1994766499891089408",
+              "start": 6,
+              "url": "https://t.co/x7578YjqhJ"
+            },
+            {
+              "display_url": "pic.x.com/x7578YjqhJ",
+              "end": 29,
+              "expanded_url": "https://x.com/soyorin_chihaya/status/1994766508267114900/photo/1",
+              "media_key": "3_1994766494111338508",
+              "start": 6,
+              "url": "https://t.co/x7578YjqhJ"
+            },
+            {
+              "display_url": "x.com/NovaBabelo/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/NovaBabelo/status/1994684952517243236",
+              "start": 30,
+              "url": "https://t.co/EVlET4SxGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994766508267114900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 939,
+          "like_count": 17,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994684952517243236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仅此而已了 https://t.co/x7578YjqhJ https://t.co/EVlET4SxGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 607,
+          "like_count": 11130,
+          "listed_count": 3,
+          "media_count": 1102,
+          "tweet_count": 7942
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T15:38:07.000Z",
+        "description": "硬硬的，原来是祥木😇|MyGO!!!!!一生推！|素/祥/爱|电吉他苦手 新人练习影色舞中......|进小团体小窗说一声熟的会给过|提问箱：https://t.co/Ws2mymEqZR|",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/soyorin_chihaya",
+                "end": 94,
+                "expanded_url": "https://ngl.link/soyorin_chihaya",
+                "start": 71,
+                "url": "https://t.co/Ws2mymEqZR"
+              }
+            ]
+          }
+        },
+        "id": "1771562039485534208",
+        "location": "羽丘女子学园",
+        "name": "嘴硬不过Soyo木硬不过Kiko",
+        "pinned_tweet_id": "1979512537663361298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993451537038032896/sW6iGZ2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 789,
+          "like_count": 53996,
+          "listed_count": 1,
+          "media_count": 1367,
+          "tweet_count": 13118
+        },
+        "username": "soyorin_chihaya",
+        "verified": false
+      }
+    ]
+  }
+}

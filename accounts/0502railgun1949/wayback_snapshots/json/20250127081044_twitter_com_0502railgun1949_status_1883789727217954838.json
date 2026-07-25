@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1883789727217954838",
+    "created_at": "2025-01-27T08:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T09:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1883789727217954838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/remixdesigner/…",
+          "end": 143,
+          "expanded_url": "https://twitter.com/remixdesigner/status/1883004436739760346",
+          "start": 120,
+          "url": "https://t.co/jJx9N04kNf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883789727217954838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883004436739760346",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是在教育的真相传播的真相暴露之后\n自然产生的一种结果，这是皮埃尔布尔迪厄，教育再生产理论的胜利\n意识形态的回旋镖抽到自己身上是这样\n\n尽管如此，我依然不愿意用国产的ai\n中国仿制药，只能说质量一半一半吧\n我自己吃的跟国外的差别不是特别大 https://t.co/jJx9N04kNf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1883789727217954838",
+        "created_at": "2025-01-27T08:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T09:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883789727217954838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/remixdesigner/…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/remixdesigner/status/1883004436739760346",
+              "start": 120,
+              "url": "https://t.co/jJx9N04kNf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883789727217954838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883004436739760346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是在教育的真相传播的真相暴露之后\n自然产生的一种结果，这是皮埃尔布尔迪厄，教育再生产理论的胜利\n意识形态的回旋镖抽到自己身上是这样\n\n尽管如此，我依然不愿意用国产的ai\n中国仿制药，只能说质量一半一半吧\n我自己吃的跟国外的差别不是特别大 https://t.co/jJx9N04kNf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3876168012",
+        "conversation_id": "1883004436739760346",
+        "created_at": "2025-01-25T04:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T05:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883004436739760346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1883004436739760346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最可怕的信息茧房：它不是墙，不是大数据精准推送和洗脑，而是“我愿意相信”。\n\n去年年末第一次在推上看到关于 DeepSeek V3 模型强悍的消息，有人问“中国的模型真的这么强了吗？”，翻看评论找到了“我愿意相信”的答案：“中国人眼中的超越，你懂的”。\n\n实际体验 V3，感觉确实还不错，但我自己并没有实际学习研究做专业对比，只觉得效果不差，还超级便宜，但心里也依然存在 Sonnet 和 4o 更优的自然心理，除翻译工作之外，日常使用也是以这两个为主。\n\n但近期看到很多 R1 的消息，包括 Meta 员工的帖子，我才猛然意识到：因为我反感国内的“通过主旋律信息茧房包裹所有人，并不允许任何负面评价”，以及以我岳父为典型的被信息茧房塑造出的爱国形象（我俩经常喝酒，聊起 AI，岳父的态度是他们老美就会瞎搞，整天拿 AI 搞一些聊天、视频图片啥的，你看咱们中国的 AI，都是用在军事领域的，你没事多上抖音听听这些专家的看法，比如红衣大叔。我只能笑一笑，端起酒杯‘来，爸，干’）…… 正是这些对国内信息茧房的反感让我变得自己都开始不愿意相信自己的祖国，我也正在塑造自己的信息茧房：\n\n它不是墙，不是大数据精准推送和洗脑，而是“我愿意相信”。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 265,
+          "impression_count": 293698,
+          "like_count": 738,
+          "quote_count": 19,
+          "reply_count": 118,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "最可怕的信息茧房：它不是墙，不是大数据精准推送和洗脑，而是“我愿意相信”。\n\n去年年末第一次在推上看到关于 DeepSeek V3 模型强悍的消息，有人问“中国的模型真的这么强了吗？”，翻看评论找到了“我愿意相信”的答案：“中国人眼中的超越，你懂的”。\n\n实际体验…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 750,
+          "like_count": 6393,
+          "listed_count": 1,
+          "media_count": 850,
+          "tweet_count": 5332
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-13T03:08:29.000Z",
+        "description": "一半产品，一半设计；一边自驱，一边拖延；喜欢有趣的工具，也热衷于创造工具。 正在尝试通过小而美的独立产品模式养活自己。\nOpen Source Project: https://t.co/zl3Ytl0c3D\niOS APP Somno: https://t.co/IOxHc7Wt4k",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "remixicon.com",
+                "end": 104,
+                "expanded_url": "https://remixicon.com",
+                "start": 81,
+                "url": "https://t.co/zl3Ytl0c3D"
+              },
+              {
+                "display_url": "apps.apple.com/app/6504674988",
+                "end": 143,
+                "expanded_url": "https://apps.apple.com/app/6504674988",
+                "start": 120,
+                "url": "https://t.co/IOxHc7Wt4k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/xiaochunjimmy",
+                "end": 23,
+                "expanded_url": "https://github.com/xiaochunjimmy",
+                "start": 0,
+                "url": "https://t.co/D53eaj0OIV"
+              }
+            ]
+          }
+        },
+        "id": "3876168012",
+        "name": "Jimmy Cheung",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818914330299011072/SfoOfROS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3958,
+          "following_count": 397,
+          "like_count": 1344,
+          "listed_count": 46,
+          "media_count": 54,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/D53eaj0OIV",
+        "username": "remixdesigner",
+        "verified": true
+      }
+    ]
+  }
+}

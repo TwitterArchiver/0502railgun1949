@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969769363910832128"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1969769369929756788",
+    "created_at": "2025-09-21T14:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T15:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1969769369929756788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eENtPwvrXU",
+          "end": 27,
+          "expanded_url": "https://x.com/0502railgun1949/status/1969769369929756788/photo/1",
+          "media_key": "3_1969769363910832128",
+          "start": 4,
+          "url": "https://t.co/eENtPwvrXU"
+        },
+        {
+          "display_url": "x.com/SAKURA09389828…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/SAKURA09389828/status/1969764855029866874",
+          "start": 28,
+          "url": "https://t.co/0Z8uQSnbgZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969769369929756788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969764855029866874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求回答 https://t.co/eENtPwvrXU https://t.co/0Z8uQSnbgZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_1969769363910832128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YGzNlaMAAWkBb.jpg",
+        "width": 727
+      },
+      {
+        "height": 1167,
+        "media_key": "3_1969764850479075328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YCsfvbEAAuIbx.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969769363910832128"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1969769369929756788",
+        "created_at": "2025-09-21T14:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969769369929756788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eENtPwvrXU",
+              "end": 27,
+              "expanded_url": "https://x.com/0502railgun1949/status/1969769369929756788/photo/1",
+              "media_key": "3_1969769363910832128",
+              "start": 4,
+              "url": "https://t.co/eENtPwvrXU"
+            },
+            {
+              "display_url": "x.com/SAKURA09389828…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/SAKURA09389828/status/1969764855029866874",
+              "start": 28,
+              "url": "https://t.co/0Z8uQSnbgZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969769369929756788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969764855029866874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求回答 https://t.co/eENtPwvrXU https://t.co/0Z8uQSnbgZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969764850479075328"
+          ]
+        },
+        "author_id": "1235201727323705346",
+        "conversation_id": "1969764855029866874",
+        "created_at": "2025-09-21T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969764855029866874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ClGNAJcjCt",
+              "end": 30,
+              "expanded_url": "https://x.com/SAKURA09389828/status/1969764855029866874/photo/1",
+              "media_key": "3_1969764850479075328",
+              "start": 7,
+              "url": "https://t.co/ClGNAJcjCt"
+            },
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1969649339409842311",
+              "start": 31,
+              "url": "https://t.co/IkBxwuVG3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969764855029866874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969649339409842311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能锐评我 https://t.co/ClGNAJcjCt https://t.co/IkBxwuVG3Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 632,
+          "like_count": 10851,
+          "listed_count": 4,
+          "media_count": 1062,
+          "tweet_count": 7660
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T13:53:46.000Z",
+        "description": "EN/ZH\nINFP–T/Pessimism/Affective Fragility\n互聯網人類行為觀測員\nProfessionalism:Scene Design\nAmateurism:Analytic Psychology /Pharmacology/Literature",
+        "id": "1235201727323705346",
+        "location": "宛平南路600号",
+        "name": "Yuki❄️🎐",
+        "pinned_tweet_id": "1966225862703067338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732478045880283137/78K9iLEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2817,
+          "following_count": 921,
+          "like_count": 17307,
+          "listed_count": 4,
+          "media_count": 729,
+          "tweet_count": 5507
+        },
+        "username": "SAKURA09389828",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2055676854535664023",
+    "created_at": "2026-05-17T00:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T01:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055812708562518488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751306897985298432",
+          "start": 0,
+          "username": "Rorochan___2001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055812708562518488",
+    "in_reply_to_user_id": "1751306897985298432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055676854535664023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rorochan___2001 不敢吃华莱士，肠胃不好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2055676829432750081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIc7L1dXIAEymYy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2055676854535664023",
+        "created_at": "2026-05-17T00:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T01:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055812708562518488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751306897985298432",
+              "start": 0,
+              "username": "Rorochan___2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055812708562518488",
+        "in_reply_to_user_id": "1751306897985298432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055676854535664023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rorochan___2001 不敢吃华莱士，肠胃不好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055676829432750081"
+          ]
+        },
+        "author_id": "1751306897985298432",
+        "conversation_id": "2055676854535664023",
+        "created_at": "2026-05-16T15:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055676854535664023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WsMBdLy9T6",
+              "end": 38,
+              "expanded_url": "https://x.com/Rorochan___2001/status/2055676854535664023/photo/1",
+              "media_key": "3_2055676829432750081",
+              "start": 15,
+              "url": "https://t.co/WsMBdLy9T6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055676854535664023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "华莱士新联名包装看着蛮可爱的 https://t.co/WsMBdLy9T6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 680,
+          "like_count": 14388,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11349
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T18:11:27.000Z",
+        "description": "愛拍照的她(she/her)🏳️‍⚧️┋INFJ-T 💮┋閱讀📖┋心理學&哲學愛好📖┋養貓咪和蝸牛🐌┋雙相患者💊┋戀愛中💕┋攝影賬號請點鏈接🙇🏻‍♀️ ┋同類同好互fo✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rorochan__2001…",
+                "end": 23,
+                "expanded_url": "https://x.com/rorochan__2001?s=21",
+                "start": 0,
+                "url": "https://t.co/5bY3leWVsZ"
+              }
+            ]
+          }
+        },
+        "id": "1751306897985298432",
+        "location": "病棟81號🏥",
+        "name": "辰辰不愛吃菠菜🏳️‍⚧️",
+        "pinned_tweet_id": "2045911170553700803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048373903387742209/3nlGFLEo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 162,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 638
+        },
+        "url": "https://t.co/5bY3leWVsZ",
+        "username": "Rorochan___2001",
+        "verified": false
+      }
+    ]
+  }
+}

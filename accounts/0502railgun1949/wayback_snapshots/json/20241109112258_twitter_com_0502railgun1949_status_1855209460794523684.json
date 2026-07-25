@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1855208947676074258",
+    "created_at": "2024-11-09T11:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T12:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855209460794523684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1799692652511932416",
+          "start": 0,
+          "username": "gemmillihxrfpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855209460794523684",
+    "in_reply_to_user_id": "1799692652511932416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855209155247640718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gemmillihxrfpz 慢慢看，我连马恩文集都没看完"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1855209155247640718].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1855209155247640718",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1855209155247640718"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1855208947676074258",
+        "created_at": "2024-11-09T11:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T12:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855209460794523684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1799692652511932416",
+              "start": 0,
+              "username": "gemmillihxrfpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855209460794523684",
+        "in_reply_to_user_id": "1799692652511932416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855209155247640718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gemmillihxrfpz 慢慢看，我连马恩文集都没看完"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 761,
+          "like_count": 5631,
+          "listed_count": 1,
+          "tweet_count": 4480
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T06:39:26.000Z",
+        "description": "大号：@lerosase8964 伴侣：@Ave_Mujika",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "lerosase8964"
+              },
+              {
+                "end": 31,
+                "start": 20,
+                "username": "Ave_Mujika"
+              }
+            ]
+          }
+        },
+        "id": "1799692652511932416",
+        "location": "Seoul, Republic of Korea",
+        "name": "神奇椿宫在这里",
+        "pinned_tweet_id": "1836056836866449659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854149697780568064/UY5fdh7o_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 133,
+          "like_count": 11361,
+          "listed_count": 2,
+          "tweet_count": 2468
+        },
+        "username": "gemmillihxrfpz",
+        "verified": false
+      }
+    ]
+  }
+}

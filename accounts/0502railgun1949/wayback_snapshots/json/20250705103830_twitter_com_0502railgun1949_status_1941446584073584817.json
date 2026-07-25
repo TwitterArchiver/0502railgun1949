@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1941446584073584817",
+    "created_at": "2025-07-05T10:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T11:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941446584073584817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/niruiyuano00/s…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/niruiyuano00/status/1941439662029144379",
+          "start": 143,
+          "url": "https://t.co/JM3Hnsafx2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941446584073584817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941439662029144379",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老天爷你应该搞错了吧，我应该是在东京留学的女高中生背着电吉他和我的朋友享受摇滚，放学后和二次元亲友一起去秋叶原买谷，周未去北海道看初雪，烟火大会穿上可爱的浴衣和恋人拉着手看樱花，走在东京的街上谈笑风生，和朋友在大阪的楼顶看日落....怎么会投胎到这个死人身上。我的日本女高生活哪去了。 https://t.co/JM3Hnsafx2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1941446584073584817",
+        "created_at": "2025-07-05T10:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T11:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941446584073584817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/niruiyuano00/s…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/niruiyuano00/status/1941439662029144379",
+              "start": 143,
+              "url": "https://t.co/JM3Hnsafx2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941446584073584817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941439662029144379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老天爷你应该搞错了吧，我应该是在东京留学的女高中生背着电吉他和我的朋友享受摇滚，放学后和二次元亲友一起去秋叶原买谷，周未去北海道看初雪，烟火大会穿上可爱的浴衣和恋人拉着手看樱花，走在东京的街上谈笑风生，和朋友在大阪的楼顶看日落....怎么会投胎到这个死人身上。我的日本女高生活哪去了。 https://t.co/JM3Hnsafx2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449176529246638080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1941439662029144379",
+        "created_at": "2025-07-05T10:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T11:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941439662029144379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1941379953196662911",
+              "start": 143,
+              "url": "https://t.co/qf1rDBPfo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941439662029144379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941379953196662911",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老天爷你应该搞错了吧，我应该是在东京留学的女高中生背着电吉他和我的朋友享受摇滚，放学后和二次元亲友一起去秋叶原买谷，周未去北海道看初雪，烟火大会穿上可爱的浴衣和恋人拉着手看樱花，走在东京的街上谈笑风生，和朋友在大阪的楼顶看日落....怎么会投胎到这个死人身上。我的日本女高生活哪去了。 https://t.co/qf1rDBPfo1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1089,
+          "following_count": 646,
+          "like_count": 8467,
+          "listed_count": 3,
+          "media_count": 1002,
+          "tweet_count": 6770
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "05后学生，业余天文爱好者.中派西南官话川黔片成渝小片（母语）生理男性，共青团员",
+        "id": "1449176529246638080",
+        "location": "Chungking",
+        "name": "上九天揽月",
+        "pinned_tweet_id": "1809056511471067529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 541,
+          "like_count": 7396,
+          "listed_count": 1,
+          "media_count": 1345,
+          "tweet_count": 6426
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

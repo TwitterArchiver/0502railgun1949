@@ -1,0 +1,721 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1273034039708901376",
+          "name": "Takashi Tachibana"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1448336891380584451",
+          "name": "Satoshi Hamada"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1273034039708901376",
+          "name": "Takashi Tachibana"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1448336891380584451",
+          "name": "Satoshi Hamada"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1273034039708901376",
+          "name": "Takashi Tachibana"
+        }
+      }
+    ],
+    "conversation_id": "1880226108848984108",
+    "created_at": "2025-01-19T06:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T07:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880867221632913904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "85614978",
+          "start": 0,
+          "username": "NorihiroUehata"
+        },
+        {
+          "end": 32,
+          "id": "3781449193",
+          "start": 16,
+          "username": "GC5R5OGIKgV0yvz"
+        },
+        {
+          "end": 49,
+          "id": "1022842299582038016",
+          "start": 33,
+          "username": "suicide_attack_"
+        },
+        {
+          "end": 61,
+          "id": "95213148",
+          "start": 50,
+          "username": "tachibanat"
+        },
+        {
+          "end": 77,
+          "id": "104940009",
+          "start": 62,
+          "username": "satoshi_hamada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880867221632913904",
+    "in_reply_to_user_id": "85614978",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880226108848984108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NorihiroUehata @GC5R5OGIKgV0yvz @suicide_attack_ @tachibanat @satoshi_hamada cool"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1273034039708901376",
+              "name": "Takashi Tachibana"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1448336891380584451",
+              "name": "Satoshi Hamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1273034039708901376",
+              "name": "Takashi Tachibana"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1448336891380584451",
+              "name": "Satoshi Hamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1273034039708901376",
+              "name": "Takashi Tachibana"
+            }
+          }
+        ],
+        "conversation_id": "1880226108848984108",
+        "created_at": "2025-01-19T06:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T07:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880867221632913904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "85614978",
+              "start": 0,
+              "username": "NorihiroUehata"
+            },
+            {
+              "end": 32,
+              "id": "3781449193",
+              "start": 16,
+              "username": "GC5R5OGIKgV0yvz"
+            },
+            {
+              "end": 49,
+              "id": "1022842299582038016",
+              "start": 33,
+              "username": "suicide_attack_"
+            },
+            {
+              "end": 61,
+              "id": "95213148",
+              "start": 50,
+              "username": "tachibanat"
+            },
+            {
+              "end": 77,
+              "id": "104940009",
+              "start": 62,
+              "username": "satoshi_hamada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880867221632913904",
+        "in_reply_to_user_id": "85614978",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880226108848984108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NorihiroUehata @GC5R5OGIKgV0yvz @suicide_attack_ @tachibanat @satoshi_hamada cool"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880226102213505034"
+          ]
+        },
+        "author_id": "85614978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "JP House of Councillors",
+              "id": "858955986433748993",
+              "name": "Japan House of Councillors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "1880226108848984108",
+        "created_at": "2025-01-17T12:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T13:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880226108848984108"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "東京",
+              "probability": 0.9708,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 8,
+              "normalized_text": "永田町",
+              "probability": 0.3342,
+              "start": 6,
+              "type": "Place"
+            },
+            {
+              "end": 20,
+              "normalized_text": "ポケカメンくん",
+              "probability": 0.6015,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 33,
+              "normalized_text": "立花さん",
+              "probability": 0.8842,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "浜田議員",
+              "probability": 0.7062,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FvvjmT5mXe",
+              "end": 127,
+              "expanded_url": "https://x.com/NorihiroUehata/status/1880226108848984108/photo/1",
+              "media_key": "3_1880226102213505034",
+              "start": 104,
+              "url": "https://t.co/FvvjmT5mXe"
+            },
+            {
+              "display_url": "x.com/gc5r5ogikgv0yv…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/gc5r5ogikgv0yvz/status/1880211814153412783",
+              "start": 128,
+              "url": "https://t.co/TY3ugyDu2P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880226108848984108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 159548,
+          "like_count": 1522,
+          "quote_count": 34,
+          "reply_count": 17,
+          "retweet_count": 254
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880211814153412783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "午後は東京。永田町に向かってポケカメンくんを国会にお連れして立花さんと参議院議員の浜田議員をご紹介させて頂きました！国会議員に臆する事なく、ポケくんのタブーなき鋭い切り口に脱帽です。凄い。withかーくん。 https://t.co/FvvjmT5mXe https://t.co/TY3ugyDu2P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1018,
+          "following_count": 747,
+          "like_count": 6295,
+          "listed_count": 1,
+          "media_count": 824,
+          "tweet_count": 5201
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-27T17:19:05.000Z",
+        "description": "甲南中高、慶應義塾大学総合政策学部卒業、日本マクドナルド本社人事本部勤務、25歳鎌倉市議会議員全国最年少当選、29歳〜神戸市会議員当選（東灘区選出）計４期。京都大学公共政策大学院。115kg→65kgのマイナス50kgダイエット成功、台湾政府より外交の友貢献勲章 すき→サブカル/民俗/動物/か。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@uehata.channel",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@uehata.channel",
+                "start": 0,
+                "url": "https://t.co/OtVnMELy1m"
+              }
+            ]
+          }
+        },
+        "id": "85614978",
+        "location": "兵庫 神戸市 東灘区",
+        "name": "うえはた のりひろ 神戸市会議員（東灘区）",
+        "pinned_tweet_id": "1880226108848984108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856960912789573633/jpqgf5Cr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103580,
+          "following_count": 37659,
+          "like_count": 117722,
+          "listed_count": 561,
+          "media_count": 3523,
+          "tweet_count": 22984
+        },
+        "url": "https://t.co/OtVnMELy1m",
+        "username": "NorihiroUehata",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-04T13:18:52.000Z",
+        "description": "YouTube/ツイキャスで動画だして配信してる晒し系歌い手です！歌ってLIVEもしてます！サブ垢→【@8IcoEitHGybnh5V 】相談など暴露はこちらから→【https://t.co/TynZhRFCzX 】XのDMに送れる人はXにお願いします！ちょこらび🍫🐰【@_Chofficial】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 51,
+                "username": "8IcoEitHGybnh5V"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "_Chofficial"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/pokestgram",
+                "end": 106,
+                "expanded_url": "http://instagram.com/pokestgram",
+                "start": 83,
+                "url": "https://t.co/TynZhRFCzX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChVJy…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChVJyKoxVGt4KAqQodRlNBQ",
+                "start": 0,
+                "url": "https://t.co/4XePjByD13"
+              }
+            ]
+          }
+        },
+        "id": "3781449193",
+        "location": "今フォローしてくれたらフォロバするよ♡",
+        "name": "ポケカメン@ちょこらび",
+        "pinned_tweet_id": "1876593693890937020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876946204531281920/KdaFTVsI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257077,
+          "following_count": 546,
+          "like_count": 14765,
+          "listed_count": 1468,
+          "media_count": 4031,
+          "tweet_count": 14991
+        },
+        "url": "https://t.co/4XePjByD13",
+        "username": "GC5R5OGIKgV0yvz",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-27T13:53:02.000Z",
+        "description": "高校1年生です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/suicide_attack…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/suicide_attack_/",
+                "start": 0,
+                "url": "https://t.co/6L6HNEf4sc"
+              }
+            ]
+          }
+        },
+        "id": "1022842299582038016",
+        "name": "かーくん。",
+        "pinned_tweet_id": "1312382143113256960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657255869799882756/AxE-Vfiu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5015,
+          "following_count": 91,
+          "like_count": 2989,
+          "listed_count": 24,
+          "media_count": 284,
+          "tweet_count": 4937
+        },
+        "url": "https://t.co/6L6HNEf4sc",
+        "username": "suicide_attack_",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-07T14:46:51.000Z",
+        "description": "ＮＨＫをはじめとするオールドメディアを叩き潰す為に、２月２７日告示の千葉県知事選挙に立候補する予定ですが、ガチで当選を狙っているのは６月公示の参議院全国比例区選挙になります。 立花孝志のホームページ https://t.co/CazMoMq8mX NHKをぶっ壊す！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tachibanatakashi.jp",
+                "end": 123,
+                "expanded_url": "https://tachibanatakashi.jp/",
+                "start": 100,
+                "url": "https://t.co/CazMoMq8mX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tachibanatakashi.jp",
+                "end": 23,
+                "expanded_url": "https://tachibanatakashi.jp/",
+                "start": 0,
+                "url": "https://t.co/CazMoMq8mX"
+              }
+            ]
+          }
+        },
+        "id": "95213148",
+        "location": "東京 港区　六本木",
+        "name": "立花孝志　オールドメディアは不要！ネットで充分な時代！当選を目指すのは６月の参議院全国比例です",
+        "pinned_tweet_id": "1866675612695531948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502189227089428481/4tNPn320_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419296,
+          "following_count": 25594,
+          "like_count": 2900,
+          "listed_count": 2095,
+          "media_count": 21381,
+          "tweet_count": 59228
+        },
+        "url": "https://t.co/CazMoMq8mX",
+        "username": "tachibanat",
+        "verified": true
+      },
+      {
+        "created_at": "2010-01-14T21:35:00.000Z",
+        "description": "NHKから国民を守る党。受信料を支払いたくない方は 0336960750 へ要相談。経済成長するために重要なことは、行政による規制を減らして税金を安くして国民を自由にすることです。サブチャンネルで趣味のDQW動画をアップ中。日本医学放射線学会 放射線科専門医。ブログのリンク→https://t.co/mmwGHh1t0K",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kurashikiooya.com",
+                "end": 161,
+                "expanded_url": "http://kurashikiooya.com",
+                "start": 138,
+                "url": "https://t.co/mmwGHh1t0K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCFdD4…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCFdD4l0QtLRrWwO21VTyhow",
+                "start": 0,
+                "url": "https://t.co/XEVVmakWYZ"
+              }
+            ]
+          }
+        },
+        "id": "104940009",
+        "location": "岡山県倉敷市鶴形1丁目",
+        "name": "浜田 聡 参議院議員 WBPC問題調査中 💉💉💉 YouTubeやブログは毎日発信",
+        "pinned_tweet_id": "1520953802404233217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1078860398663630848/Y_vxwnJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185771,
+          "following_count": 3651,
+          "like_count": 29006,
+          "listed_count": 975,
+          "media_count": 2547,
+          "tweet_count": 16742
+        },
+        "url": "https://t.co/XEVVmakWYZ",
+        "username": "satoshi_hamada",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829501881129046057",
+    "created_at": "2024-08-30T14:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T15:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829519914451005690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "threnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829519914451005690",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829501881129046057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@threnote 是吧，实在是理解不了那种老乡坑老乡，异国坑老乡的\n感觉西方他们那边好像至少没有中国这么严重，他有肯定会有，毕竟是利益的斗争\n跟改开之后的经济有关系\n整个社会都处于一种实用主义状态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829501881129046057",
+        "created_at": "2024-08-30T14:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829519914451005690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "threnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829519914451005690",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829501881129046057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@threnote 是吧，实在是理解不了那种老乡坑老乡，异国坑老乡的\n感觉西方他们那边好像至少没有中国这么严重，他有肯定会有，毕竟是利益的斗争\n跟改开之后的经济有关系\n整个社会都处于一种实用主义状态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714659505320140800",
+        "conversation_id": "1829501881129046057",
+        "created_at": "2024-08-30T12:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T13:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829501881129046057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/threnote/statu…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/threnote/status/1829499888511664474",
+              "start": 115,
+              "url": "https://t.co/Jw6jtRltWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829501881129046057",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829499888511664474",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候觉得中国人挺奇怪的，都这么孤独了，且是明显表现出来的孤独，还自我利益至上，去谋求权势，勾心斗角，过于势力\n大家一起团结起来不好吗？\n太扭曲了，太扭曲了，不理解，不理解。\n可能只是现有秩序和机制的限制\n底层逻辑是物比人更重要 https://t.co/Jw6jtRltWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 766,
+          "like_count": 4658,
+          "listed_count": 2,
+          "tweet_count": 3996
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "沉睡于冰封之地，同志仍需努力。\n身份特质未定义(including gender)\nI love you all\n(No tag to determine)\nTelegram: https://t.co/MRjAMc1XKp\ntg 群链接在右下方",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Chionli",
+                "end": 112,
+                "expanded_url": "http://t.me/Chionli",
+                "start": 89,
+                "url": "https://t.co/MRjAMc1XKp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kZRRif5xnzc0N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kZRRif5xnzc0NGZl",
+                "start": 0,
+                "url": "https://t.co/asKCPpaGMv"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "-1m away from you ",
+        "name": "Cie-aph",
+        "pinned_tweet_id": "1808133070777995274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780915119876460544/9PHml8dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 910,
+          "like_count": 10959,
+          "listed_count": 1,
+          "tweet_count": 4408
+        },
+        "url": "https://t.co/asKCPpaGMv",
+        "username": "threnote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1824751828179075291",
+    "created_at": "2024-08-17T17:03:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-17T18:03:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824854626455187687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592805077101596675",
+          "start": 0,
+          "username": "lerosase8964"
+        },
+        {
+          "end": 24,
+          "id": "1823178876400578560",
+          "start": 14,
+          "username": "KindMINSK"
+        },
+        {
+          "end": 39,
+          "id": "1812533919478382592",
+          "start": 25,
+          "username": "BronyaZay0818"
+        },
+        {
+          "end": 56,
+          "id": "1753348784573001728",
+          "start": 40,
+          "username": "rorochan_990126"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824854626455187687",
+    "in_reply_to_user_id": "1592805077101596675",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824816200574021843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lerosase8964 @KindMINSK @BronyaZay0818 @rorochan_990126 我也是，感觉自己只会输出但是没有人理，聊天也不会聊，因为根本没有什么好的话题，生活也平淡\n嘴里面能出来的只有社会科学的内容\n就是想在网络或现实找个同志都不知道怎么说话，聊天，已经一点都不会了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1824751828179075291",
+        "created_at": "2024-08-17T17:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T18:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824854626455187687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592805077101596675",
+              "start": 0,
+              "username": "lerosase8964"
+            },
+            {
+              "end": 24,
+              "id": "1823178876400578560",
+              "start": 14,
+              "username": "KindMINSK"
+            },
+            {
+              "end": 39,
+              "id": "1812533919478382592",
+              "start": 25,
+              "username": "BronyaZay0818"
+            },
+            {
+              "end": 56,
+              "id": "1753348784573001728",
+              "start": 40,
+              "username": "rorochan_990126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824854626455187687",
+        "in_reply_to_user_id": "1592805077101596675",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824816200574021843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lerosase8964 @KindMINSK @BronyaZay0818 @rorochan_990126 我也是，感觉自己只会输出但是没有人理，聊天也不会聊，因为根本没有什么好的话题，生活也平淡\n嘴里面能出来的只有社会科学的内容\n就是想在网络或现实找个同志都不知道怎么说话，聊天，已经一点都不会了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592805077101596675",
+        "conversation_id": "1824751828179075291",
+        "created_at": "2024-08-17T14:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-17T15:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824816200574021843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1823178876400578560",
+              "start": 0,
+              "username": "KindMINSK"
+            },
+            {
+              "end": 25,
+              "id": "1812533919478382592",
+              "start": 11,
+              "username": "BronyaZay0818"
+            },
+            {
+              "end": 42,
+              "id": "1753348784573001728",
+              "start": 26,
+              "username": "rorochan_990126"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824816200574021843",
+        "in_reply_to_user_id": "1823178876400578560",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824815241143926939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KindMINSK @BronyaZay0818 @rorochan_990126 我感觉现实里没人理解我，家里人也是一样，现实里的朋友说两句就没话讲了，想倾诉但是别人根本听不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 757,
+          "like_count": 4149,
+          "listed_count": 2,
+          "tweet_count": 3738
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "Maoist 请关注@gemmillihxrfpz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "gemmillihxrfpz"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "中華人民共和國（1949-1976）",
+        "name": "Leros.",
+        "pinned_tweet_id": "1824465340761510379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824114166178910209/Ci-feQl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 1235,
+          "like_count": 16900,
+          "listed_count": 12,
+          "tweet_count": 5699
+        },
+        "username": "lerosase8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T02:05:13.000Z",
+        "description": "金猴奋起千钧棒，玉宇澄清万里埃。",
+        "id": "1823178876400578560",
+        "name": "Kind",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824088906083553280/XYG1uyBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 82,
+          "like_count": 521,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "KindMINSK",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T17:06:04.000Z",
+        "description": "08/男/infj/🇺🇦🇵🇸/民主社会主义/高中生/反建制/死宅/友LGBTQ+🏳️‍🌈/🇺🇳/言论自由\n有人可以作我朋友吗？可以互fo（支黑粉红慎fo，真的会骂）\n最后:我推布洛妮娅天下第一可爱！",
+        "id": "1812533919478382592",
+        "location": "中国重庆",
+        "name": "BronyaZay0818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813150666900271105/NKJPMLCp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 134,
+          "like_count": 788,
+          "listed_count": 0,
+          "tweet_count": 261
+        },
+        "username": "BronyaZay0818",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T09:25:33.000Z",
+        "description": "普通女高中牲 / 友🏳️‍⚧️🏳️‍🌈 / 按讚→已讀 / 喜歡所有正常交流的人",
+        "id": "1753348784573001728",
+        "location": "「我存在過的證明」",
+        "name": "Mobius' poison✟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823703762839724034/eXjYZD8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2098,
+          "following_count": 1153,
+          "like_count": 56429,
+          "listed_count": 4,
+          "tweet_count": 8047
+        },
+        "username": "rorochan_990126",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1864691604025692315",
+    "created_at": "2024-12-05T15:43:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T16:43:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864697199629881851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1743608022348488704",
+          "start": 0,
+          "username": "FLSaiKou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864697199629881851",
+    "in_reply_to_user_id": "1743608022348488704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864695548923793742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FLSaiKou 初中小学是的\n但是外来务工的能住福田的也不是一般人呢\n那边房价很贵，厂也基本不建在那边了，除了沙井那边，当然那也不是南山了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1864691604025692315",
+        "created_at": "2024-12-05T15:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864697199629881851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1743608022348488704",
+              "start": 0,
+              "username": "FLSaiKou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864697199629881851",
+        "in_reply_to_user_id": "1743608022348488704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864695548923793742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FLSaiKou 初中小学是的\n但是外来务工的能住福田的也不是一般人呢\n那边房价很贵，厂也基本不建在那边了，除了沙井那边，当然那也不是南山了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743608022348488704",
+        "conversation_id": "1864691604025692315",
+        "created_at": "2024-12-05T15:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T16:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864695548923793742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864695548923793742",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864691604025692315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 抱抱）\n没事的，大部分深户也考不上好高中。但深圳上高中没有积分这一说吧？初中的话好像也是按照所住地分配的（我当初班上就有外来务工子女）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987,
+          "following_count": 753,
+          "like_count": 6057,
+          "listed_count": 1,
+          "media_count": 760,
+          "tweet_count": 4807
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-06T12:21:37.000Z",
+        "description": "珠三角做题家/07/在准备润了）/日常向",
+        "id": "1743608022348488704",
+        "name": "CN限定做題椎叶紬",
+        "pinned_tweet_id": "1859619076337008716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743610398576869376/g0Q_xdAZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 115,
+          "like_count": 4092,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1119
+        },
+        "username": "FLSaiKou",
+        "verified": false
+      }
+    ]
+  }
+}

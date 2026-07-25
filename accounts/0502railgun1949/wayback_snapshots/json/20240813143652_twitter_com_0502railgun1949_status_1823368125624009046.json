@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1823012177902809509",
+    "created_at": "2024-08-13T14:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-13T15:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823368125624009046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1628351628826005505",
+          "start": 0,
+          "username": "saya050104"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823368125624009046",
+    "in_reply_to_user_id": "1628351628826005505",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823012177902809509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saya050104 为了自己开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1823012177902809509",
+        "created_at": "2024-08-13T14:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T15:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823368125624009046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1628351628826005505",
+              "start": 0,
+              "username": "saya050104"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823368125624009046",
+        "in_reply_to_user_id": "1628351628826005505",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823012177902809509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saya050104 为了自己开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628351628826005505",
+        "conversation_id": "1823012177902809509",
+        "created_at": "2024-08-12T15:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T16:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823012177902809509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823012177902809509",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我每天九点带腐朽的气息起床买两个包子吃\n坐一个小时的公交车去打mai\n打到肩膀酸痛以后\n傍晚七点回到家中\n除此之外\n什么也没干\n什么也没生产\n什么也感受不到生活的气息\n这样的生存究竟有什么价值呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 757,
+          "like_count": 3781,
+          "listed_count": 2,
+          "tweet_count": 3567
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:11:34.000Z",
+        "description": "mtx/双相/不涉政/丑逼/文学/文艺片/主推要乐奈/有对象",
+        "id": "1628351628826005505",
+        "location": "下北泽！",
+        "name": "Rana.斋",
+        "pinned_tweet_id": "1773179203237683293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794666681945788416/39Cl_0kC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 274,
+          "like_count": 3444,
+          "listed_count": 0,
+          "tweet_count": 804
+        },
+        "username": "saya050104",
+        "verified": false
+      }
+    ]
+  }
+}

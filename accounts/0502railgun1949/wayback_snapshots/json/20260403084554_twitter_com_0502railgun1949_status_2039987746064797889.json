@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2039987746064797889",
+    "created_at": "2026-04-03T08:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039987746064797889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "791197",
+          "start": 3,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039987746064797889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039917726115008842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbcchinese: 在日本，选手们参加了一年一度的ISU-1大奖赛中的办公椅竞速赛。比赛由三人组成的队伍轮流上阵，在两小时的时间限制内尽可能完成最多圈数。\n\n该赛事创立于2010年，在日本各地举办系列比赛，最终获胜的队伍可获得90公斤大米作为奖励。 https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49706,
+        "height": 1920,
+        "media_key": "13_2039917355866988544",
+        "preview_image_url": "https://pbs.twimg.com/media/HE8-bnMaEAA3B41.jpg",
+        "public_metrics": {
+          "view_count": 11331
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039917355866988544/vid/avc1/320x568/mpn2LlHjK5Eoqz5e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039917355866988544/vid/avc1/480x852/PW6NZxX5-9yQER7j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2039917355866988544/vid/avc1/608x1080/aFujBw0N1Kj6fi7m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2039917355866988544/pl/2ad6pEXHVxBnyblx.m3u8?v=83e"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2039987746064797889",
+        "created_at": "2026-04-03T08:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039987746064797889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "791197",
+              "start": 3,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039987746064797889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039917726115008842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbcchinese: 在日本，选手们参加了一年一度的ISU-1大奖赛中的办公椅竞速赛。比赛由三人组成的队伍轮流上阵，在两小时的时间限制内尽可能完成最多圈数。\n\n该赛事创立于2010年，在日本各地举办系列比赛，最终获胜的队伍可获得90公斤大米作为奖励。 https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2039917355866988544"
+          ]
+        },
+        "author_id": "791197",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          }
+        ],
+        "conversation_id": "2039917726115008842",
+        "created_at": "2026-04-03T04:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T05:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039917726115008842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gh8GulT4xn",
+              "end": 138,
+              "expanded_url": "https://x.com/bbcchinese/status/2039917726115008842/video/1",
+              "media_key": "13_2039917355866988544",
+              "start": 115,
+              "url": "https://t.co/Gh8GulT4xn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039917726115008842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 28829,
+          "like_count": 67,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "在日本，选手们参加了一年一度的ISU-1大奖赛中的办公椅竞速赛。比赛由三人组成的队伍轮流上阵，在两小时的时间限制内尽可能完成最多圈数。\n\n该赛事创立于2010年，在日本各地举办系列比赛，最终获胜的队伍可获得90公斤大米作为奖励。 https://t.co/Gh8GulT4xn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 652,
+          "like_count": 11851,
+          "listed_count": 3,
+          "media_count": 1289,
+          "tweet_count": 9421
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5226370,
+          "following_count": 73,
+          "like_count": 61,
+          "listed_count": 12074,
+          "media_count": 24587,
+          "tweet_count": 155433
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

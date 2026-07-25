@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1873023691132653650",
+    "created_at": "2024-12-28T17:08:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T18:08:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873053519676359100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hqin_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873053519676359100",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873023691132653650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hqin_chihiro 哎，有一种中国学生说不出来独有的味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1873023691132653650",
+        "created_at": "2024-12-28T17:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T18:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873053519676359100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hqin_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873053519676359100",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873023691132653650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hqin_chihiro 哎，有一种中国学生说不出来独有的味道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873023681183793153"
+          ]
+        },
+        "author_id": "1444640763070005251",
+        "conversation_id": "1873023691132653650",
+        "created_at": "2024-12-28T15:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T16:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873023691132653650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CThVNZMXhc",
+              "end": 62,
+              "expanded_url": "https://x.com/hqin_chihiro/status/1873023691132653650/photo/1",
+              "media_key": "3_1873023681183793153",
+              "start": 39,
+              "url": "https://t.co/CThVNZMXhc"
+            },
+            {
+              "display_url": "x.com/hqin_chihiro/s…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/hqin_chihiro/status/1873019714106191922",
+              "start": 63,
+              "url": "https://t.co/Lgx3c6bJck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873023691132653650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873019714106191922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只能说，我一个月前回校的时候，都认不出那是我的母校\n\n突然矫情且怀念一下青春 https://t.co/CThVNZMXhc https://t.co/Lgx3c6bJck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 755,
+          "like_count": 6198,
+          "listed_count": 1,
+          "media_count": 799,
+          "tweet_count": 5043
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "18 / 术｀力口厨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suzhouairport.com",
+                "end": 23,
+                "expanded_url": "http://suzhouairport.com",
+                "start": 0,
+                "url": "https://t.co/mbiDshSSD1"
+              }
+            ]
+          }
+        },
+        "id": "1444640763070005251",
+        "location": "Northeast China",
+        "name": "Hqin",
+        "pinned_tweet_id": "1704143724668752295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870350100503134209/U8GqFg2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 728,
+          "like_count": 10642,
+          "listed_count": 4,
+          "media_count": 393,
+          "tweet_count": 6250
+        },
+        "url": "https://t.co/mbiDshSSD1",
+        "username": "hqin_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

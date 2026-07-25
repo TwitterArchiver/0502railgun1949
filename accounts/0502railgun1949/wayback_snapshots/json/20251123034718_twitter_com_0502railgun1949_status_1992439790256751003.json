@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992324208181882880"
+      ],
+      "media_source_tweet_id": [
+        "1992324210505785430"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1992439790256751003",
+    "created_at": "2025-11-23T03:47:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T04:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992439790256751003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "910798559125045248",
+          "start": 3,
+          "username": "majuismail1122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ob6IgDhec2",
+          "end": 112,
+          "expanded_url": "https://x.com/majuismail1122/status/1992324210505785430/photo/1",
+          "media_key": "3_1992324208181882880",
+          "start": 89,
+          "url": "https://t.co/ob6IgDhec2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992439790256751003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992324210505785430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @majuismail1122: 看清楚加沙遭遇土地掠夺的现实。看清楚以色列侵略者蚕食巴勒斯坦土地的历史。\n看待巴勒斯坦问题，不仅仅要睁大眼睛，还要打开心灵，缺一不可‼️ https://t.co/ob6IgDhec2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_1992324208181882880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6YoT8IXsAA3XOt.jpg",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992324208181882880"
+          ],
+          "media_source_tweet_id": [
+            "1992324210505785430"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1992439790256751003",
+        "created_at": "2025-11-23T03:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992439790256751003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "910798559125045248",
+              "start": 3,
+              "username": "majuismail1122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob6IgDhec2",
+              "end": 112,
+              "expanded_url": "https://x.com/majuismail1122/status/1992324210505785430/photo/1",
+              "media_key": "3_1992324208181882880",
+              "start": 89,
+              "url": "https://t.co/ob6IgDhec2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992439790256751003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992324210505785430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @majuismail1122: 看清楚加沙遭遇土地掠夺的现实。看清楚以色列侵略者蚕食巴勒斯坦土地的历史。\n看待巴勒斯坦问题，不仅仅要睁大眼睛，还要打开心灵，缺一不可‼️ https://t.co/ob6IgDhec2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992324208181882880"
+          ]
+        },
+        "author_id": "910798559125045248",
+        "conversation_id": "1992324210505785430",
+        "created_at": "2025-11-22T20:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T21:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992324210505785430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob6IgDhec2",
+              "end": 92,
+              "expanded_url": "https://x.com/majuismail1122/status/1992324210505785430/photo/1",
+              "media_key": "3_1992324208181882880",
+              "start": 69,
+              "url": "https://t.co/ob6IgDhec2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992324210505785430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5883,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "看清楚加沙遭遇土地掠夺的现实。看清楚以色列侵略者蚕食巴勒斯坦土地的历史。\n看待巴勒斯坦问题，不仅仅要睁大眼睛，还要打开心灵，缺一不可‼️ https://t.co/ob6IgDhec2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 618,
+          "like_count": 11038,
+          "listed_count": 3,
+          "media_count": 1095,
+          "tweet_count": 7895
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T09:31:13.000Z",
+        "description": "伊斯兰价值坚守者，尊重自由抉择权🌈、女权主义、没有国籍的流浪者，今日大地的祖国是天山和🇵🇸；私信一般看不到；留言带脏字儿，管你是谁就拉黑。油管：https://t.co/AYh2BDPWfT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEB68…",
+                "end": 95,
+                "expanded_url": "https://youtube.com/channel/UCEB68eRJ0bZNpUvafnfjaiw?si=-CWTLB9ttOBVPcGC",
+                "start": 72,
+                "url": "https://t.co/AYh2BDPWfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/freeismailjuma…",
+                "end": 23,
+                "expanded_url": "https://t.me/freeismailjuma1122",
+                "start": 0,
+                "url": "https://t.co/sMWB4bQEuo"
+              }
+            ]
+          }
+        },
+        "id": "910798559125045248",
+        "location": "New York, USA",
+        "name": "马聚",
+        "pinned_tweet_id": "1625198395844399109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1135971292593709057/6W30yfQ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105380,
+          "following_count": 1573,
+          "like_count": 80642,
+          "listed_count": 297,
+          "media_count": 5129,
+          "tweet_count": 35658
+        },
+        "url": "https://t.co/sMWB4bQEuo",
+        "username": "majuismail1122",
+        "verified": false
+      }
+    ]
+  }
+}

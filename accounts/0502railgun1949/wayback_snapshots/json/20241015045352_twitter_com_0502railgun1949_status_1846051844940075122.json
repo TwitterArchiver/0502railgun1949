@@ -1,0 +1,143 @@
+{
+  "data": {
+    "author_id": "1596405792315691008",
+    "conversation_id": "1846051844940075122",
+    "created_at": "2024-10-15T04:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-15T05:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1846051844940075122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "111942564",
+          "start": 3,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "id": "1846051844940075122",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802988373570658661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @boiledwater: 研究表明，女性在学术界更容易受到质疑，在STEM（科学/技术/工程/数学）领域尤为明显。\n\n此外，女性还会面临身份威胁和刻板印象威胁，导致她们在职业发展中遭受自我怀疑、自我责备，进而影响职业进步 。\n\n👇文献说现代社会对女性是微侵犯。但祖国是明…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1596405792315691008",
+        "conversation_id": "1846051844940075122",
+        "created_at": "2024-10-15T04:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-15T05:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1846051844940075122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "111942564",
+              "start": 3,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "id": "1846051844940075122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802988373570658661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @boiledwater: 研究表明，女性在学术界更容易受到质疑，在STEM（科学/技术/工程/数学）领域尤为明显。\n\n此外，女性还会面临身份威胁和刻板印象威胁，导致她们在职业发展中遭受自我怀疑、自我责备，进而影响职业进步 。\n\n👇文献说现代社会对女性是微侵犯。但祖国是明…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 755,
+          "like_count": 6049,
+          "listed_count": 1,
+          "media_count": 762,
+          "tweet_count": 4819
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1857872249853972818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601123559812009984/2vI25CZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40706,
+          "following_count": 1776,
+          "like_count": 28693,
+          "listed_count": 158,
+          "media_count": 4102,
+          "tweet_count": 33334
+        },
+        "username": "boiledwater",
+        "verified": false
+      }
+    ]
+  }
+}

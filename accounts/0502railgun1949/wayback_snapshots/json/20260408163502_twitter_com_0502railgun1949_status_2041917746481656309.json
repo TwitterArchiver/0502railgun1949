@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288793950199771136",
+          "name": "Economics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1352676864007958528",
+          "name": "Nobel Prize"
+        }
+      }
+    ],
+    "conversation_id": "2041917746481656309",
+    "created_at": "2026-04-08T16:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T17:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041917746481656309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580462850123833344",
+          "start": 3,
+          "username": "lianda_edu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041917746481656309",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041897380166185021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianda_edu: Economics remains a cottage-industry model to this day, especially in its theoretical branch. Even after winning the Nobel…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "2041917746481656309",
+        "created_at": "2026-04-08T16:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041917746481656309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580462850123833344",
+              "start": 3,
+              "username": "lianda_edu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041917746481656309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041897380166185021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianda_edu: Economics remains a cottage-industry model to this day, especially in its theoretical branch. Even after winning the Nobel…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "2041897380166185021",
+        "created_at": "2026-04-08T15:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041897380166185021"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041897380166185021",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Economics remains a cottage-industry model to this day, especially in its theoretical branch. Even after winning the Nobel Prize, many scholars continue to personally sit at their desks writing papers and deriving models. This kind of work, much like mathematics, is inherently difficult to scale up or industrialize. As a result, the research workload has kept increasing since the beginning of one’s career. At the same time, as reputation and achievements grow, demands from governments, commercial organizations, and other institutions also multiply. For ambitious and high-achieving individuals who are unwilling to sacrifice their academic output to handle these additional responsibilities, the only option left is to continuously compress their rest and leisure time."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 314,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Economics remains a cottage-industry model to this day, especially in its theoretical branch. Even after winning the Nobel Prize, many scholars continue to personally sit at their desks writing papers and deriving models. This kind of work, much like mathematics, is inherently"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 658,
+          "like_count": 12452,
+          "listed_count": 3,
+          "media_count": 1304,
+          "tweet_count": 9882
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer\nDefi ,Fintech ,Algorithmic Game Theory\nThe University of Hong Kong  @HKUniversity @nberpubs\nSenior Research Assistant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 75,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 98,
+                "start": 89,
+                "username": "nberpubs"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "NBER",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2041432474631516249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 876,
+          "like_count": 17228,
+          "listed_count": 6,
+          "media_count": 946,
+          "tweet_count": 22104
+        },
+        "username": "lianda_edu",
+        "verified": true
+      }
+    ]
+  }
+}

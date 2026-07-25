@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2053203298283565344",
+    "created_at": "2026-05-09T19:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T20:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053203298283565344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1861449351328854016",
+          "start": 3,
+          "username": "VincentLogic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053203298283565344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053098988115841121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VincentLogic: 发现个科研绘图神器！\n\nnature-skills，用 matplotlib 就能画出 Nature 级别的图。多面板布局、配色、字体、排版都给你整得明明白白，直接输出可编辑的 SVG。\n\n内置了 5 套 Nature 风格的示例模板，支持柱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_2053098770792103936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4SdEnawAA7Adc.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1204,
+        "media_key": "3_2053098770796285952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4SdEoakAAbtT1.jpg",
+        "width": 1500
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2053098770800537600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4SdEpbcAAum7F.jpg",
+        "width": 1582
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2053098770720841728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4SdEWbYAAkfJ_.jpg",
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2053203298283565344",
+        "created_at": "2026-05-09T19:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T20:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053203298283565344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1861449351328854016",
+              "start": 3,
+              "username": "VincentLogic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053203298283565344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053098988115841121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VincentLogic: 发现个科研绘图神器！\n\nnature-skills，用 matplotlib 就能画出 Nature 级别的图。多面板布局、配色、字体、排版都给你整得明明白白，直接输出可编辑的 SVG。\n\n内置了 5 套 Nature 风格的示例模板，支持柱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053098770792103936",
+            "3_2053098770796285952",
+            "3_2053098770800537600",
+            "3_2053098770720841728"
+          ]
+        },
+        "author_id": "1861449351328854016",
+        "conversation_id": "2053098988115841121",
+        "created_at": "2026-05-09T13:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053098988115841121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tFvN3uizlI",
+              "end": 191,
+              "expanded_url": "https://x.com/VincentLogic/status/2053098988115841121/photo/1",
+              "media_key": "3_2053098770792103936",
+              "start": 168,
+              "url": "https://t.co/tFvN3uizlI"
+            },
+            {
+              "display_url": "pic.x.com/tFvN3uizlI",
+              "end": 191,
+              "expanded_url": "https://x.com/VincentLogic/status/2053098988115841121/photo/1",
+              "media_key": "3_2053098770796285952",
+              "start": 168,
+              "url": "https://t.co/tFvN3uizlI"
+            },
+            {
+              "display_url": "pic.x.com/tFvN3uizlI",
+              "end": 191,
+              "expanded_url": "https://x.com/VincentLogic/status/2053098988115841121/photo/1",
+              "media_key": "3_2053098770800537600",
+              "start": 168,
+              "url": "https://t.co/tFvN3uizlI"
+            },
+            {
+              "display_url": "pic.x.com/tFvN3uizlI",
+              "end": 191,
+              "expanded_url": "https://x.com/VincentLogic/status/2053098988115841121/photo/1",
+              "media_key": "3_2053098770720841728",
+              "start": 168,
+              "url": "https://t.co/tFvN3uizlI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053098988115841121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "发现个科研绘图神器！\n\nnature-skills，用 matplotlib 就能画出 Nature 级别的图。多面板布局、配色、字体、排版都给你整得明明白白，直接输出可编辑的 SVG。\n\n内置了 5 套 Nature 风格的示例模板，支持柱状图、折线图、热图、散点图、雷达图等 10 种图表类型。再也不用画完图再丢 AI 里重绘了。\n\n搞科研写论文的，这个能省不少事儿，画出来的图直接能投稿。\n\n项目地址放评论区了👇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 25581,
+          "like_count": 446,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "发现个科研绘图神器！\n\nnature-skills，用 matplotlib 就能画出 Nature 级别的图。多面板布局、配色、字体、排版都给你整得明明白白，直接输出可编辑的 SVG。\n\n内置了 5 套 Nature 风格的示例模板，支持柱状图、折线图、热图、散点图、雷达图等 10 种图表类型。再也不用画完图再丢 AI 里重绘了。 https://t.co/tFvN3uizlI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 684,
+          "like_count": 14121,
+          "listed_count": 5,
+          "media_count": 1368,
+          "tweet_count": 11201
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T16:38:22.000Z",
+        "description": "信号＞噪音 📡 Vincent Logic\n每天挖真正好用的GitHub开源项目\n专注AI工具 & 开发者效率\n高密度干货，Zero fluff",
+        "id": "1861449351328854016",
+        "name": "Vincent Logic | 信号＞噪音",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010360210008023040/tDA3CwgH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47329,
+          "following_count": 676,
+          "like_count": 506,
+          "listed_count": 188,
+          "media_count": 912,
+          "tweet_count": 4001
+        },
+        "username": "VincentLogic",
+        "verified": true
+      }
+    ]
+  }
+}

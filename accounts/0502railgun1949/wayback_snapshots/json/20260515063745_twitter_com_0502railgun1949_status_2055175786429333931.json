@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054936716683960320"
+      ],
+      "media_source_tweet_id": [
+        "2054936720672747694"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2055175786429333931",
+    "created_at": "2026-05-15T06:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T07:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055175786429333931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1546153784820129792",
+          "start": 3,
+          "username": "zheguangyouchai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u59A9LCt6u",
+          "end": 49,
+          "expanded_url": "https://x.com/zheguangyouchai/status/2054936720672747694/photo/1",
+          "media_key": "3_2054936716683960320",
+          "start": 26,
+          "url": "https://t.co/u59A9LCt6u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055175786429333931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054936720672747694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zheguangyouchai: 身份折叠 https://t.co/u59A9LCt6u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2258,
+        "media_key": "3_2054936716683960320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISaDmna4AAToRJ.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054936716683960320"
+          ],
+          "media_source_tweet_id": [
+            "2054936720672747694"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2055175786429333931",
+        "created_at": "2026-05-15T06:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T07:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055175786429333931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1546153784820129792",
+              "start": 3,
+              "username": "zheguangyouchai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u59A9LCt6u",
+              "end": 49,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2054936720672747694/photo/1",
+              "media_key": "3_2054936716683960320",
+              "start": 26,
+              "url": "https://t.co/u59A9LCt6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055175786429333931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054936720672747694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zheguangyouchai: 身份折叠 https://t.co/u59A9LCt6u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054936716683960320"
+          ]
+        },
+        "author_id": "1546153784820129792",
+        "conversation_id": "2054936720672747694",
+        "created_at": "2026-05-14T14:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054936720672747694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u59A9LCt6u",
+              "end": 28,
+              "expanded_url": "https://x.com/zheguangyouchai/status/2054936720672747694/photo/1",
+              "media_key": "3_2054936716683960320",
+              "start": 5,
+              "url": "https://t.co/u59A9LCt6u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054936720672747694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1284,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "身份折叠 https://t.co/u59A9LCt6u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 680,
+          "like_count": 14320,
+          "listed_count": 5,
+          "media_count": 1370,
+          "tweet_count": 11320
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T15:26:20.000Z",
+        "description": "Politics🚫 AI🚫\n摄影师。\n不授权将我的作品用于AI训练/创作。不要在其他平台提及我和我的照片，否则拉黑，谢谢。",
+        "id": "1546153784820129792",
+        "name": "折光邮差",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043202722309267457/x1DaEYkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10885,
+          "following_count": 184,
+          "like_count": 8854,
+          "listed_count": 61,
+          "media_count": 1507,
+          "tweet_count": 4338
+        },
+        "username": "zheguangyouchai",
+        "verified": true
+      }
+    ]
+  }
+}

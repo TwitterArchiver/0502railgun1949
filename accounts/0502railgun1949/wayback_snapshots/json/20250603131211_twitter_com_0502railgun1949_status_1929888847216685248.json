@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1929809121173451151",
+    "created_at": "2025-06-03T13:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929888847216685248"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560989453849464834",
+          "start": 0,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929888847216685248",
+    "in_reply_to_user_id": "1560989453849464834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929809121173451151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liber537 自由些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1929809121173451151",
+        "created_at": "2025-06-03T13:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929888847216685248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929888847216685248",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929809121173451151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 自由些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560989453849464834",
+        "conversation_id": "1929809121173451151",
+        "created_at": "2025-06-03T07:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T08:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929809121173451151"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929809121173451151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诗集的序咋写啊，我朋友要出书让我写个序，但我真不知道咋写😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 645,
+          "like_count": 7900,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 6556
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "糕中生｜马克思列宁主义毛泽东思想万岁🚩｜非二元性别平权🏳️‍🌈｜二次元爱好者🤓｜胶片摄影📷｜臭写现代诗的📜｜双相&焦虑｜生活号不（少）键政｜人与人相互连接，不再孤独",
+        "id": "1560989453849464834",
+        "location": "连线世界",
+        "name": "曇",
+        "pinned_tweet_id": "1929556533844537416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924444254681866241/6VUx0bzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 527,
+          "like_count": 20080,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 1170
+        },
+        "username": "Liber537",
+        "verified": false
+      }
+    ]
+  }
+}

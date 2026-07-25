@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1929402364915511802",
+    "created_at": "2025-06-02T04:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T05:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929402364915511802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/translate_cn/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/translate_cn/status/1929073033660215491",
+          "start": 4,
+          "url": "https://t.co/5NC2dohPOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929402364915511802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929073033660215491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是我 https://t.co/5NC2dohPOM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1929073027121381376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVxso9bgAAofv7.jpg",
+        "width": 2342
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1929073031328276480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsVxs4oboAA2MHV.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1929402364915511802",
+        "created_at": "2025-06-02T04:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T05:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929402364915511802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/translate_cn/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/translate_cn/status/1929073033660215491",
+              "start": 4,
+              "url": "https://t.co/5NC2dohPOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929402364915511802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929073033660215491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我 https://t.co/5NC2dohPOM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929073027121381376",
+            "3_1929073031328276480"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1929073033660215491",
+        "created_at": "2025-06-01T07:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T08:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929073033660215491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Understand the context.",
+              "display_url": "facebook.com/genderinclusiv…",
+              "end": 78,
+              "expanded_url": "https://www.facebook.com/genderinclusiveschools/posts/892325223084781",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/1929120818065272832/ZPosdgFv?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929120818065272832/ZPosdgFv?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "Gender Inclusive Schools",
+              "unwound_url": "https://www.facebook.com/genderinclusiveschools/posts/892325223084781/",
+              "url": "https://t.co/M6w8ehAhCQ"
+            },
+            {
+              "display_url": "t.me/twitter_transl…",
+              "end": 106,
+              "expanded_url": "https://t.me/twitter_translate/27898",
+              "start": 83,
+              "status": 200,
+              "title": "Telegram: Contact @twitter_translate",
+              "unwound_url": "https://t.me/twitter_translate/27898",
+              "url": "https://t.co/PtphY4zGee"
+            },
+            {
+              "display_url": "pic.x.com/zakdPHol2i",
+              "end": 130,
+              "expanded_url": "https://x.com/translate_cn/status/1929073033660215491/photo/1",
+              "media_key": "3_1929073027121381376",
+              "start": 107,
+              "url": "https://t.co/zakdPHol2i"
+            },
+            {
+              "display_url": "pic.x.com/zakdPHol2i",
+              "end": 130,
+              "expanded_url": "https://x.com/translate_cn/status/1929073033660215491/photo/1",
+              "media_key": "3_1929073031328276480",
+              "start": 107,
+              "url": "https://t.co/zakdPHol2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929073033660215491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2250,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "当一个人带着精神上的创伤走了很久的时候，人们会渐渐忘记这个人遭受过创伤，以为是这个人的性格有问题。\n\n原文： https://t.co/M6w8ehAhCQ\n翻译： https://t.co/PtphY4zGee https://t.co/zakdPHol2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 646,
+          "like_count": 7857,
+          "listed_count": 2,
+          "media_count": 986,
+          "tweet_count": 6526
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "这边是个人账号哦～ \n\n欢迎关注！欢迎贴贴！\n\n想要看我日常生活推的朋友请私信\n\n有意参与翻译的朋友请留言",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1856026041489498490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16295,
+          "following_count": 452,
+          "like_count": 787,
+          "listed_count": 94,
+          "media_count": 8718,
+          "tweet_count": 9276
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

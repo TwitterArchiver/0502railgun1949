@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828885145736323073"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1828885149280567371",
+    "created_at": "2024-08-28T19:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T20:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828885149280567371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9wovddiro3",
+          "end": 181,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1828885149280567371/photo/1",
+          "media_key": "3_1828885145736323073",
+          "start": 158,
+          "url": "https://t.co/9wovDDirO3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828885149280567371",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "查询一下你们对我的好感度\n50：路人 \n60：路人有点好感 \n65：认为可以算得上是朋友\n 70：算得上是朋友 \n75：偶尔提起的好朋友 \n80：好朋友 \n85：暗恋 \n90：喜欢（并未了解太多只看见认为的优点） \n93：知道了你所有缺点但是还是对你有好感 \n100：生下来就是为了你（别敷衍我了选其他区间好不好） https://t.co/9wovDDirO3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1828885145736323073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWGBWaaaIAEGyPI.jpg",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828885145736323073"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1828885149280567371",
+        "created_at": "2024-08-28T19:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T20:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828885149280567371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wovddiro3",
+              "end": 181,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1828885149280567371/photo/1",
+              "media_key": "3_1828885145736323073",
+              "start": 158,
+              "url": "https://t.co/9wovDDirO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828885149280567371",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "查询一下你们对我的好感度\n50：路人 \n60：路人有点好感 \n65：认为可以算得上是朋友\n 70：算得上是朋友 \n75：偶尔提起的好朋友 \n80：好朋友 \n85：暗恋 \n90：喜欢（并未了解太多只看见认为的优点） \n93：知道了你所有缺点但是还是对你有好感 \n100：生下来就是为了你（别敷衍我了选其他区间好不好） https://t.co/9wovDDirO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 767,
+          "like_count": 4576,
+          "listed_count": 2,
+          "tweet_count": 3958
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

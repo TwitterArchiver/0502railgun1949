@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2048945388405809609",
+    "created_at": "2026-04-28T02:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T03:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048945388405809609"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 112,
+          "tag": "诗歌"
+        },
+        {
+          "end": 119,
+          "start": 116,
+          "tag": "文学"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/dYLfnR",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/dYLfnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048945388405809609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048918617702694943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: 你看到了吗\n你看到阳光中的那棵向日葵了吗\n你看它，它没有低下头\n而是把头转向身后\n就好象是为了一口咬断\n那套在它脖子上的\n那牵在太阳手中的绳索\n\n——《阳光中的向日葵》芒克（节选）\n\n#诗歌 #文学 https://t.co/dYLfnR…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2048871197857943552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8Nf8LaEAAvjzP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2048945388405809609",
+        "created_at": "2026-04-28T02:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T03:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048945388405809609"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 112,
+              "tag": "诗歌"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "文学"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/dYLfnR",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/dYLfnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048945388405809609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048918617702694943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: 你看到了吗\n你看到阳光中的那棵向日葵了吗\n你看它，它没有低下头\n而是把头转向身后\n就好象是为了一口咬断\n那套在它脖子上的\n那牵在太阳手中的绳索\n\n——《阳光中的向日葵》芒克（节选）\n\n#诗歌 #文学 https://t.co/dYLfnR…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048871197857943552"
+          ]
+        },
+        "author_id": "303806284",
+        "conversation_id": "2048918617702694943",
+        "created_at": "2026-04-28T00:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048918617702694943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 92,
+              "tag": "诗歌"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "文学"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dYLfnR2gxd",
+              "end": 123,
+              "expanded_url": "https://x.com/UNESCO_chinese/status/2048918617702694943/photo/1",
+              "media_key": "3_2048871197857943552",
+              "start": 100,
+              "url": "https://t.co/dYLfnR2gxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048918617702694943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你看到了吗\n你看到阳光中的那棵向日葵了吗\n你看它，它没有低下头\n而是把头转向身后\n就好象是为了一口咬断\n那套在它脖子上的\n那牵在太阳手中的绳索\n\n——《阳光中的向日葵》芒克（节选）\n\n#诗歌 #文学 https://t.co/dYLfnR2gxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 691,
+          "like_count": 13748,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10837
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0Rz2"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37111,
+          "following_count": 41,
+          "like_count": 487,
+          "listed_count": 120,
+          "media_count": 10776,
+          "tweet_count": 11313
+        },
+        "url": "https://t.co/udyfiQ0Rz2",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

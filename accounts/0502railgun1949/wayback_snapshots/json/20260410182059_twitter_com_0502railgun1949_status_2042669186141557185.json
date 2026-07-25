@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042669186141557185",
+    "created_at": "2026-04-10T18:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T19:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042669186141557185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/N0HopeForUs/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/N0HopeForUs/status/2042590138903994753",
+          "start": 19,
+          "url": "https://t.co/NlNs1lfO3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042669186141557185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042590138903994753",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被开除哲逼行列了\n没有那么风流倜傥啊 https://t.co/NlNs1lfO3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2042590135842426880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFi86Aya0AA_eKn.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042669186141557185",
+        "created_at": "2026-04-10T18:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042669186141557185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/N0HopeForUs/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/N0HopeForUs/status/2042590138903994753",
+              "start": 19,
+              "url": "https://t.co/NlNs1lfO3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042669186141557185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042590138903994753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被开除哲逼行列了\n没有那么风流倜傥啊 https://t.co/NlNs1lfO3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042590135842426880"
+          ]
+        },
+        "author_id": "1824688188750712832",
+        "conversation_id": "2042590138903994753",
+        "created_at": "2026-04-10T13:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042590138903994753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZ7ulXqWvo",
+              "end": 40,
+              "expanded_url": "https://x.com/N0HopeForUs/status/2042590138903994753/photo/1",
+              "media_key": "3_2042590135842426880",
+              "start": 17,
+              "url": "https://t.co/BZ7ulXqWvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042590138903994753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哲逼没有性生活只靠嗑药我看不太够 https://t.co/BZ7ulXqWvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 659,
+          "like_count": 12721,
+          "listed_count": 3,
+          "media_count": 1316,
+          "tweet_count": 10091
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "Lacan | Wittgenstein | Marx | GTAOL\n米泽茜激推！\n潮酷老中社群主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHpcRH"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "海南特别行政区 曾母暗沙",
+        "name": "耄耋主义𝙈𝙖𝙤𝙙𝙞𝙚𝙞𝙨𝙢🍥🇭🇰",
+        "pinned_tweet_id": "1993718159703220235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032738053912240128/p2hxr-vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 834,
+          "following_count": 1580,
+          "like_count": 40844,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 12878
+        },
+        "url": "https://t.co/yy1yNHpcRH",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056299436884824465",
+    "created_at": "2026-05-18T09:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056301405259137480"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2056301405259137480",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056299436884824465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可惜我现在腿因为特殊的原因不能出去，我对这个国家这里的人这里的事都很关心，宏大叙事，只关心个体他作为人的生活\n每次探索这个土地，我都感动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056299436884824465",
+        "created_at": "2026-05-18T09:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056301405259137480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056301405259137480",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056299436884824465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可惜我现在腿因为特殊的原因不能出去，我对这个国家这里的人这里的事都很关心，宏大叙事，只关心个体他作为人的生活\n每次探索这个土地，我都感动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056299436884824465",
+        "created_at": "2026-05-18T09:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056299436884824465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 111,
+              "id": "1751306897985298432",
+              "start": 95,
+              "username": "Rorochan___2001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056299436884824465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可惜我的财力不够雄厚，否则我也想坐火车硬座游历各个城市，不去景点，只在城市里头逛去看这里的人和事，去捕捉千禧年剩下的东西，深圳还是城市更新的速度太快，有特色的千禧年建筑基本上就只有市中心了\n@Rorochan___2001 她的作品我很喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 678,
+          "like_count": 14417,
+          "listed_count": 5,
+          "media_count": 1372,
+          "tweet_count": 11411
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

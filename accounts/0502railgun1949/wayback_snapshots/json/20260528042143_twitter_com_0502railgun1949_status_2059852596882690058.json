@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2059837367511630306",
+    "created_at": "2026-05-28T04:21:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:21:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059852596882690058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1583798816909582338",
+          "start": 0,
+          "username": "Valery_Chekalov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059852596882690058",
+    "in_reply_to_user_id": "1583798816909582338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059837367511630306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valery_Chekalov 美国并未反对军方对光州的镇压。卡特政府当时既积极配合军政府，派航母过去给他助阵，又勉强同意镇压"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 292,
+        "media_key": "3_2059837326965305344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYDIqjbcAAdXvb.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2059837367511630306",
+        "created_at": "2026-05-28T04:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059852596882690058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1583798816909582338",
+              "start": 0,
+              "username": "Valery_Chekalov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852596882690058",
+        "in_reply_to_user_id": "1583798816909582338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059837367511630306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valery_Chekalov 美国并未反对军方对光州的镇压。卡特政府当时既积极配合军政府，派航母过去给他助阵，又勉强同意镇压"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059837326965305344"
+          ]
+        },
+        "author_id": "1583798816909582338",
+        "conversation_id": "2059837367511630306",
+        "created_at": "2026-05-28T03:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T04:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059837367511630306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cgyb1TBeZp",
+              "end": 94,
+              "expanded_url": "https://x.com/Valery_Chekalov/status/2059837367511630306/photo/1",
+              "media_key": "3_2059837326965305344",
+              "start": 71,
+              "url": "https://t.co/Cgyb1TBeZp"
+            },
+            {
+              "display_url": "x.com/GuiShaDui/stat…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/GuiShaDui/status/2059733744161083585",
+              "start": 95,
+              "url": "https://t.co/wf9bEOT2MV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059837367511630306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059733744161083585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有一种可能，美国是默许了全斗焕镇压光州民主运动甚至允许他调动韩美联合司令部的20师的，半吊子个几把\n傻逼姨学家能不能先有点历史常识再扯淡 https://t.co/Cgyb1TBeZp https://t.co/wf9bEOT2MV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 681,
+          "like_count": 14848,
+          "listed_count": 5,
+          "media_count": 1382,
+          "tweet_count": 11718
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T12:34:06.000Z",
+        "description": "无量头颅无量血，可怜购得假共和",
+        "id": "1583798816909582338",
+        "location": "距离你4.2光年",
+        "name": "高松灯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035934520453767168/4aXNH_MI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 934,
+          "like_count": 6487,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 5409
+        },
+        "username": "Valery_Chekalov",
+        "verified": false
+      }
+    ]
+  }
+}

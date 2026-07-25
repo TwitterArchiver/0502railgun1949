@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2038968861345882508",
+    "created_at": "2026-04-03T15:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T16:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040094330896224495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1009835185326575616",
+          "start": 0,
+          "username": "mochipui83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040094330896224495",
+    "in_reply_to_user_id": "1009835185326575616",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038968861345882508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mochipui83 Just go ahead and make yourself happy."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2038968861345882508",
+        "created_at": "2026-04-03T15:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T16:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040094330896224495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1009835185326575616",
+              "start": 0,
+              "username": "mochipui83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040094330896224495",
+        "in_reply_to_user_id": "1009835185326575616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038968861345882508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mochipui83 Just go ahead and make yourself happy."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1009835185326575616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "847901400080072705",
+              "name": "Fishing"
+            }
+          }
+        ],
+        "conversation_id": "2038968861345882508",
+        "created_at": "2026-03-31T13:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038968861345882508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038968861345882508",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久しぶりに海で釣りしたいなあ。昔はフカセ専門でしたが、これからは擬似餌、ルアーやワームをやってみたいです。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 653,
+          "like_count": 11923,
+          "listed_count": 3,
+          "media_count": 1290,
+          "tweet_count": 9462
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-21T16:27:24.000Z",
+        "description": "ずっと女の子にあこがれました。実現するのは難しいですね^_^あっという間に旬を超えちゃって残念です。セーラー服やスコート好きです",
+        "id": "1009835185326575616",
+        "location": "日本 茨城",
+        "name": "結",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985702122223255553/Zhjjrr3H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 6016,
+          "like_count": 101099,
+          "listed_count": 16,
+          "media_count": 1,
+          "tweet_count": 32612
+        },
+        "username": "mochipui83",
+        "verified": false
+      }
+    ]
+  }
+}

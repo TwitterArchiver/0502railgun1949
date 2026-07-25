@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2042305305581855074",
+    "created_at": "2026-04-09T18:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T19:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042305305581855074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652012591961772032",
+          "start": 3,
+          "username": "RealYDT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042305305581855074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042077460557135888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RealYDT: 听了个播客，一个高考状元说自己高中时候喜欢的明明是文科，但是所有人都说理科“更有价值和发展前景”，于是很坚定地选了理。选理之后往死了卷，理科也能考得不错但无法到达省状元的程度。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2042305305581855074",
+        "created_at": "2026-04-09T18:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T19:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042305305581855074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652012591961772032",
+              "start": 3,
+              "username": "RealYDT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042305305581855074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042077460557135888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RealYDT: 听了个播客，一个高考状元说自己高中时候喜欢的明明是文科，但是所有人都说理科“更有价值和发展前景”，于是很坚定地选了理。选理之后往死了卷，理科也能考得不错但无法到达省状元的程度。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652012591961772032",
+        "conversation_id": "2042077460557135888",
+        "created_at": "2026-04-09T03:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T04:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042077460557135888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042077460557135888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "听了个播客，一个高考状元说自己高中时候喜欢的明明是文科，但是所有人都说理科“更有价值和发展前景”，于是很坚定地选了理。选理之后往死了卷，理科也能考得不错但无法到达省状元的程度。\n后来，高考他数学比省第二少了16分，16分大家觉得很高了是吧，但是他语文比对方高了整整30分，于是脱颖而出成为省状元。\n他说，当时所有人都觉得文科好是没前途的，但他压力大的时候就是特别爱看闲书，他也没办法，就是爱。也不是为了让自己文科成绩更好，就是非常喜欢文学，高中读了好些本世界名著。恰巧他读过的《安娜卡列尼娜》在那年高考出了阅读理解，而之前高考的这个题型都是出的国内作家的散文。他顺理成章，不费吹灰之力语文拿了最高分。\n后来他虽然随大流读了金融，但最后做的工作还是媒体、文学、播客这些。\n你看，命运自然会给你出路，只要你愿意给自己时间。\n那些功利的选择，可能暂时缓解了你的焦虑。但如果你不是发自内心认可它们，那你也很难赚到它们领域的钱。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 88248,
+          "like_count": 324,
+          "quote_count": 5,
+          "reply_count": 50,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "听了个播客，一个高考状元说自己高中时候喜欢的明明是文科，但是所有人都说理科“更有价值和发展前景”，于是很坚定地选了理。选理之后往死了卷，理科也能考得不错但无法到达省状元的程度。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 656,
+          "like_count": 12568,
+          "listed_count": 3,
+          "media_count": 1309,
+          "tweet_count": 9972
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T18:11:24.000Z",
+        "description": "我是阿良 善良的良\n推特心灵导师第一人\n男人看了哭 女人看了跳\n道法自然，透过现象看本质",
+        "id": "1652012591961772032",
+        "location": "New York City",
+        "name": "阿良",
+        "pinned_tweet_id": "2013187231801094525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039168297242173440/LKe7Vxyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16791,
+          "following_count": 2045,
+          "like_count": 22905,
+          "listed_count": 48,
+          "media_count": 493,
+          "tweet_count": 15800
+        },
+        "username": "RealYDT",
+        "verified": true
+      }
+    ]
+  }
+}

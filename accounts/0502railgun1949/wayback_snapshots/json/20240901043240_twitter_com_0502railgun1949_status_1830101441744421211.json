@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829880213519679703",
+    "created_at": "2024-09-01T04:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-01T05:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830101441744421211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816907110841802752",
+          "start": 0,
+          "username": "Ienvy19511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830101441744421211",
+    "in_reply_to_user_id": "1816907110841802752",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829880213519679703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ienvy19511 医生说不严重我症状不严重，连孤独症都开不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829880213519679703",
+        "created_at": "2024-09-01T04:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T05:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830101441744421211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816907110841802752",
+              "start": 0,
+              "username": "Ienvy19511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830101441744421211",
+        "in_reply_to_user_id": "1816907110841802752",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829880213519679703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ienvy19511 医生说不严重我症状不严重，连孤独症都开不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816907110841802752",
+        "conversation_id": "1829880213519679703",
+        "created_at": "2024-08-31T13:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-31T14:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829880213519679703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829880213519679703",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 533,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "立个flag...\n国庆节结束前至少尝试一次拿到asd和adhd的诊断，或者完全否定这个想法\n\n去一次医院而已...不会太难\n\n那么晚安啦，之后再见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 766,
+          "like_count": 4734,
+          "listed_count": 2,
+          "tweet_count": 4024
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T18:43:23.000Z",
+        "description": "MTX? | 友善的自我中心抱抱发射器 | 睡不够会很烦 | infp~intp波动中 | 重力放出 | 需要评价和建议 | 时间永远不够 | 内在=迷子 |  努力成长中 | 比想象中更脆弱 | 雌二醇+推特重度依恋 | 不希望任何朋友继续痛苦 | 希望一直幸运而纯洁🍀⚜  \n依恋着不存在于这一侧的黎明🌈💞",
+        "id": "1816907110841802752",
+        "location": "哈尔滨",
+        "name": "Azure Ether🍀⚜️🦋(二代目)",
+        "pinned_tweet_id": "1829880213519679703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818637232712175616/nfo8YMr4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 177,
+          "like_count": 9275,
+          "listed_count": 0,
+          "tweet_count": 1398
+        },
+        "username": "Ienvy19511",
+        "verified": false
+      }
+    ]
+  }
+}

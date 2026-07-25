@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1941503929344475185",
+    "created_at": "2025-07-05T14:26:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T15:26:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941503929344475185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Chzonggemin/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/Chzonggemin/status/1941452338016969119",
+          "start": 44,
+          "url": "https://t.co/A1XD4fXb3P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941503929344475185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941452338016969119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大家其实一直都忘记了一点，儒家是限制贵族行为举止的，不是限制普通的人的\n是董仲舒搞坏的 https://t.co/A1XD4fXb3P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 917,
+        "media_key": "3_1941452323122786304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFsmgQXMAAdAIS.jpg",
+        "width": 937
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1941503929344475185",
+        "created_at": "2025-07-05T14:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:26:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941503929344475185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Chzonggemin/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Chzonggemin/status/1941452338016969119",
+              "start": 44,
+              "url": "https://t.co/A1XD4fXb3P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941503929344475185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941452338016969119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家其实一直都忘记了一点，儒家是限制贵族行为举止的，不是限制普通的人的\n是董仲舒搞坏的 https://t.co/A1XD4fXb3P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941452323122786304"
+          ]
+        },
+        "author_id": "1755188079277801472",
+        "conversation_id": "1941452338016969119",
+        "created_at": "2025-07-05T11:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941452338016969119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNX8zCH7Nw",
+              "end": 67,
+              "expanded_url": "https://x.com/Chzonggemin/status/1941452338016969119/photo/1",
+              "media_key": "3_1941452323122786304",
+              "start": 44,
+              "url": "https://t.co/SNX8zCH7Nw"
+            },
+            {
+              "display_url": "x.com/dngxingxng3560…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/dngxingxng35604/status/1940789845074628975",
+              "start": 68,
+              "url": "https://t.co/DZFU9aVhtx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941452338016969119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940789845074628975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得新东亚人应该都长这样\n修身齐家治国平天下\n共创天下为公选贤与能讲信修睦的大同社会 https://t.co/SNX8zCH7Nw https://t.co/DZFU9aVhtx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1093,
+          "following_count": 647,
+          "like_count": 8507,
+          "listed_count": 3,
+          "media_count": 1003,
+          "tweet_count": 6793
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维主义从过去到现在始终是通向未来的道路🚩",
+        "id": "1755188079277801472",
+        "location": "#Trotskyism is Bolshevism",
+        "name": "宗革",
+        "pinned_tweet_id": "1941124485077475422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 513,
+          "like_count": 4637,
+          "listed_count": 8,
+          "media_count": 151,
+          "tweet_count": 2409
+        },
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

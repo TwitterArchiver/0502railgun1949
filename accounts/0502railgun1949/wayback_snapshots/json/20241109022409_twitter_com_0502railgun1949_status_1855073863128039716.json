@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1854863365329633354",
+    "created_at": "2024-11-09T02:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T03:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855073863128039716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1138029815263563781",
+          "start": 0,
+          "username": "yuki14875"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855073863128039716",
+    "in_reply_to_user_id": "1138029815263563781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855066852684447861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuki14875 谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1854863365329633354",
+        "created_at": "2024-11-09T02:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T03:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855073863128039716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1138029815263563781",
+              "start": 0,
+              "username": "yuki14875"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855073863128039716",
+        "in_reply_to_user_id": "1138029815263563781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855066852684447861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuki14875 谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1138029815263563781",
+        "conversation_id": "1854863365329633354",
+        "created_at": "2024-11-09T01:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T02:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855066852684447861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855066852684447861",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854863365329633354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 这也是他对东方的刻板印象，道家讨论的是把主体性作为自然无意识的一部分，把两者都包含。减少主体性也就是给先验主体留出位置，也和后现代理论里减少符号的异化有关，黑格尔的绝对精神本身以主体实现，但也是超越主体的结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 761,
+          "like_count": 5610,
+          "listed_count": 1,
+          "tweet_count": 4471
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-10T10:27:06.000Z",
+        "description": "@RCA雕塑系，全真派道士。研究艺术和自然哲学。另使用王文祥教授的mdcb系统预测地震",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 4,
+                "start": 0,
+                "username": "RCA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yuki14875?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yuki14875?igsh=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/iuXqUqxbVM"
+              }
+            ]
+          }
+        },
+        "id": "1138029815263563781",
+        "name": "雨七",
+        "pinned_tweet_id": "1853116017884684505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845129727323119616/E8Jr1sti_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 105,
+          "like_count": 6418,
+          "listed_count": 2,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/iuXqUqxbVM",
+        "username": "yuki14875",
+        "verified": false
+      }
+    ]
+  }
+}

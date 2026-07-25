@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2037725421974806744",
+    "created_at": "2026-03-28T02:56:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:56:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037725421974806744"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rinii165892/st…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/rinii165892/status/2037708711196848209",
+          "start": 83,
+          "url": "https://t.co/XP9kwfRUil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037725421974806744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037708711196848209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一般只有应激了才会吃医学剂量的普瑞巴林，最高吃过225毫克，就是感觉对于急性应激来讲，效果有点差了，还得配别的药\n因为我平常是真的神经痛，去医院诊断过的，真的难受 https://t.co/XP9kwfRUil"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2037725421974806744",
+        "created_at": "2026-03-28T02:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037725421974806744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rinii165892/st…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/rinii165892/status/2037708711196848209",
+              "start": 83,
+              "url": "https://t.co/XP9kwfRUil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037725421974806744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037708711196848209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一般只有应激了才会吃医学剂量的普瑞巴林，最高吃过225毫克，就是感觉对于急性应激来讲，效果有点差了，还得配别的药\n因为我平常是真的神经痛，去医院诊断过的，真的难受 https://t.co/XP9kwfRUil"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2037708711196848209",
+        "created_at": "2026-03-28T01:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T02:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037708711196848209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037708711196848209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林抗焦虑抑郁效果最好，速度最快，两个小时就起效了!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1206,
+          "following_count": 644,
+          "like_count": 11220,
+          "listed_count": 3,
+          "media_count": 1277,
+          "tweet_count": 9072
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "霖的第二黑化人格/寻回推u【查成分回fo】\n性别是帅气的末影人/不登校/💊2024.11/无证含糖/家暴党/炸柜2025.3/二次炸柜2026.3.26/出厂日期 2012.09.17/od/sh 全否定/\n✟❀信徒:@Fislonely_ ❀灵宠:@dbdbsjbsja❀永远纪念:@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "wu_si787878"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "msk坟头",
+        "name": "3.雨木木（已黑化）",
+        "pinned_tweet_id": "2037038843824922810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032130669959397377/7kOyBARR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 244,
+          "like_count": 1291,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 851
+        },
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926841694948843521"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1926301527800426789",
+    "created_at": "2025-05-26T03:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T04:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926841706319630359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386670401422434304",
+          "start": 0,
+          "username": "xx1012000456"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cvVPC2Giue",
+          "end": 37,
+          "expanded_url": "https://x.com/0502railgun1949/status/1926841706319630359/photo/1",
+          "media_key": "3_1926841694948843521",
+          "start": 14,
+          "url": "https://t.co/cvVPC2Giue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926841706319630359",
+    "in_reply_to_user_id": "1386670401422434304",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926695836701835664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xx1012000456 https://t.co/cvVPC2Giue"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 192,
+        "media_key": "3_1926841694948843521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr2EUA3WYAEUwn3.png",
+        "width": 892
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926841694948843521"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1926301527800426789",
+        "created_at": "2025-05-26T03:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T04:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926841706319630359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cvVPC2Giue",
+              "end": 37,
+              "expanded_url": "https://x.com/0502railgun1949/status/1926841706319630359/photo/1",
+              "media_key": "3_1926841694948843521",
+              "start": 14,
+              "url": "https://t.co/cvVPC2Giue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926841706319630359",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926695836701835664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 https://t.co/cvVPC2Giue"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386670401422434304",
+        "conversation_id": "1926301527800426789",
+        "created_at": "2025-05-25T17:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T18:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926695836701835664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926695836701835664",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926301527800426789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 我持怀疑态度的部分是，氯胺酮本身就在美国的管控法附表3中。因此即使是做麻醉品的氯胺酮，在美国的医学界认知中更接近中国的精一/二而非麻醉品。同样查表可知旋光体和复方一般会降表，因此艾斯氯胺酮真的需要资本运作吗才能通过审批吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 644,
+          "like_count": 7698,
+          "listed_count": 2,
+          "media_count": 983,
+          "tweet_count": 6446
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "x-square「公子」化学爱好者和业余药师",
+        "id": "1386670401422434304",
+        "name": "xx1012000456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 558,
+          "like_count": 24,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 1569
+        },
+        "username": "xx1012000456",
+        "verified": false
+      }
+    ]
+  }
+}

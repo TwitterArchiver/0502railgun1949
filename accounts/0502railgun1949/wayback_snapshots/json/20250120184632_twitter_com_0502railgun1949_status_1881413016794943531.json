@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1881365345564610582",
+    "created_at": "2025-01-20T18:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T19:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881413016794943531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1586252938120466434",
+          "start": 0,
+          "username": "Si1ent_W4ve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881413016794943531",
+    "in_reply_to_user_id": "1586252938120466434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881365345564610582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Si1ent_W4ve 是这样的，他这个一上台打了多少烟雾弹\n最抽象的一集"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1881365345564610582",
+        "created_at": "2025-01-20T18:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T19:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881413016794943531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1586252938120466434",
+              "start": 0,
+              "username": "Si1ent_W4ve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881413016794943531",
+        "in_reply_to_user_id": "1586252938120466434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881365345564610582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Si1ent_W4ve 是这样的，他这个一上台打了多少烟雾弹\n最抽象的一集"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586252938120466434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1881365345564610582",
+        "created_at": "2025-01-20T15:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T16:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881365345564610582"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "Trump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881365345564610582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trump 是懂得「虚虚实实」的。先是 $Trump 套现，后有关税暂缓 USD 大跌。\n\n好消息是本人的 crypto 已告枯竭故未进场，坏消息是 USD 被套牢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 747,
+          "like_count": 6317,
+          "listed_count": 1,
+          "media_count": 827,
+          "tweet_count": 5233
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-29T07:06:00.000Z",
+        "description": "「我們將在沒有黑暗的地方相見。」| Libertarian Socialism | he/him |  LGBT Friendly | @Si1ent_W4ve@mstdn.social | https://t.co/18qdmWWykf | MAY BLOCK ANYBODY WITHOUT WARNING",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "si1ent-w4ve.bsky.social",
+                "end": 119,
+                "expanded_url": "http://si1ent-w4ve.bsky.social",
+                "start": 96,
+                "url": "https://t.co/18qdmWWykf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "si1entw4ve.pages.dev",
+                "end": 23,
+                "expanded_url": "https://si1entw4ve.pages.dev",
+                "start": 0,
+                "url": "https://t.co/CKLCgM8KQp"
+              }
+            ]
+          }
+        },
+        "id": "1586252938120466434",
+        "location": "Singapore",
+        "name": "靜默電波 Silent Wave",
+        "pinned_tweet_id": "1881359006738079753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754614074657431554/EoRFl4Vo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 214,
+          "like_count": 32231,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 6803
+        },
+        "url": "https://t.co/CKLCgM8KQp",
+        "username": "Si1ent_W4ve",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038402925345869824"
+      ],
+      "media_source_tweet_id": [
+        "2038402928038298063"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2038678891540419038",
+    "created_at": "2026-03-30T18:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T19:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038678891540419038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "765807474964258816",
+          "start": 3,
+          "username": "xixi_epicene"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3HtmSuknA",
+          "end": 97,
+          "expanded_url": "https://x.com/xixi_epicene/status/2038402928038298063/photo/1",
+          "media_key": "3_2038402925345869824",
+          "start": 74,
+          "url": "https://t.co/e3HtmSuknA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038678891540419038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038402928038298063",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xixi_epicene: 请大家帮个忙\n推荐一些国内的慈善机构or扶贫项目\n得是支持人民币付款的\n我好把我推广得到的收入再捐出去\n谢谢啦 https://t.co/e3HtmSuknA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1455,
+        "media_key": "3_2038402925345869824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEncqSJbkAAnK5N.jpg",
+        "width": 909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038402925345869824"
+          ],
+          "media_source_tweet_id": [
+            "2038402928038298063"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2038678891540419038",
+        "created_at": "2026-03-30T18:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T19:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038678891540419038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "765807474964258816",
+              "start": 3,
+              "username": "xixi_epicene"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3HtmSuknA",
+              "end": 97,
+              "expanded_url": "https://x.com/xixi_epicene/status/2038402928038298063/photo/1",
+              "media_key": "3_2038402925345869824",
+              "start": 74,
+              "url": "https://t.co/e3HtmSuknA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038678891540419038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038402928038298063",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xixi_epicene: 请大家帮个忙\n推荐一些国内的慈善机构or扶贫项目\n得是支持人民币付款的\n我好把我推广得到的收入再捐出去\n谢谢啦 https://t.co/e3HtmSuknA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038402925345869824"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "conversation_id": "2038402928038298063",
+        "created_at": "2026-03-29T23:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T00:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038402928038298063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3HtmSuknA",
+              "end": 79,
+              "expanded_url": "https://x.com/xixi_epicene/status/2038402928038298063/photo/1",
+              "media_key": "3_2038402925345869824",
+              "start": 56,
+              "url": "https://t.co/e3HtmSuknA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038402928038298063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3152,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "请大家帮个忙\n推荐一些国内的慈善机构or扶贫项目\n得是支持人民币付款的\n我好把我推广得到的收入再捐出去\n谢谢啦 https://t.co/e3HtmSuknA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1210,
+          "following_count": 642,
+          "like_count": 11340,
+          "listed_count": 3,
+          "media_count": 1284,
+          "tweet_count": 9169
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "已婚宅男 ♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 58,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 35,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 102,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 79,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030556534648774656/eKmm0DZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39092,
+          "following_count": 1945,
+          "like_count": 18720,
+          "listed_count": 127,
+          "media_count": 1591,
+          "tweet_count": 8288
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1950497166323282406",
+    "created_at": "2025-07-31T01:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T02:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950731072502985119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557292893181685760",
+          "start": 0,
+          "username": "hajimi198964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950731072502985119",
+    "in_reply_to_user_id": "1557292893181685760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950497166323282406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajimi198964 有可能是对面账号出了问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1950497166323282406",
+        "created_at": "2025-07-31T01:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T02:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950731072502985119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557292893181685760",
+              "start": 0,
+              "username": "hajimi198964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950731072502985119",
+        "in_reply_to_user_id": "1557292893181685760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950497166323282406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajimi198964 有可能是对面账号出了问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557292893181685760",
+        "conversation_id": "1950497166323282406",
+        "created_at": "2025-07-30T10:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T11:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950497166323282406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1950497166323282406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马斯克你什么意思？为什么我有些关注的人一段时间后会莫名其妙取关而我完全没有印象？有些甚至还是我的互关？何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 632,
+          "like_count": 10000,
+          "listed_count": 3,
+          "media_count": 1019,
+          "tweet_count": 7203
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T09:09:27.000Z",
+        "description": "我关注你不一定是我支持你的观点 只是因为我觉得你很有趣。重度百合豚。可能会发画。如果你发现我发了第二人称的辱骂内容，请不要担心，我只是在辱骂自己，这是我的习惯抱歉。\n老婆@Limonene_只是淡推",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 85,
+                "username": "Limonene_"
+              }
+            ]
+          }
+        },
+        "id": "1557292893181685760",
+        "location": "吉吉国",
+        "name": "泣（百合重度依赖）",
+        "pinned_tweet_id": "1859197175642677363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857990543172947968/aBmKu5Ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 557,
+          "like_count": 69021,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 4253
+        },
+        "username": "hajimi198964",
+        "verified": false
+      }
+    ]
+  }
+}

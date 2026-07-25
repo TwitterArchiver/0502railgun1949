@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2048335295712763904"
+      ],
+      "media_source_tweet_id": [
+        "2048335522419122352"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2048611264117739805",
+    "created_at": "2026-04-27T03:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T04:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048611264117739805"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3U4xs5mVkF",
+          "end": 47,
+          "expanded_url": "https://x.com/nzawasaji777/status/2048335522419122352/video/1",
+          "media_key": "13_2048335295712763904",
+          "start": 24,
+          "url": "https://t.co/3U4xs5mVkF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048611264117739805",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048335522419122352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: dream https://t.co/3U4xs5mVkF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7300,
+        "height": 1920,
+        "media_key": "13_2048335295712763904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048335295712763904/img/UccvE_8OB7IIStxV.jpg",
+        "public_metrics": {
+          "view_count": 7446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048335295712763904/vid/avc1/320x426/duzxojyu8ksJRCCc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048335295712763904/vid/avc1/480x640/Wq_FluZi4yCkHzzp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048335295712763904/vid/avc1/720x960/bJ_GxzjMm6JQIqfl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048335295712763904/pl/IlDQFqSqESIwP9_-.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048335295712763904"
+          ],
+          "media_source_tweet_id": [
+            "2048335522419122352"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2048611264117739805",
+        "created_at": "2026-04-27T03:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T04:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048611264117739805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3U4xs5mVkF",
+              "end": 47,
+              "expanded_url": "https://x.com/nzawasaji777/status/2048335522419122352/video/1",
+              "media_key": "13_2048335295712763904",
+              "start": 24,
+              "url": "https://t.co/3U4xs5mVkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048611264117739805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048335522419122352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: dream https://t.co/3U4xs5mVkF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048335295712763904"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2048335522419122352",
+        "created_at": "2026-04-26T09:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048335522419122352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3U4xs5mVkF",
+              "end": 29,
+              "expanded_url": "https://x.com/nzawasaji777/status/2048335522419122352/video/1",
+              "media_key": "13_2048335295712763904",
+              "start": 6,
+              "url": "https://t.co/3U4xs5mVkF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048335522419122352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 325,
+          "impression_count": 34752,
+          "like_count": 2859,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 408
+        },
+        "reply_settings": "everyone",
+        "text": "dream https://t.co/3U4xs5mVkF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 690,
+          "like_count": 13723,
+          "listed_count": 3,
+          "media_count": 1349,
+          "tweet_count": 10810
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね✉️:nzawasaji777@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNsnGn"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "location": "依頼受付中",
+        "name": "ん沢　匙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8837,
+          "following_count": 721,
+          "like_count": 7232,
+          "listed_count": 46,
+          "media_count": 312,
+          "tweet_count": 2566
+        },
+        "url": "https://t.co/0RQYPNsnGn",
+        "username": "nzawasaji777",
+        "verified": false
+      }
+    ]
+  }
+}

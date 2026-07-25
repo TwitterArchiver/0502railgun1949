@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1862137265990058148",
+    "created_at": "2024-11-28T14:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T15:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862137272260583531"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1862137272260583531",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862137268951261216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "联合国开发计划署2016年的《中国同志生存状况调查报告》也显示，11.9%的跨性别人口被威胁或强迫进行扭转治疗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1862137265990058148",
+        "created_at": "2024-11-28T14:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T15:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862137272260583531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862137272260583531",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862137268951261216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "联合国开发计划署2016年的《中国同志生存状况调查报告》也显示，11.9%的跨性别人口被威胁或强迫进行扭转治疗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1862137265990058148",
+        "created_at": "2024-11-28T14:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T15:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862137268951261216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862137268951261216",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862137265990058148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "JAMA Network Open的研究援引2017年的民调显示，接受过扭转治疗的中国跨性别青少年比例高居17%。根据北京同志中心2017年的民调，1640位跨性别人士中，9成以上遭遇过原生家庭的暴力对待，当中12%的人接受过扭转治疗。联合国开发计划署2016年的《中国同志生存状况调查报告》也显示，11.9%的跨性别人口被"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 749,
+          "like_count": 5926,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4687
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

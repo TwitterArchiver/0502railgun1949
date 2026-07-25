@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1943604555012616384",
+    "created_at": "2025-07-12T13:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T14:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944027538407534826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1819944260239851520",
+          "start": 0,
+          "username": "Alice14_88"
+        },
+        {
+          "end": 24,
+          "id": "1755188079277801472",
+          "start": 12,
+          "username": "Chzonggemin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944027538407534826",
+    "in_reply_to_user_id": "1819944260239851520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943918081774170267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice14_88 @Chzonggemin 健康生活(^з^)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1943604555012616384",
+        "created_at": "2025-07-12T13:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T14:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944027538407534826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1819944260239851520",
+              "start": 0,
+              "username": "Alice14_88"
+            },
+            {
+              "end": 24,
+              "id": "1755188079277801472",
+              "start": 12,
+              "username": "Chzonggemin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944027538407534826",
+        "in_reply_to_user_id": "1819944260239851520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943918081774170267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice14_88 @Chzonggemin 健康生活(^з^)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819944260239851520",
+        "conversation_id": "1943604555012616384",
+        "created_at": "2025-07-12T06:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T07:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943918081774170267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1755188079277801472",
+              "start": 0,
+              "username": "Chzonggemin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943918081774170267",
+        "in_reply_to_user_id": "1755188079277801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 721,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943604555012616384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chzonggemin 还好我已经戒掉了，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1104,
+          "following_count": 636,
+          "like_count": 9162,
+          "listed_count": 3,
+          "media_count": 1006,
+          "tweet_count": 6954
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "我们会在那个没有罪孽的世界",
+        "id": "1819944260239851520",
+        "location": "Lifelover",
+        "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
+        "pinned_tweet_id": "1893208949001789801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944026389893574656/JOnLYcOw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 2399,
+          "like_count": 32360,
+          "listed_count": 7,
+          "media_count": 1164,
+          "tweet_count": 14065
+        },
+        "username": "Alice14_88",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-07T11:13:50.000Z",
+        "description": "布尔什维主义从过去到现在始终是条通向未来的道路",
+        "id": "1755188079277801472",
+        "location": "#Trotskyism is Bolshevism",
+        "name": "宗革",
+        "pinned_tweet_id": "1943312184940863669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940803093429620736/CoSFdhpW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 584,
+          "like_count": 6159,
+          "listed_count": 8,
+          "media_count": 187,
+          "tweet_count": 3036
+        },
+        "username": "Chzonggemin",
+        "verified": false
+      }
+    ]
+  }
+}

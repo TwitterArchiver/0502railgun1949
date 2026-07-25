@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2049988245640147219",
+    "created_at": "2026-04-30T23:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T00:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049988245640147219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1339460649584185344",
+          "start": 3,
+          "username": "CTracy0803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049988245640147219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049805278879859003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CTracy0803: 在欧洲做AI创业的朋友：欧洲看不到任何AI的希望了\n\n随后他举了四个例子\n\n1.法国准备四年在AI投资3000万欧，而这是谷歌一年投入AI金额的1/10\n\n2.目前欧洲还没有诞生出厉害的AI公司，但是已经有了全球首个AI法规\n\n3.欧洲最有希望的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2049988245640147219",
+        "created_at": "2026-04-30T23:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T00:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049988245640147219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1339460649584185344",
+              "start": 3,
+              "username": "CTracy0803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049988245640147219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049805278879859003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CTracy0803: 在欧洲做AI创业的朋友：欧洲看不到任何AI的希望了\n\n随后他举了四个例子\n\n1.法国准备四年在AI投资3000万欧，而这是谷歌一年投入AI金额的1/10\n\n2.目前欧洲还没有诞生出厉害的AI公司，但是已经有了全球首个AI法规\n\n3.欧洲最有希望的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1339460649584185344",
+        "conversation_id": "2049805278879859003",
+        "created_at": "2026-04-30T10:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:54:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049804596856439168",
+          "2049805278879859003"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049805278879859003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在欧洲做AI创业的朋友：欧洲看不到任何AI的希望了\n\n随后他举了四个例子\n\n1.法国准备四年在AI投资3000万欧，而这是谷歌一年投入AI金额的1/10\n\n2.目前欧洲还没有诞生出厉害的AI公司，但是已经有了全球首个AI法规\n\n3.欧洲最有希望的AI公司Mistral，全部在美国办公，说是法国企业，只有个壳是法国的\n\n4.欧洲VC会直接给建议在欧洲别做和人相关的应用，因为监管一定会卡，只有安全隐私or碳排放足迹才能过"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 95730,
+          "like_count": 533,
+          "quote_count": 9,
+          "reply_count": 99,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "在欧洲做AI创业的朋友：欧洲看不到任何AI的希望了\n\n随后他举了四个例子\n\n1.法国准备四年在AI投资3000万欧，而这是谷歌一年投入AI金额的1/10\n\n2.目前欧洲还没有诞生出厉害的AI公司，但是已经有了全球首个AI法规\n\n3.欧洲最有希望的AI公司Mistral，全部在美国办公，说是法国企业，只有个壳是法国的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 690,
+          "like_count": 13881,
+          "listed_count": 3,
+          "media_count": 1355,
+          "tweet_count": 10967
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T06:41:29.000Z",
+        "description": "创始人 @Saymore_ai｜人生体验派",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "Saymore_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/BP9c4jEqaG",
+                "end": 23,
+                "expanded_url": "http://discord.gg/BP9c4jEqaG",
+                "start": 0,
+                "url": "https://t.co/1KllyLmsrG"
+              }
+            ]
+          }
+        },
+        "id": "1339460649584185344",
+        "location": "Saymore社区👉",
+        "name": "Tracy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020057831152795648/e0Vu1Zpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34031,
+          "following_count": 921,
+          "like_count": 1913,
+          "listed_count": 232,
+          "media_count": 739,
+          "tweet_count": 7829
+        },
+        "url": "https://t.co/1KllyLmsrG",
+        "username": "CTracy0803",
+        "verified": true
+      }
+    ]
+  }
+}

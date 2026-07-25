@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1832041811789144534",
+    "created_at": "2024-09-06T13:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T14:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832041811789144534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kazami_kumo/st…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/kazami_kumo/status/1831664563324121510",
+          "start": 36,
+          "url": "https://t.co/Pm3MexuUhs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832041811789144534",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831664563324121510",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们这些地方都不吃姜条吗\n我们那里还专门把生姜晒成生姜干来吃，好吃的很 https://t.co/Pm3MexuUhs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1832041811789144534",
+        "created_at": "2024-09-06T13:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T14:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832041811789144534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kazami_kumo/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/kazami_kumo/status/1831664563324121510",
+              "start": 36,
+              "url": "https://t.co/Pm3MexuUhs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832041811789144534",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831664563324121510",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们这些地方都不吃姜条吗\n我们那里还专门把生姜晒成生姜干来吃，好吃的很 https://t.co/Pm3MexuUhs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831664549331922947"
+          ]
+        },
+        "author_id": "1513348512393560064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1831664563324121510",
+        "created_at": "2024-09-05T12:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T13:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831664563324121510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/davjbeqbj0",
+              "end": 53,
+              "expanded_url": "https://twitter.com/kazami_kumo/status/1831664563324121510/photo/1",
+              "media_key": "3_1831664549331922947",
+              "start": 30,
+              "url": "https://t.co/davjBEQbj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831664563324121510",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 21649,
+          "like_count": 472,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "會做飯的人\n和不會做飯的人\n\n同時發出了厭惡的聲音.jpg https://t.co/davjBEQbj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 768,
+          "like_count": 4907,
+          "listed_count": 2,
+          "tweet_count": 4088
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T02:49:53.000Z",
+        "description": "Vtuber Preparation\n\n偶爾有點可愛的紳士情報員，從故事書中被召喚出來，喜歡甜的東西與正式的西方料理，希望人們能更多的理解英國食物\n\n二創標籤： #諜影鏡像\n迷因標籤： #智商爆諜\n\n棉花糖：\nhttps://t.co/PIPxH4b8U6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 81,
+                "tag": "諜影鏡像"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "智商爆諜"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/kazami_kumo",
+                "end": 128,
+                "expanded_url": "https://marshmallow-qa.com/kazami_kumo",
+                "start": 105,
+                "url": "https://t.co/PIPxH4b8U6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kazakumo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kazakumo",
+                "start": 0,
+                "url": "https://t.co/qQO2qJGmKg"
+              }
+            ]
+          }
+        },
+        "id": "1513348512393560064",
+        "location": "I am every where ：）",
+        "name": "☬ KUMO 💼 風見九雲 現正長期準備中 ☬",
+        "pinned_tweet_id": "1798995030553862621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793888487760072706/VEid8ryP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5421,
+          "following_count": 363,
+          "like_count": 95701,
+          "listed_count": 3,
+          "tweet_count": 66142
+        },
+        "url": "https://t.co/qQO2qJGmKg",
+        "username": "kazami_kumo",
+        "verified": false
+      }
+    ]
+  }
+}

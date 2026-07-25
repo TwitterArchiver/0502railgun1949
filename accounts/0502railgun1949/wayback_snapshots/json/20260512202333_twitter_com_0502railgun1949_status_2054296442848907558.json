@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2054296442848907558",
+    "created_at": "2026-05-12T20:23:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054296442848907558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1396885198533382144",
+          "start": 3,
+          "username": "Smilewei114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054296442848907558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054232639578796445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Smilewei114514: 中国語のインターネットでは、非常に簡潔で明快な日本・韓国史の通史研究を見つけるのが難しいです。ほとんどの情報は、あまりにも単純で分かりやすく大量に捏造されているか、あるいは学術的すぎて私には理解できませんxx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2054296442848907558",
+        "created_at": "2026-05-12T20:23:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054296442848907558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1396885198533382144",
+              "start": 3,
+              "username": "Smilewei114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054296442848907558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054232639578796445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Smilewei114514: 中国語のインターネットでは、非常に簡潔で明快な日本・韓国史の通史研究を見つけるのが難しいです。ほとんどの情報は、あまりにも単純で分かりやすく大量に捏造されているか、あるいは学術的すぎて私には理解できませんxx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396885198533382144",
+        "conversation_id": "2054232639578796445",
+        "created_at": "2026-05-12T16:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T17:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054232639578796445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054232639578796445",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国語のインターネットでは、非常に簡潔で明快な日本・韓国史の通史研究を見つけるのが難しいです。ほとんどの情報は、あまりにも単純で分かりやすく大量に捏造されているか、あるいは学術的すぎて私には理解できませんxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 681,
+          "like_count": 14230,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11252
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-24T17:46:15.000Z",
+        "description": "MtF (NO HRT)｜TransLes｜计科初心者｜山猫猫｜不友顺男跨｜姐们现在挺健全的｜永持希望，保持圍笑。｜Always Hopeful and keep your Smilewei.｜Ĉiam esperplena kaj konservu vian Ridetowein.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sssssmilewei.github.io",
+                "end": 23,
+                "expanded_url": "http://sssssmilewei.github.io",
+                "start": 0,
+                "url": "https://t.co/XGb7XjVMwf"
+              }
+            ]
+          }
+        },
+        "id": "1396885198533382144",
+        "location": "Field of Hopes and Dreams",
+        "name": "围笑Smilewei🚩",
+        "pinned_tweet_id": "2002034943208435758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720298060075417600/a4tNduNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1000,
+          "like_count": 9723,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 2991
+        },
+        "url": "https://t.co/XGb7XjVMwf",
+        "username": "Smilewei114514",
+        "verified": false
+      }
+    ]
+  }
+}

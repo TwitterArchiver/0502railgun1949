@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1874366236236407153",
+    "created_at": "2025-01-01T08:38:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T09:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874374604900499575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1862680590291804160",
+          "start": 0,
+          "username": "YotoriHana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874374604900499575",
+    "in_reply_to_user_id": "1862680590291804160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874366236236407153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YotoriHana 我也是啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1874366236236407153",
+        "created_at": "2025-01-01T08:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T09:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874374604900499575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1862680590291804160",
+              "start": 0,
+              "username": "YotoriHana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874374604900499575",
+        "in_reply_to_user_id": "1862680590291804160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874366236236407153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YotoriHana 我也是啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862680590291804160",
+        "conversation_id": "1874366236236407153",
+        "created_at": "2025-01-01T08:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T09:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874366236236407153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1874366236236407153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "条件性恐惧反应不会随着时间而减退，一旦形成了这样的条件反射则难以被消除。在安全环境反复暴露，则有新的条件反射抑制前面的条件性恐惧。所以大脑不会忘记创伤，只是把它暂时藏起来了。\n也就是说在触发某一条件时。恐惧记忆和安全记忆同时出现，但安全记忆会抑制恐惧反应。创伤无法根除，可能会复发"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 756,
+          "like_count": 6243,
+          "listed_count": 1,
+          "media_count": 806,
+          "tweet_count": 5081
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T02:10:41.000Z",
+        "description": "四更灰鵺泣碎兰，空留旧梦随风寒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AsokaNue",
+                "end": 23,
+                "expanded_url": "http://t.me/AsokaNue",
+                "start": 0,
+                "url": "https://t.co/CBW16XfxU8"
+              }
+            ]
+          }
+        },
+        "id": "1862680590291804160",
+        "location": "深圳市",
+        "name": "夜鸟拘花",
+        "pinned_tweet_id": "1867832417094164488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872084489788428288/VV1uS_9N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 48,
+          "like_count": 1609,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/CBW16XfxU8",
+        "username": "YotoriHana",
+        "verified": false
+      }
+    ]
+  }
+}

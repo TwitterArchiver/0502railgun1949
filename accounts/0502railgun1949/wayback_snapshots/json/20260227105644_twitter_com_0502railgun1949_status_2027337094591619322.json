@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2027337094591619322",
+    "created_at": "2026-02-27T10:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T11:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027337094591619322"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/A1oneSKy/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/A1oneSKy/status/2027185937856508377",
+          "start": 12,
+          "url": "https://t.co/htkMK82eHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027337094591619322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027185937856508377",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么韩国也滥用苯二氮卓 https://t.co/htkMK82eHP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2027185930793357312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIC3RKbkAA74ol.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1803,
+        "media_key": "3_2027185930784911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIC3RIasAA7f7u.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2027337094591619322",
+        "created_at": "2026-02-27T10:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027337094591619322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/A1oneSKy/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/A1oneSKy/status/2027185937856508377",
+              "start": 12,
+              "url": "https://t.co/htkMK82eHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027337094591619322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027185937856508377",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么韩国也滥用苯二氮卓 https://t.co/htkMK82eHP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027185930793357312",
+            "3_2027185930784911360"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "conversation_id": "2027185937856508377",
+        "created_at": "2026-02-27T00:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T01:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027185937856508377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vjR0caCcQW",
+              "end": 172,
+              "expanded_url": "https://x.com/A1oneSKy/status/2027185937856508377/photo/1",
+              "media_key": "3_2027185930793357312",
+              "start": 149,
+              "url": "https://t.co/vjR0caCcQW"
+            },
+            {
+              "display_url": "pic.x.com/vjR0caCcQW",
+              "end": 172,
+              "expanded_url": "https://x.com/A1oneSKy/status/2027185937856508377/photo/1",
+              "media_key": "3_2027185930784911360",
+              "start": 149,
+              "url": "https://t.co/vjR0caCcQW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027185937856508377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "韩国精神科初诊体验\n我用Gemini整理翻译了我的情况给医生看\n医生按照我的情况给我开了一个星期的药\n然后如果下周没什么效果的话再来给我转诊单 去上级医院\n交流过程也没什么特别难的 除了药名听不太懂之外\n然后问诊加开药一共花了50多块钱 很便宜\n就是我担心大医院要预约而且不知道我的保险会不会报销 https://t.co/vjR0caCcQW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 611,
+          "like_count": 10799,
+          "listed_count": 3,
+          "media_count": 1190,
+          "tweet_count": 8403
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "我原想死死拽住那梦的，偏生心里的火还热着，躯壳却已朽坏了。终究是气空力尽，只能瘫在原地，任由它一点点地远了罢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950855415992078337/jdc1F1qB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 1435,
+          "like_count": 5455,
+          "listed_count": 5,
+          "media_count": 5028,
+          "tweet_count": 18994
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": false
+      }
+    ]
+  }
+}

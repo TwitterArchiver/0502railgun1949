@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1853654672881660240",
+    "created_at": "2024-11-05T04:24:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T05:24:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853654672881660240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1592805077101596675",
+          "start": 3,
+          "username": "lerosase8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853654672881660240",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853467253028884863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lerosase8964: 为什么GDP不能反映毛泽东时代的经济？1.毛泽东时代的经济核算体系与现在不同，毛泽东时代使用MPS,今天使用SNA。2.毛泽东时代没有统计过GDP，今天看到的数据是后来估算的，而且GDP统计本身存在缺陷。3.各个时期GDP统计使用的不便价格的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1853654672881660240",
+        "created_at": "2024-11-05T04:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T05:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853654672881660240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1592805077101596675",
+              "start": 3,
+              "username": "lerosase8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853654672881660240",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853467253028884863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lerosase8964: 为什么GDP不能反映毛泽东时代的经济？1.毛泽东时代的经济核算体系与现在不同，毛泽东时代使用MPS,今天使用SNA。2.毛泽东时代没有统计过GDP，今天看到的数据是后来估算的，而且GDP统计本身存在缺陷。3.各个时期GDP统计使用的不便价格的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853467217154994176",
+            "3_1853467231113695232",
+            "3_1853467239321829376",
+            "3_1853467250315218944"
+          ]
+        },
+        "author_id": "1592805077101596675",
+        "conversation_id": "1853467253028884863",
+        "created_at": "2024-11-04T16:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853467253028884863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fo2gJTF43H",
+              "end": 157,
+              "expanded_url": "https://x.com/lerosase8964/status/1853467253028884863/photo/1",
+              "media_key": "3_1853467217154994176",
+              "start": 134,
+              "url": "https://t.co/Fo2gJTF43H"
+            },
+            {
+              "display_url": "pic.x.com/Fo2gJTF43H",
+              "end": 157,
+              "expanded_url": "https://x.com/lerosase8964/status/1853467253028884863/photo/1",
+              "media_key": "3_1853467231113695232",
+              "start": 134,
+              "url": "https://t.co/Fo2gJTF43H"
+            },
+            {
+              "display_url": "pic.x.com/Fo2gJTF43H",
+              "end": 157,
+              "expanded_url": "https://x.com/lerosase8964/status/1853467253028884863/photo/1",
+              "media_key": "3_1853467239321829376",
+              "start": 134,
+              "url": "https://t.co/Fo2gJTF43H"
+            },
+            {
+              "display_url": "pic.x.com/Fo2gJTF43H",
+              "end": 157,
+              "expanded_url": "https://x.com/lerosase8964/status/1853467253028884863/photo/1",
+              "media_key": "3_1853467250315218944",
+              "start": 134,
+              "url": "https://t.co/Fo2gJTF43H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853467253028884863",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1278,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "为什么GDP不能反映毛泽东时代的经济？1.毛泽东时代的经济核算体系与现在不同，毛泽东时代使用MPS,今天使用SNA。2.毛泽东时代没有统计过GDP，今天看到的数据是后来估算的，而且GDP统计本身存在缺陷。3.各个时期GDP统计使用的不便价格的基期是不同的。（1/2） https://t.co/Fo2gJTF43H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 920,
+          "following_count": 763,
+          "like_count": 5460,
+          "listed_count": 1,
+          "tweet_count": 4407
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "非顺直马列毛主义左派 友LGBTQ+🏳️‍⚧️🏳️‍🌈 私人账号@gemmillihxrfpz | 对咱最最最好的人@Ave_Mujika | 一里酱@bocchi520_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "gemmillihxrfpz"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "Ave_Mujika"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "bocchi520_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-ic.org",
+                "end": 23,
+                "expanded_url": "https://ci-ic.org/",
+                "start": 0,
+                "url": "https://t.co/RcP305d4Zx"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "中華人民共和國（1949-1976）",
+        "name": "Leros.椿宫",
+        "pinned_tweet_id": "1815220111193907619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850022986813931520/gJxrScnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 1621,
+          "like_count": 30850,
+          "listed_count": 13,
+          "tweet_count": 8051
+        },
+        "url": "https://t.co/RcP305d4Zx",
+        "username": "lerosase8964",
+        "verified": false
+      }
+    ]
+  }
+}

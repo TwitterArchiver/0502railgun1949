@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2050940174272782805",
+    "created_at": "2026-05-03T14:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T15:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050940174272782805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050450209805615198",
+          "start": 25,
+          "url": "https://t.co/zwnIKQPfdl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050940174272782805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050450209805615198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "利好保健食品\n利好精神心理医学产业\n利好眼镜行业 https://t.co/zwnIKQPfdl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55170,
+        "height": 2340,
+        "media_key": "13_2050243418832719872",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050243418832719872/img/IJDi1VCkE8yj0AEi.jpg",
+        "public_metrics": {
+          "view_count": 182578
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050243418832719872/vid/avc1/1080x2340/d5SChyv6BfTGiVhB.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050243418832719872/vid/avc1/720x1560/_r6ODLHUtovXNWnq.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050243418832719872/pl/1UIdw0IEfIguaPqn.m3u8?tag=27&v=cd9"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050243418832719872/vid/avc1/480x1040/UIiKtb1IPgPTZb43.mp4?tag=27"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050243418832719872/vid/avc1/320x692/-NCdk7mRyLWWPScE.mp4?tag=27"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2050940174272782805",
+        "created_at": "2026-05-03T14:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050940174272782805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050450209805615198",
+              "start": 25,
+              "url": "https://t.co/zwnIKQPfdl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050940174272782805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050450209805615198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "利好保健食品\n利好精神心理医学产业\n利好眼镜行业 https://t.co/zwnIKQPfdl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050243418832719872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050450209805615198",
+        "created_at": "2026-05-02T05:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050450209805615198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGqQ4flLjt",
+              "end": 108,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050450209805615198/video/1",
+              "media_key": "13_2050243418832719872",
+              "start": 85,
+              "url": "https://t.co/lGqQ4flLjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050450209805615198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 370251,
+          "like_count": 2603,
+          "quote_count": 22,
+          "reply_count": 289,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "5月1日，浙江杭州。一名网友碰到放学回家的高中学生们。视频显示，学生们几乎都戴着眼镜，并且两眼无神满脸疲惫。\n\n网友评论：“眼睛里都没有光，这就是新闻里朝气蓬勃的一代” https://t.co/lGqQ4flLjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 686,
+          "like_count": 13970,
+          "listed_count": 3,
+          "media_count": 1358,
+          "tweet_count": 11055
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214318,
+          "following_count": 1041,
+          "like_count": 9460,
+          "listed_count": 8715,
+          "media_count": 46169,
+          "tweet_count": 53260
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

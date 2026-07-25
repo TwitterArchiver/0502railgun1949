@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+          "id": "10054665646",
+          "name": "とある魔術の禁書目録III"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169392703294980102",
+          "name": "A Certain Magical Index"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1891133421092524128",
+    "created_at": "2025-02-16T14:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T15:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1891133421092524128"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/toaru_project/…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/toaru_project/status/1891124390076571853",
+          "start": 20,
+          "url": "https://t.co/xItmBRGmCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891133421092524128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891124390076571853",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇，超炮又有希望了😭😭😭\n老玩家感动了 https://t.co/xItmBRGmCC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+              "id": "10054665646",
+              "name": "とある魔術の禁書目録III"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1891133421092524128",
+        "created_at": "2025-02-16T14:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T15:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891133421092524128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/toaru_project/…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/toaru_project/status/1891124390076571853",
+              "start": 20,
+              "url": "https://t.co/xItmBRGmCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891133421092524128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891124390076571853",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇，超炮又有希望了😭😭😭\n老玩家感动了 https://t.co/xItmBRGmCC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1891122639852417024"
+          ]
+        },
+        "author_id": "180623425",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "科学と魔術が三度交わるとき、物語は大きく動き出す!!\n\n@toaru_projectさんの画像",
+              "id": "10054665646",
+              "name": "とある魔術の禁書目録III"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169392703294980102",
+              "name": "A Certain Magical Index"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1891124390076571853",
+        "created_at": "2025-02-16T13:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T14:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891124390076571853"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "#とある科学の超電磁砲",
+              "probability": 0.5852,
+              "start": 6,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "とある科学の超電磁砲"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "超電磁砲"
+            },
+            {
+              "end": 47,
+              "start": 40,
+              "tag": "超電磁砲4期"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "とある"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igJtGJXQyI",
+              "end": 76,
+              "expanded_url": "https://x.com/toaru_project/status/1891124390076571853/video/1",
+              "media_key": "7_1891122639852417024",
+              "start": 53,
+              "url": "https://t.co/igJtGJXQyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891124390076571853",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1444,
+          "impression_count": 872654,
+          "like_count": 26230,
+          "quote_count": 4670,
+          "reply_count": 316,
+          "retweet_count": 18043
+        },
+        "reply_settings": "everyone",
+        "text": "【特報】\n『#とある科学の超電磁砲』TVアニメ第4期制作決定⚡️\n\n#超電磁砲 #超電磁砲4期 #とある https://t.co/igJtGJXQyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 744,
+          "like_count": 6645,
+          "listed_count": 1,
+          "media_count": 908,
+          "tweet_count": 5643
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-20T02:21:32.000Z",
+        "description": "とある魔術の禁書目録＆とある科学の超電磁砲＆とある科学の一方通行公式。プロジェクトの最新情報は「とあるプロジェクトポータル」でチェック♪ #禁書目録3 #アクセラレータ #超電磁砲T",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 69,
+                "tag": "禁書目録3"
+              },
+              {
+                "end": 84,
+                "start": 76,
+                "tag": "アクセラレータ"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "超電磁砲T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "toaru-project.com",
+                "end": 23,
+                "expanded_url": "https://toaru-project.com/",
+                "start": 0,
+                "url": "https://t.co/zEhEhRIrEC"
+              }
+            ]
+          }
+        },
+        "id": "180623425",
+        "location": "学園都市",
+        "name": "とあるプロジェクト公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216259481182466049/Bfxno-Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264913,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 3226,
+          "media_count": 1949,
+          "tweet_count": 10377
+        },
+        "url": "https://t.co/zEhEhRIrEC",
+        "username": "toaru_project",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2040213726473965671",
+    "created_at": "2026-04-03T23:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T00:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040213726473965671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meowania_Fan/s…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/meowania_Fan/status/2040110425950560685",
+          "start": 148,
+          "url": "https://t.co/X2jVel8Isf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040213726473965671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040110425950560685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以我主张能不去学校尽量不去\n能自学的尽量自学\n学校的规章制度,管理模式严重摧残身心健康\n学校教的又没有针对性(这种时候就在浪费时间)它得照顾绝大多数人\n而且课排的太满,学习时间太不自由,不能根据自己的身体实际状况调整\n搞得人压力爆表,而且又没有泄压阀,去玩\n不遵守规则其实也没事的\n天塌不下来 https://t.co/X2jVel8Isf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2040213726473965671",
+        "created_at": "2026-04-03T23:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T00:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040213726473965671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meowania_Fan/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/meowania_Fan/status/2040110425950560685",
+              "start": 148,
+              "url": "https://t.co/X2jVel8Isf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040213726473965671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040110425950560685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我主张能不去学校尽量不去\n能自学的尽量自学\n学校的规章制度,管理模式严重摧残身心健康\n学校教的又没有针对性(这种时候就在浪费时间)它得照顾绝大多数人\n而且课排的太满,学习时间太不自由,不能根据自己的身体实际状况调整\n搞得人压力爆表,而且又没有泄压阀,去玩\n不遵守规则其实也没事的\n天塌不下来 https://t.co/X2jVel8Isf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952690690892468224",
+        "conversation_id": "2039873146099253750",
+        "created_at": "2026-04-03T16:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040110425950560685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243691486706884608",
+              "start": 0,
+              "username": "happycat668899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040110425950560685",
+        "in_reply_to_user_id": "1243691486706884608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039873146099253750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@happycat668899 高中生怎么办🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 654,
+          "like_count": 11973,
+          "listed_count": 3,
+          "media_count": 1290,
+          "tweet_count": 9484
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️无糖｜家暴党｜183cm｜74kg｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "pinned_tweet_id": "2036105253691768903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 134,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

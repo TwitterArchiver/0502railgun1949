@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2054295590436241705",
+    "created_at": "2026-05-12T20:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T21:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054295590436241705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1580462850123833344",
+          "start": 3,
+          "username": "lianda_edu"
+        },
+        {
+          "end": 32,
+          "id": "1510309640097210370",
+          "start": 16,
+          "username": "mustaqilMulazim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054295590436241705",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054087555067543990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianda_edu: @mustaqilMulazim For 300 consecutive days, I woke up at 5:00 AM to memorize English vocabulary and ancient Chinese poetry.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2054295590436241705",
+        "created_at": "2026-05-12T20:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054295590436241705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1580462850123833344",
+              "start": 3,
+              "username": "lianda_edu"
+            },
+            {
+              "end": 32,
+              "id": "1510309640097210370",
+              "start": 16,
+              "username": "mustaqilMulazim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054295590436241705",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054087555067543990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianda_edu: @mustaqilMulazim For 300 consecutive days, I woke up at 5:00 AM to memorize English vocabulary and ancient Chinese poetry.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food Blogs",
+              "id": "826817907946450944",
+              "name": "Food Blogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations that mention lunch.",
+              "id": "1006588701193879552",
+              "name": "Lunch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          }
+        ],
+        "conversation_id": "2054073875554828440",
+        "created_at": "2026-05-12T06:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054087555067543990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1510309640097210370",
+              "start": 0,
+              "username": "mustaqilMulazim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054087555067543990",
+        "in_reply_to_user_id": "1510309640097210370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "For 300 consecutive days, I woke up at 5:00 AM to memorize English vocabulary and ancient Chinese poetry.\n→ This is basically the entire final year of high school with almost zero rest days.\nMy normal routine in senior year was:\nBreakfast: 3 minutes\nLunch: 10 minutes\nDinner: 9 minutes\n→ Students often eat standing up or while reviewing notes. Total eating time per day can be under 25 minutes.\nTo increase my speed on the Science Comprehensive paper, I once completed 6 full sets of practice exams in a single day.\n→ Each set is a full 3-hour Gaokao simulation. This is extreme even by Chinese standards.\nI wrote out the past 15 years of real Gaokao exam questions 3 times.\n→ Thousands of questions, done by hand. Many students do this multiple times.\nTo stay energetic, I sometimes drank 2 bags of extra-strong concentrated coffee in one day.\n→ These are powerful “study aid” drinks sold specifically to exhausted Chinese students. Many develop heart issues or caffeine addiction.\nTo memorize every biology knowledge point, I read the entire biology textbook aloud from beginning to end 21 times, word for word.\n→ This level of rote memorization is common. Chinese students are trained to recall information instantly under extreme time pressure.\nMy hands got rubbed raw from writing so many papers. I patched them with band-aids and kept doing math real questions.\n→ Physical injury from writing is very common. Some students get calluses or even permanent scars.\nI memorized 35 model Chinese essays almost word for word.\n→ Essay memorization is a standard strategy for the Chinese composition section.\nWhile others were taking afternoon naps or resting on weekends, I often stayed alone in the classroom grinding practice questions just to stay more focused.\n→ Many schools have “self-study” sessions until 10–11 PM. Sleep is often 5–6 hours or less.\nEvery single day during my senior year, I crazily memorized 200 new English words. In the end, I raised my weak-subject English score from around 60 points to over 120 points.\n→ This kind of daily grind turns many students into English memorization machines."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054086021609033962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mustaqilMulazim For 300 consecutive days, I woke up at 5:00 AM to memorize English vocabulary and ancient Chinese poetry.\n→ This is basically the entire final year of high school with almost zero rest days.\nMy normal routine in senior year was:\nBreakfast: 3 minutes\nLunch: 10 minutes\nDinner: 9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 681,
+          "like_count": 14228,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11251
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer\nDefi ,Fintech , Game Theory\nThe University of Hong Kong  @HKUniversity @nberpubs\nAdrasteia Labs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "HKUniversity"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "nberpubs"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "Adrasteia Labs",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2053096504831963618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1015,
+          "like_count": 18870,
+          "listed_count": 9,
+          "media_count": 959,
+          "tweet_count": 22878
+        },
+        "username": "lianda_edu",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-02T17:34:22.000Z",
+        "description": "Generally competent.",
+        "id": "1510309640097210370",
+        "name": "Javaid",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945505226749849600/3_HmbT7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 368,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1281
+        },
+        "username": "mustaqilMulazim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2039761532221862065",
+    "created_at": "2026-04-02T17:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T18:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039761532221862065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1811265295849598976",
+          "start": 3,
+          "username": "KiraMyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039761532221862065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039735130806509884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraMyao: 审美就和中国没关系，完完全全不只是景区🤣 \n大部分产品：我想要高级，但是我不想学我要自己做🤓\n于是！你就可以看到 \n1：堪比小广告的夜景LED高楼：然后LED上面放那种超低清广告和勾石字体的欢迎（楼里一般人也几乎没有，造出来就是为了装饰）… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2880,
+        "media_key": "3_2039733631623835648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6W7lVbMAA_P6g.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2039761532221862065",
+        "created_at": "2026-04-02T17:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T18:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039761532221862065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1811265295849598976",
+              "start": 3,
+              "username": "KiraMyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039761532221862065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039735130806509884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiraMyao: 审美就和中国没关系，完完全全不只是景区🤣 \n大部分产品：我想要高级，但是我不想学我要自己做🤓\n于是！你就可以看到 \n1：堪比小广告的夜景LED高楼：然后LED上面放那种超低清广告和勾石字体的欢迎（楼里一般人也几乎没有，造出来就是为了装饰）… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039733631623835648"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405583886260736000",
+              "name": "Night scapes"
+            }
+          }
+        ],
+        "conversation_id": "2039735130806509884",
+        "created_at": "2026-04-02T16:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039735130806509884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YbAZisB9kD",
+              "end": 143,
+              "expanded_url": "https://x.com/KiraMyao/status/2039735130806509884/photo/1",
+              "media_key": "3_2039733631623835648",
+              "start": 120,
+              "url": "https://t.co/YbAZisB9kD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039735130806509884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 415,
+                "id": "1360522586317348865",
+                "start": 404,
+                "username": "nanami_mua"
+              }
+            ]
+          },
+          "text": "审美就和中国没关系，完完全全不只是景区🤣 \n大部分产品：我想要高级，但是我不想学我要自己做🤓\n于是！你就可以看到 \n1：堪比小广告的夜景LED高楼：然后LED上面放那种超低清广告和勾石字体的欢迎（楼里一般人也几乎没有，造出来就是为了装饰） \n2：老头领导决定设计：杀死一切可能的统一店铺招牌，千禧年的科幻风宣传图，滥用红色，我看领导恨不得把马路抹成红色，美其名曰走中国特色的红色精神道路。🫡 \n3：毫无活力的超宽马路加高密度水泥住(监)宅(狱)区复制再复制。 \n4：大批量低质商业歌曲横行，毫无美学可言，各种榜单比赛掺假以成为日常 \n5：国内软件脱离全球软件监管体系，巨头垄断国家站台内部监管困难，为了日活不断塞垃圾，为了钱什么广告都可以接 什么地方都可以塞广告。💩\n6：政府网站统一格式：蓝色顶栏+国徽，杂乱排版+低清拉伸图片\n7：各种脑残国潮设计👶\n8：毫无审美的⏰\n9：推友来评论区补充……\n话题发起：@nanami_mua 欢迎关注"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2176,
+          "like_count": 33,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "审美就和中国没关系，完完全全不只是景区🤣 \n大部分产品：我想要高级，但是我不想学我要自己做🤓\n于是！你就可以看到 \n1：堪比小广告的夜景LED高楼：然后LED上面放那种超低清广告和勾石字体的欢迎（楼里一般人也几乎没有，造出来就是为了装饰） https://t.co/YbAZisB9kD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 645,
+          "like_count": 11732,
+          "listed_count": 3,
+          "media_count": 1288,
+          "tweet_count": 9359
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾AIart🤖meme👻trade📈#BocchiTheRock",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 96,
+                "start": 82,
+                "tag": "BocchiTheRock"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "location": "Japan",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2028763979145941303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011461446195130369/v137vh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 398,
+          "like_count": 8570,
+          "listed_count": 1,
+          "media_count": 304,
+          "tweet_count": 942
+        },
+        "username": "KiraMyao",
+        "verified": true
+      }
+    ]
+  }
+}

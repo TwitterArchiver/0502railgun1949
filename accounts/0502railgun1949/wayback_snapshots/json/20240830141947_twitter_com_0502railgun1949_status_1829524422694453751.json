@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829524419934371840"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829524422694453751",
+    "created_at": "2024-08-30T14:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T15:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1829524422694453751"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/68zdcbgttf",
+          "end": 96,
+          "expanded_url": "https://twitter.com/0502railgun1949/status/1829524422694453751/photo/1",
+          "media_key": "3_1829524419934371840",
+          "start": 73,
+          "url": "https://t.co/68zdcbGtTf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829524422694453751",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之后可能要狠补一下全球经济史\n主要得看看资本主义在19世纪和20世纪的发展\n以及几次应对危机的方式都很有意思\n跟当代的经济学学派很多也有直接关系 https://t.co/68zdcbGtTf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1829524419934371840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWPGxEYXQAA_06t.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829524419934371840"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829524422694453751",
+        "created_at": "2024-08-30T14:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829524422694453751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/68zdcbgttf",
+              "end": 96,
+              "expanded_url": "https://twitter.com/0502railgun1949/status/1829524422694453751/photo/1",
+              "media_key": "3_1829524419934371840",
+              "start": 73,
+              "url": "https://t.co/68zdcbGtTf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829524422694453751",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之后可能要狠补一下全球经济史\n主要得看看资本主义在19世纪和20世纪的发展\n以及几次应对危机的方式都很有意思\n跟当代的经济学学派很多也有直接关系 https://t.co/68zdcbGtTf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 768,
+          "like_count": 4665,
+          "listed_count": 2,
+          "tweet_count": 4001
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

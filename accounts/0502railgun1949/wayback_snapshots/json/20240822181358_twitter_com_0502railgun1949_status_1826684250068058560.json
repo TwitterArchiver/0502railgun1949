@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1826618281392067011",
+    "created_at": "2024-08-22T18:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T19:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826684250068058560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1407034837953748995",
+          "start": 0,
+          "username": "Kinaiyurun0128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826684250068058560",
+    "in_reply_to_user_id": "1407034837953748995",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826618281392067011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kinaiyurun0128 我也是从小如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1826618281392067011",
+        "created_at": "2024-08-22T18:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T19:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826684250068058560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1407034837953748995",
+              "start": 0,
+              "username": "Kinaiyurun0128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826684250068058560",
+        "in_reply_to_user_id": "1407034837953748995",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826618281392067011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kinaiyurun0128 我也是从小如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407034837953748995",
+        "conversation_id": "1826618281392067011",
+        "created_at": "2024-08-22T13:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T14:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826618281392067011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826618281392067011",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "國小的時候就自殺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 764,
+          "like_count": 4312,
+          "listed_count": 2,
+          "tweet_count": 3815
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T17:57:16.000Z",
+        "description": "誰も居ない",
+        "id": "1407034837953748995",
+        "location": "ナイトコード",
+        "name": ".",
+        "pinned_tweet_id": "1810643240733032908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826514650382696450/NhjoQHB7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 422,
+          "like_count": 88335,
+          "listed_count": 0,
+          "tweet_count": 18556
+        },
+        "username": "Kinaiyurun0128",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2046523469651931444",
+    "created_at": "2026-04-21T09:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T10:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046523469651931444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cldeop/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Cldeop/status/2046471383371432440",
+          "start": 8,
+          "url": "https://t.co/wkMq15OejB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046523469651931444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046471383371432440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一战的终战宣言 https://t.co/wkMq15OejB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_2046471377310609408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGaG3_-acAAl61Q.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2046523469651931444",
+        "created_at": "2026-04-21T09:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046523469651931444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cldeop/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Cldeop/status/2046471383371432440",
+              "start": 8,
+              "url": "https://t.co/wkMq15OejB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046523469651931444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046471383371432440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一战的终战宣言 https://t.co/wkMq15OejB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046471377310609408"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2046471383371432440",
+        "created_at": "2026-04-21T06:09:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:09:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046471383371432440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Usp2InUjO2",
+              "end": 41,
+              "expanded_url": "https://x.com/Cldeop/status/2046471383371432440/photo/1",
+              "media_key": "3_2046471377310609408",
+              "start": 18,
+              "url": "https://t.co/Usp2InUjO2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046471383371432440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 20423,
+          "like_count": 350,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "2026年诺贝尔和平奖就颁给你们了 https://t.co/Usp2InUjO2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 669,
+          "like_count": 13181,
+          "listed_count": 3,
+          "media_count": 1344,
+          "tweet_count": 10517
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101805,
+          "following_count": 763,
+          "like_count": 36296,
+          "listed_count": 284,
+          "media_count": 17812,
+          "tweet_count": 25607
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2066319189233766600",
+    "created_at": "2026-06-15T06:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T07:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066406549548105946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680514794401697794",
+          "start": 0,
+          "username": "XUNYISHI121212"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066406549548105946",
+    "in_reply_to_user_id": "1680514794401697794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066319189233766600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XUNYISHI121212 生日快乐喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066319186352287744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0KWicaMAAOr9r.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2066319189233766600",
+        "created_at": "2026-06-15T06:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T07:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066406549548105946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680514794401697794",
+              "start": 0,
+              "username": "XUNYISHI121212"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066406549548105946",
+        "in_reply_to_user_id": "1680514794401697794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066319189233766600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XUNYISHI121212 生日快乐喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066319186352287744"
+          ]
+        },
+        "author_id": "1680514794401697794",
+        "conversation_id": "2066319189233766600",
+        "created_at": "2026-06-15T00:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T01:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066319189233766600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdjJWaleAA",
+              "end": 28,
+              "expanded_url": "https://x.com/XUNYISHI121212/status/2066319189233766600/photo/1",
+              "media_key": "3_2066319186352287744",
+              "start": 5,
+              "url": "https://t.co/rdjJWaleAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066319189233766600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有氣球欸 https://t.co/rdjJWaleAA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 690,
+          "like_count": 15432,
+          "listed_count": 5,
+          "media_count": 1384,
+          "tweet_count": 12108
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T09:49:24.000Z",
+        "description": "一位普普通通的高一學生/2010年 169cm 47kg/把這裡當朋友圈發/INFP/休學中\n(⁠◕⁠ᴗ⁠◕⁠✿⁠)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xunyishi.com",
+                "end": 23,
+                "expanded_url": "https://www.xunyishi.com",
+                "start": 0,
+                "url": "https://t.co/4Hr8nuoCr6"
+              }
+            ]
+          }
+        },
+        "id": "1680514794401697794",
+        "location": "34°14'32.4\"N 118°27'46.3\"E",
+        "name": "XUNYISHI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819716072825860096/fv3fiIiR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 277,
+          "like_count": 4864,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 262
+        },
+        "url": "https://t.co/4Hr8nuoCr6",
+        "username": "XUNYISHI121212",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1829203699090206947",
+    "created_at": "2024-08-30T15:15:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T16:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829538315298894012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1708798322289291264",
+          "start": 0,
+          "username": "Baiguan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829538315298894012",
+    "in_reply_to_user_id": "1708798322289291264",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829203699090206947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baiguan_ 尊重自己的想法，尊重自己的感受，爱好自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1829203699090206947",
+        "created_at": "2024-08-30T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829538315298894012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1708798322289291264",
+              "start": 0,
+              "username": "Baiguan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829538315298894012",
+        "in_reply_to_user_id": "1708798322289291264",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829203699090206947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baiguan_ 尊重自己的想法，尊重自己的感受，爱好自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708798322289291264",
+        "conversation_id": "1829203699090206947",
+        "created_at": "2024-08-29T17:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-29T18:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829203699090206947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829203699090206947",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 204,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有爱的人，我不想让她担心，不想让她看到我负能崩溃的样子…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 768,
+          "like_count": 4688,
+          "listed_count": 2,
+          "tweet_count": 4014
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T10:57:31.000Z",
+        "description": "马列毛主义｜女权主义｜双向｜MtF🍥HRT 2024.2.26｜@Sablinkochi1966 祝萨主席身体健康万寿无疆｜愿意和一切人友好交流（前提是你想）｜欢迎互fo ｜现居北京 铁路/公交/航空摄影爱好 LGBTQ+friendly @KochiyaSablin 你谁呀不认识",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 32,
+                "username": "Sablinkochi1966"
+              },
+              {
+                "end": 134,
+                "start": 120,
+                "username": "KochiyaSablin"
+              }
+            ]
+          }
+        },
+        "id": "1708798322289291264",
+        "location": "某扒衣地下室初生革命造反总司令部",
+        "name": "Baiguan_🏳️‍⚧️📕 🇨🇳🇹🇼",
+        "pinned_tweet_id": "1826988961178566798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813912765339402240/_KWQDU6k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 1036,
+          "like_count": 6476,
+          "listed_count": 0,
+          "tweet_count": 2076
+        },
+        "username": "Baiguan_",
+        "verified": false
+      }
+    ]
+  }
+}

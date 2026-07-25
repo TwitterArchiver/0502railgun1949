@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1994612797884567698",
+    "created_at": "2025-11-29T16:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T17:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994805362596429852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994805362596429852",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994612797884567698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 你怎么天天吃这么好\n我这辈子都没有这样的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1994612797884567698",
+        "created_at": "2025-11-29T16:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994805362596429852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994805362596429852",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994612797884567698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 你怎么天天吃这么好\n我这辈子都没有这样的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449176529246638080",
+        "conversation_id": "1994612797884567698",
+        "created_at": "2025-11-29T03:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T04:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994612797884567698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994612797884567698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“你看我头发有没有什么变化”\n“没扎头发了。？”\n“其实没什么变化只是想让你多看我两眼”\n\n“我昨天做了个梦，这里人好多待会给你说”\n“我梦到我们两个上课并排坐，然后我睡着了，靠在你肩上的你还捏我的脸说好软”\n🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 607,
+          "like_count": 11130,
+          "listed_count": 3,
+          "media_count": 1101,
+          "tweet_count": 7941
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "十六歳、学生です",
+        "id": "1449176529246638080",
+        "location": "Chungking",
+        "name": "上九天揽月",
+        "pinned_tweet_id": "1973707281268375979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604036497522495488/pvCFSsUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 556,
+          "like_count": 8375,
+          "listed_count": 1,
+          "media_count": 1549,
+          "tweet_count": 7319
+        },
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

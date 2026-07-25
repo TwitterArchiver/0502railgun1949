@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2054708403378044940",
+    "created_at": "2026-05-13T23:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T00:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054708403378044940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1574719335075037185",
+          "start": 3,
+          "username": "Orderflow_dao"
+        },
+        {
+          "end": 29,
+          "id": "1752802007046582272",
+          "start": 19,
+          "username": "CryptoWNM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054708403378044940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054416467458965921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Orderflow_dao: @CryptoWNM 文科生被AI哄成胚胎，每天丢两个低相关语词合成伪知识向量自嗨。\n\n码农在缺乏工程化思维下，合成大量低质小程序。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2054708403378044940",
+        "created_at": "2026-05-13T23:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T00:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054708403378044940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1574719335075037185",
+              "start": 3,
+              "username": "Orderflow_dao"
+            },
+            {
+              "end": 29,
+              "id": "1752802007046582272",
+              "start": 19,
+              "username": "CryptoWNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054708403378044940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054416467458965921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Orderflow_dao: @CryptoWNM 文科生被AI哄成胚胎，每天丢两个低相关语词合成伪知识向量自嗨。\n\n码农在缺乏工程化思维下，合成大量低质小程序。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574719335075037185",
+        "conversation_id": "2054314201695551821",
+        "created_at": "2026-05-13T04:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054416467458965921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1752802007046582272",
+              "start": 0,
+              "username": "CryptoWNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054416467458965921",
+        "in_reply_to_user_id": "1752802007046582272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054314201695551821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CryptoWNM 文科生被AI哄成胚胎，每天丢两个低相关语词合成伪知识向量自嗨。\n\n码农在缺乏工程化思维下，合成大量低质小程序。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 680,
+          "like_count": 14271,
+          "listed_count": 5,
+          "media_count": 1369,
+          "tweet_count": 11275
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-27T11:15:28.000Z",
+        "description": "交易员 | AI_数据流驱动交易。\n\n基于Dc的数据流AI交易平台 Minority Pi：https://t.co/ayG1ynKR07\nTG：https://t.co/YlpQnbVWeU\n全平台资源：https://t.co/JIEb1kDDp9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/NH46Ax4…",
+                "end": 69,
+                "expanded_url": "https://discord.com/invite/NH46Ax4BXe",
+                "start": 46,
+                "url": "https://t.co/ayG1ynKR07"
+              },
+              {
+                "display_url": "t.me/DataDaoanalysis",
+                "end": 96,
+                "expanded_url": "https://t.me/DataDaoanalysis",
+                "start": 73,
+                "url": "https://t.co/YlpQnbVWeU"
+              },
+              {
+                "display_url": "bento.me/orderflowdao",
+                "end": 126,
+                "expanded_url": "https://bento.me/orderflowdao",
+                "start": 103,
+                "url": "https://t.co/JIEb1kDDp9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com/invite/NH46Ax4…",
+                "end": 23,
+                "expanded_url": "https://discord.com/invite/NH46Ax4BXe",
+                "start": 0,
+                "url": "https://t.co/ayG1ynKR07"
+              }
+            ]
+          }
+        },
+        "id": "1574719335075037185",
+        "location": "萨尔瓦多",
+        "name": "道哥-AI_trade.ai",
+        "pinned_tweet_id": "1947248563009790367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949140993401614336/6PmXLqkZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485,
+          "following_count": 514,
+          "like_count": 2807,
+          "listed_count": 98,
+          "media_count": 868,
+          "tweet_count": 2823
+        },
+        "url": "https://t.co/ayG1ynKR07",
+        "username": "Orderflow_dao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T21:13:09.000Z",
+        "description": "交易者",
+        "id": "1752802007046582272",
+        "name": "王尼玛 X 耐心资本",
+        "pinned_tweet_id": "2017226885613404264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752803629810278400/5WrGTvTw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 53,
+          "like_count": 1606,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1420
+        },
+        "username": "CryptoWNM",
+        "verified": false
+      }
+    ]
+  }
+}

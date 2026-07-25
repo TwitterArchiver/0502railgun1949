@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045434831362981888"
+      ],
+      "media_source_tweet_id": [
+        "2045434838577230334"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2045877408637587763",
+    "created_at": "2026-04-19T14:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045877408637587763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hDq2kkfj9t",
+          "end": 51,
+          "expanded_url": "https://x.com/Cldeop/status/2045434838577230334/photo/1",
+          "media_key": "3_2045434831362981888",
+          "start": 28,
+          "url": "https://t.co/hDq2kkfj9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045877408637587763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045434838577230334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 为了反诈骗宣传用尽了所有手段（ https://t.co/hDq2kkfj9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1096,
+        "media_key": "3_2045434831362981888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLYJFaaAAAxhWq.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045434831362981888"
+          ],
+          "media_source_tweet_id": [
+            "2045434838577230334"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2045877408637587763",
+        "created_at": "2026-04-19T14:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045877408637587763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDq2kkfj9t",
+              "end": 51,
+              "expanded_url": "https://x.com/Cldeop/status/2045434838577230334/photo/1",
+              "media_key": "3_2045434831362981888",
+              "start": 28,
+              "url": "https://t.co/hDq2kkfj9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045877408637587763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045434838577230334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 为了反诈骗宣传用尽了所有手段（ https://t.co/hDq2kkfj9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045434831362981888"
+          ]
+        },
+        "author_id": "1613079089879076864",
+        "conversation_id": "2045434838577230334",
+        "created_at": "2026-04-18T09:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045434838577230334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hDq2kkfj9t",
+              "end": 39,
+              "expanded_url": "https://x.com/Cldeop/status/2045434838577230334/photo/1",
+              "media_key": "3_2045434831362981888",
+              "start": 16,
+              "url": "https://t.co/hDq2kkfj9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045434838577230334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 27180,
+          "like_count": 405,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "为了反诈骗宣传用尽了所有手段（ https://t.co/hDq2kkfj9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生\n欢迎来找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/uYAsutqU3H"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 666,
+          "like_count": 13101,
+          "listed_count": 3,
+          "media_count": 1340,
+          "tweet_count": 10474
+        },
+        "url": "https://t.co/uYAsutqU3H",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n音游人｜欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/CLDGEO",
+                "end": 23,
+                "expanded_url": "https://t.me/CLDGEO",
+                "start": 0,
+                "url": "https://t.co/zrh7yw0I08"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2044637893025787952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101611,
+          "following_count": 761,
+          "like_count": 36252,
+          "listed_count": 283,
+          "media_count": 17760,
+          "tweet_count": 25532
+        },
+        "url": "https://t.co/zrh7yw0I08",
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

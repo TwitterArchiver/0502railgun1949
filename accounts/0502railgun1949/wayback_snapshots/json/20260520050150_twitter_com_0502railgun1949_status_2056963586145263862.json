@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_526440729187332096"
+      ],
+      "media_source_tweet_id": [
+        "526440729510305793"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2056963586145263862",
+    "created_at": "2026-05-20T05:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056963586145263862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878331922",
+          "start": 3,
+          "username": "jianhuazi_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jMHudaSv77",
+          "end": 81,
+          "expanded_url": "https://x.com/jianhuazi_bot/status/526440729510305793/photo/1",
+          "media_key": "3_526440729187332096",
+          "start": 58,
+          "url": "https://t.co/jMHudaSv77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056963586145263862",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056935004312043615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianhuazi_bot: 【剧】「劇」の簡化字。偏を同音の「居」に換えた。「据（據）」に同じ。1J30 https://t.co/jMHudaSv77"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_526440729187332096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B05LDdKCMAAofMa.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_526440729187332096"
+          ],
+          "media_source_tweet_id": [
+            "526440729510305793"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2056963586145263862",
+        "created_at": "2026-05-20T05:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056963586145263862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878331922",
+              "start": 3,
+              "username": "jianhuazi_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMHudaSv77",
+              "end": 81,
+              "expanded_url": "https://x.com/jianhuazi_bot/status/526440729510305793/photo/1",
+              "media_key": "3_526440729187332096",
+              "start": 58,
+              "url": "https://t.co/jMHudaSv77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056963586145263862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056935004312043615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianhuazi_bot: 【剧】「劇」の簡化字。偏を同音の「居」に換えた。「据（據）」に同じ。1J30 https://t.co/jMHudaSv77"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_526440729187332096"
+          ],
+          "media_source_tweet_id": [
+            "526440729510305793"
+          ]
+        },
+        "author_id": "1878331922",
+        "conversation_id": "2056935004312043615",
+        "created_at": "2026-05-20T03:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T04:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056935004312043615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMHudaSv77",
+              "end": 62,
+              "expanded_url": "http://x.com/jianhuazi_bot/status/526440729510305793/photo/1",
+              "media_key": "3_526440729187332096",
+              "start": 39,
+              "url": "https://t.co/jMHudaSv77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056935004312043615",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 192,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【剧】「劇」の簡化字。偏を同音の「居」に換えた。「据（據）」に同じ。1J30 https://t.co/jMHudaSv77"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 682,
+          "like_count": 14568,
+          "listed_count": 5,
+          "media_count": 1377,
+          "tweet_count": 11531
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-18T06:33:46.000Z",
+        "description": "《简化字总表》の第一表と第二表に収録されている簡体字・繁体字と、その由来を定期的にツイートしています。あらゆるメッセージには返信しません。このbotに関して連絡すべきことがあれば@nkay166687に返信してください。\n\n二簡字bot（運用停止中）→@jianhuazi_bot2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "nkay166687"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "jianhuazi_bot2"
+              }
+            ]
+          }
+        },
+        "id": "1878331922",
+        "name": "簡化字bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000472663283/ffb58f059345dfa779cd2cc3fa6b98e2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10269,
+          "following_count": 7794,
+          "like_count": 0,
+          "listed_count": 236,
+          "media_count": 42908,
+          "tweet_count": 43283
+        },
+        "username": "jianhuazi_bot",
+        "verified": false
+      }
+    ]
+  }
+}

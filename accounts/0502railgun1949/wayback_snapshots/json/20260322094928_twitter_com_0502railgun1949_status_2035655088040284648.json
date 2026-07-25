@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2035606529148428761",
+    "created_at": "2026-03-22T09:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T10:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035655088040284648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1687566770763071489",
+          "start": 0,
+          "username": "Olebe179131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035655088040284648",
+    "in_reply_to_user_id": "1687566770763071489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035606529148428761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Olebe179131 在国家卫生健康委员会发布的《严重精神障碍管理治疗工作规范》中，主要包括6种精神障碍：精神分裂症、分裂情感性障碍、偏执性精神病、双相（情感）障碍、癫痫所致精神障碍、精神发育迟滞伴发精神障碍。\n这种一般被视为国内认为的六大精神病"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 312,
+        "media_key": "3_2035606514287992832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD_tVvKbYAA4aQj.jpg",
+        "width": 344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2035606529148428761",
+        "created_at": "2026-03-22T09:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035655088040284648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1687566770763071489",
+              "start": 0,
+              "username": "Olebe179131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035655088040284648",
+        "in_reply_to_user_id": "1687566770763071489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035606529148428761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Olebe179131 在国家卫生健康委员会发布的《严重精神障碍管理治疗工作规范》中，主要包括6种精神障碍：精神分裂症、分裂情感性障碍、偏执性精神病、双相（情感）障碍、癫痫所致精神障碍、精神发育迟滞伴发精神障碍。\n这种一般被视为国内认为的六大精神病"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035606514287992832"
+          ]
+        },
+        "author_id": "1687566770763071489",
+        "conversation_id": "2035606529148428761",
+        "created_at": "2026-03-22T06:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035606529148428761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0T8bybkrxj",
+              "end": 165,
+              "expanded_url": "https://x.com/Olebe179131/status/2035606529148428761/photo/1",
+              "media_key": "3_2035606514287992832",
+              "start": 142,
+              "url": "https://t.co/0T8bybkrxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035606529148428761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1290,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你知道吗？其实医学上“精神病”其实是指精神分裂症，而且幻觉和妄想是精分独有的症状，焦虑，抑郁，双相，ADHD，这些都叫做精神障碍。有同学要说了:不对呀，老师老师我虽然是抑郁或是双相但却有幻视，幻听的症状。那这种情况下你的抑郁或者双相就叫伴有“精神病\"症状的抑郁或者双相了。很神奇吧( https://t.co/0T8bybkrxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 632,
+          "like_count": 11274,
+          "listed_count": 3,
+          "media_count": 1254,
+          "tweet_count": 8884
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T20:51:01.000Z",
+        "description": "04医学生/od/精神不稳定已发疯胡言乱语/百合厨/二次元/清水推/已老实各位老公老婆主人求求了不要举报我喵！/玩很多二游:方舟(蒂厨)终末地(汤汤厨)重返未来1999(百合全磕，笔友组99)崩铁(阿那克萨戈拉斯单推，夏雅99)还玩蔚蓝档案和碧蓝航线\n欢迎互fo",
+        "id": "1687566770763071489",
+        "name": "多柔比星(已戒o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030533545626877952/XkC0-vBT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 434,
+          "like_count": 16703,
+          "listed_count": 0,
+          "media_count": 568,
+          "tweet_count": 1989
+        },
+        "username": "Olebe179131",
+        "verified": false
+      }
+    ]
+  }
+}

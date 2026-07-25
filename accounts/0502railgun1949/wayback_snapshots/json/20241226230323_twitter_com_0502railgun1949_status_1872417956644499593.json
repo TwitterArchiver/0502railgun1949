@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1872287901561864544",
+    "created_at": "2024-12-26T23:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-27T00:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872417956644499593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1592805077101596675",
+          "start": 0,
+          "username": "ATRIyatuoliQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872417956644499593",
+    "in_reply_to_user_id": "1592805077101596675",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872287901561864544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRIyatuoliQAQ 不要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1872287901561864544",
+        "created_at": "2024-12-26T23:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T00:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872417956644499593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1592805077101596675",
+              "start": 0,
+              "username": "ATRIyatuoliQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872417956644499593",
+        "in_reply_to_user_id": "1592805077101596675",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872287901561864544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRIyatuoliQAQ 不要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592805077101596675",
+        "conversation_id": "1872287901561864544",
+        "created_at": "2024-12-26T14:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T15:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872287901561864544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1872287901561864544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 448,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "要不要试试断药任由精神病自由发挥把我送走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 758,
+          "like_count": 6162,
+          "listed_count": 1,
+          "media_count": 795,
+          "tweet_count": 5024
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T09:01:49.000Z",
+        "description": "一里酱@bocchi520_ /九重色@porphyrin49/姐姐@Misaka0032 /可爱托派@kawaiitrotsky /爱丽丝@Alice14_88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "bocchi520_"
+              },
+              {
+                "end": 31,
+                "start": 19,
+                "username": "porphyrin49"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "Misaka0032"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "kawaiitrotsky"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Alice14_88"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "努力活到社会主义重建之时.cn",
+                "end": 23,
+                "expanded_url": "http://xn--tiq2ag93f36ilsaidv41j2los9qqf5awu5d.cn/",
+                "start": 0,
+                "url": "https://t.co/ygXFsTrxJI"
+              }
+            ]
+          }
+        },
+        "id": "1592805077101596675",
+        "location": "苏维埃共和国",
+        "name": "椿宫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870114984795222020/u8kmF94a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2034,
+          "following_count": 1785,
+          "like_count": 42199,
+          "listed_count": 12,
+          "media_count": 406,
+          "tweet_count": 9608
+        },
+        "url": "https://t.co/ygXFsTrxJI",
+        "username": "ATRIyatuoliQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1788186707629851040",
+    "created_at": "2024-05-08T12:38:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T13:38:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788186707629851040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596405792315691008",
+          "start": 3,
+          "username": "0502railgun1949"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788186707629851040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787803301440086059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0502railgun1949: 忠言逆耳啊，小诗一首，还凑合\n惜哉\n极夜念星斗\n万马齐喑哀，\n纣王比天公，\n比干空折腰。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1788186707629851040",
+        "created_at": "2024-05-08T12:38:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T13:38:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788186707629851040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596405792315691008",
+              "start": 3,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788186707629851040",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787803301440086059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0502railgun1949: 忠言逆耳啊，小诗一首，还凑合\n惜哉\n极夜念星斗\n万马齐喑哀，\n纣王比天公，\n比干空折腰。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1787803301440086059",
+        "created_at": "2024-05-07T11:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T12:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787803301440086059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1787803301440086059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "忠言逆耳啊，小诗一首，还凑合\n惜哉\n极夜念星斗\n万马齐喑哀，\n纣王比天公，\n比干空折腰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂16210号📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1766354717553393979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 726,
+          "like_count": 2469,
+          "listed_count": 1,
+          "tweet_count": 2723
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      }
+    ]
+  }
+}

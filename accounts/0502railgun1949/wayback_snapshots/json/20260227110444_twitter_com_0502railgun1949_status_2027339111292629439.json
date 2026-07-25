@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2027339111292629439",
+    "created_at": "2026-02-27T11:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027339111292629439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711022092291067904",
+          "start": 3,
+          "username": "so30653"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027339111292629439",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027264236523528566",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @so30653: 还是老一套思路，人文作为科技进步的辅助，好像有了AI再加点人文素养，哲学反思就天下无敌了，有没有种可能今天人文素养的普遍堕落就是以技术决定论为代表的现代性狂飙的结果，文科生永远被要求更好地配合理科生，永远被赋予一个修补科技无法解决的问题的责任，这样的文…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2027339111292629439",
+        "created_at": "2026-02-27T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027339111292629439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711022092291067904",
+              "start": 3,
+              "username": "so30653"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027339111292629439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027264236523528566",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @so30653: 还是老一套思路，人文作为科技进步的辅助，好像有了AI再加点人文素养，哲学反思就天下无敌了，有没有种可能今天人文素养的普遍堕落就是以技术决定论为代表的现代性狂飙的结果，文科生永远被要求更好地配合理科生，永远被赋予一个修补科技无法解决的问题的责任，这样的文…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711022092291067904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2027264236523528566",
+        "created_at": "2026-02-27T06:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T07:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027264236523528566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oxpsats/status…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/oxpsats/status/2027205642940027285",
+              "start": 135,
+              "url": "https://t.co/bHqoL0REVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027264236523528566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1016,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027205642940027285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还是老一套思路，人文作为科技进步的辅助，好像有了AI再加点人文素养，哲学反思就天下无敌了，有没有种可能今天人文素养的普遍堕落就是以技术决定论为代表的现代性狂飙的结果，文科生永远被要求更好地配合理科生，永远被赋予一个修补科技无法解决的问题的责任，这样的文科生当然废物了。 https://t.co/bHqoL0REVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 611,
+          "like_count": 10800,
+          "listed_count": 3,
+          "media_count": 1190,
+          "tweet_count": 8406
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T14:13:59.000Z",
+        "description": "Motto：With malice towards none,with charity for all, with firmness in the right 独立时评人，来自中国大陆的古典保守主义者，政治学研究者，#ReaganCaucus",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 108,
+                "tag": "ReaganCaucus"
+              }
+            ]
+          }
+        },
+        "id": "1711022092291067904",
+        "name": "Humphrey",
+        "pinned_tweet_id": "1977930408680714617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854565035907203074/bbelj-9u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 966,
+          "like_count": 25404,
+          "listed_count": 23,
+          "media_count": 306,
+          "tweet_count": 7975
+        },
+        "username": "so30653",
+        "verified": false
+      }
+    ]
+  }
+}

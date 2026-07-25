@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2051805486668996756",
+    "created_at": "2026-05-05T23:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T00:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051805486668996756"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ckyoa2/status/…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+          "start": 30,
+          "url": "https://t.co/Ylcm1RJjeA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051805486668996756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051439568524878147",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这段话每过一段时间对一个人发一遍\n每次都能有这么多like https://t.co/Ylcm1RJjeA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2051805486668996756",
+        "created_at": "2026-05-05T23:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T00:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051805486668996756"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ckyoa2/status/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/ckyoa2/status/2051439568524878147",
+              "start": 30,
+              "url": "https://t.co/Ylcm1RJjeA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051805486668996756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051439568524878147",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这段话每过一段时间对一个人发一遍\n每次都能有这么多like https://t.co/Ylcm1RJjeA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968368047988817923",
+        "conversation_id": "2051439568524878147",
+        "created_at": "2026-05-04T23:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051439568524878147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051439568524878147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 247692,
+          "like_count": 2094,
+          "quote_count": 43,
+          "reply_count": 565,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "我发现，从小到大处处听话守规矩的乖孩子，在性方面可能反而胆子更大、xp更变态，管得越严玩得越狠。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 684,
+          "like_count": 14105,
+          "listed_count": 5,
+          "media_count": 1363,
+          "tweet_count": 11127
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T17:34:58.000Z",
+        "description": "只是分享生活",
+        "id": "1968368047988817923",
+        "location": "🚪188",
+        "name": "ck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049487138509774849/xVB5Hbzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 4,
+          "like_count": 125,
+          "listed_count": 9,
+          "media_count": 27,
+          "tweet_count": 64
+        },
+        "username": "ckyoa2",
+        "verified": false
+      }
+    ]
+  }
+}

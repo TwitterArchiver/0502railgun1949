@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1873187082413457671",
+    "created_at": "2024-12-29T01:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-29T02:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873187082413457671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/hsn8086/status/1872926667624304773",
+          "start": 7,
+          "url": "https://t.co/cZ9gV9yaRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873187082413457671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872926667624304773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "文明六的土著 https://t.co/cZ9gV9yaRd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1873187082413457671",
+        "created_at": "2024-12-29T01:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T02:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873187082413457671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/hsn8086/status/1872926667624304773",
+              "start": 7,
+              "url": "https://t.co/cZ9gV9yaRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873187082413457671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872926667624304773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文明六的土著 https://t.co/cZ9gV9yaRd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872926650855505922"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1872926667624304773",
+        "created_at": "2024-12-28T08:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T09:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872926667624304773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e0rTV6nEFC",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1872926667624304773/photo/1",
+              "media_key": "3_1872926650855505922",
+              "start": 0,
+              "url": "https://t.co/e0rTV6nEFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872926667624304773",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 152258,
+          "like_count": 2305,
+          "quote_count": 3,
+          "reply_count": 14,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e0rTV6nEFC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 756,
+          "like_count": 6204,
+          "listed_count": 1,
+          "media_count": 799,
+          "tweet_count": 5048
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1869317700327199087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25547,
+          "following_count": 895,
+          "like_count": 36205,
+          "listed_count": 73,
+          "media_count": 4439,
+          "tweet_count": 9048
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

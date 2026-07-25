@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2035427091433636248",
+    "created_at": "2026-03-21T22:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T23:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035484204335878334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035484204335878334",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035427091433636248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 太难了,我之前做一些心理类的救助的时候，也有那种很无力的感觉，因为自己其实给他说说话也没什么帮助的，改变不了他的现实处境\n想到还有那么多人都在吃这茬苦，还没有人给他开导，没有人陪他说话，那真的很痛苦了\n我是真的很敬佩，因为我自己也努力的想成为这种人\n正是我们一退再退，社会才变成这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1655,
+        "media_key": "3_2035427083586027520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD9KJftawAAd-qa.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2035427091433636248",
+        "created_at": "2026-03-21T22:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T23:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035484204335878334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035484204335878334",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035427091433636248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 太难了,我之前做一些心理类的救助的时候，也有那种很无力的感觉，因为自己其实给他说说话也没什么帮助的，改变不了他的现实处境\n想到还有那么多人都在吃这茬苦，还没有人给他开导，没有人陪他说话，那真的很痛苦了\n我是真的很敬佩，因为我自己也努力的想成为这种人\n正是我们一退再退，社会才变成这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035427083586027520"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2035427091433636248",
+        "created_at": "2026-03-21T18:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T19:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035427091433636248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1g9nGjetc4",
+              "end": 117,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2035427091433636248/photo/1",
+              "media_key": "3_2035427083586027520",
+              "start": 94,
+              "url": "https://t.co/1g9nGjetc4"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2035423925057073538",
+              "start": 118,
+              "url": "https://t.co/3LwGRufgbD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035427091433636248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 681,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035423925057073538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "接下来，我将负责开展河南、陕西、重庆、河北、辽宁、黑龙江、吉林、安徽、云南、山西等模块省份的扭转类机构信息工作，全面统计机构名单实现扭转机构全国可视化，核查线下精准地址，确保信息真实可溯 https://t.co/1g9nGjetc4 https://t.co/3LwGRufgbD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 631,
+          "like_count": 11269,
+          "listed_count": 3,
+          "media_count": 1252,
+          "tweet_count": 8863
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033978135059062784/y7sj8Gmi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3886,
+          "following_count": 2223,
+          "like_count": 2140,
+          "listed_count": 13,
+          "media_count": 364,
+          "tweet_count": 2363
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038977623926452224"
+      ],
+      "media_source_tweet_id": [
+        "2038977643526447358"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2039620301143904437",
+    "created_at": "2026-04-02T08:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039620301143904437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1538678395223130113",
+          "start": 3,
+          "username": "tanye41742520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C43Yq7LZ3f",
+          "end": 139,
+          "expanded_url": "https://x.com/tanye41742520/status/2038977643526447358/photo/1",
+          "media_key": "3_2038977623926452224",
+          "start": 116,
+          "url": "https://t.co/C43Yq7LZ3f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039620301143904437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038977643526447358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanye41742520: 今天回了趟老家\n一个河南平顶山西部的小镇\n镇上人很少，商铺生意惨淡\n多了好几家殡葬寿衣店\n大学毕业的孩子们找不到工作\n都在家里窝着考公考研\n打开X，各种AI加速度颠覆世界\n我的时间线瞬间就乱了 https://t.co/C43Yq7LZ3f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2038977623926452224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEvnWJMbMAAwhVk.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038977623926452224"
+          ],
+          "media_source_tweet_id": [
+            "2038977643526447358"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2039620301143904437",
+        "created_at": "2026-04-02T08:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039620301143904437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1538678395223130113",
+              "start": 3,
+              "username": "tanye41742520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C43Yq7LZ3f",
+              "end": 139,
+              "expanded_url": "https://x.com/tanye41742520/status/2038977643526447358/photo/1",
+              "media_key": "3_2038977623926452224",
+              "start": 116,
+              "url": "https://t.co/C43Yq7LZ3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039620301143904437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038977643526447358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanye41742520: 今天回了趟老家\n一个河南平顶山西部的小镇\n镇上人很少，商铺生意惨淡\n多了好几家殡葬寿衣店\n大学毕业的孩子们找不到工作\n都在家里窝着考公考研\n打开X，各种AI加速度颠覆世界\n我的时间线瞬间就乱了 https://t.co/C43Yq7LZ3f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038977623926452224"
+          ]
+        },
+        "author_id": "1538678395223130113",
+        "conversation_id": "2038977643526447358",
+        "created_at": "2026-03-31T13:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038977643526447358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C43Yq7LZ3f",
+              "end": 120,
+              "expanded_url": "https://x.com/tanye41742520/status/2038977643526447358/photo/1",
+              "media_key": "3_2038977623926452224",
+              "start": 97,
+              "url": "https://t.co/C43Yq7LZ3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038977643526447358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 204,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天回了趟老家\n一个河南平顶山西部的小镇\n镇上人很少，商铺生意惨淡\n多了好几家殡葬寿衣店\n大学毕业的孩子们找不到工作\n都在家里窝着考公考研\n打开X，各种AI加速度颠覆世界\n我的时间线瞬间就乱了 https://t.co/C43Yq7LZ3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1213,
+          "following_count": 636,
+          "like_count": 11507,
+          "listed_count": 3,
+          "media_count": 1287,
+          "tweet_count": 9268
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-20T00:23:38.000Z",
+        "description": "🚀前财经记者  产业媒体Founder\n⚡ 获字节跳动、美团系投资\n🤖 写关注AI演化、商业哲学与街头智慧",
+        "id": "1538678395223130113",
+        "name": "谭野",
+        "pinned_tweet_id": "2034623639006654928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031383915513229312/Xv4Ihz30_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 1048,
+          "like_count": 330,
+          "listed_count": 3,
+          "media_count": 114,
+          "tweet_count": 1040
+        },
+        "username": "tanye41742520",
+        "verified": true
+      }
+    ]
+  }
+}

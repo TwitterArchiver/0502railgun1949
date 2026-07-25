@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1278055867347120128",
+          "name": "Duolingo"
+        }
+      }
+    ],
+    "conversation_id": "1890357937240989926",
+    "created_at": "2025-02-14T11:10:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T12:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890357937240989926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/duolingo/statu…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/duolingo/status/1889328809054224698",
+          "start": 31,
+          "url": "https://t.co/e52QRbTSjL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890357937240989926",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889328809054224698",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "多公千古\n别人说多公万岁\n多公说人民万岁\n世界人民大团结万岁 https://t.co/e52QRbTSjL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1890357937240989926",
+        "created_at": "2025-02-14T11:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T12:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890357937240989926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/duolingo/statu…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/duolingo/status/1889328809054224698",
+              "start": 31,
+              "url": "https://t.co/e52QRbTSjL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890357937240989926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889328809054224698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "多公千古\n别人说多公万岁\n多公说人民万岁\n世界人民大团结万岁 https://t.co/e52QRbTSjL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889323591415517185"
+          ]
+        },
+        "author_id": "107238136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1278055867347120128",
+              "name": "Duolingo"
+            }
+          }
+        ],
+        "conversation_id": "1889328809054224698",
+        "created_at": "2025-02-11T15:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889328809054224698"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Duolingo",
+              "probability": 0.4647,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jTTT680yVs",
+              "end": 58,
+              "expanded_url": "https://x.com/duolingo/status/1889328809054224698/photo/1",
+              "media_key": "3_1889323591415517185",
+              "start": 35,
+              "url": "https://t.co/jTTT680yVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889328809054224698",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48246,
+          "impression_count": 131631212,
+          "like_count": 752467,
+          "quote_count": 22809,
+          "reply_count": 12322,
+          "retweet_count": 58449
+        },
+        "reply_settings": "everyone",
+        "text": "an important message from Duolingo https://t.co/jTTT680yVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 751,
+          "like_count": 6617,
+          "listed_count": 1,
+          "media_count": 906,
+          "tweet_count": 5616
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-21T23:15:30.000Z",
+        "description": "Free education for the world. Available on Android, iOS, and the web.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "duolingo.com",
+                "end": 23,
+                "expanded_url": "https://www.duolingo.com/",
+                "start": 0,
+                "url": "https://t.co/ecOr0JyqFO"
+              }
+            ]
+          }
+        },
+        "id": "107238136",
+        "name": "Duolingo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889329848339886080/6xFPIuT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020807,
+          "following_count": 524,
+          "like_count": 25122,
+          "listed_count": 2687,
+          "media_count": 1886,
+          "tweet_count": 53565
+        },
+        "url": "https://t.co/ecOr0JyqFO",
+        "username": "duolingo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1854107915021693023",
+    "created_at": "2024-11-06T10:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T11:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1854107915021693023"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/hsn8086/status/1853965004380504090",
+          "start": 8,
+          "url": "https://t.co/NWMIQEvxXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854107915021693023",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853965004380504090",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是由ai合成的 https://t.co/NWMIQEvxXq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1854107915021693023",
+        "created_at": "2024-11-06T10:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T11:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854107915021693023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/hsn8086/status/1853965004380504090",
+              "start": 8,
+              "url": "https://t.co/NWMIQEvxXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854107915021693023",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853965004380504090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是由ai合成的 https://t.co/NWMIQEvxXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853964997665476609"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1853965004380504090",
+        "created_at": "2024-11-06T00:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T01:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853965004380504090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaCI0Gv9eL",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/1853965004380504090/photo/1",
+              "media_key": "3_1853964997665476609",
+              "start": 0,
+              "url": "https://t.co/UaCI0Gv9eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853965004380504090",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 74029,
+          "like_count": 547,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/UaCI0Gv9eL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 761,
+          "like_count": 5462,
+          "listed_count": 1,
+          "tweet_count": 4411
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 内: @hsn8086k | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "hsn8086k"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1846240135534596297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11207,
+          "following_count": 888,
+          "like_count": 36057,
+          "listed_count": 34,
+          "tweet_count": 6999
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

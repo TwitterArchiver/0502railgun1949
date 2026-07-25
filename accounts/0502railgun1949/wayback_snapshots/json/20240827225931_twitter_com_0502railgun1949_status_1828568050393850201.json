@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1828568050393850201",
+    "created_at": "2024-08-27T22:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T23:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828568050393850201"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Null8964Null/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/Null8964Null/status/1828215556467761462",
+          "start": 58,
+          "url": "https://t.co/o1f5dNZrnQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828568050393850201",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828215556467761462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宪法跟未成年人保护法，我在差不多8岁的时候就翻完了，义务教育法之类的，我是六年级翻完的，直接给我英语老师举报了好吧 https://t.co/o1f5dNZrnQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1828568050393850201",
+        "created_at": "2024-08-27T22:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T23:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828568050393850201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Null8964Null/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/Null8964Null/status/1828215556467761462",
+              "start": 58,
+              "url": "https://t.co/o1f5dNZrnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828568050393850201",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828215556467761462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宪法跟未成年人保护法，我在差不多8岁的时候就翻完了，义务教育法之类的，我是六年级翻完的，直接给我英语老师举报了好吧 https://t.co/o1f5dNZrnQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639901078941757440",
+        "conversation_id": "1828215556467761462",
+        "created_at": "2024-08-26T23:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T00:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828215556467761462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828215556467761462",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 269,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天去买书，看到一个十岁左右的孩子买了本宪法和未成年人保护法，不知大家如何评价（）\n感觉莫名有些心酸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 893,
+          "following_count": 766,
+          "like_count": 4559,
+          "listed_count": 2,
+          "tweet_count": 3944
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T08:04:33.000Z",
+        "description": "小号@about89blank64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "about89blank64"
+              }
+            ]
+          }
+        },
+        "id": "1639901078941757440",
+        "location": "Minato-ku, Tokyo",
+        "name": "＜null＞",
+        "pinned_tweet_id": "1826895132538327158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823179828033732608/RpeM11F8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 150,
+          "like_count": 1125,
+          "listed_count": 0,
+          "tweet_count": 131
+        },
+        "username": "Null8964Null",
+        "verified": false
+      }
+    ]
+  }
+}

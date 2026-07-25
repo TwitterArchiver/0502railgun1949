@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1866373855075615050",
+    "created_at": "2024-12-10T11:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T12:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866443436322390245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486309706440196096",
+          "start": 0,
+          "username": "CobaltApki"
+        },
+        {
+          "end": 25,
+          "id": "1715269179563991040",
+          "start": 12,
+          "username": "huhanliu1368"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866443436322390245",
+    "in_reply_to_user_id": "1486309706440196096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866435034183594096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CobaltApki @huhanliu1368 反正休息好了才是好，身体最重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1866373855075615050",
+        "created_at": "2024-12-10T11:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T12:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866443436322390245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486309706440196096",
+              "start": 0,
+              "username": "CobaltApki"
+            },
+            {
+              "end": 25,
+              "id": "1715269179563991040",
+              "start": 12,
+              "username": "huhanliu1368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866443436322390245",
+        "in_reply_to_user_id": "1486309706440196096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866435034183594096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CobaltApki @huhanliu1368 反正休息好了才是好，身体最重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486309706440196096",
+        "conversation_id": "1866373855075615050",
+        "created_at": "2024-12-10T10:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T11:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866435034183594096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1715269179563991040",
+              "start": 0,
+              "username": "huhanliu1368"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866435034183594096",
+        "in_reply_to_user_id": "1715269179563991040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866416155126292712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huhanliu1368 谢谢你呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 756,
+          "like_count": 6100,
+          "listed_count": 1,
+          "media_count": 767,
+          "tweet_count": 4867
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T12:07:19.000Z",
+        "description": "衡中系高三在读学畜/网络依赖症/Steam/自我攻略\n\n人丑家穷，肾不好，不约炮，没有鱼塘，并非南娘或难痛，陌生人请不要给我发裸照和🐔🎱，玉玉蒸别找我，别指望我能安慰谁，长期在校上网时间少，复活CD长请见谅\n有事邮件联系Cobalt_apki@foxmail.com",
+        "id": "1486309706440196096",
+        "location": "河北衡水",
+        "name": "杌原Apki(Away)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864788247291088896/eIqD-LcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 134,
+          "like_count": 1505,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 298
+        },
+        "username": "CobaltApki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T07:30:34.000Z",
+        "description": "不涉政，文史哲爱好者\n我就是个看二次元动漫打游戏的\n我即是我。\n日本語を勉強中です\n한국어 공부 해요.\n\nFury enthusiasts",
+        "id": "1715269179563991040",
+        "location": "万华镜",
+        "name": "koさん",
+        "pinned_tweet_id": "1813953182747521318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744552667660365824/0FhQ_X0O_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 1053,
+          "like_count": 8337,
+          "listed_count": 1,
+          "media_count": 683,
+          "tweet_count": 5630
+        },
+        "username": "huhanliu1368",
+        "verified": false
+      }
+    ]
+  }
+}

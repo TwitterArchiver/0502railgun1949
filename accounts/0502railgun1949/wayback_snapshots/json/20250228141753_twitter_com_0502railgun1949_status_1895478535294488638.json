@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895251040313741313"
+      ],
+      "media_source_tweet_id": [
+        "1895251047406522451"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1895478535294488638",
+    "created_at": "2025-02-28T14:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T15:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895478535294488638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1696093120255930368",
+          "start": 3,
+          "username": "the_gpc_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tD1RtKy0Zo",
+          "end": 48,
+          "expanded_url": "https://x.com/the_gpc_/status/1895251047406522451/photo/1",
+          "media_key": "3_1895251040313741313",
+          "start": 25,
+          "url": "https://t.co/tD1RtKy0Zo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895478535294488638",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 295
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895251047406522451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @the_gpc_: Symmetry 📸 https://t.co/tD1RtKy0Zo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_1895251040313741313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk1Ix5oXEAEjr1k.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895251040313741313"
+          ],
+          "media_source_tweet_id": [
+            "1895251047406522451"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1895478535294488638",
+        "created_at": "2025-02-28T14:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T15:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895478535294488638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1696093120255930368",
+              "start": 3,
+              "username": "the_gpc_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD1RtKy0Zo",
+              "end": 48,
+              "expanded_url": "https://x.com/the_gpc_/status/1895251047406522451/photo/1",
+              "media_key": "3_1895251040313741313",
+              "start": 25,
+              "url": "https://t.co/tD1RtKy0Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895478535294488638",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 295
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895251047406522451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @the_gpc_: Symmetry 📸 https://t.co/tD1RtKy0Zo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895251040313741313"
+          ]
+        },
+        "author_id": "1696093120255930368",
+        "conversation_id": "1895251047406522451",
+        "created_at": "2025-02-27T23:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T00:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895251047406522451"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tD1RtKy0Zo",
+              "end": 34,
+              "expanded_url": "https://x.com/the_gpc_/status/1895251047406522451/photo/1",
+              "media_key": "3_1895251040313741313",
+              "start": 11,
+              "url": "https://t.co/tD1RtKy0Zo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895251047406522451",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 54870,
+          "like_count": 3114,
+          "quote_count": 7,
+          "reply_count": 32,
+          "retweet_count": 295
+        },
+        "reply_settings": "everyone",
+        "text": "Symmetry 📸 https://t.co/tD1RtKy0Zo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/14years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n  @wenqing18973238   姐姐\n要做一辈子学生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 746,
+          "like_count": 6843,
+          "listed_count": 1,
+          "media_count": 941,
+          "tweet_count": 5826
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T09:31:38.000Z",
+        "description": "Publishing the world’s best photographs 📸🔥 (and also random stuff from time to time) | Subscribe to the Free Magazine For Photographers (link) ⬇️⬇️⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theglobalphotographycommunity.com/free-magazine",
+                "end": 23,
+                "expanded_url": "https://www.theglobalphotographycommunity.com/free-magazine",
+                "start": 0,
+                "url": "https://t.co/UbXGsDS5JX"
+              }
+            ]
+          }
+        },
+        "id": "1696093120255930368",
+        "location": "Worldwide",
+        "name": "theglobalphotocommunity",
+        "pinned_tweet_id": "1721513218969903549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696093280952360960/sEbhh_X7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15511,
+          "following_count": 3199,
+          "like_count": 15926,
+          "listed_count": 156,
+          "media_count": 974,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/UbXGsDS5JX",
+        "username": "the_gpc_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "1823066861741002771",
+    "created_at": "2024-08-14T19:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-14T20:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823801224061407612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1413497165859594246",
+          "start": 0,
+          "username": "KazeKumoKusa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823801224061407612",
+    "in_reply_to_user_id": "1413497165859594246",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823066861741002771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KazeKumoKusa 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "1823066861741002771",
+        "created_at": "2024-08-14T19:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-14T20:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823801224061407612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1413497165859594246",
+              "start": 0,
+              "username": "KazeKumoKusa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823801224061407612",
+        "in_reply_to_user_id": "1413497165859594246",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823066861741002771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KazeKumoKusa 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1413497165859594246",
+        "conversation_id": "1823066861741002771",
+        "created_at": "2024-08-12T18:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T19:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823066861741002771"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823066861741002771",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "happy birthday to me！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/13years old/友跨/mtx/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n想上qs前100的學校（日本或法国）",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 🏳️‍⚧️(开学淡推)（雪似梅花）",
+        "pinned_tweet_id": "1793871856950526249",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 760,
+          "like_count": 3898,
+          "listed_count": 2,
+          "tweet_count": 3615
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-09T13:56:25.000Z",
+        "description": "INTP 😁😁😁😁  中国語日本語英語韓国語ロシア語OK👌🏻 バンドやりたい！！！！！",
+        "id": "1413497165859594246",
+        "location": "唄と遠方",
+        "name": "僕だけが僕を作るんだ",
+        "pinned_tweet_id": "1787934948172939494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622545757189574657/BMjNnNWP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 434,
+          "like_count": 3097,
+          "listed_count": 3,
+          "tweet_count": 399
+        },
+        "username": "KazeKumoKusa",
+        "verified": false
+      }
+    ]
+  }
+}

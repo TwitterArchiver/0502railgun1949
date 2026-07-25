@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-25T11:55:48",
+  "last_updated": "2026-07-25T11:56:56",
   "html": {
     "https://web.archive.org/web/20240507142626if_/https://twitter.com/0502railgun1949/status/1787851489249280128": {
       "status": "done",
@@ -62969,9 +62969,9 @@
       "referenced_by": [
         "20250703124030_twitter_com_0502railgun1949_status_1940752511511810431.json"
       ],
-      "last_updated": "2026-07-25T07:33:13",
+      "last_updated": "2026-07-25T11:56:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250703124030/https://video.twimg.com/amplify_video/1940050533865164800/vid/avc1/720x1280/QLGbWFqIA6Oq4CR7.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/1940768498919301120/vid/avc1/720x802/4K3WOvbk0c_ZQpcs.mp4": {
       "status": "done",
@@ -62985,9 +62985,9 @@
       "referenced_by": [
         "20250705141443_twitter_com_0502railgun1949_status_1941500997559517202.json"
       ],
-      "last_updated": "2026-07-25T09:59:38",
+      "last_updated": "2026-07-25T11:56:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20250705141443/https://video.twimg.com/amplify_video/1941485689755009029/vid/avc1/720x1280/a7VLQ3v6Lg_CWHfZ.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/1941345403036684288/vid/avc1/720x1280/o5WhdWhwoggwDCHT.mp4": {
       "status": "done",
@@ -63106,9 +63106,9 @@
       "referenced_by": [
         "20260210165938_twitter_com_0502railgun1949_status_2021267827630477614.json"
       ],
-      "last_updated": "2026-07-25T09:59:39",
+      "last_updated": "2026-07-25T11:56:48",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260210165938/https://video.twimg.com/amplify_video/2021206109584044033/vid/avc1/960x720/7W6xPCkeOe352Q4I.mp4",
-      "miss_count": 2
+      "miss_count": 3
     },
     "https://video.twimg.com/amplify_video/2025082099556864000/vid/avc1/720x720/TMpA-xRC3MfRAzn7.mp4?tag=14": {
       "status": "done",
@@ -63231,13 +63231,13 @@
       "last_updated": "2026-07-25T07:33:15"
     },
     "https://video.twimg.com/ext_tw_video/2032244362240016386/pu/vid/avc1/1280x720/76m-WPW8QxxNjiNH.mp4?tag=12": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260402174942_twitter_com_0502railgun1949_status_2039762208234557934.json"
       ],
-      "last_updated": "2026-07-25T07:33:16",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260402174942/https://video.twimg.com/ext_tw_video/2032244362240016386/pu/vid/avc1/1280x720/76m-WPW8QxxNjiNH.mp4?tag=12",
-      "miss_count": 1
+      "last_updated": "2026-07-25T11:56:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260402174942im_/https://video.twimg.com/ext_tw_video/2032244362240016386/pu/vid/avc1/1280x720/76m-WPW8QxxNjiNH.mp4?tag=12 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8887679bb0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 2
     },
     "https://video.twimg.com/amplify_video/2039985682106753025/vid/avc1/608x1080/H1t6vi77p19RlukV.mp4": {
       "status": "done",
@@ -63535,13 +63535,13 @@
       "last_updated": "2026-07-25T07:33:17"
     },
     "https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/1080x1920/byaEOWeztQUlcRQ-.mp4": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260520070136_twitter_com_0502railgun1949_status_2056993726313173350.json"
       ],
-      "last_updated": "2026-07-25T09:59:38",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260520070136/https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/1080x1920/byaEOWeztQUlcRQ-.mp4",
-      "miss_count": 2
+      "last_updated": "2026-07-25T11:56:56",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260520070136im_/https://video.twimg.com/amplify_video/2056951911342018560/vid/avc1/1080x1920/byaEOWeztQUlcRQ-.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f8887ae3bc0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
+      "miss_count": 3
     },
     "https://video.twimg.com/tweet_video/HJGoczJakAAL8lO.mp4": {
       "status": "done",
@@ -180199,7 +180199,7 @@
       "last_updated": "2026-07-25T07:39:04"
     },
     "20260402174942_twitter_com_0502railgun1949_status_2039762208234557934.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -180210,7 +180210,7 @@
           "https://pbs.twimg.com/profile_images/1822689100681678848/6v0P8vXn_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-25T07:39:04"
+      "last_updated": "2026-07-25T11:56:52"
     },
     "20260402174959_twitter_com_0502railgun1949_status_2039762279348990361.json": {
       "status": "done",
@@ -206079,7 +206079,7 @@
       "last_updated": "2026-07-25T07:38:42"
     },
     "20260520070136_twitter_com_0502railgun1949_status_2056993726313173350.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [
@@ -206090,7 +206090,7 @@
           "https://pbs.twimg.com/profile_images/2052386249051422721/32J8Hjfa_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-25T09:59:39",
+      "last_updated": "2026-07-25T11:56:56",
       "miss_count": 1
     },
     "20260520072817_twitter_com_0502railgun1949_status_2057000444858372153.json": {

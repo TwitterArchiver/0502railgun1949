@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2083435098708582699",
+    "created_at": "2026-08-01T06:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083435098708582699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083435098708582699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082702385013793094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 倘若你就总在教对方如何爱你，那只能说明他从未想过爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2083435098708582699",
+        "created_at": "2026-08-01T06:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083435098708582699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083435098708582699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082702385013793094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 倘若你就总在教对方如何爱你，那只能说明他从未想过爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2082702385013793094",
+        "created_at": "2026-07-30T05:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082702385013793094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082702385013793094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11603,
+          "like_count": 139,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "倘若你就总在教对方如何爱你，那只能说明他从未想过爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 684,
+          "like_count": 15990,
+          "listed_count": 7,
+          "media_count": 1407,
+          "tweet_count": 12503
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(废话大王 感谢喜欢 希望你每一天都快乐😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2083021258204279037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42599,
+          "following_count": 2901,
+          "like_count": 40828,
+          "listed_count": 130,
+          "media_count": 1674,
+          "tweet_count": 2998
+        },
+        "url": "",
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

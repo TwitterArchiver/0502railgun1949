@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2094074066647036273",
+    "created_at": "2026-08-30T15:01:32.000Z",
+    "display_text_range": [
+      9,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T16:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094078069841764845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2088186677177290753",
+          "start": 0,
+          "username": "NeuxIce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094078069841764845",
+    "in_reply_to_user_id": "2088186677177290753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094074066647036273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuxIce 我是觉得你是很有意思的人\n很可爱的啊\n我在学校也是这样呢。。\n格格不入的人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3191,
+        "media_key": "3_2094074052071841792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-lQWca4AA0PvU.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2094074066647036273",
+        "created_at": "2026-08-30T15:01:32.000Z",
+        "display_text_range": [
+          9,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094078069841764845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2088186677177290753",
+              "start": 0,
+              "username": "NeuxIce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094078069841764845",
+        "in_reply_to_user_id": "2088186677177290753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094074066647036273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuxIce 我是觉得你是很有意思的人\n很可爱的啊\n我在学校也是这样呢。。\n格格不入的人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094074052071841792"
+          ]
+        },
+        "author_id": "2088186677177290753",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2094074066647036273",
+        "created_at": "2026-08-30T14:45:38.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094074066647036273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4Fa9sHtz3A",
+              "end": 79,
+              "expanded_url": "https://x.com/NeuxIce/status/2094074066647036273/photo/1",
+              "media_key": "3_2094074052071841792",
+              "start": 56,
+              "url": "https://t.co/4Fa9sHtz3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094074066647036273",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094074052071841792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有啊....就我家那个破地方的高中.....\n一堆人下课了就只会.....\n快手抖音王者荣耀.....什么的 https://t.co/4Fa9sHtz3A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2094078069841764845",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 685,
+          "like_count": 16573,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12854
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T08:56:07.000Z",
+        "description": "里推....我会用来发大量的负能内容.....打扰到你了那就非常抱歉....\n可以关注@NeInflux....\n一般会回Fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NeInflux"
+              }
+            ]
+          }
+        },
+        "id": "2088186677177290753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094074066647036273",
+        "name": "NEUX",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088188288192634880/5ITZRtvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 117,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "NeuxIce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

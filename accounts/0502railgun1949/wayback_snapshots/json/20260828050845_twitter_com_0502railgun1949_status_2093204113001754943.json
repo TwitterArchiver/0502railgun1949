@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974597302226944",
+          "name": "Transportation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206695792582414336",
+          "name": "Railway transport"
+        }
+      }
+    ],
+    "conversation_id": "2093204113001754943",
+    "created_at": "2026-08-28T05:08:45.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093204113001754943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "18134068",
+          "start": 3,
+          "username": "winter_fuchs"
+        }
+      ],
+      "urls": [
+        {
+          "description": "中国がネパールを支援する「中国ネパール越境鉄道」技術援助専門家チームが２７日、ネパールの首都カトマンズに到着した。ネパール鉄道省の幹部は、これにより同鉄道（ネパール区間）プロジェクトの実行可能性調査（フィージビリティー・スタディー）は新たな一歩を踏み出したとの認識を示した。",
+          "display_url": "jp.news.cn/20221229/aa849…",
+          "end": 54,
+          "expanded_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+          "images": [
+            {
+              "height": 682,
+              "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=orig",
+              "width": 1023
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 31,
+          "status": 200,
+          "title": "「中国ネパール越境鉄道」の実地調査開始、中国の専門家がカトマンズ到着",
+          "unwound_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+          "url": "https://t.co/EeRzt5qZ8D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093204113001754943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093162883307929792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @winter_fuchs: 吉隆口岸経由での鉄道計画“https://t.co/EeRzt5qZ8D”に関する記事。\n2022年のものではあるが、中国側は“地形や地質条件が極めて複雑なため、建設工事は世界でも屈指の難しさだと指摘。”と矢張り認識。\nインド亜大陸がめり込む…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          }
+        ],
+        "conversation_id": "2093204113001754943",
+        "created_at": "2026-08-28T05:08:45.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093204113001754943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "18134068",
+              "start": 3,
+              "username": "winter_fuchs"
+            }
+          ],
+          "urls": [
+            {
+              "description": "中国がネパールを支援する「中国ネパール越境鉄道」技術援助専門家チームが２７日、ネパールの首都カトマンズに到着した。ネパール鉄道省の幹部は、これにより同鉄道（ネパール区間）プロジェクトの実行可能性調査（フィージビリティー・スタディー）は新たな一歩を踏み出したとの認識を示した。",
+              "display_url": "jp.news.cn/20221229/aa849…",
+              "end": 54,
+              "expanded_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+              "images": [
+                {
+                  "height": 682,
+                  "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=orig",
+                  "width": 1023
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "「中国ネパール越境鉄道」の実地調査開始、中国の専門家がカトマンズ到着",
+              "unwound_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+              "url": "https://t.co/EeRzt5qZ8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093204113001754943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093162883307929792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @winter_fuchs: 吉隆口岸経由での鉄道計画“https://t.co/EeRzt5qZ8D”に関する記事。\n2022年のものではあるが、中国側は“地形や地質条件が極めて複雑なため、建設工事は世界でも屈指の難しさだと指摘。”と矢張り認識。\nインド亜大陸がめり込む…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18134068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206695792582414336",
+              "name": "Railway transport"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "id": "1332265012266631169",
+              "name": "Tsunamis"
+            }
+          }
+        ],
+        "conversation_id": "2093059304081563804",
+        "created_at": "2026-08-28T02:24:55.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093162883307929792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国がネパールを支援する「中国ネパール越境鉄道」技術援助専門家チームが２７日、ネパールの首都カトマンズに到着した。ネパール鉄道省の幹部は、これにより同鉄道（ネパール区間）プロジェクトの実行可能性調査（フィージビリティー・スタディー）は新たな一歩を踏み出したとの認識を示した。",
+              "display_url": "jp.news.cn/20221229/aa849…",
+              "end": 36,
+              "expanded_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+              "images": [
+                {
+                  "height": 682,
+                  "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=orig",
+                  "width": 1023
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2093162905449738240/ZkmDwDD3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "「中国ネパール越境鉄道」の実地調査開始、中国の専門家がカトマンズ到着",
+              "unwound_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+              "url": "https://t.co/EeRzt5qZ8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093162883307929792",
+        "in_reply_to_user_id": "18134068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "jp.news.cn/20221229/aa849…",
+                "end": 36,
+                "expanded_url": "https://jp.news.cn/20221229/aa8490e7f2c342ba9564f65281147fb6/c.html",
+                "start": 13,
+                "url": "https://t.co/zGUbt0i2g3"
+              }
+            ]
+          },
+          "text": "吉隆口岸経由での鉄道計画“https://t.co/zGUbt0i2g3”に関する記事。\n2022年のものではあるが、中国側は“地形や地質条件が極めて複雑なため、建設工事は世界でも屈指の難しさだと指摘。”と矢張り認識。\nインド亜大陸がめり込む造山活動の盛んな地域も、今回の山津波の一因ではあれさてどうなるやら。\n2015年の地震で被害を受けた別の口岸をも代替する3本目の軸として敢えて敷設する策もありそうではあるが、さて"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6776,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093160058096070712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吉隆口岸経由での鉄道計画“https://t.co/EeRzt5qZ8D”に関する記事。\n2022年のものではあるが、中国側は“地形や地質条件が極めて複雑なため、建設工事は世界でも屈指の難しさだと指摘。”と矢張り認識。\nインド亜大陸がめり込む造山活動の盛んな地域も、今回の山津波の一因ではあれさてどうなるやら。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2093204113001754943",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 679,
+          "like_count": 16419,
+          "listed_count": 9,
+          "media_count": 1415,
+          "tweet_count": 12766
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-12-15T09:47:01.000Z",
+        "description": "ロップ3羽・ミニウサギ5羽・ミニレッキス1羽の兎達にラット3匹、マウス・シマリス・チンチラ各1匹と生活を共にするヒトに化けてる白狐。\nRT多めに付、兎や鼠達、交通、神社等の旅行関係の写真はメディア欄よりどうぞ。\n獣TF小説サイト「冬風書館」管理人(冬風 狐)、TFネタ話等も歓迎。秋姉妹と椛は良いぞ、と添えて",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyukaze.sakura.ne.jp/index.html",
+                "end": 23,
+                "expanded_url": "http://fuyukaze.sakura.ne.jp/index.html",
+                "start": 0,
+                "url": "https://t.co/9v8maoWNXr"
+              }
+            ]
+          }
+        },
+        "id": "18134068",
+        "is_identity_verified": false,
+        "location": "South Kanto region,Japan",
+        "most_recent_tweet_id": "2093204117858787369",
+        "name": "とうふう@ウサギヤシキのイナリ",
+        "pinned_tweet_id": "1626588935806926848",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18134068/1476194862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1093144078684844033/nTBsjKBX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2988,
+          "following_count": 3500,
+          "like_count": 442592,
+          "listed_count": 10,
+          "media_count": 55894,
+          "tweet_count": 945652
+        },
+        "url": "https://t.co/9v8maoWNXr",
+        "username": "winter_fuchs",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

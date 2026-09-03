@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2090428413412876772",
+    "created_at": "2026-08-20T14:31:38.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090446664192401413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039745126235344896",
+          "start": 0,
+          "username": "FD8527419639030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090446664192401413",
+    "in_reply_to_user_id": "2039745126235344896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090446503852597750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FD8527419639030 很可悲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2090428413412876772",
+        "created_at": "2026-08-20T14:31:38.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090446664192401413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039745126235344896",
+              "start": 0,
+              "username": "FD8527419639030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090446664192401413",
+        "in_reply_to_user_id": "2039745126235344896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090446503852597750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FD8527419639030 很可悲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039745126235344896",
+        "conversation_id": "2090428413412876772",
+        "created_at": "2026-08-20T14:30:59.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090446503852597750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1596405792315691008",
+              "start": 0,
+              "username": "0502railgun1949"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090446503852597750",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090428413412876772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0502railgun1949 羡慕，过去没有手机"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2090446664192401413",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 677,
+          "like_count": 16255,
+          "listed_count": 7,
+          "media_count": 1414,
+          "tweet_count": 12595
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-02T16:42:03.000Z",
+        "description": "理性与疯狂共存，却又胆小怯懦，整天思考大问题又什么都做不好。",
+        "id": "2039745126235344896",
+        "is_identity_verified": false,
+        "location": "广州",
+        "most_recent_tweet_id": "2090446503852597750",
+        "name": "FD",
+        "pinned_tweet_id": "2083376089741594625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039745126235344896/1775211323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040010108764352512/G_oTWHWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 81,
+          "like_count": 10459,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 439
+        },
+        "url": "",
+        "username": "FD8527419639030",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

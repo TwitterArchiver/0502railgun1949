@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2091918876653294059",
+    "created_at": "2026-08-25T07:31:10.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092152792018264341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "Ayano_Nya_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092152792018264341",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091918876653294059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayano_Nya_ 建议硬卧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2091918876653294059",
+        "created_at": "2026-08-25T07:31:10.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092152792018264341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "Ayano_Nya_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092152792018264341",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091918876653294059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayano_Nya_ 建议硬卧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693935285577670656",
+        "conversation_id": "2091918876653294059",
+        "created_at": "2026-08-24T16:01:40.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T17:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091918876653294059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091918876653294059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 419,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的交通费真的贵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2092152792018264341",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 681,
+          "like_count": 16361,
+          "listed_count": 9,
+          "media_count": 1415,
+          "tweet_count": 12715
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️| 2010.5 | 跨圈老资历😇 | 欢迎互fo! | 粘人 | xp是如月桃枝😋 | 全世界最可爱之人&唯一最爱最喜欢的姐姐老婆大人♥️@Kisaragi_Momoe | 负能里推@Yumo_1314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "Kisaragi_Momoe"
+              },
+              {
+                "end": 107,
+                "start": 97,
+                "username": "Yumo_1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyac.cl",
+                "end": 23,
+                "expanded_url": "http://nyac.cl",
+                "start": 0,
+                "url": "https://t.co/1HZl5YyzgB"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "is_identity_verified": false,
+        "location": "姐姐腿上",
+        "most_recent_tweet_id": "2092080239258259627",
+        "name": "想去参宿四的绫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1693935285577670656/1785082481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085817931502698496/I8EWzB1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 2430,
+          "like_count": 8868,
+          "listed_count": 7,
+          "media_count": 799,
+          "tweet_count": 9075
+        },
+        "url": "https://t.co/1HZl5YyzgB",
+        "username": "Ayano_Nya_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

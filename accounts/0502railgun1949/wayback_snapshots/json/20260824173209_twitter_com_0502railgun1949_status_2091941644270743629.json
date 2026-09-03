@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2091888869155422485",
+    "created_at": "2026-08-24T17:32:09.000Z",
+    "display_text_range": [
+      14,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091941644270743629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850226109364969472",
+          "start": 0,
+          "username": "WINGLET12223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091941644270743629",
+    "in_reply_to_user_id": "1850226109364969472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091888869155422485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WINGLET12223 真的是可以理解\n地震台网的准确些的自动测定都需要时间啊。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091888856438292480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfh1OWaQAAMnTv.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2091888869155422485",
+        "created_at": "2026-08-24T17:32:09.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091941644270743629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850226109364969472",
+              "start": 0,
+              "username": "WINGLET12223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091941644270743629",
+        "in_reply_to_user_id": "1850226109364969472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091888869155422485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WINGLET12223 真的是可以理解\n地震台网的准确些的自动测定都需要时间啊。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091888856438292480"
+          ]
+        },
+        "author_id": "1850226109364969472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2091888869155422485",
+        "created_at": "2026-08-24T14:02:26.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091888869155422485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ojxpa1vwx0",
+              "end": 83,
+              "expanded_url": "https://x.com/WINGLET12223/status/2091888869155422485/photo/1",
+              "media_key": "3_2091888856438292480",
+              "start": 60,
+              "url": "https://t.co/Ojxpa1vwx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091888869155422485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091888856438292480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2588,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "学地理做地理最后就是这个结果是吗，工作人员一定要饿死才能叫公益项目吗\n“但是，成都高新减灾所18年来过的很艰难很艰难” https://t.co/Ojxpa1vwx0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2091941644270743629",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 681,
+          "like_count": 16382,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 12697
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-26T17:21:18.000Z",
+        "description": "飞友丨野鸡狗卡&挖掘机EP丨宝安&赤鱲角丨航空轨交&日常互动丨只是我回首来时路的每一步",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/winglet12223",
+                "end": 23,
+                "expanded_url": "https://ngl.link/winglet12223",
+                "start": 0,
+                "url": "https://t.co/c3mBw418uN"
+              }
+            ]
+          }
+        },
+        "id": "1850226109364969472",
+        "is_identity_verified": false,
+        "location": "SORRY全场的SZX",
+        "most_recent_tweet_id": "2091888869155422485",
+        "name": "9441AC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1850226109364969472/1730224737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851586663811862529/fihY7TTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 359,
+          "like_count": 12774,
+          "listed_count": 4,
+          "media_count": 367,
+          "tweet_count": 4260
+        },
+        "url": "https://t.co/c3mBw418uN",
+        "username": "WINGLET12223",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979579977256316928"
+      ],
+      "media_source_tweet_id": [
+        "1979579985796174039"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "1979771008560353733",
+    "created_at": "2025-10-19T04:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T05:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979771008560353733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1403881130802225152",
+          "start": 3,
+          "username": "BTCdayu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MVO5iZaLpx",
+          "end": 100,
+          "expanded_url": "https://x.com/BTCdayu/status/1979579985796174039/photo/1",
+          "media_key": "3_1979579977256316928",
+          "start": 77,
+          "url": "https://t.co/MVO5iZaLpx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979771008560353733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979579985796174039",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BTCdayu: “真正的进步不是你记住了多少知识，而是你直觉发生的变化。”\n                            ——杨振宁 https://t.co/MVO5iZaLpx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 953,
+        "media_key": "3_1979579977256316928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3jhgETWsAA7Kzd.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979579977256316928"
+          ],
+          "media_source_tweet_id": [
+            "1979579985796174039"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "1979771008560353733",
+        "created_at": "2025-10-19T04:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T05:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979771008560353733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1403881130802225152",
+              "start": 3,
+              "username": "BTCdayu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVO5iZaLpx",
+              "end": 100,
+              "expanded_url": "https://x.com/BTCdayu/status/1979579985796174039/photo/1",
+              "media_key": "3_1979579977256316928",
+              "start": 77,
+              "url": "https://t.co/MVO5iZaLpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979771008560353733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979579985796174039",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BTCdayu: “真正的进步不是你记住了多少知识，而是你直觉发生的变化。”\n                            ——杨振宁 https://t.co/MVO5iZaLpx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979579977256316928"
+          ]
+        },
+        "author_id": "1403881130802225152",
+        "conversation_id": "1979579985796174039",
+        "created_at": "2025-10-18T16:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T17:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979579985796174039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MVO5iZaLpx",
+              "end": 87,
+              "expanded_url": "https://x.com/BTCdayu/status/1979579985796174039/photo/1",
+              "media_key": "3_1979579977256316928",
+              "start": 64,
+              "url": "https://t.co/MVO5iZaLpx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979579985796174039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 113329,
+          "like_count": 994,
+          "quote_count": 14,
+          "reply_count": 41,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "“真正的进步不是你记住了多少知识，而是你直觉发生的变化。”\n                            ——杨振宁 https://t.co/MVO5iZaLpx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "Marxist/黑格爾/拉康/齊澤克/精神病学MAX/抑郁症/15years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生",
+        "id": "1596405792315691008",
+        "location": "深圳市龍華区少年科學院(报刊亭)",
+        "name": "御坂 O.o 雪春📕 (掉fo版)（雪似梅花）",
+        "pinned_tweet_id": "1867555700534325353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753970802314346496/YT4vUHnK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 629,
+          "like_count": 10924,
+          "listed_count": 3,
+          "media_count": 1076,
+          "tweet_count": 7767
+        },
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T01:05:28.000Z",
+        "description": "宝典 https://t.co/EIMVhaCHyk\n\n💰省手续费注册\n币安 https://t.co/CLh8KEA9Ri\nOK \n交易所 https://t.co/k9RDrZX7l7\n钱包 https://t.co/0GUmXMTC19\n\n✈️投资频道\nhttps://t.co/f4KWsBAJpr\n\n🚫警告\n只有BTC可长拿，其他任何币种都只能短炒，长拿终将归零‼️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dayu.xyz",
+                "end": 26,
+                "expanded_url": "http://dayu.xyz",
+                "start": 3,
+                "url": "https://t.co/EIMVhaCHyk"
+              },
+              {
+                "display_url": "bit.ly/btcdayu",
+                "end": 62,
+                "expanded_url": "http://bit.ly/btcdayu",
+                "start": 39,
+                "url": "https://t.co/CLh8KEA9Ri"
+              },
+              {
+                "display_url": "okx.com/join/dayu888",
+                "end": 94,
+                "expanded_url": "http://okx.com/join/dayu888",
+                "start": 71,
+                "url": "https://t.co/k9RDrZX7l7"
+              },
+              {
+                "display_url": "web3.okx.com/join/DY888",
+                "end": 121,
+                "expanded_url": "http://web3.okx.com/join/DY888",
+                "start": 98,
+                "url": "https://t.co/0GUmXMTC19"
+              },
+              {
+                "display_url": "t.me/BTCdayu2",
+                "end": 153,
+                "expanded_url": "http://t.me/BTCdayu2",
+                "start": 130,
+                "url": "https://t.co/f4KWsBAJpr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forms.gle/fqcwMDdxVHizeW…",
+                "end": 23,
+                "expanded_url": "https://forms.gle/fqcwMDdxVHizeWQw8",
+                "start": 0,
+                "url": "https://t.co/ezDy9BKvqc"
+              }
+            ]
+          }
+        },
+        "id": "1403881130802225152",
+        "location": "收费群1688U/年，点链接",
+        "name": "大宇",
+        "pinned_tweet_id": "1597415699109990402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279438,
+          "following_count": 3763,
+          "like_count": 4332,
+          "listed_count": 4426,
+          "media_count": 2511,
+          "tweet_count": 18581
+        },
+        "url": "https://t.co/ezDy9BKvqc",
+        "username": "BTCdayu",
+        "verified": true
+      }
+    ]
+  }
+}

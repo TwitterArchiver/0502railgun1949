@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2093653900133798011",
+    "created_at": "2026-08-29T15:43:29.000Z",
+    "display_text_range": [
+      26,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093726237156139249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680247071608303616",
+          "start": 0,
+          "username": "AsdQWD358224"
+        },
+        {
+          "end": 25,
+          "id": "1911335004661067776",
+          "start": 14,
+          "username": "AnarchSoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093726237156139249",
+    "in_reply_to_user_id": "1680247071608303616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093717267360125189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsdQWD358224 @AnarchSoul 很难想像你抽烟啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2093653900133798011",
+        "created_at": "2026-08-29T15:43:29.000Z",
+        "display_text_range": [
+          26,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093726237156139249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680247071608303616",
+              "start": 0,
+              "username": "AsdQWD358224"
+            },
+            {
+              "end": 25,
+              "id": "1911335004661067776",
+              "start": 14,
+              "username": "AnarchSoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093726237156139249",
+        "in_reply_to_user_id": "1680247071608303616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093717267360125189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsdQWD358224 @AnarchSoul 很难想像你抽烟啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680247071608303616",
+        "conversation_id": "2093653900133798011",
+        "created_at": "2026-08-29T15:07:50.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093717267360125189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1911335004661067776",
+              "start": 0,
+              "username": "AnarchSoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093717267360125189",
+        "in_reply_to_user_id": "1911335004661067776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093653900133798011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnarchSoul 缓解焦虑和解离"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2093726237156139249",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 683,
+          "like_count": 16538,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12829
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推\n/中立反战反仇恨/蛋挞单推/❤️    \n   @calsys456 /@xiao_wen0510   /@Nahida_miao/@fe_ions/@happyhejsday /@wanan071020/ @rosmarinou\n/秋分在线中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "calsys456"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "xiao_wen0510"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "Nahida_miao"
+              },
+              {
+                "end": 83,
+                "start": 75,
+                "username": "fe_ions"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "happyhejsday"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "wanan071020"
+              },
+              {
+                "end": 124,
+                "start": 113,
+                "username": "rosmarinou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "minecraft.com",
+                "end": 23,
+                "expanded_url": "http://minecraft.com",
+                "start": 0,
+                "url": "https://t.co/3Lyg5STuRH"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "is_identity_verified": false,
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "most_recent_tweet_id": "2093717267360125189",
+        "name": "秋分与猫🍔 鲜虾🦐鱼板🍥面🍜",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680247071608303616/1734985434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039448991516278784/Y9ga9C97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 2978,
+          "like_count": 102997,
+          "listed_count": 13,
+          "media_count": 2346,
+          "tweet_count": 18483
+        },
+        "url": "https://t.co/3Lyg5STuRH",
+        "username": "AsdQWD358224",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T08:26:12.000Z",
+        "description": "Amateur Writer | Humanist | Atheist | Trans Woman | Polyamory | 22",
+        "id": "1911335004661067776",
+        "is_identity_verified": false,
+        "location": "she/her",
+        "most_recent_tweet_id": "2093723226874491209",
+        "name": "Alina 🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1911335004661067776/1782725350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093504697277554688/hZu5-Wwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 652,
+          "like_count": 28898,
+          "listed_count": 30,
+          "media_count": 1716,
+          "tweet_count": 12966
+        },
+        "url": "",
+        "username": "AnarchSoul",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2093367512281108805",
+    "created_at": "2026-08-29T12:06:40.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093671676416581912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093671676416581912",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093367512281108805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea 他家的设计都很好就是太贵了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093367505343664128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0ip6xa0AA8Osi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2093367512281108805",
+        "created_at": "2026-08-29T12:06:40.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093671676416581912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093671676416581912",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093367512281108805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea 他家的设计都很好就是太贵了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093367505343664128"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "2093367512281108805",
+        "created_at": "2026-08-28T15:58:02.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093367512281108805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m8GtbJ4GLd",
+              "end": 29,
+              "expanded_url": "https://x.com/zhwevea/status/2093367512281108805/photo/1",
+              "media_key": "3_2093367505343664128",
+              "start": 6,
+              "url": "https://t.co/m8GtbJ4GLd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093367512281108805",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093367505343664128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 630,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好好看 https://t.co/m8GtbJ4GLd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2093671676416581912",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 683,
+          "like_count": 16522,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12819
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "is_identity_verified": false,
+        "location": "🌏🌐",
+        "most_recent_tweet_id": "2093661829671362752",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2091021352287535331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1690570637499154432/1769647058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7847,
+          "following_count": 429,
+          "like_count": 33557,
+          "listed_count": 24,
+          "media_count": 2816,
+          "tweet_count": 21615
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "zhwevea",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

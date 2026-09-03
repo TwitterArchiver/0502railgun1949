@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2083447128777531887",
+    "created_at": "2026-08-01T08:24:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:24:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083469024852406659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1449176529246638080",
+          "start": 0,
+          "username": "niruiyuano00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083469024852406659",
+    "in_reply_to_user_id": "1449176529246638080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083447128777531887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@niruiyuano00 小孩子不要喝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083447125002588160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnkHyIWkAA6ZCU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2083447128777531887",
+        "created_at": "2026-08-01T08:24:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:24:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083469024852406659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1449176529246638080",
+              "start": 0,
+              "username": "niruiyuano00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083469024852406659",
+        "in_reply_to_user_id": "1449176529246638080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083447128777531887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@niruiyuano00 小孩子不要喝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083447125002588160"
+          ]
+        },
+        "author_id": "1449176529246638080",
+        "conversation_id": "2083447128777531887",
+        "created_at": "2026-08-01T06:57:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083447128777531887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vSphyZ0x4p",
+              "end": 23,
+              "expanded_url": "https://x.com/niruiyuano00/status/2083447128777531887/photo/1",
+              "media_key": "3_2083447125002588160",
+              "start": 0,
+              "url": "https://t.co/vSphyZ0x4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083447128777531887",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vSphyZ0x4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 684,
+          "like_count": 16008,
+          "listed_count": 7,
+          "media_count": 1407,
+          "tweet_count": 12514
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-16T00:53:13.000Z",
+        "description": "十六歳、学生です",
+        "id": "1449176529246638080",
+        "location": "Chungking",
+        "name": "上九天揽月",
+        "pinned_tweet_id": "1973707281268375979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050401491949924352/L2npvH6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 532,
+          "like_count": 8386,
+          "listed_count": 1,
+          "media_count": 1621,
+          "tweet_count": 7605
+        },
+        "url": "",
+        "username": "niruiyuano00",
+        "verified": false
+      }
+    ]
+  }
+}

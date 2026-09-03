@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2092921026149777753",
+    "created_at": "2026-08-28T22:40:13.000Z",
+    "display_text_range": [
+      13,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T23:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093468726834467117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1640395162953334786",
+          "start": 0,
+          "username": "GUYUAN81729"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093468726834467117",
+    "in_reply_to_user_id": "1640395162953334786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092921026149777753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GUYUAN81729 可以看看柴静的YouTube \n我很喜欢她去采访历史中具体的人，去感受这些人作为人的丰富的情感，而不是一个所谓立场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2092921026149777753",
+        "created_at": "2026-08-28T22:40:13.000Z",
+        "display_text_range": [
+          13,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T23:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093468726834467117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1640395162953334786",
+              "start": 0,
+              "username": "GUYUAN81729"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093468726834467117",
+        "in_reply_to_user_id": "1640395162953334786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092921026149777753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GUYUAN81729 可以看看柴静的YouTube \n我很喜欢她去采访历史中具体的人，去感受这些人作为人的丰富的情感，而不是一个所谓立场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640395162953334786",
+        "conversation_id": "2092921026149777753",
+        "created_at": "2026-08-27T10:23:51.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092921026149777753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092921026149777753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想看鉴证推了，何意味，他们里的大多数人不管立场如何，说起话来都抛开事实不谈然后一顿输出，何意味，所有事都起承转鉴证，我真恨你们这群宏大叙事、不在意具体的人的亖人。。不管是爱惨了还是恨惨了，本质上都只关注“立场”和宏大叙事，你们这群傻叉就该坐一桌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2093468726834467117",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 679,
+          "like_count": 16433,
+          "listed_count": 9,
+          "media_count": 1415,
+          "tweet_count": 12772
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-27T16:47:56.000Z",
+        "description": "珍惜天赋，保持悲悯✨‖普通想亖女大且同人女，内容随机掉落",
+        "id": "1640395162953334786",
+        "is_identity_verified": false,
+        "location": "中国CHINA",
+        "most_recent_tweet_id": "2093425670244512050",
+        "name": "故渊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640395162953334786/1680408035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1640395727783497729/ov5N9xWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 90,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 201
+        },
+        "url": "",
+        "username": "GUYUAN81729",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

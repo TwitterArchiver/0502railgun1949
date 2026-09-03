@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Personal finance",
+          "id": "847888632711061504",
+          "name": "Personal finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Investing",
+          "id": "847894353708068864",
+          "name": "Investing"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Stocks",
+          "id": "847894852779900928",
+          "name": "Stocks & indices"
+        }
+      }
+    ],
+    "conversation_id": "2081078759030235233",
+    "created_at": "2026-07-25T18:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081083601131864159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1580462850123833344",
+          "start": 0,
+          "username": "lianda_edu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081083601131864159",
+    "in_reply_to_user_id": "1580462850123833344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081078759030235233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lianda_edu When will you use your math skills to help me make a fortune in the stock market? 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Investing",
+              "id": "847894353708068864",
+              "name": "Investing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          }
+        ],
+        "conversation_id": "2081078759030235233",
+        "created_at": "2026-07-25T18:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081083601131864159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580462850123833344",
+              "start": 0,
+              "username": "lianda_edu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081083601131864159",
+        "in_reply_to_user_id": "1580462850123833344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081078759030235233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lianda_edu When will you use your math skills to help me make a fortune in the stock market? 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580462850123833344",
+        "conversation_id": "2081078759030235233",
+        "created_at": "2026-07-25T18:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:06:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081078606147866743",
+          "2081078759030235233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081078759030235233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I think one of the most amusing things about LLMs and other areas of AI is that most authors don’t really understand the theoretical models and mathematical principles in their papers. Those are just window-dressing tricks added after the experiments are finished. The complicated formulas are copied from other papers or textbooks (and now it’s even easier—you can generate them with AI in one click, right or wrong doesn’t matter), but somehow they just work. lovely black boxes."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I think one of the most amusing things about LLMs and other areas of AI is that most authors don’t really understand the theoretical models and mathematical principles in their papers. Those are just window-dressing tricks added after the experiments are finished. The complicated"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "location": "深圳邮政报刊亭",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 686,
+          "like_count": 15952,
+          "listed_count": 7,
+          "media_count": 1402,
+          "tweet_count": 12470
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T07:38:08.000Z",
+        "description": "ADHDer- Übermensch\nDefi ,Fintech , EconCS\nAdrasteia Labs @UofIllinois",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "UofIllinois"
+              }
+            ]
+          }
+        },
+        "id": "1580462850123833344",
+        "location": "Adrasteia Labs",
+        "name": "Hayashi Heikichi",
+        "pinned_tweet_id": "2078753146596430299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972294358188920832/ByzIB2nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2339,
+          "following_count": 1258,
+          "like_count": 23241,
+          "listed_count": 11,
+          "media_count": 1025,
+          "tweet_count": 25165
+        },
+        "url": "",
+        "username": "lianda_edu",
+        "verified": true
+      }
+    ]
+  }
+}

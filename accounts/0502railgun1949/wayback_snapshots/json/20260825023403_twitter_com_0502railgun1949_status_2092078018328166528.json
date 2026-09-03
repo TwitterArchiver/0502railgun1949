@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_535024271563558914"
+      ],
+      "media_source_tweet_id": [
+        "535024271647440896"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2092078018328166528",
+    "created_at": "2026-08-25T02:34:03.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092078018328166528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878331922",
+          "start": 3,
+          "username": "jianhuazi_bot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5FdhUfzZb",
+          "end": 114,
+          "expanded_url": "http://x.com/jianhuazi_bot/status/535024271647440896/photo/1",
+          "media_key": "3_535024271563558914",
+          "start": 91,
+          "url": "https://t.co/E5FdhUfzZb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092078018328166528",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_535024271563558914"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092071515529294296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jianhuazi_bot: 【郁】「鬱」の簡化字。同音近義の「郁」を借りる用法は《史記・五帝本紀》「其色郁郁」、晋代孫楚《笑賦》「呻吟郁伊」など古くから見られる。1Y25 https://t.co/E5FdhUfzZb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_535024271563558914",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/B2zJvYTCEAImY6V.png",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_535024271563558914"
+          ],
+          "media_source_tweet_id": [
+            "535024271647440896"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2092078018328166528",
+        "created_at": "2026-08-25T02:34:03.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092078018328166528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878331922",
+              "start": 3,
+              "username": "jianhuazi_bot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5FdhUfzZb",
+              "end": 114,
+              "expanded_url": "http://x.com/jianhuazi_bot/status/535024271647440896/photo/1",
+              "media_key": "3_535024271563558914",
+              "start": 91,
+              "url": "https://t.co/E5FdhUfzZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092078018328166528",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_535024271563558914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092071515529294296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jianhuazi_bot: 【郁】「鬱」の簡化字。同音近義の「郁」を借りる用法は《史記・五帝本紀》「其色郁郁」、晋代孫楚《笑賦》「呻吟郁伊」など古くから見られる。1Y25 https://t.co/E5FdhUfzZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_535024271563558914"
+          ],
+          "media_source_tweet_id": [
+            "535024271647440896"
+          ]
+        },
+        "author_id": "1878331922",
+        "conversation_id": "2092071515529294296",
+        "created_at": "2026-08-25T02:08:12.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092071515529294296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5FdhUfzZb",
+              "end": 95,
+              "expanded_url": "http://x.com/jianhuazi_bot/status/535024271647440896/photo/1",
+              "media_key": "3_535024271563558914",
+              "start": 72,
+              "url": "https://t.co/E5FdhUfzZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092071515529294296",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_535024271563558914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【郁】「鬱」の簡化字。同音近義の「郁」を借りる用法は《史記・五帝本紀》「其色郁郁」、晋代孫楚《笑賦》「呻吟郁伊」など古くから見られる。1Y25 https://t.co/E5FdhUfzZb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_535024271563558914"
+          ]
+        },
+        "author_id": "1878331922",
+        "conversation_id": "535024271647440896",
+        "created_at": "2014-11-19T10:58:21.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2014-11-19T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "535024271647440896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5FdhUfzZb",
+              "end": 94,
+              "expanded_url": "https://x.com/jianhuazi_bot/status/535024271647440896/photo/1",
+              "media_key": "3_535024271563558914",
+              "start": 72,
+              "url": "http://t.co/E5FdhUfzZb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "535024271647440896",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_535024271563558914"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【郁】「鬱」の簡化字。同音近義の「郁」を借りる用法は《史記・五帝本紀》「其色郁郁」、晋代孫楚《笑賦》「呻吟郁伊」など古くから見られる。1Y25 http://t.co/E5FdhUfzZb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2092078018328166528",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 681,
+          "like_count": 16338,
+          "listed_count": 7,
+          "media_count": 1415,
+          "tweet_count": 12705
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2013-09-18T06:33:46.000Z",
+        "description": "《简化字总表》の第一表と第二表に収録されている簡体字・繁体字と、その由来を定期的にツイートしています。あらゆるメッセージには返信しません。このbotに関して連絡すべきことがあれば@nkay166687に返信してください。\n\n二簡字bot（運用停止中）→@jianhuazi_bot2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "nkay166687"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "jianhuazi_bot2"
+              }
+            ]
+          }
+        },
+        "id": "1878331922",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092071515529294296",
+        "name": "簡化字bot",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000472663283/ffb58f059345dfa779cd2cc3fa6b98e2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10238,
+          "following_count": 7752,
+          "like_count": 0,
+          "listed_count": 234,
+          "media_count": 43005,
+          "tweet_count": 43380
+        },
+        "url": "",
+        "username": "jianhuazi_bot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

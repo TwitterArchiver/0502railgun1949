@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2092699938346119549",
+    "created_at": "2026-08-27T14:48:45.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:48:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092987689645809745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999360558223831040",
+          "start": 0,
+          "username": "Zerstoorer23__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092987689645809745",
+    "in_reply_to_user_id": "1999360558223831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092699944755081442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23__ 一切都不一样了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2092699938346119549",
+        "created_at": "2026-08-27T14:48:45.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092987689645809745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999360558223831040",
+              "start": 0,
+              "username": "Zerstoorer23__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092987689645809745",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092699944755081442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23__ 一切都不一样了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999360558223831040",
+        "conversation_id": "2092699938346119549",
+        "created_at": "2026-08-26T19:45:21.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092699944755081442"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092699944755081442",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092699941412143609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回想这些的时候如果配上b站入站歌或者夏天的风的话，似乎会更煽情一些"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2092987689645809745",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 679,
+          "like_count": 16390,
+          "listed_count": 9,
+          "media_count": 1415,
+          "tweet_count": 12740
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "18/高中毕业生🎓/中国人/ACGN爱好者/響け!ユーフォニアム🎼/艦これ⚓\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世\n\n内阁：@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "Zerstoorer23"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/OSTiIxqJPO"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2092961533341143074",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999360558223831040/1772786797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076687976663515136/YrIzsxRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 259,
+          "like_count": 37279,
+          "listed_count": 0,
+          "media_count": 1547,
+          "tweet_count": 3867
+        },
+        "url": "https://t.co/OSTiIxqJPO",
+        "username": "Zerstoorer23__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

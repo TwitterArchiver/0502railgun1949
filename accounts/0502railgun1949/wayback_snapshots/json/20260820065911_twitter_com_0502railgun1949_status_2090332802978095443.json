@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090084054565855232"
+      ],
+      "media_source_tweet_id": [
+        "2090084064837697821"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2090332802978095443",
+    "created_at": "2026-08-20T06:59:11.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090332802978095443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1705961363343048704",
+          "start": 3,
+          "username": "nzawasaji777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r8T0GWXSIK",
+          "end": 41,
+          "expanded_url": "https://x.com/nzawasaji777/status/2090084064837697821/photo/1",
+          "media_key": "3_2090084054565855232",
+          "start": 18,
+          "url": "https://t.co/r8T0GWXSIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090332802978095443",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090084054565855232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090084064837697821",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nzawasaji777: https://t.co/r8T0GWXSIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2090084054565855232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQF4X7cbIAANydy.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090084054565855232"
+          ],
+          "media_source_tweet_id": [
+            "2090084064837697821"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2090332802978095443",
+        "created_at": "2026-08-20T06:59:11.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090332802978095443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1705961363343048704",
+              "start": 3,
+              "username": "nzawasaji777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8T0GWXSIK",
+              "end": 41,
+              "expanded_url": "https://x.com/nzawasaji777/status/2090084064837697821/photo/1",
+              "media_key": "3_2090084054565855232",
+              "start": 18,
+              "url": "https://t.co/r8T0GWXSIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090332802978095443",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090084054565855232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090084064837697821",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nzawasaji777: https://t.co/r8T0GWXSIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090084054565855232"
+          ]
+        },
+        "author_id": "1705961363343048704",
+        "conversation_id": "2090084064837697821",
+        "created_at": "2026-08-19T14:30:47.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090084064837697821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8T0GWXSIK",
+              "end": 23,
+              "expanded_url": "https://x.com/nzawasaji777/status/2090084064837697821/photo/1",
+              "media_key": "3_2090084054565855232",
+              "start": 0,
+              "url": "https://t.co/r8T0GWXSIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090084064837697821",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090084054565855232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1385,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/r8T0GWXSIK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2090332802978095443",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 676,
+          "like_count": 16243,
+          "listed_count": 7,
+          "media_count": 1414,
+          "tweet_count": 12588
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T15:04:27.000Z",
+        "description": "んざわさじ 絵 動画 漫画 隣人を愛そうね✉️:nzawasaji777@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nzawasaji777",
+                "end": 23,
+                "expanded_url": "https://lit.link/nzawasaji777",
+                "start": 0,
+                "url": "https://t.co/0RQYPNsnGn"
+              }
+            ]
+          }
+        },
+        "id": "1705961363343048704",
+        "is_identity_verified": false,
+        "location": "ご相談はメール、DMまで",
+        "most_recent_tweet_id": "2090088717042233636",
+        "name": "ん沢　匙",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705961363343048704/1776798337",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971735989354897408/7xq8Wocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10279,
+          "following_count": 751,
+          "like_count": 7518,
+          "listed_count": 54,
+          "media_count": 333,
+          "tweet_count": 2632
+        },
+        "url": "https://t.co/0RQYPNsnGn",
+        "username": "nzawasaji777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

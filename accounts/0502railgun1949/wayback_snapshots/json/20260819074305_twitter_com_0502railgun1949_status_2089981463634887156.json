@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089350244068970497",
+        "3_2089350244064698368",
+        "3_2089350244060598272",
+        "3_2089350244056367104"
+      ],
+      "media_source_tweet_id": [
+        "2089350256496648540",
+        "2089350256496648540",
+        "2089350256496648540",
+        "2089350256496648540"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089981463634887156",
+    "created_at": "2026-08-19T07:43:05.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089981463634887156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xY9s62Gh42",
+          "end": 58,
+          "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+          "media_key": "3_2089350244068970497",
+          "start": 35,
+          "url": "https://t.co/xY9s62Gh42"
+        },
+        {
+          "display_url": "pic.x.com/xY9s62Gh42",
+          "end": 58,
+          "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+          "media_key": "3_2089350244064698368",
+          "start": 35,
+          "url": "https://t.co/xY9s62Gh42"
+        },
+        {
+          "display_url": "pic.x.com/xY9s62Gh42",
+          "end": 58,
+          "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+          "media_key": "3_2089350244060598272",
+          "start": 35,
+          "url": "https://t.co/xY9s62Gh42"
+        },
+        {
+          "display_url": "pic.x.com/xY9s62Gh42",
+          "end": 58,
+          "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+          "media_key": "3_2089350244056367104",
+          "start": 35,
+          "url": "https://t.co/xY9s62Gh42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089981463634887156",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2089350244068970497"
+      },
+      {
+        "media_key": "3_2089350244064698368"
+      },
+      {
+        "media_key": "3_2089350244060598272"
+      },
+      {
+        "media_key": "3_2089350244056367104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1378
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089350256496648540",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: おさらばする絵柄を最後に見てくださいませ https://t.co/xY9s62Gh42"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089350244068970497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7c-iUbUAEU-Dk.jpg",
+        "width": 1924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089350244064698368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7c-iTaIAArtdH.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089350244060598272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7c-iSbkAABETf.jpg",
+        "width": 1678
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089350244056367104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP7c-iRbAAA3N1g.jpg",
+        "width": 1444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089350244068970497",
+            "3_2089350244064698368",
+            "3_2089350244060598272",
+            "3_2089350244056367104"
+          ],
+          "media_source_tweet_id": [
+            "2089350256496648540",
+            "2089350256496648540",
+            "2089350256496648540",
+            "2089350256496648540"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089981463634887156",
+        "created_at": "2026-08-19T07:43:05.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089981463634887156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 58,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244068970497",
+              "start": 35,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 58,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244064698368",
+              "start": 35,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 58,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244060598272",
+              "start": 35,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 58,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244056367104",
+              "start": 35,
+              "url": "https://t.co/xY9s62Gh42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089981463634887156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089350244068970497"
+          },
+          {
+            "media_key": "3_2089350244064698368"
+          },
+          {
+            "media_key": "3_2089350244060598272"
+          },
+          {
+            "media_key": "3_2089350244056367104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1378
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089350256496648540",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: おさらばする絵柄を最後に見てくださいませ https://t.co/xY9s62Gh42"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089350244068970497",
+            "3_2089350244064698368",
+            "3_2089350244060598272",
+            "3_2089350244056367104"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089350256496648540",
+        "created_at": "2026-08-17T13:54:54.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089350256496648540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244068970497",
+              "start": 21,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244064698368",
+              "start": 21,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244060598272",
+              "start": 21,
+              "url": "https://t.co/xY9s62Gh42"
+            },
+            {
+              "display_url": "pic.x.com/xY9s62Gh42",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2089350256496648540/photo/1",
+              "media_key": "3_2089350244056367104",
+              "start": 21,
+              "url": "https://t.co/xY9s62Gh42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089350256496648540",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2089350244068970497"
+          },
+          {
+            "media_key": "3_2089350244064698368"
+          },
+          {
+            "media_key": "3_2089350244060598272"
+          },
+          {
+            "media_key": "3_2089350244056367104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1646,
+          "impression_count": 200221,
+          "like_count": 15330,
+          "quote_count": 21,
+          "reply_count": 10,
+          "retweet_count": 1378
+        },
+        "reply_settings": "everyone",
+        "text": "おさらばする絵柄を最後に見てくださいませ https://t.co/xY9s62Gh42"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2089981463634887156",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1279,
+          "following_count": 676,
+          "like_count": 16230,
+          "listed_count": 7,
+          "media_count": 1414,
+          "tweet_count": 12583
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "✧illustration\n✦NEEDY GIRL OVERDOSE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nanaj00_",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@nanaj00_",
+                "start": 0,
+                "url": "https://t.co/g21b8umfk6"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "is_identity_verified": false,
+        "location": "トレス・無断転載・参考×",
+        "most_recent_tweet_id": "2089515243915690177",
+        "name": "阿しゅ",
+        "pinned_tweet_id": "2070852373350887642",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827203342436855812/1775749903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072676097825947648/HfYZCcL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10667,
+          "following_count": 36,
+          "like_count": 34285,
+          "listed_count": 33,
+          "media_count": 77,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/g21b8umfk6",
+        "username": "nanaj00_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2094108478998794244",
+    "created_at": "2026-08-31T06:29:49.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T07:29:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094311680809558275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1371787869946146823",
+          "start": 0,
+          "username": "rwbycth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094311680809558275",
+    "in_reply_to_user_id": "1371787869946146823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094108478998794244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rwbycth 想起红楼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094108451941322752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_Eir8bEAAYiOK.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094108469058326528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ_Ejrtb0AAg43v.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2094108478998794244",
+        "created_at": "2026-08-31T06:29:49.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094311680809558275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1371787869946146823",
+              "start": 0,
+              "username": "rwbycth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094311680809558275",
+        "in_reply_to_user_id": "1371787869946146823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094108478998794244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rwbycth 想起红楼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094108451941322752",
+            "3_2094108469058326528"
+          ]
+        },
+        "author_id": "1371787869946146823",
+        "conversation_id": "2094108478998794244",
+        "created_at": "2026-08-30T17:02:22.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094108478998794244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WudFGHbI4R",
+              "end": 31,
+              "expanded_url": "https://x.com/rwbycth/status/2094108478998794244/photo/1",
+              "media_key": "3_2094108451941322752",
+              "start": 8,
+              "url": "https://t.co/WudFGHbI4R"
+            },
+            {
+              "display_url": "pic.x.com/WudFGHbI4R",
+              "end": 31,
+              "expanded_url": "https://x.com/rwbycth/status/2094108478998794244/photo/1",
+              "media_key": "3_2094108469058326528",
+              "start": 8,
+              "url": "https://t.co/WudFGHbI4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094108478998794244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094108451941322752"
+          },
+          {
+            "media_key": "3_2094108469058326528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艺术～～～～～ https://t.co/WudFGHbI4R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/黑格爾/罗莎卢森堡/现代政治经济学/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxGCHP"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2094311680809558275",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278,
+          "following_count": 684,
+          "like_count": 16599,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12871
+        },
+        "url": "https://t.co/PUMSvxGCHP",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-16T11:38:29.000Z",
+        "description": "冒险快要结束了，无悲喜，无惊叹",
+        "id": "1371787869946146823",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2094236135191158784",
+        "name": "咕噜咕噜咕噜不起来了",
+        "pinned_tweet_id": "1994063153202643307",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994200638151163904/r9Iqzkxt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 2188,
+          "like_count": 37528,
+          "listed_count": 2,
+          "media_count": 872,
+          "tweet_count": 11994
+        },
+        "url": "",
+        "username": "rwbycth",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2096606542904864817",
+    "created_at": "2026-09-06T15:35:47.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T16:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096623405780906311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818268672206741504",
+          "start": 0,
+          "username": "kuai_ai8250"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096623405780906311",
+    "in_reply_to_user_id": "1818268672206741504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096606542904864817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuai_ai8250 你好厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9606,
+        "height": 1280,
+        "media_key": "13_2096606399593857024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096606399593857024/img/f4yOOhZvCcKf117n.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399593857024/vid/avc1/320x568/poDrhvreKRpoaoLX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399593857024/vid/avc1/480x852/OsKf0PEFzQNPjpGX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399593857024/vid/avc1/720x1280/2oAYUCem6bxFMmMk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096606399593857024/pl/uJJRAihtP_SKoRWS.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 66196,
+        "height": 1280,
+        "media_key": "13_2096606399589703680",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096606399589703680/img/SIR3Dcb0s1Z8-KOh.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399589703680/vid/avc1/320x568/muaPySCh_qEeTZKW.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399589703680/vid/avc1/480x852/RKk27Us-y5_9jVAu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096606399589703680/vid/avc1/720x1280/nsPxKlOwTfA7QmkB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096606399589703680/pl/d8ZUFTBVKP86Kwnq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2096606542904864817",
+        "created_at": "2026-09-06T15:35:47.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096623405780906311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818268672206741504",
+              "start": 0,
+              "username": "kuai_ai8250"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096623405780906311",
+        "in_reply_to_user_id": "1818268672206741504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096606542904864817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuai_ai8250 你好厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096606399593857024",
+            "13_2096606399589703680"
+          ]
+        },
+        "author_id": "1818268672206741504",
+        "conversation_id": "2096606542904864817",
+        "created_at": "2026-09-06T14:28:47.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096606542904864817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JKWtQTc4no",
+              "end": 71,
+              "expanded_url": "https://x.com/kuai_ai8250/status/2096606542904864817/video/1",
+              "media_key": "13_2096606399593857024",
+              "start": 48,
+              "url": "https://t.co/JKWtQTc4no"
+            },
+            {
+              "display_url": "pic.x.com/JKWtQTc4no",
+              "end": 71,
+              "expanded_url": "https://x.com/kuai_ai8250/status/2096606542904864817/video/1",
+              "media_key": "13_2096606399589703680",
+              "start": 48,
+              "url": "https://t.co/JKWtQTc4no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096606542904864817",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096606399593857024"
+          },
+          {
+            "media_key": "13_2096606399589703680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天線鋭化+落差刻線➡️新增刻線\n（耗時3小時）\n認真注意時間才發現我真的做的很慢欸，精神時光屋 https://t.co/JKWtQTc4no"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxG4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2096623405780906311",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1285,
+          "following_count": 684,
+          "like_count": 16833,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12952
+        },
+        "url": "https://t.co/PUMSvxG4Sh",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:53:38.000Z",
+        "description": "我不愛冰塊了\n姬芭：@aibingkuai5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "aibingkuai5"
+              }
+            ]
+          }
+        },
+        "id": "1818268672206741504",
+        "is_identity_verified": false,
+        "location": "看看你背後",
+        "most_recent_tweet_id": "2096606542904864817",
+        "name": "愛冰塊",
+        "pinned_tweet_id": "2067606151836192904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818268672206741504/1787086793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089576100817158144/mWOvuDa8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 269,
+          "like_count": 18160,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 743
+        },
+        "url": "",
+        "username": "kuai_ai8250",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

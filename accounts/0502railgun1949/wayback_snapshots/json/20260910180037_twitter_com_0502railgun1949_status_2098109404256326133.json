@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2098004093243699605",
+    "created_at": "2026-09-10T18:00:37.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T19:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098109404256326133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999360558223831040",
+          "start": 0,
+          "username": "Zerstoorer23__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098109404256326133",
+    "in_reply_to_user_id": "1999360558223831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098004093243699605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23__ 除了历史都喜欢\n这哲学太难了，怕毕不了业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2098004093243699605",
+        "created_at": "2026-09-10T18:00:37.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098109404256326133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999360558223831040",
+              "start": 0,
+              "username": "Zerstoorer23__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098109404256326133",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098004093243699605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23__ 除了历史都喜欢\n这哲学太难了，怕毕不了业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999360558223831040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2098004093243699605",
+        "created_at": "2026-09-10T11:02:09.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T12:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098004093243699605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098004093243699605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果不考虑就业前景我会考虑的专业：外语，法学，历史，哲学，地理科学🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxG4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2098109404256326133",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 684,
+          "like_count": 16953,
+          "listed_count": 9,
+          "media_count": 1417,
+          "tweet_count": 13032
+        },
+        "url": "https://t.co/PUMSvxG4Sh",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "18/高中毕业生🎓/中国人/ACGN爱好者/響け!ユーフォニアム🎼/艦これ⚓\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世\n\n内阁：@KantaiYukikaze",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "Zerstoorer23"
+              },
+              {
+                "end": 94,
+                "start": 79,
+                "username": "KantaiYukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com",
+                "end": 23,
+                "expanded_url": "http://google.com",
+                "start": 0,
+                "url": "https://t.co/OSTiIxqJPO"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "is_identity_verified": false,
+        "location": "Shanghai",
+        "most_recent_tweet_id": "2098004093243699605",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999360558223831040/1772786797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076687976663515136/YrIzsxRg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 264,
+          "like_count": 38796,
+          "listed_count": 0,
+          "media_count": 1591,
+          "tweet_count": 3964
+        },
+        "url": "https://t.co/OSTiIxqJPO",
+        "username": "Zerstoorer23__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

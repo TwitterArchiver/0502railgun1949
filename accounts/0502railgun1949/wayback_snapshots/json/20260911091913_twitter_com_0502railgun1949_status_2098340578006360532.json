@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2098214284459475210",
+    "created_at": "2026-09-11T09:19:13.000Z",
+    "display_text_range": [
+      16,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:19:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098340578006360532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751235517860196352",
+          "start": 0,
+          "username": "CynunVIIV_e5m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098340578006360532",
+    "in_reply_to_user_id": "1751235517860196352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098214284459475210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CynunVIIV_e5m2 您有什么检索相关资料的经验吗\n我似乎在pubmed找不到很多我想要的解离相关研究"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2098214284459475210",
+        "created_at": "2026-09-11T09:19:13.000Z",
+        "display_text_range": [
+          16,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098340578006360532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751235517860196352",
+              "start": 0,
+              "username": "CynunVIIV_e5m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098340578006360532",
+        "in_reply_to_user_id": "1751235517860196352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098214284459475210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CynunVIIV_e5m2 您有什么检索相关资料的经验吗\n我似乎在pubmed找不到很多我想要的解离相关研究"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751235517860196352",
+        "conversation_id": "2098214284459475210",
+        "created_at": "2026-09-11T00:57:23.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T01:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098214284459475210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Nature - Dissociative states in mouse and human brains are traced to low-frequency rhythmic neural activity—with distinct molecular, cellular and physiological properties—in the deep...",
+              "display_url": "nature.com/articles/s4158…",
+              "end": 49,
+              "expanded_url": "https://www.nature.com/articles/s41586-020-2731-9",
+              "images": [
+                {
+                  "height": 1692,
+                  "url": "https://pbs.twimg.com/news_img/2098214294852976640/psF-Eu8B?format=jpg&name=orig",
+                  "width": 2120
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098214294852976640/psF-Eu8B?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "Deep posteromedial cortical rhythm in dissociation",
+              "unwound_url": "https://www.nature.com/articles/s41586-020-2731-9?error=cookies_not_supported&code=8c63e9e3-1e04-4917-9823-4d5bd4de9b70",
+              "url": "https://t.co/GkFV7uQmjK"
+            },
+            {
+              "display_url": "x.com/CynunVIIV_e5m2…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/CynunVIIV_e5m2/status/2098211196948414622",
+              "start": 50,
+              "url": "https://t.co/xcAJcXGpCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098214284459475210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 506,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098211196948414622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果出于某种原因您对那篇论文感兴趣的话，它在这里：\nhttps://t.co/GkFV7uQmjK https://t.co/xcAJcXGpCb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxG4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2098340578006360532",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 684,
+          "like_count": 16959,
+          "listed_count": 9,
+          "media_count": 1418,
+          "tweet_count": 13040
+        },
+        "url": "https://t.co/PUMSvxG4Sh",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-27T13:27:55.000Z",
+        "description": "鱼 | La Creationa es PurE",
+        "id": "1751235517860196352",
+        "is_identity_verified": false,
+        "location": "鱼网",
+        "most_recent_tweet_id": "2098267784191021099",
+        "name": "Cynun IVI_int8_w8a8",
+        "pinned_tweet_id": "2015018532111806922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751235517860196352/1715384753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016711729737281536/ZBLrzn6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 1454,
+          "like_count": 30552,
+          "listed_count": 12,
+          "media_count": 360,
+          "tweet_count": 6024
+        },
+        "url": "",
+        "username": "CynunVIIV_e5m2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

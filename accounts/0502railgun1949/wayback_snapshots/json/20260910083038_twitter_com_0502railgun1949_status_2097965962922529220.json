@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2097641179529564569",
+    "created_at": "2026-09-10T08:30:38.000Z",
+    "display_text_range": [
+      28,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T09:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097965962922529220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1776063721611448320",
+          "start": 0,
+          "username": "achird562961"
+        },
+        {
+          "end": 27,
+          "id": "1385463733439238144",
+          "start": 14,
+          "username": "0gen3_illust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097965962922529220",
+    "in_reply_to_user_id": "1776063721611448320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097834571006107686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@achird562961 @0gen3_illust 我也爱看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2097641179529564569",
+        "created_at": "2026-09-10T08:30:38.000Z",
+        "display_text_range": [
+          28,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097965962922529220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1776063721611448320",
+              "start": 0,
+              "username": "achird562961"
+            },
+            {
+              "end": 27,
+              "id": "1385463733439238144",
+              "start": 14,
+              "username": "0gen3_illust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097965962922529220",
+        "in_reply_to_user_id": "1776063721611448320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097834571006107686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@achird562961 @0gen3_illust 我也爱看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776063721611448320",
+        "conversation_id": "2097641179529564569",
+        "created_at": "2026-09-09T23:48:32.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T00:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097834571006107686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1385463733439238144",
+              "start": 0,
+              "username": "0gen3_illust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097834571006107686",
+        "in_reply_to_user_id": "1385463733439238144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097641179529564569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0gen3_illust 好看😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxG4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2097965962922529220",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 683,
+          "like_count": 16943,
+          "listed_count": 9,
+          "media_count": 1417,
+          "tweet_count": 13026
+        },
+        "url": "https://t.co/PUMSvxG4Sh",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-05T01:46:18.000Z",
+        "description": "Born in2008,MTX（she/her)🏳️‍⚧/I rebel therefore I exist/English/Français/Chinese (simple)/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Achird562961",
+                "end": 23,
+                "expanded_url": "https://t.me/Achird562961",
+                "start": 0,
+                "url": "https://t.co/uOvMq9j6zb"
+              }
+            ]
+          }
+        },
+        "id": "1776063721611448320",
+        "is_identity_verified": false,
+        "location": "杨凌or雁塔区大雁塔街道",
+        "most_recent_tweet_id": "2097898361701724362",
+        "name": "Vertin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1776063721611448320/1723996113",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809609233337577477/mhZYd3zw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 358,
+          "like_count": 4660,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/uOvMq9j6zb",
+        "username": "achird562961",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-23T05:21:22.000Z",
+        "description": "イラストレーター｜京都芸術大学 イラストレーションコース 非常勤講師｜ご依頼受付中\nお問い合わせ⇨https://t.co/C8Y4a9LLAu\nその他リンク⇨https://t.co/GekElBDvIY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/gen-…",
+                "end": 72,
+                "expanded_url": "https://xfolio.jp/portfolio/gen-kosakai/free/11349",
+                "start": 49,
+                "url": "https://t.co/C8Y4a9LLAu"
+              },
+              {
+                "display_url": "lit.link/0gen3",
+                "end": 103,
+                "expanded_url": "https://lit.link/0gen3",
+                "start": 80,
+                "url": "https://t.co/GekElBDvIY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/gen-…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/gen-kosakai",
+                "start": 0,
+                "url": "https://t.co/kPwWjlgu2c"
+              }
+            ]
+          }
+        },
+        "id": "1385463733439238144",
+        "is_identity_verified": false,
+        "location": "創作タグ⇨#Waveful_Recode",
+        "most_recent_tweet_id": "2097913129124716724",
+        "name": "幻｜Gen",
+        "pinned_tweet_id": "2093654897938076012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1385463733439238144/1746009240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902579756786446337/Rs-3rsU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10462,
+          "following_count": 1197,
+          "like_count": 24833,
+          "listed_count": 73,
+          "media_count": 608,
+          "tweet_count": 7962
+        },
+        "url": "https://t.co/kPwWjlgu2c",
+        "username": "0gen3_illust",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

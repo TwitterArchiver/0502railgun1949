@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2097100725151264789",
+    "created_at": "2026-09-08T02:23:51.000Z",
+    "display_text_range": [
+      9,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T03:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097148881910026418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2088186677177290753",
+          "start": 0,
+          "username": "NeuxIce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097148881910026418",
+    "in_reply_to_user_id": "2088186677177290753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097101446194090175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeuxIce 对我来说，不学理论，不行\n自我探索会中间卡住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2097100725151264789",
+        "created_at": "2026-09-08T02:23:51.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T03:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097148881910026418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2088186677177290753",
+              "start": 0,
+              "username": "NeuxIce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097148881910026418",
+        "in_reply_to_user_id": "2088186677177290753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097101446194090175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeuxIce 对我来说，不学理论，不行\n自我探索会中间卡住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088186677177290753",
+        "conversation_id": "2097100725151264789",
+        "created_at": "2026-09-07T23:15:21.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097101446194090175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097101446194090175",
+        "in_reply_to_user_id": "2088186677177290753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097100725151264789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要回到那个简单的世界\n我不想要再理解所有人了.......\n我不想脑子里再装下那么多模型....."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/rosa-l…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/rosa-luxemburg/index.htm",
+                "start": 0,
+                "url": "https://t.co/PUMSvxG4Sh"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2097148881910026418",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界Minocycline",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 684,
+          "like_count": 16886,
+          "listed_count": 9,
+          "media_count": 1416,
+          "tweet_count": 12972
+        },
+        "url": "https://t.co/PUMSvxG4Sh",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T08:56:07.000Z",
+        "description": "里推....我会用来发大量的负能内容.....打扰到你了那就非常抱歉....\n可以关注@NeInflux....\n一般会回Fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "NeInflux"
+              }
+            ]
+          }
+        },
+        "id": "2088186677177290753",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097101446194090175",
+        "name": "NEUX",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088186677177290753/1788508099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088188288192634880/5ITZRtvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 27,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "NeuxIce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2102940565776285942",
+    "created_at": "2026-09-24T09:32:13.000Z",
+    "display_text_range": [
+      28,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103054890335703360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1763922973139120128",
+          "start": 0,
+          "username": "yabuduzhiv"
+        },
+        {
+          "end": 27,
+          "id": "1966368367494967301",
+          "start": 12,
+          "username": "grainyrain_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103054890335703360",
+    "in_reply_to_user_id": "1763922973139120128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102954865085628620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yabuduzhiv @grainyrain_awa 这个风格让我想起来我的学校"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2102940565776285942",
+        "created_at": "2026-09-24T09:32:13.000Z",
+        "display_text_range": [
+          28,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103054890335703360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1763922973139120128",
+              "start": 0,
+              "username": "yabuduzhiv"
+            },
+            {
+              "end": 27,
+              "id": "1966368367494967301",
+              "start": 12,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103054890335703360",
+        "in_reply_to_user_id": "1763922973139120128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102954865085628620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yabuduzhiv @grainyrain_awa 这个风格让我想起来我的学校"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763922973139120128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Board Games",
+              "id": "872578743771963392",
+              "name": "Tabletop gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1146508557044469760",
+              "name": "Mahjong"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Traditional tabletop games like poker, chess, and mahjong.",
+              "id": "1175097393290735616",
+              "name": "Traditional games"
+            }
+          }
+        ],
+        "conversation_id": "2102940565776285942",
+        "created_at": "2026-09-24T02:54:45.000Z",
+        "display_text_range": [
+          16,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102954865085628620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966368367494967301",
+              "start": 0,
+              "username": "grainyrain_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102954865085628620",
+        "in_reply_to_user_id": "1966368367494967301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102940565776285942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grainyrain_awa 窝们食堂也飞麻雀 估计是来悼鸡（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/marx-e…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/marx-engels2/index.htm",
+                "start": 0,
+                "url": "https://t.co/N36TQnD44j"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2103054890335703360",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 686,
+          "like_count": 17130,
+          "listed_count": 9,
+          "media_count": 1425,
+          "tweet_count": 13120
+        },
+        "url": "https://t.co/N36TQnD44j",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-02T13:43:18.000Z",
+        "description": "在自己什么都做不好的时候，就当是上天赐予的一个长假",
+        "id": "1763922973139120128",
+        "is_identity_verified": false,
+        "location": "在哪",
+        "most_recent_tweet_id": "2103026773109969322",
+        "name": "Anane",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763922973139120128/1710046800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083099403192356865/k9jEq644_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 614,
+          "like_count": 3544,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "yabuduzhiv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-12T05:09:12.000Z",
+        "description": "自卑阴暗社恐自闭有害废物\n黑跨三花猫 本体是三叶草\n偶尔（经常？）发些碎碎念\nenby\n里：@rainygrain_awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "rainygrain_awa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/rainygrain_awa",
+                "end": 23,
+                "expanded_url": "https://x.com/rainygrain_awa",
+                "start": 0,
+                "url": "https://t.co/e8Bh2tnbxC"
+              }
+            ]
+          }
+        },
+        "id": "1966368367494967301",
+        "is_identity_verified": false,
+        "location": "半截入土",
+        "most_recent_tweet_id": "2102999053030363214",
+        "name": "与和☘️",
+        "pinned_tweet_id": "2004700645811781787",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966368367494967301/1757654198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966368813232041984/dRxPYic3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 249,
+          "like_count": 35150,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 7732
+        },
+        "url": "https://t.co/e8Bh2tnbxC",
+        "username": "grainyrain_awa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

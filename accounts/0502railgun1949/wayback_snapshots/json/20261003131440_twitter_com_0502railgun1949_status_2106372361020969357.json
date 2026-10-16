@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2105858633913524456",
+    "created_at": "2026-10-03T13:14:40.000Z",
+    "display_text_range": [
+      31,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T14:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106372361020969357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1791012392627040256",
+          "start": 0,
+          "username": "zhangxiaofu673"
+        },
+        {
+          "end": 30,
+          "id": "1907785516239695872",
+          "start": 16,
+          "username": "yintian177417"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106372361020969357",
+    "in_reply_to_user_id": "1791012392627040256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106106715678888063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangxiaofu673 @yintian177417 哪里有啊？能推荐吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2105858633913524456",
+        "created_at": "2026-10-03T13:14:40.000Z",
+        "display_text_range": [
+          31,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106372361020969357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1791012392627040256",
+              "start": 0,
+              "username": "zhangxiaofu673"
+            },
+            {
+              "end": 30,
+              "id": "1907785516239695872",
+              "start": 16,
+              "username": "yintian177417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106372361020969357",
+        "in_reply_to_user_id": "1791012392627040256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106106715678888063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangxiaofu673 @yintian177417 哪里有啊？能推荐吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791012392627040256",
+        "conversation_id": "2105858633913524456",
+        "created_at": "2026-10-02T19:39:05.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T20:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106106715678888063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907785516239695872",
+              "start": 0,
+              "username": "yintian177417"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106106715678888063",
+        "in_reply_to_user_id": "1907785516239695872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105858633913524456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yintian177417 有，好像是190+10，泰补"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/marx-e…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/marx-engels2/index.htm",
+                "start": 0,
+                "url": "https://t.co/N36TQnD44j"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2106372361020969357",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 686,
+          "like_count": 17174,
+          "listed_count": 8,
+          "media_count": 1425,
+          "tweet_count": 13149
+        },
+        "url": "https://t.co/N36TQnD44j",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-16T07:46:53.000Z",
+        "description": "hrt:2024.10.22/爱人@Dream_Shards",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "Dream_Shards"
+              }
+            ]
+          }
+        },
+        "id": "1791012392627040256",
+        "is_identity_verified": false,
+        "location": "距离你100米",
+        "most_recent_tweet_id": "2106190007572779126",
+        "name": "张小福",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1791012392627040256/1749505090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027610643759865856/MXbYj71s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 561,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 616
+        },
+        "url": "",
+        "username": "zhangxiaofu673",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-03T13:21:36.000Z",
+        "description": "普通人，学生，社恐\n｜生产日期 08.11.04\n｜hrt 26.6.14\n｜家长强烈反对党\n｜不od不割手\n｜爱人@BunnySophie133\n｜总之一切很快都会好起来喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 58,
+                "username": "BunnySophie133"
+              }
+            ]
+          }
+        },
+        "id": "1907785516239695872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106222103766941995",
+        "name": "织白/Shirohaku🍥🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073382470746263553/F0cqwWjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 76,
+          "like_count": 948,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "yintian177417",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

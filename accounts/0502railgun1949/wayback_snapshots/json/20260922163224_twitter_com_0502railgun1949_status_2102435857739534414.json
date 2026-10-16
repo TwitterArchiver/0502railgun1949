@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "conversation_id": "2102423174009004150",
+    "created_at": "2026-09-22T16:32:24.000Z",
+    "display_text_range": [
+      10,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:32:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102435857739534414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1560989453849464834",
+          "start": 0,
+          "username": "Liber537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102435857739534414",
+    "in_reply_to_user_id": "1560989453849464834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102423174009004150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liber537 深圳的海还是不错的\n不要去深圳湾就行了\n那里的水很脏\n去盐田，那里有一个大梅沙海滨栈道，非常好看，主要是地铁直达"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2102420263342411776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1MFyUbkAAVmK4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3071,
+        "media_key": "3_2102423157839962112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1OuRKbIAAmw3Y.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2102423167319093248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1Ou0ebMAAHqph.jpg",
+        "width": 1411
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "conversation_id": "2102423174009004150",
+        "created_at": "2026-09-22T16:32:24.000Z",
+        "display_text_range": [
+          10,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:32:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102435857739534414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1560989453849464834",
+              "start": 0,
+              "username": "Liber537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102435857739534414",
+        "in_reply_to_user_id": "1560989453849464834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102423174009004150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liber537 深圳的海还是不错的\n不要去深圳湾就行了\n那里的水很脏\n去盐田，那里有一个大梅沙海滨栈道，非常好看，主要是地铁直达"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102420263342411776",
+            "3_2102423157839962112",
+            "3_2102423167319093248"
+          ]
+        },
+        "author_id": "1560989453849464834",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102423174009004150",
+        "created_at": "2026-09-22T15:42:00.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T16:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102423174009004150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q4hArNYuZL",
+              "end": 33,
+              "expanded_url": "https://x.com/Liber537/status/2102423174009004150/photo/1",
+              "media_key": "3_2102420263342411776",
+              "start": 10,
+              "url": "https://t.co/Q4hArNYuZL"
+            },
+            {
+              "display_url": "pic.x.com/Q4hArNYuZL",
+              "end": 33,
+              "expanded_url": "https://x.com/Liber537/status/2102423174009004150/photo/1",
+              "media_key": "3_2102423157839962112",
+              "start": 10,
+              "url": "https://t.co/Q4hArNYuZL"
+            },
+            {
+              "display_url": "pic.x.com/Q4hArNYuZL",
+              "end": 33,
+              "expanded_url": "https://x.com/Liber537/status/2102423174009004150/photo/1",
+              "media_key": "3_2102423167319093248",
+              "start": 10,
+              "url": "https://t.co/Q4hArNYuZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102423174009004150",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102420263342411776"
+          },
+          {
+            "media_key": "3_2102423157839962112"
+          },
+          {
+            "media_key": "3_2102423167319093248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想游海(ノ_・。) https://t.co/Q4hArNYuZL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/marx-e…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/marx-engels2/index.htm",
+                "start": 0,
+                "url": "https://t.co/N36TQnD44j"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2102435857739534414",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 688,
+          "like_count": 17109,
+          "listed_count": 9,
+          "media_count": 1425,
+          "tweet_count": 13108
+        },
+        "url": "https://t.co/N36TQnD44j",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-20T13:57:47.000Z",
+        "description": "到南方去 到南方去｜Lat's All Love Lain｜成为太阳的一生｜自介🔝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fauux.neocities.org",
+                "end": 23,
+                "expanded_url": "https://fauux.neocities.org/",
+                "start": 0,
+                "url": "https://t.co/ZhE6uz0aHK"
+              }
+            ]
+          }
+        },
+        "id": "1560989453849464834",
+        "is_identity_verified": false,
+        "location": "连线世界",
+        "most_recent_tweet_id": "2102423174009004150",
+        "name": "LIBER",
+        "pinned_tweet_id": "1972285130355138798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560989453849464834/1788021007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086497553449963520/uvw-C8xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 1025,
+          "like_count": 77216,
+          "listed_count": 4,
+          "media_count": 1038,
+          "tweet_count": 2748
+        },
+        "url": "https://t.co/ZhE6uz0aHK",
+        "username": "Liber537",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

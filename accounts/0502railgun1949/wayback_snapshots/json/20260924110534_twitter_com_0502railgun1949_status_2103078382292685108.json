@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102718657327661056",
+        "3_2102718672649478144",
+        "3_2102718685123424257"
+      ],
+      "media_source_tweet_id": [
+        "2102718699266576856",
+        "2102718699266576856",
+        "2102718699266576856"
+      ]
+    },
+    "author_id": "1596405792315691008",
+    "conversation_id": "2103078382292685108",
+    "created_at": "2026-09-24T11:05:34.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103078382292685108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2048045804959436800",
+          "start": 3,
+          "username": "shifengshua0717"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8yofFsh52u",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+          "media_key": "3_2102718657327661056",
+          "start": 53,
+          "url": "https://t.co/8yofFsh52u"
+        },
+        {
+          "display_url": "pic.x.com/8yofFsh52u",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+          "media_key": "3_2102718672649478144",
+          "start": 53,
+          "url": "https://t.co/8yofFsh52u"
+        },
+        {
+          "display_url": "pic.x.com/8yofFsh52u",
+          "end": 76,
+          "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+          "media_key": "3_2102718685123424257",
+          "start": 53,
+          "url": "https://t.co/8yofFsh52u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103078382292685108",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102718657327661056"
+      },
+      {
+        "media_key": "3_2102718672649478144"
+      },
+      {
+        "media_key": "3_2102718685123424257"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102718699266576856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shifengshua0717: 立案了！戒网瘾学校教官成为受害者继父的“心种子”一案成功立案！ https://t.co/8yofFsh52u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2299,
+        "media_key": "3_2102718657327661056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5bemiaAAAPPN7.jpg",
+        "width": 2300
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2102718672649478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5bffnaYAA7EVN.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2102718685123424257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5bgOFbsAEKtvx.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102718657327661056",
+            "3_2102718672649478144",
+            "3_2102718685123424257"
+          ],
+          "media_source_tweet_id": [
+            "2102718699266576856",
+            "2102718699266576856",
+            "2102718699266576856"
+          ]
+        },
+        "author_id": "1596405792315691008",
+        "conversation_id": "2103078382292685108",
+        "created_at": "2026-09-24T11:05:34.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103078382292685108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2048045804959436800",
+              "start": 3,
+              "username": "shifengshua0717"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718657327661056",
+              "start": 53,
+              "url": "https://t.co/8yofFsh52u"
+            },
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718672649478144",
+              "start": 53,
+              "url": "https://t.co/8yofFsh52u"
+            },
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 76,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718685123424257",
+              "start": 53,
+              "url": "https://t.co/8yofFsh52u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103078382292685108",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102718657327661056"
+          },
+          {
+            "media_key": "3_2102718672649478144"
+          },
+          {
+            "media_key": "3_2102718685123424257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102718699266576856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shifengshua0717: 立案了！戒网瘾学校教官成为受害者继父的“心种子”一案成功立案！ https://t.co/8yofFsh52u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102718657327661056",
+            "3_2102718672649478144",
+            "3_2102718685123424257"
+          ]
+        },
+        "author_id": "2048045804959436800",
+        "conversation_id": "2102718699266576856",
+        "created_at": "2026-09-23T11:16:19.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102718699266576856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718657327661056",
+              "start": 32,
+              "url": "https://t.co/8yofFsh52u"
+            },
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718672649478144",
+              "start": 32,
+              "url": "https://t.co/8yofFsh52u"
+            },
+            {
+              "display_url": "pic.x.com/8yofFsh52u",
+              "end": 55,
+              "expanded_url": "https://x.com/shifengshua0717/status/2102718699266576856/photo/1",
+              "media_key": "3_2102718685123424257",
+              "start": 32,
+              "url": "https://t.co/8yofFsh52u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102718699266576856",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102718657327661056"
+          },
+          {
+            "media_key": "3_2102718672649478144"
+          },
+          {
+            "media_key": "3_2102718685123424257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1928,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "立案了！戒网瘾学校教官成为受害者继父的“心种子”一案成功立案！ https://t.co/8yofFsh52u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/marx-e…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/marx-engels2/index.htm",
+                "start": 0,
+                "url": "https://t.co/N36TQnD44j"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2103078382292685108",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 686,
+          "like_count": 17141,
+          "listed_count": 9,
+          "media_count": 1425,
+          "tweet_count": 13125
+        },
+        "url": "https://t.co/N36TQnD44j",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-04-25T14:26:01.000Z",
+        "description": "视频创作者 | 致力于曝光戒网瘾学校和扭转机构等黑心教育机构 | 至今已参与8起曝光兼舆论救援案件 | 咕咕嘎嘎！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sfsa.mrgzs.top",
+                "end": 23,
+                "expanded_url": "https://sfsa.mrgzs.top",
+                "start": 0,
+                "url": "https://t.co/TkxUTTou1U"
+              }
+            ]
+          }
+        },
+        "id": "2048045804959436800",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2102718699266576856",
+        "name": "枫书",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048045804959436800/1788791328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099434784783290369/gzZolVDM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 29,
+          "like_count": 2376,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 30
+        },
+        "url": "https://t.co/TkxUTTou1U",
+        "username": "shifengshua0717",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

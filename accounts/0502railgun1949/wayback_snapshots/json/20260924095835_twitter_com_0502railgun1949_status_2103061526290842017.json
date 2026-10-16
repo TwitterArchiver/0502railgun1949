@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1596405792315691008",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2102796931584167939",
+    "created_at": "2026-09-24T09:58:35.000Z",
+    "display_text_range": [
+      15,
+      278
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T10:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103061526290842017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1538525334781370368",
+          "start": 0,
+          "username": "AndrewCurran_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103061526290842017",
+    "in_reply_to_user_id": "1596405792315691008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103061474210087190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrewCurran_ Even if China develops its own self-improving AI, the vast computing gap could mean that its rate of evolution remains far behind the US. In this sense, it is an overt strategy—a “Yangmou”: nothing is hidden, yet the structural advantage is difficult to overcome."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2102796931584167939",
+        "created_at": "2026-09-24T09:58:35.000Z",
+        "display_text_range": [
+          15,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103061526290842017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538525334781370368",
+              "start": 0,
+              "username": "AndrewCurran_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103061526290842017",
+        "in_reply_to_user_id": "1596405792315691008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103061474210087190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrewCurran_ Even if China develops its own self-improving AI, the vast computing gap could mean that its rate of evolution remains far behind the US. In this sense, it is an overt strategy—a “Yangmou”: nothing is hidden, yet the structural advantage is difficult to overcome."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596405792315691008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2102796931584167939",
+        "created_at": "2026-09-24T09:58:23.000Z",
+        "display_text_range": [
+          15,
+          204
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103061474210087190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1538525334781370368",
+              "start": 0,
+              "username": "AndrewCurran_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103061474210087190",
+        "in_reply_to_user_id": "1538525334781370368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102796931584167939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrewCurran_ By keeping its most advanced models private, the US allows its AI to continuously self-train and compound its capabilities, while denying China the ability to distill those frontier models."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-26T07:31:03.000Z",
+        "description": "诗歌、海鸥、二十一只鸡骑兵\nMarxist/不登校/精神病学MAX/16years old/友跨/精神药品不懂的可以问我哦，但是要听医生的话/INTP/树洞树洞/对危机干预有一点点经验/诗歌/文学/摄影@wenqing18973238谢谢您\n要做一辈子学生 莫负古圣贤，效历朝英雄。\n欢迎找我聊天",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "wenqing18973238"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/marx-e…",
+                "end": 23,
+                "expanded_url": "https://www.marxists.org/chinese/marx-engels2/index.htm",
+                "start": 0,
+                "url": "https://t.co/N36TQnD44j"
+              }
+            ]
+          }
+        },
+        "id": "1596405792315691008",
+        "is_identity_verified": false,
+        "location": "深圳邮政报刊亭",
+        "most_recent_tweet_id": "2103061526290842017",
+        "name": "御坂 O.o 雪春📕 （雪似梅花）爱这个世界nitrite",
+        "pinned_tweet_id": "2021104208767057922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596405792315691008/1770209952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998589009828917251/wJgv4WLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1292,
+          "following_count": 686,
+          "like_count": 17130,
+          "listed_count": 9,
+          "media_count": 1425,
+          "tweet_count": 13122
+        },
+        "url": "https://t.co/N36TQnD44j",
+        "username": "0502railgun1949",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-19T14:15:01.000Z",
+        "description": "🏰 - I write about AI, mostly. Expect some strange sights.",
+        "id": "1538525334781370368",
+        "is_identity_verified": false,
+        "location": "West coast",
+        "most_recent_tweet_id": "2103017682467745952",
+        "name": "Andrew Curran",
+        "pinned_tweet_id": "2102121553211412975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538525334781370368/1706056547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596945208058744833/_X3LT7fb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98913,
+          "following_count": 19722,
+          "like_count": 407340,
+          "listed_count": 1784,
+          "media_count": 9076,
+          "tweet_count": 32499
+        },
+        "url": "",
+        "username": "AndrewCurran_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
